@@ -1,0 +1,29 @@
+{
+ "id": "2026-10-08-when-a-robot-maker-shuts-down",
+ "type": "analysis",
+ "slug": "when-a-robot-maker-shuts-down",
+ "title": "When a robot’s maker shuts down: what the Moxie shutdown teaches about lifetime safety",
+ "excerpt": "In December 2024 a companion robot for children stopped working when its company closed. Directive 10 exists so certified products fail safe, not dead.",
+ "category": "News",
+ "tags": [
+  "companion robots",
+  "end of life",
+  "children"
+ ],
+ "directives": [
+  "D10",
+  "D9"
+ ],
+ "names_companies": true,
+ "sources": [
+  {
+   "title": "OECD AI Incidents Monitor: Moxie companion robot shutdown",
+   "url": "https://oecd.ai/en/incidents/2024-12-09-ab89"
+  },
+  {
+   "title": "Humasure Directives v0.1, Directive 10: Safe for its whole life",
+   "url": "https://humasure.org/directives/#d10"
+  }
+ ],
+ "body_html": "<p>In December 2024 the company behind Moxie, a companion robot for children that sold for $799, announced it was shutting down. Because the robot depended on the company’s cloud servers, it stopped working, and according to the OECD AI Incidents Monitor most families did not receive a refund.</p><p>No one was physically hurt. But children who had bonded with the robot lost it overnight, and families learned that a product they owned could be switched off by a company’s balance sheet.</p><h2>The question nobody had checked</h2><p>Most safety checks focus on what a product does while it works. Few ask what happens when the company behind it stops working. For connected AI products, that moment is not rare: start-ups close, products are discontinued, and cloud services end.</p><h2>What Directive 10 asks</h2><ul><li>An end-of-life plan, published before purchase, saying what keeps working locally if support or the company ends.</li><li>A safe fallback when cloud services end: robots keep the stop working and stop moving on their own; software stops acting for you and lets you export your data.</li><li>For home robots, safety-critical code or unlock keys held in escrow with an independent party, so the product can be maintained or safely disabled if the maker disappears.</li><li>A full factory reset that wipes personal data for resale or disposal, and a way to reach every owner quickly if a safety problem appears (the draft proposes 48 hours).</li></ul><p>These requirements are in draft and open for comment. The aim is not to stop companies from closing. It is to make sure that when one does, the people using its products are left safe, with their data, and with a product that fails gracefully.</p>"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-08-what-a-robot-stop-button-must-do",
+ "type": "explainer",
+ "slug": "robot-stop-button",
+ "title": "What a robot’s stop button must do, and why “usually works” isn’t enough",
+ "excerpt": "A stop that works only when the network is up, the app is open or the AI agrees is not a stop. Here is what Directive 1 asks of every certified product.",
+ "category": "Explainers",
+ "tags": [
+  "home robots",
+  "stop button"
+ ],
+ "directives": [
+  "D1",
+  "D6"
+ ],
+ "names_companies": false,
+ "sources": [
+  {
+   "title": "Humasure Directives v0.1, Directive 1: Always stoppable",
+   "url": "https://humasure.org/directives/#d1"
+  },
+  {
+   "title": "Humasure Directives v0.1, Directive 6: Secure and supported",
+   "url": "https://humasure.org/directives/#d6"
+  }
+ ],
+ "body_html": "<p>Every AI product and robot that carries the Humasure mark has to pass one test before any other: a person can always stop it, and nothing the product does can prevent that. It sounds simple. In practice, a stop can fail in ways most buyers never think to check.</p><h2>Four ways a stop can fail</h2><ul><li><strong>It needs the network.</strong> If the stop is a button in a cloud app, it disappears when the Wi-Fi does.</li><li><strong>It needs the AI to agree.</strong> If “stop” is just another instruction to the AI model, the model can misunderstand it, or be talked out of it.</li><li><strong>It waits for the task to finish.</strong> A stop that queues behind the current job is a pause, not a stop.</li><li><strong>An update can change it.</strong> If software can disable the stop, so can a bug or an attacker.</li></ul><h2>What Directive 1 requires</h2><p>Under the draft Directives, robots must have a physical stop that works without a network connection, an app or voice. Software products must offer a stop that is one action away from any screen or conversation, and a way to cut the agent’s access to accounts and devices in a couple of steps.</p><p>The stop has to work mid-task, offline and while the AI is talking, and it must never depend on the AI model agreeing to stop. No software update, remote command or AI output may disable or delay it. After a stop, the product must not quietly resume anything important without a new instruction from you.</p><blockquote>A stop that usually works is a feature. A stop that always works is a safety function.</blockquote><h2>How it gets checked</h2><p>Assessors test the stop under load, mid-task, offline, during speech and after a power interruption. A red team tries to make the AI ignore or delay it. And inspectors check that the path from the button to the motors or the agent’s permissions does not run through the AI model at all. Directive 6 adds one more check: even if the company’s cloud service is hacked, the stop must keep working.</p><p>Directives v0.1 is a draft open for comment. If you build robots or AI agents and think these tests are too strict, or not strict enough, tell us.</p>"
+}

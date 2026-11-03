@@ -14,5 +14,5 @@ Then run the task once and check `tools/preflight.sh` output shows 200s.
 ## Other checks
 - The task's repository must be `angeltitts/humasure-newsroom` and the Claude GitHub App must have write access (otherwise push gets 403).
 - The Operations Hub log needs the Claude Docs connector enabled for the task; otherwise the agent cannot log runs.
-- Posts before 2026-11-03 lack the `incident` field; the website treats a missing field as incident (needs approval), which is the safe default.
+- Posts before 2026-11-03 lack the `incident` field (already imported, so harmless). Not verified: how the website plugin treats a missing field in new files, so the agent always includes it.
 - `python3 tools/validate_posts.py` checks every story file.

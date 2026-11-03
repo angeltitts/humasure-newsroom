@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-03-check-a-devices-security-support-period",
+ "type": "guide",
+ "slug": "check-a-devices-security-support-period",
+ "title": "How to check a device's security support period before you buy",
+ "excerpt": "A connected device is only as safe as its updates. Here is where to find out how long a maker will keep fixing security problems, and what to ask.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "security",
+  "buying guide"
+ ],
+ "directives": [
+  "D6",
+  "D10"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Humasure: The 10 Humasure Directives",
+   "url": "https://humasure.org/directives/"
+  },
+  {
+   "title": "Humasure: Questions to ask any maker",
+   "url": "https://humasure.org/questions-to-ask/"
+  },
+  {
+   "title": "Humasure: Security",
+   "url": "https://humasure.org/security/"
+  }
+ ],
+ "body_html": "<p>A smart speaker, a robot vacuum or a home assistant robot is not finished the day you buy it. Its software keeps changing, and so do the ways people try to misuse it. Whether the maker keeps fixing problems after the sale is one of the most useful things to know before you buy. This guide shows how to find out.</p>\n<h2>What a security support period is</h2>\n<p>A security support period is the length of time a maker promises to release fixes for security problems in a product. When it ends, the device may still work, but newly found weaknesses are no longer repaired. A device that cannot be repaired is harder to keep under the control of its owner.</p>\n<p>This is the idea behind <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>: a product should be built securely and kept secure for as long as people rely on it. A hacked robot is one nobody is in charge of.</p>\n<h2>Where to look</h2>\n<ul>\n<li><strong>The product page and the box.</strong> Look for a sentence such as \"security updates until\" followed by a date or a number of years. Some makers put it in a support or \"software updates\" page rather than on the main listing.</li>\n<li><strong>The manual or the app settings.</strong> Many devices show the current software version and the date of the last update.</li>\n<li><strong>The maker's security page.</strong> A maker that takes this seriously often explains how to report a problem and how it announces fixes.</li>\n<li><strong>Any official label.</strong> Some countries and regions are introducing cyber or security labels for connected devices. Check that a label comes from a public scheme, and read what it actually covers.</li>\n</ul>\n<h2>Questions to ask before you buy</h2>\n<ol>\n<li>Until what date will this product receive security updates, and is that date written down?</li>\n<li>Do updates arrive automatically, and can I see which version I have?</li>\n<li>What happens to the device, and to the cloud service it uses, when support ends?</li>\n<li>How do I report a security problem, and who answers?</li>\n<li>Can I still switch off the cameras, microphones and remote access if updates stop?</li>\n</ol>\n<p>The full list of questions to ask any maker is at <a href=\"https://humasure.org/questions-to-ask/\">humasure.org/questions-to-ask</a>, and more on staying in charge of connected devices is at <a href=\"https://humasure.org/security/\">humasure.org/security</a>.</p>\n<h2>Good habits once you own it</h2>\n<ul>\n<li>Turn on automatic updates if the device offers them.</li>\n<li>Change any default password and use a different one for each device.</li>\n<li>Switch off remote access you do not use.</li>\n<li>Note the end-of-support date in your calendar, and plan a replacement or a reduced role for the device before then.</li>\n<li>When you retire a device, reset it and remove it from your accounts.</li>\n</ul>\n<h2>Why it matters</h2>\n<p>People are more comfortable with robots and AI products when they know someone stays responsible after the sale. A clear, honest support date is a sign of a maker who plans to keep answering for what it built. It lets you decide with open eyes, and it is part of keeping a human in charge for the whole life of a product (see <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>).</p>"
+}

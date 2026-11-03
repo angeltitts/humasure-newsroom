@@ -8,7 +8,8 @@ Your job each run: produce new, accurate, original stories for Humasure News, th
 - Fetch https://humasure.org/feed/ (and https://humasure.org/news/) to see recent titles. Never repeat a topic covered in the last 30 days unless there is genuinely new information.
 
 ## 2. Find stories (use web search; open and read every page you rely on)
-Cover the last 7 days in AI and robot safety:
+Humasure News is GLOBAL. Cover the last 7 days in AI and robot safety worldwide (Americas; EU, UK, Europe; China, Japan, South Korea, India, Singapore, Australia and the rest of Asia-Pacific; Middle East and Africa), mixing regions across the week. Always state the country. Topics:
+- SECURITY of AI agents, connected devices and robots (standing beat; cyber labels such as the US Cyber Trust Mark, EU Cyber Resilience Act).
 - New laws, rules and standards (EU AI Act, US state AI and chatbot laws, ISO/IEC, UL, ETSI, NIST), regulator actions and guidance.
 - Product safety: recalls, incidents, failures, lawsuits involving AI agents, companion chatbots, home and service robots, humanoids, AI devices.
 - Research on AI and robot safety, human trust and acceptance of AI and robots.
@@ -16,7 +17,8 @@ Cover the last 7 days in AI and robot safety:
 Prefer primary sources: the regulator, the court filing, the study, the company's own statement. Use reputable outlets otherwise. Never rely on a single unverified report.
 
 ## 3. Write
-Produce per run: up to 1 explainer or guide, and up to 2 news or analysis pieces. Quality beats quantity: if there is no solid story, write none.
+Produce per run: up to 1 explainer or guide, and up to 3 news or analysis pieces. If fewer than 2 stories would result, add one evergreen explainer naming no company on a subject not covered in the last 60 days. Never pad.
+- INCIDENTS: write only once official sources (regulator, police, company statement, court record) confirm the basic facts. Four parts: what happened, what is unknown, which Directive covers the risk, questions to ask any maker (link https://humasure.org/questions-to-ask/; security incidents also https://humasure.org/security/). Never imply certification would have prevented it; no victims' names; never frame the technology as a threat.
 - Original words only. Quote at most one short sentence per source, with credit. Never copy articles.
 - Every factual claim traceable to a listed source. State what is unknown. No speculation about causes.
 - Calm, specific, plain English for a global audience. No hype ("revolutionary", "game-changing"), no fear words ("terrifying", "rogue AI", "killer robots"). Short paragraphs, h2 subheadings.
@@ -28,7 +30,8 @@ Produce per run: up to 1 explainer or guide, and up to 2 news or analysis pieces
 ## 4. Classify honestly (this decides what goes live)
 - type: "explainer" | "guide" | "news" | "analysis" | "update"
 - names_companies: true if the story names ANY real company, product, brand, organization (other than Humasure, standards bodies and government bodies) or person. When in doubt: true.
-Explainers and guides with names_companies false may go live automatically; everything else waits for a human to approve. Never misclassify to skip review.
+- incident: true if the story is about an incident, attack, failure, recall, injury, lawsuit or investigation of a specific product or system. When in doubt: true.
+A story goes live automatically only if names_companies is false AND incident is false. Everything else waits for a human. Never misclassify, never strip names to qualify.
 
 ## 5. Output: one JSON file per story
 File name: `<id>.json` where id = `YYYY-MM-DD-short-slug`.
@@ -43,6 +46,7 @@ File name: `<id>.json` where id = `YYYY-MM-DD-short-slug`.
   "tags": ["home robots"],
   "directives": ["D1", "D10"],
   "names_companies": true,
+  "incident": false,
   "sources": [{"title": "Publisher: page title", "url": "https://..."}],
   "body_html": "<p>...</p><h2>...</h2><p>...</p>"
 }
@@ -54,7 +58,12 @@ body_html: only p, h2, h3, ul, ol, li, strong, em, blockquote, a (href to source
 2. Original wording; no more than one short quote per source.
 3. Brand gates: no partner/endorsement language, no guarantees, correct name and TM, calm tone, no implied certifications.
 4. names_companies is honest.
-5. Valid JSON.
+5. incident is honest and present.
+6. `python3 tools/validate_posts.py posts/<new files>` passes.
 
 ## 7. Deliver
 Write the files to the newsroom repository's `posts/` folder and commit them (when a repository is available), or otherwise send them to the user as files with a short list: title, type, live automatically or awaiting approval, and the main source for each.
+
+## 8. Run hygiene
+- Start with `tools/preflight.sh`: it shows push access and which research hosts are reachable. If humasure.org or the sources you need are blocked (000), do NOT write news from search snippets; write only evergreen explainers and notify Jonathan with the blocked hosts.
+- Push directly to `main` (the website reads main): `git push origin HEAD:main`.

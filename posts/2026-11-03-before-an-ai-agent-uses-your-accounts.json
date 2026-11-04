@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-03-before-an-ai-agent-uses-your-accounts",
+ "type": "guide",
+ "slug": "before-an-ai-agent-uses-your-accounts",
+ "title": "Before an AI agent uses your accounts: five checks to keep you in charge",
+ "excerpt": "AI agents can now sign in, shop and send messages for you. These five checks, drawn from government guidance, help you set limits before you hand over access.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "AI agents",
+  "security",
+  "guide"
+ ],
+ "directives": [
+  "D1",
+  "D2",
+  "D5",
+  "D6",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "IMDA Singapore: Model AI Governance Framework for Agentic AI (version 1.5, 2026)",
+   "url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf"
+  },
+  {
+   "title": "Humasure: The 10 Humasure Directives",
+   "url": "https://humasure.org/directives/"
+  },
+  {
+   "title": "Humasure: Questions to ask any maker",
+   "url": "https://humasure.org/questions-to-ask/"
+  }
+ ],
+ "body_html": "<p>An AI agent is software that does tasks for you instead of only answering questions. It might book a trip, pay a bill, reply to emails or order groceries. To do that, it needs access to your accounts. How much access you give, and on what terms, decides whether you stay in charge.</p>\n<p>This guide draws on Singapore's <a href=\"https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf\">Model AI Governance Framework for Agentic AI</a>, published by the Infocomm Media Development Authority (IMDA), the country's digital regulator. It is written mainly for organisations, but its advice applies to anyone deciding what an agent may do.</p>\n<h2>1. Do not hand over your password if there is another way</h2>\n<p>Giving an agent your username and password gives it everything you can do, with nothing to tell its actions apart from yours. Some services, including some banks, do not allow it, so check the service's terms first. Prefer agents that connect through an official sign-in or permission screen run by the service itself, where you can see and limit what is granted.</p>\n<h2>2. Give the smallest access that does the job</h2>\n<p>The IMDA framework calls this \"least privilege\": an agent should reach only the tools and data its task needs. An agent that plans a trip may need your calendar, but not your inbox or your bank. If the agent offers separate permissions, switch off what it does not need. If it only offers all or nothing, treat that as a warning sign.</p>\n<h2>3. Require your approval for anything you cannot undo</h2>\n<p>The framework recommends human approval for high-stakes or irreversible steps and gives examples: \"permanently deleting data, sending communications, making payments\". Look for a setting that makes the agent stop and ask before it pays, sends or deletes, and make sure the request tells you clearly what it is about to do. If approval fails or times out, the safe default is that nothing happens.</p>\n<h2>4. Make sure there is a record</h2>\n<p>You should be able to see what the agent did, when and where. The framework asks deployers to log all agent actions so each can be traced to an agent and a responsible person. As a user, check whether the agent keeps a history you can read, and check your own account activity in the services it uses, especially in the first weeks.</p>\n<h2>5. Know how to stop it and take access back</h2>\n<p>Before you start, find out how to pause the agent and how to remove its access to each account. The framework recommends that permissions be limited in time or to a session, so they do not last forever, and that unused agent identities be removed. If you stop using an agent, revoke its permissions and change any password you shared.</p>\n<h2>Why this matters</h2>\n<p>These checks map onto several of the <a href=\"https://humasure.org/directives/\">10 Humasure Directives</a>: <a href=\"https://humasure.org/directives/#d1\">D1, Always stoppable</a>; <a href=\"https://humasure.org/directives/#d2\">D2, Bounded autonomy</a>; <a href=\"https://humasure.org/directives/#d5\">D5, Private by default</a>; <a href=\"https://humasure.org/directives/#d6\">D6, Secure and supported</a>; and <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>. An agent with clear limits, an approval step and a record can be genuinely useful. An agent with your password and no limits is one nobody is really in charge of.</p>\n<p>This is general information, not legal or financial advice. Your service providers' terms decide who is responsible for what. For more questions to put to any maker, see <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

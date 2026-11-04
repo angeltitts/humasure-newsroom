@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Make Instagram carousel images (1080x1350) and a caption for newsroom stories.
 
-Usage: python3 tools/social_cards.py posts/<id>.json [...]   (default: posts changed in the last commit)
-Output: social/<id>/slide-1.png, slide-2.png, slide-3.png and caption.txt
+Usage: python3 tools/social_cards.py posts/<id>.json [...]   (default: posts changed in the last commit; --missing: every post without cards)
+Output: social/<id>/slide-1..3.png (preview), slide-1..3.jpg (for Instagram) and caption.txt
 Needs: pip install playwright (Chromium available).
 """
 import html, json, os, re, subprocess, sys, pathlib
@@ -117,6 +117,8 @@ def main(files):
                 if over > 0:
                     print(f"WARNING {d['id']} slide {i} overflows by {over}px")
                 pg.screenshot(path=str(out / f"slide-{i}.png"))
+                # Instagram's API accepts JPEG only
+                pg.screenshot(path=str(out / f"slide-{i}.jpg"), type="jpeg", quality=92)
             (out / "caption.txt").write_text(caption(d), encoding="utf-8")
             print("made", out.relative_to(ROOT))
         (ROOT / "tools" / ".card.html").unlink(missing_ok=True)
@@ -124,7 +126,12 @@ def main(files):
 
 if __name__ == "__main__":
     args = sys.argv[1:]
-    if not args:
+    if args == ["--missing"]:
+        args = [str(p) for p in sorted((ROOT / "posts").glob("*.json"))
+                if not (ROOT / "social" / p.stem / "slide-3.jpg").exists()]
+        if not args:
+            print("all cards present"); sys.exit(0)
+    elif not args:
         diff = subprocess.run(["git", "diff", "--name-only", "HEAD~1", "HEAD", "--", "posts/"], capture_output=True, text=True, cwd=ROOT).stdout.split()
         args = [str(ROOT / p) for p in diff if p.endswith(".json")]
     main(args)

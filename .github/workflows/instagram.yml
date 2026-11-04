@@ -1,0 +1,69 @@
+name: Instagram
+# Posts one live Humasure News story to Instagram per run, twice a day, plus a weekly token check.
+on:
+  schedule:
+    - cron: "30 17 * * *"   # about 9:30am Pacific
+    - cron: "30 1 * * *"    # about 5:30pm Pacific
+    - cron: "0 16 * * 1"    # Mondays: token check only
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (post nothing)"
+        type: boolean
+        default: true
+permissions:
+  contents: write
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+jobs:
+  token-check:
+    if: github.event.schedule == '0 16 * * 1'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check the Instagram token still works
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          if [ -z "$IG_ACCESS_TOKEN" ]; then echo "No token yet"; exit 0; fi
+          code=$(curl -s -o /tmp/r.json -w '%{http_code}' "https://graph.facebook.com/v26.0/${IG_USER_ID}?fields=username&access_token=${IG_ACCESS_TOKEN}")
+          if [ "$code" != "200" ]; then echo "Instagram token check failed (HTTP $code). Generate a new Page token and update the IG_ACCESS_TOKEN secret."; exit 1; fi
+          echo "Token OK"
+  post:
+    if: github.event.schedule != '0 16 * * 1'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install card renderer
+        run: |
+          pip install playwright==1.47.0
+          python -m playwright install --with-deps chromium
+      - name: Make cards for any story that has none
+        run: python3 tools/social_cards.py --missing
+      - name: Publish cards so Instagram can fetch them
+        run: |
+          git config user.name "humasure-bot"
+          git config user.email "humasure-bot@users.noreply.github.com"
+          git add social
+          if ! git diff --cached --quiet; then
+            git commit -m "Instagram cards"
+            git pull --rebase origin main && git push origin HEAD:main
+            sleep 30
+          fi
+      - name: Post one live story
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '1' || '0' }}
+        run: python3 tools/instagram_post.py
+      - name: Record what was posted
+        run: |
+          git add social/posted.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Instagram: record post"
+            git pull --rebase origin main && git push origin HEAD:main
+          fi

@@ -1,0 +1,57 @@
+{
+  "id": "2026-11-04-how-to-report-a-problem-with-a-connected-device",
+  "type": "guide",
+  "slug": "how-to-report-a-problem-with-a-connected-device",
+  "title": "How to report a safety or security problem with a robot or connected device",
+  "excerpt": "If a home robot, smart device or AI gadget hurts someone, nearly does, or has a security flaw, reporting it helps fix it for everyone. Here is where reports go and what to include.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "United States",
+    "United Kingdom",
+    "European Union",
+    "Australia",
+    "product safety",
+    "security",
+    "consumer guide"
+  ],
+  "directives": [
+    "D9",
+    "D6",
+    "D3",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "US Consumer Product Safety Commission: SaferProducts.gov incident reporting",
+      "url": "https://saferproducts.gov/IncidentReporting"
+    },
+    {
+      "title": "GOV.UK: Consumer products, reporting product safety issues",
+      "url": "https://www.gov.uk/guidance/consumer-products-reporting-product-safety-issues."
+    },
+    {
+      "title": "GOV.UK: The UK Product Security and Telecommunications Infrastructure (PSTI) product security regime",
+      "url": "https://www.gov.uk/government/publications/the-uk-product-security-and-telecommunications-infrastructure-product-security-regime"
+    },
+    {
+      "title": "legislation.gov.uk: The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) Regulations 2023, Schedule 1, paragraph 2",
+      "url": "https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/2/made"
+    },
+    {
+      "title": "Germany's Federal Institute for Occupational Safety and Health (BAuA): Safety Gate, the EU rapid alert system",
+      "url": "https://www.baua.de/EN/Topics/Monitoring-evaluation/Market-surveillance-and-product-safety/Market-surveillance/Safety-Gate"
+    },
+    {
+      "title": "CosmeticOBS: Safety Gate opens up to consumers (Implementing Regulation (EU) 2024/1740)",
+      "url": "https://cosmeticobs.com/en/articles/regulation-57/safety-gate-opens-up-to-consumers-8193"
+    },
+    {
+      "title": "Tasmania Consumer, Building and Occupational Services: Report an unsafe product",
+      "url": "https://www.cbos.tas.gov.au/topics/products-services/safety/report-unsafe-product"
+    }
+  ],
+  "body_html": "<p>Many problems with robots and connected devices come to light because someone reported them. A robot vacuum that keeps moving after you press stop, a smart lock that opens without being asked, a voice assistant that shares more than it should: each report gives the maker and the regulator evidence they can act on. This guide explains the two kinds of report, where they go in several countries, and what to include.</p>\n<h2>Two kinds of problem, two routes</h2>\n<p><strong>A safety problem</strong> is anything that caused, or could have caused, an injury, fire or damage: a robot arm that pinches, a device that overheats, a machine that will not stop. These go to the seller or maker and to your country's product safety authority.</p>\n<p><strong>A security problem</strong> is a weakness that could let someone else take control of the device or see your data: a default password, an open connection, software that is no longer updated. These go first to the maker's security contact, so the flaw can be fixed before it is misused.</p>\n<h2>Before you report: make it safe and keep a record</h2>\n<ul>\n<li>Stop using the device if it is unsafe. Switch it off, unplug it or disconnect it from your network.</li>\n<li>Do not throw it away. The product itself may be needed as evidence.</li>\n<li>Write down the brand, model, serial number, software version (often in the app's settings), where and when you bought it, and exactly what happened, with dates and times.</li>\n<li>Take photos or short videos, and screenshots of any error messages or app alerts.</li>\n<li>Keep the receipt. Faulty products may also entitle you to a repair, replacement or refund.</li>\n</ul>\n<h2>Where safety reports go</h2>\n<p><strong>United States.</strong> The Consumer Product Safety Commission runs SaferProducts.gov, where consumers, health workers and public agencies can report unsafe products, including electronics and appliances. If you allow it, your report can be published in a searchable database; your name and contact details are not released.</p>\n<p><strong>United Kingdom.</strong> GOV.UK tells consumers to contact the official consumer helpline for England and Wales or for Scotland, or their district council in Northern Ireland. Complaints may be passed to local Trading Standards, which decides whether to act. Vehicles, medical devices and workplace equipment have their own regulators.</p>\n<p><strong>European Union.</strong> Safety Gate is the EU's rapid alert system for dangerous non-food consumer products, and anyone can search its public portal for recalls and withdrawals. Under the EU's General Product Safety Regulation, the portal has a section where consumers can report products they think are dangerous; reports are passed to the national authorities concerned. Your national market surveillance or consumer authority remains a direct route too.</p>\n<p><strong>Australia.</strong> State consumer agencies, such as Tasmania's, advise reporting injuries to the business that sold the product, and reporting unsafe products to the Australian Competition and Consumer Commission. States also run their own consumer helplines.</p>\n<p>Elsewhere, look for your national consumer protection or product safety authority. If someone is hurt, get medical help first; for an emergency, call the emergency services.</p>\n<h2>Where security reports go</h2>\n<p>Look on the maker's website for a \"security\", \"vulnerability disclosure\" or \"report a security issue\" page. In the United Kingdom, this is a legal duty: since 29 April 2024, makers of consumer connectable products must publish at least one point of contact for reporting security issues, and say when you will get an acknowledgement and status updates until the issue is resolved. That information must be free, clear and available without asking.</p>\n<p>When you report a flaw, describe what you saw and the device details, but do not try to break into the device or anyone else's systems to prove it.</p>\n<h2>Why reporting keeps people in charge</h2>\n<p>Reports turn one person's bad experience into evidence that can trigger a fix, a software update or a recall. That is the idea behind <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>: someone must answer for a product, and people need a clear way to reach them. It also supports <a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>, <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a> and <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>.</p>\n<p>Before buying, it is worth asking a maker how problems are reported and how fast they respond. Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> and <a href=\"https://humasure.org/security/\">security page</a> can help.</p>"
+}

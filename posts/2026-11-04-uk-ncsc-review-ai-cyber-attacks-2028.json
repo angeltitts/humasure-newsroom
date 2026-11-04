@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-04-uk-ncsc-review-ai-cyber-attacks-2028",
+  "type": "news",
+  "slug": "uk-ncsc-review-ai-cyber-attacks-2028",
+  "title": "UK cyber agency says AI will likely speed up attacks on vital services by 2028",
+  "excerpt": "The UK's National Cyber Security Centre published its yearly review on 3 November 2026. It expects attackers to use AI to work faster and at larger scale, and urges basic fixes now.",
+  "category": "News",
+  "tags": [
+    "United Kingdom",
+    "security",
+    "critical infrastructure",
+    "AI agents",
+    "NCSC"
+  ],
+  "directives": [
+    "D6",
+    "D1",
+    "D10"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "FutureScot: National Cyber Security Centre warns of AI-powered cyberattacks on critical infrastructure 'within two years'",
+      "url": "https://futurescot.com/national-cyber-security-centre-warns-of-ai-powered-cyberattacks-on-critical-infrastructure-within-two-years/"
+    },
+    {
+      "title": "TNW: UK cyber agency warns of AI-powered ransomware on infrastructure by 2028",
+      "url": "https://thenextweb.com/news/ncsc-annual-review-2026-ai-malware-critical-infrastructure"
+    },
+    {
+      "title": "Decrypt: UK says AI-powered ransomware attack on critical infrastructure 'highly likely' by 2028",
+      "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028"
+    }
+  ],
+  "body_html": "<p>The United Kingdom's National Cyber Security Centre (NCSC), the government agency that leads on cyber security and is part of the intelligence agency GCHQ, published its annual review on 3 November 2026. Titled <em>The State of the Cyber Nation</em>, it covers 1 September 2025 to 31 August 2026. Its main message on artificial intelligence: AI is not yet giving attackers new kinds of attack, but it is making old ones faster and cheaper to run.</p>\n<h2>What the review found</h2>\n<p>Over the year, the NCSC's incident team received 1,831 reports of cyber attacks. It gave direct support in 337 cases, and 80 were rated \"nationally significant\", according to reports of the review by FutureScot and TNW.</p>\n<p>On AI, the agency judges it \"highly likely\" that hostile states and criminal groups will use AI to raise the scale and efficiency of their operations by 2028, including ransomware (software that locks up systems until a payment is made), social engineering (tricking people into giving access) and the exploitation of software flaws. It says operators of critical national infrastructure, such as energy, water and transport, should prepare for a ransomware attack involving AI-powered malware within that period.</p>\n<p>The review also says attackers mainly use AI to speed up existing methods, rather than handing whole attacks to autonomous systems. The agency expects AI tools to uncover many long-standing software flaws, so organisations should plan for a wave of security updates, some of them critical.</p>\n<p>Launching the review, NCSC chief executive Richard Horne said the risk comes mostly from weaknesses that have been known for years but \"can now be discovered and exploited at a scale that was once unimaginable\", as quoted by FutureScot.</p>\n<h2>What the agency is asking organisations to do</h2>\n<ul>\n<li>Invest properly in technology and fix basic weaknesses now, before attackers find them.</li>\n<li>Stop connecting systems to the internet when there is no need to.</li>\n<li>Treat Cyber Essentials, the UK government's baseline security certification, as the starting point rather than the end goal.</li>\n<li>Plan for a higher volume of security patches as AI helps uncover old flaws.</li>\n</ul>\n<h2>New defences, also using AI</h2>\n<p>The review sits alongside funding the UK government announced the week before: £60 million for the first phase of a national \"Cyber Shield\" to develop what FutureScot describes as \"agentic cyber defence capabilities\", meaning AI systems that detect and respond to threats with limited human input; £70 million for a National Exposure and Real-Time Vulnerability Centre to find weaknesses across critical services; and a new AI Cyber Security Centre of Excellence in Manchester run by the NCSC. Separately, the proposed Cyber Security and Resilience Bill would require regulated organisations to report significant incidents to the NCSC within 24 hours.</p>\n<h2>What is not yet known</h2>\n<p>The reports do not say how the Cyber Shield's automated defences will be supervised, or how much they will be allowed to do without a person's approval. Humasure could not open the NCSC's own pages for this story, so figures are taken from three independent news reports, which agree on them.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Humasure's position is simple: a hacked robot or AI system is one nobody is in charge of. The NCSC's findings put weight behind <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>: products need security updates for as long as people rely on them, and makers need a clear way to receive and fix reported flaws. <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, applies too, because old, unpatched weaknesses are the main target the review describes.</p>\n<p>As defenders turn to AI agents of their own, <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>, matters on both sides: automated defences should stay within clear limits, and a person should be able to step in and stop them. For practical steps for connected products, see <a href=\"https://humasure.org/security/\">Humasure's security page</a>.</p>"
+}

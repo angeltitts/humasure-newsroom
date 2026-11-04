@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-04-what-is-an-ai-regulatory-sandbox",
+  "type": "explainer",
+  "slug": "what-is-an-ai-regulatory-sandbox",
+  "title": "What is an AI regulatory sandbox, and what does it not do?",
+  "excerpt": "Governments are setting up supervised spaces to test AI before it reaches the public. Here is what a regulatory sandbox is, how it protects people, and its limits.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "European Union",
+    "United Kingdom",
+    "China",
+    "regulatory sandboxes",
+    "AI testing"
+  ],
+  "directives": [
+    "D1",
+    "D2",
+    "D9",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "European Commission AI Act Service Desk: Article 57, AI regulatory sandboxes",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-57"
+    },
+    {
+      "title": "Malta Information and Data Protection Commissioner: Revised EU AI Act timelines following Council approval",
+      "url": "https://idpc.org.mt/news-latest/idpc-draws-attention-to-revised-eu-ai-act-timelines-following-council-approval/"
+    },
+    {
+      "title": "UK Financial Conduct Authority: FCA helps firms to test AI safely",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-helps-firms-test-ai-safely"
+    },
+    {
+      "title": "Xinhua: NDRC press conference on cultivating new growth drivers (3 November 2026, Chinese)",
+      "url": "https://www.news.cn/tech/20261103/b06342976e0f49718035bb7081e59205/c.html"
+    }
+  ],
+  "body_html": "<p>\"Regulatory sandbox\" is turning up in AI rules around the world. The European Union requires them, the United Kingdom's financial regulator runs a version, and on 3 November 2026 China said it will support sandboxes for different sectors. Here is what the term means for the people who will one day use these systems.</p><h2>The basic idea</h2><p>A regulatory sandbox is a supervised space where a company can develop and test a new AI system for a limited time, with a regulator watching and advising, before it is sold or used widely. The name comes from a children's sandbox: a space with edges, where trying things out is expected.</p><p>It is not a free-for-all. The point is to find problems early, while the system is still being shaped and before many people depend on it.</p><h2>How the EU version works</h2><p>The EU AI Act sets out sandboxes in <a href=\"https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-57\">Article 57</a>. Each EU country must have at least one national AI sandbox. The original deadline was 2 August 2026; after the 2026 changes to the Act, known as the Digital Omnibus, the new deadline is <strong>2 August 2027</strong>, as <a href=\"https://idpc.org.mt/news-latest/idpc-draws-attention-to-revised-eu-ai-act-timelines-following-council-approval/\">Malta's data protection authority</a> explains. Key features:</p><ul><li><strong>Supervision with a focus on risk.</strong> Authorities help the company identify risks, especially to health, safety and fundamental rights, and test ways to reduce them.</li><li><strong>Testing can be stopped.</strong> If significant risks cannot be reduced, authorities may suspend the testing for a while or for good.</li><li><strong>Responsibility stays.</strong> Companies taking part remain liable under EU and national law for harm their testing causes to other people. What they can avoid are fines under the Act itself, if they follow the agreed plan and guidance in good faith.</li><li><strong>A written record.</strong> On request, the authority gives an exit report on what was tested and learned, which can help later safety checks.</li></ul><h2>Other approaches</h2><p>In the UK, the <a href=\"https://www.fca.org.uk/news/press-releases/fca-helps-firms-test-ai-safely\">Financial Conduct Authority</a> (the financial services regulator) runs \"AI Live Testing\", which supports firms that are ready to use AI in real markets, looking at how they evaluate and monitor their systems and manage risk.</p><p>In China, the national planning agency said it will support AI sandboxes for different sectors, as part of a wider plan for AI law announced on 3 November 2026 and <a href=\"https://www.news.cn/tech/20261103/b06342976e0f49718035bb7081e59205/c.html\">reported by Xinhua</a>. Details have not yet been published.</p><h2>What a sandbox does not do</h2><ul><li><strong>It is not a certification.</strong> Finishing a sandbox does not mean a product has been approved as safe for all uses.</li><li><strong>It is not a permanent exemption.</strong> Sandboxes are time-limited, and the normal rules apply once a product goes to market.</li><li><strong>It does not remove a company's responsibility</strong> for harm to people, at least in the EU model.</li><li><strong>It covers only what is tested.</strong> A system can behave differently at full scale, in new places or after updates.</li></ul><h2>Why it matters for staying in charge</h2><p>Done well, sandboxes put human oversight in the riskiest moment: the first time a new system meets the real world. The power to suspend testing is a regulator's version of <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>. Clear test limits reflect <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>. Liability that stays in place supports <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. And because safety must hold after launch, <a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a> asks what happens when the sandbox ends.</p><p>If a product you use says it was \"tested in a sandbox\", it is fair to ask: which regulator, what was tested, and what changed as a result? Our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> can help.</p>"
+}

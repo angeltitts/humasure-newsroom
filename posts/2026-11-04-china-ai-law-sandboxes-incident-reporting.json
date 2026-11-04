@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-04-china-ai-law-sandboxes-incident-reporting",
+  "type": "news",
+  "slug": "china-ai-law-sandboxes-incident-reporting",
+  "title": "China says it will speed up a national AI law, with sandboxes and incident reporting",
+  "excerpt": "A Chinese planning official said on 3 November 2026 that China will speed up basic AI legislation and set safety standards for the whole life of AI systems.",
+  "category": "Regulation",
+  "tags": [
+    "China",
+    "AI law",
+    "regulatory sandboxes",
+    "incident reporting",
+    "AI safety"
+  ],
+  "directives": [
+    "D6",
+    "D9",
+    "D10"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Xinhua: NDRC press conference on cultivating new growth drivers (3 November 2026, Chinese)",
+      "url": "https://www.news.cn/tech/20261103/b06342976e0f49718035bb7081e59205/c.html"
+    },
+    {
+      "title": "Beijing Daily via Sina: NDRC to speed up basic, comprehensive AI legislation (3 November 2026, Chinese)",
+      "url": "https://k.sina.cn/article_1893892941_70e2834d020024q0u.html"
+    },
+    {
+      "title": "Macau Daily Times: China plans AI safety rules spanning development and deployment",
+      "url": "https://macaudailytimes.com.mo/china-plans-ai-safety-rules-spanning-development-and-deployment.html"
+    }
+  ],
+  "body_html": "<p>China will speed up work on a basic national law for artificial intelligence and set safety standards and ethical rules that cover the whole life of an AI system, a senior official at the country's economic planning agency said on 3 November 2026.</p><p>The official, Wang Ruomeng of the National Development and Reform Commission (NDRC), spoke at a Beijing press conference on China's 15th Five-Year Plan, the national plan for 2026 to 2030. According to the state news agency <a href=\"https://www.news.cn/tech/20261103/b06342976e0f49718035bb7081e59205/c.html\">Xinhua</a>, he said China will \"accelerate basic, comprehensive AI legislation\" during the plan period (our translation).</p><h2>What was announced</h2><p>Based on official Chinese reports of the briefing and international coverage, the plans include:</p><ul><li><strong>A foundational AI law</strong>, together with rules for data, computing power, algorithms and important areas where AI is used.</li><li><strong>Life-cycle safety standards and ethical guidelines</strong>, reviewed regularly and adjusted as the technology changes.</li><li><strong>Transition periods</strong> for new rules, with requirements meant to be clear and predictable, according to <a href=\"https://k.sina.cn/article_1893892941_70e2834d020024q0u.html\">Beijing Daily's report</a>.</li><li><strong>Regulatory sandboxes</strong> for different sectors: supervised spaces where AI applications can be tested before wider use, with rules for applying, testing and leaving.</li><li><strong>Risk management by developers and operators</strong>, including public disclosure of safety risks and prompt reporting of incidents and vulnerabilities.</li><li><strong>Monitoring of AI's effect on jobs</strong>, with social security as a safety net for workers whose jobs are replaced.</li></ul><p>The official also called for closer coordination between government departments, including mutual recognition of regulatory results, and for international cooperation on AI governance and technical standards.</p><h2>What is still unknown</h2><p>This was a policy briefing, not a draft law. No bill text, issuing body, timetable, length of transition period or penalties were announced. It is also not yet clear how incident reporting would work in practice: who must report, to whom, and how fast. <a href=\"https://macaudailytimes.com.mo/china-plans-ai-safety-rules-spanning-development-and-deployment.html\">International reporting</a> of the briefing likewise found no official name or effective date for the planned rules.</p><h2>Why it matters for people staying in charge</h2><p>Three parts of the plan line up with the <a href=\"https://humasure.org/directives/\">Humasure Directives</a>:</p><ul><li><strong>Incident and vulnerability reporting</strong> connects to <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a> and <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>. When something goes wrong, someone has to answer for it, and weaknesses have to be fixed, not hidden.</li><li><strong>Life-cycle standards</strong> connect to <a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a>: safety is not only a launch-day test but something that lasts as a product is updated.</li><li><strong>Supervised sandboxes</strong> are a way to test new systems under watch before they reach the public. They help only if testing is real and the results are used.</li></ul><p>China is one of the largest markets for AI products and robots, so its rules will shape devices sold well beyond its borders. Humasure will follow the draft law when it is published. Readers who want to know how a product handles problems today can use our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a>.</p>"
+}

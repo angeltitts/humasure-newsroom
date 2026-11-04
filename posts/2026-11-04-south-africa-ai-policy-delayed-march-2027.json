@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-04-south-africa-ai-policy-delayed-march-2027",
+  "type": "news",
+  "slug": "south-africa-ai-policy-delayed-march-2027",
+  "title": "South Africa's national AI policy will not reach cabinet before March 2027",
+  "excerpt": "South Africa's rewritten national AI policy is now due before cabinet in March 2027, months later than planned. Whether it will create an AI regulator is still open.",
+  "category": "Regulation",
+  "tags": [
+    "South Africa",
+    "Africa",
+    "AI policy",
+    "AI governance"
+  ],
+  "directives": [
+    "D8",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "TechCentral: Deadline for South Africa's national AI policy slips to March 2027 (29 October 2026)",
+      "url": "https://techcentral.co.za/south-africa-national-ai-policy-deadline-cabinet-march-2027/287817/"
+    },
+    {
+      "title": "Business Explainer: Cabinet date for SA's AI policy pushed back again (3 November 2026)",
+      "url": "https://businessexplainer.co.za/tech/ai/2026/11/03/cabinet-date-for-sas-ai-policy-pushed-back-again/"
+    },
+    {
+      "title": "Connecting Africa: South Africa's national AI policy moves forward (April 2026, first draft)",
+      "url": "https://www.connectingafrica.com/regulation/south-africa-s-national-ai-policy-moves-forward"
+    }
+  ],
+  "body_html": "<p>South Africa's national artificial intelligence policy will not go to cabinet until March 2027, about four months later than the government told parliament in May. The public will see the new text only after cabinet clears it for comment.</p><p>The new timetable was set out in late October 2026 by Jeanette Morwane, acting deputy director-general at the Department of Communications and Digital Technologies (DCDT) and the policy's project manager, at a South Africa–Finland AI dialogue in Pretoria, <a href=\"https://techcentral.co.za/south-africa-national-ai-policy-deadline-cabinet-march-2027/287817/\">TechCentral reported</a>.</p><h2>The new timetable</h2><ul><li><strong>30 November 2026:</strong> the drafting team hands a revised policy and a discussion document to the Minister of Communications and Digital Technologies, Solly Malatsi.</li><li><strong>December 2026 to February 2027:</strong> consultation inside government.</li><li><strong>March 2027:</strong> cabinet, mainly to approve publishing the policy for public comment.</li><li><strong>After comment:</strong> the department gathers responses and returns to cabinet for final approval. No date has been set.</li></ul><p>The date has moved several times. In May the department expected cabinet in November 2026; in July it still said November, with January 2027 at the latest, according to <a href=\"https://businessexplainer.co.za/tech/ai/2026/11/03/cabinet-date-for-sas-ai-policy-pushed-back-again/\">Business Explainer</a>.</p><h2>How the policy got here</h2><p>Cabinet approved a first draft on 25 March 2026, and it was published for public comment on 10 April. The minister withdrew it on 26 April after its reference list was found to contain sources that did not exist. He then appointed a seven-member independent expert panel, and a wider government drafting team was formed to prevent a repeat.</p><p>The first draft, as <a href=\"https://www.connectingafrica.com/regulation/south-africa-s-national-ai-policy-moves-forward\">reported in April</a>, proposed an AI Ethics Board, a National AI Commission or Office, and an AI Regulatory Authority working alongside existing regulators, with a focus on fairness, accountability and transparency.</p><h2>What is still unknown</h2><p>Reporting on the redraft describes a focus on computing power, data and \"model sovereignty\": AI models that work in South Africa's 12 official languages. Officials have not said publicly whether the new version keeps the proposed regulator and ethics board, or what safety duties, if any, it would place on companies that build or use AI. An implementation road map is being drafted alongside the policy.</p><h2>Why it matters for people staying in charge</h2><p>A national policy decides who is responsible when an AI system makes a decision about someone, and where people can complain. That is the heart of <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. A focus on local languages also touches <a href=\"https://humasure.org/directives/#d8\">D8 Fair treatment</a>: systems that work poorly in a person's language can treat them unfairly without anyone noticing.</p><p>The withdrawn draft is also a reminder that people must check the sources behind any important document, whoever or whatever drafted it. Until the policy is settled, people can still ask any maker the <a href=\"https://humasure.org/questions-to-ask/\">questions we suggest</a> about who answers for a product.</p>"
+}

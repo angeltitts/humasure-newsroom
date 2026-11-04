@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-03-china-humanoid-robot-standards-plan",
+  "type": "analysis",
+  "slug": "china-humanoid-robot-standards-plan",
+  "title": "China plans at least 100 humanoid robot standards by 2028, including safety and ethics",
+  "excerpt": "A draft guideline from China's industry ministry sets a 2028 target for a national system of humanoid robot standards, with safety governance and ethics alongside performance.",
+  "category": "Regulation",
+  "tags": [
+    "China",
+    "humanoid robots",
+    "standards",
+    "robot safety"
+  ],
+  "directives": [
+    "D3",
+    "D9",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "RTHK: China moots at least 100 standards for humanoid robots",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1867412-20260825.htm"
+    },
+    {
+      "title": "eWeek: China proposes 100+ humanoid robot standards by 2028",
+      "url": "https://www.eweek.com/news/humanoid-robot-standards-2028-apac-china/"
+    }
+  ],
+  "body_html": "<p>China is planning a full national system of standards for humanoid robots. A draft guideline from the Ministry of Industry and Information Technology (MIIT), published on 25 August 2026, aims for <strong>at least 100 core standards by 2028</strong>, put into practice by more than 200 companies. The public comment period ran until 23 September 2026; the final version has not yet been published.</p>\n<h2>What the standards would cover</h2>\n<ul>\n<li>Methods for testing and evaluating what humanoid robots can do</li>\n<li>Key technologies, platforms and systems</li>\n<li>Standards for specific places robots are used</li>\n<li><strong>Safety governance</strong>, which reporting on the draft says spans physical safety, cybersecurity and data protection, the safety of the AI models and their behaviour, and safety in use</li>\n<li><strong>Ethics:</strong> the draft calls for standards on ethical requirements and assessments of social impact during development and deployment</li>\n</ul>\n<p>Putting safety and ethics in the same plan as performance and commercial use is notable. It treats the question \"is it safe and fair to live and work with?\" as part of building the industry, not as an afterthought.</p>\n<h2>Why it matters beyond China</h2>\n<p>Humanoid robots are moving from labs toward factories, shops and homes in several countries at once. Standards decide what gets tested, how, and what counts as a pass. When one large market writes a detailed set quickly, its choices can influence what manufacturers elsewhere build to, and how buyers and regulators abroad judge products.</p>\n<p>For people, the practical questions stay the same wherever a robot is made: can it always be stopped, was it tested around people, and who answers for it? Those questions map to the draft Humasure Directives on <a href=\"https://humasure.org/directives/#d3\">physical safety</a>, <a href=\"https://humasure.org/directives/#d9\">accountability</a> and <a href=\"https://humasure.org/directives/#d10\">safety for a product's whole life</a>.</p>\n<h2>What is still unknown</h2>\n<p>The draft sets targets, not the content of individual standards. It is not yet known which safety tests will be required, whether the standards will be mandatory or voluntary for different products, or how closely they will align with international robot safety standards. We will report when the final guideline is published.</p>\n<p>If a humanoid or home robot is coming into your workplace or home, start with our <a href=\"https://humasure.org/questions-to-ask/\">ten questions to ask any maker</a>.</p>"
+}

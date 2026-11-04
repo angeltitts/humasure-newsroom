@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-03-uk-ico-agentic-ai-call-for-evidence",
+  "type": "news",
+  "slug": "uk-ico-agentic-ai-call-for-evidence",
+  "title": "UK data regulator asks how AI agents should follow data protection law",
+  "excerpt": "The UK Information Commissioner's Office wants evidence on AI agents that act with some autonomy. Responses close on 20 November 2026 and will shape a code of practice.",
+  "category": "Regulation",
+  "tags": [
+    "United Kingdom",
+    "AI agents",
+    "data protection",
+    "regulation"
+  ],
+  "directives": [
+    "D2",
+    "D5",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "TLT: The ICO's agentic AI call for evidence: what you need to know",
+      "url": "https://www.tlt.com/insights-and-events/insight/the-icos-agentic-ai-call-for-evidence-what-you-need-to-know"
+    },
+    {
+      "title": "PPC Land: UK ICO gives AI agent firms until November 20 to submit evidence",
+      "url": "https://ppc.land/uk-ico-gives-ai-agent-firms-until-november-20-to-submit-evidence/"
+    }
+  ],
+  "body_html": "<p>The United Kingdom's data protection regulator, the Information Commissioner's Office (ICO), has opened a call for evidence on \"agentic AI\": AI systems that can use tools, keep a memory and carry out tasks with some independence. Published on 8 October 2026, the call runs for six weeks and closes at the end of <strong>20 November 2026</strong>.</p>\n<p>The ICO is asking developers, organisations that deploy AI agents, and legal and technical experts to describe the problems they face in applying existing UK data protection law to these systems. What it learns will feed into guidance and a forthcoming statutory code of practice on AI and automated decision-making.</p>\n<h2>Six areas the regulator wants to understand</h2>\n<ul>\n<li><strong>Security:</strong> how agents are identified, whether they get only the access a task needs, and whether their actions are logged in a way that cannot be quietly changed.</li>\n<li><strong>Transparency:</strong> whether people are told what an agent can reach, what it does with their data, and when it shares data or opens new sources.</li>\n<li><strong>Accountability:</strong> who is responsible when several organisations, models, agents and tools are involved in one task.</li>\n<li><strong>Automated decisions:</strong> when UK rules on decisions made without meaningful human involvement apply to a workflow that mixes automated and human steps.</li>\n<li><strong>Fairness and purpose:</strong> whether data an agent remembers from one task can be reused for another.</li>\n<li><strong>Lawful processing:</strong> which legal basis covers each step of an agent's work, without assuming that a user's instruction or a contract covers everything downstream.</li>\n</ul>\n<h2>Autonomy as a design choice</h2>\n<p>According to published summaries of the document, the ICO says the amount of autonomy an agent has should be a deliberate decision made by the organisations that design and deploy it, not something that simply happens. It also signals that a human check only counts if it is meaningful, and that a right to appeal after a fully automated decision does not replace proper oversight before it.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>An AI agent that can act across accounts and services raises the same question Humasure asks of every product: can the person it works for see what it does, limit it, and stop it? The ICO's themes line up closely with three of the draft Humasure Directives: <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a> (agents only do what they were allowed to do), <a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a> and <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a> (someone clearly answers for the system).</p>\n<p>The call is not a new law, and the ICO has not yet said what its final guidance will contain. Organisations that build or use AI agents in the UK can respond through the ICO's consultation page before the deadline. Anyone deciding whether to trust an AI agent can use our <a href=\"https://humasure.org/questions-to-ask/\">ten questions to ask any maker</a>, starting with what it does without asking first.</p>"
+}

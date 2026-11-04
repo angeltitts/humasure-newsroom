@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-03-singapore-mas-ai-risk-guidelines",
+  "type": "news",
+  "slug": "singapore-mas-ai-risk-guidelines",
+  "title": "Singapore sets AI risk rules for banks and insurers, with human oversight built in",
+  "excerpt": "Singapore's financial regulator has issued AI risk management guidelines for all financial institutions. They take effect on 7 October 2027, with some parts phased in to 2028.",
+  "category": "Regulation",
+  "tags": [
+    "Singapore",
+    "financial services",
+    "AI governance",
+    "regulation"
+  ],
+  "directives": [
+    "D1",
+    "D2",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Monetary Authority of Singapore: MAS sets out supervisory expectations on responsible AI adoption by financial institutions",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions"
+    },
+    {
+      "title": "Allen & Gledhill: MAS publishes AI risk management guidelines",
+      "url": "https://www.allenandgledhill.com/sg/publication/articles/34686/mas-publishes-ai-risk-management-guidelines-setting-out-supervisory-expectations-on-responsible-ai-adoption"
+    }
+  ],
+  "body_html": "<p>The Monetary Authority of Singapore (MAS), the country's central bank and financial regulator, issued Guidelines on Artificial Intelligence Risk Management on 7 October 2026. They set out what MAS expects from every financial institution it supervises, from banks to insurers, whenever they use any form of AI.</p>\n<p>The guidelines follow a public consultation that began in November 2025. They take effect on <strong>7 October 2027</strong>. Institutions can phase them in: the governance and inventory expectations apply from that date, and the remaining expectations are due by 7 October 2028.</p>\n<h2>What institutions are expected to do</h2>\n<ul>\n<li><strong>Put leaders in charge of AI risk.</strong> The board and senior management oversee AI risks, set clear roles and decide how much risk is acceptable. Existing governance can be used; a separate AI committee is not required.</li>\n<li><strong>Know what AI they use.</strong> Institutions keep an inventory of their AI uses.</li>\n<li><strong>Match controls to risk.</strong> Each use is assessed for how much harm it could do, and controls are scaled to match across the whole life of the system.</li>\n<li><strong>Keep people in the loop.</strong> Human oversight is listed alongside data governance, testing, cybersecurity, monitoring and change management as a control to apply.</li>\n<li><strong>Stay accountable for suppliers.</strong> An institution remains responsible for AI it buys from others, and should limit or replace a service if the risk becomes too high.</li>\n</ul>\n<h2>AI agents are next</h2>\n<p>MAS says controls should be reviewed as AI systems become more autonomous, including agentic AI that can act independently and use tools. It plans to consult the industry on specific guidance for agentic AI in 2027.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>Finance is one of the first places where AI decisions affect people's money directly. Singapore's approach puts responsibility where people expect it: with named leaders who must know what AI they run, keep humans overseeing it and answer for it, including when it comes from a supplier. Those ideas sit at the heart of the draft Humasure Directives on <a href=\"https://humasure.org/directives/#d2\">bounded autonomy</a>, <a href=\"https://humasure.org/directives/#d1\">being able to stop a system</a> and <a href=\"https://humasure.org/directives/#d9\">accountability</a>.</p>\n<p>The guidelines apply to financial institutions in Singapore only and do not cover consumer products directly. How strictly MAS will supervise them in practice will become clearer after they take effect in 2027.</p>"
+}

@@ -43,7 +43,7 @@ def check(path):
     if re.search(r"\bpartner",low): e.append("uses 'partner' (check it is not a manufacturer)")
     if d["incident"] and "humasure.org/questions-to-ask" not in d["body_html"]: e.append("incident story must link /questions-to-ask/")
     if d["type"] in ("news","analysis") and not d["names_companies"] and not d["incident"]:
-        e.append("note: news without companies/incident would auto-publish; confirm intended")
+        e.append("note: will auto-publish (allowed by the 20 Oct 2026 rule); this note never fails a file")
     return e
 files=sys.argv[1:] or sorted(glob.glob(os.path.join(os.path.dirname(__file__),"..","posts","*.json")))
 bad=0
@@ -52,9 +52,10 @@ for f in files:
     errs=check(f)
     try: slugs.setdefault(json.load(open(f))["slug"],[]).append(f)
     except Exception: pass
-    print(("FAIL " if errs else "ok   ")+os.path.basename(f)); 
+    hard=[x for x in errs if not x.startswith("note:")]
+    print(("FAIL " if hard else "ok   ")+os.path.basename(f))
     for x in errs: print("   -",x)
-    bad+=bool(errs)
+    bad+=bool(hard)
 for s,fs in slugs.items():
     if len(fs)>1: print("DUPLICATE slug",s); bad+=1
 sys.exit(1 if bad else 0)

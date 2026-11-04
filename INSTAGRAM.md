@@ -37,3 +37,14 @@ The token below works like a key to the Instagram account. Enter it only in GitH
    - Then run it again with "Dry run" unticked to post the first story.
 
 Menu names in Meta's dashboard change from time to time. If a step looks different, the idea is the same: a permanent Page token with the five permissions above, plus the Instagram account ID.
+
+## Facebook mirroring
+Each run also posts every Instagram carousel to the Humasure Ai Facebook Page (ID `1504545736066506`) as a 3-photo post. On Facebook the caption carries a clickable link to the story instead of "link in bio". Stories already on Instagram are mirrored on the next run. `social/posted.json` records each `fb_post_id`.
+
+One-time requirement: the Page token in `IG_ACCESS_TOKEN` must include `pages_manage_posts`.
+1. In Graph API Explorer, add `pages_manage_posts` to the permission list. If it is not offered, first add it to the app's "Manage everything on your Page" use case.
+2. Click Generate Access Token → Edit settings, keep the Humasure Ai Page and @humasureai selected, then extend the token.
+3. Choose the Page under "User or Page", copy the Page token with the copy button, and replace the `IG_ACCESS_TOKEN` secret in GitHub.
+
+If the permission is missing, Instagram posting carries on and the run log shows a "Facebook mirror failed" warning.
+To stop mirroring, add the repository variable or secret `FB_MIRROR=0` and pass it to the workflow.

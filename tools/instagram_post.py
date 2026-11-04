@@ -8,6 +8,8 @@ Environment:
   MAX_POSTS        stories to post this run (default 1)
   MAX_AGE_DAYS     ignore stories older than this (default 14)
   DRY_RUN=1        show what would be posted, post nothing
+  FB_PAGE_ID       Facebook Page to mirror each post to (default 1504545736066506, the Humasure Ai Page).
+                   Needs pages_manage_posts on the same Page token. Set FB_MIRROR=0 to switch mirroring off.
 
 Rules (do not relax without Jonathan's written OK):
   - A story is posted only if https://humasure.org/news/<slug>/ is publicly live. Stories waiting for
@@ -57,6 +59,20 @@ def wait_ready(container):
         time.sleep(5)
     raise SystemExit(f"container {container} not ready in time")
 
+FB_PAGE = os.environ.get("FB_PAGE_ID", "1504545736066506")
+
+def fb_caption(d, caption):
+    """Facebook shows clickable links, so swap 'link in bio' for the story's own address."""
+    url = f"https://humasure.org/news/{d['slug']}/"
+    return caption.replace("Full story and sources at humasure.org/news (link in bio).", f"Full story and sources: {url}")
+
+def post_facebook(sid, d, urls, caption):
+    photos = [graph("POST", f"{FB_PAGE}/photos", url=u, published="false")["id"] for u in urls]
+    params = {"message": fb_caption(d, caption)}
+    for i, pid in enumerate(photos):
+        params[f"attached_media[{i}]"] = json.dumps({"media_fbid": pid})
+    return graph("POST", f"{FB_PAGE}/feed", **params)["id"]
+
 def main():
     dry = os.environ.get("DRY_RUN") == "1"
     if not dry and not (os.environ.get("IG_USER_ID") and os.environ.get("IG_ACCESS_TOKEN")):
@@ -95,7 +111,27 @@ def main():
         print(f"posted {sid} as media {media}")
         done += 1
     if done == 0:
-        print("nothing to post this run")
+        print("nothing new for Instagram this run")
+    if os.environ.get("FB_MIRROR", "1") == "1" and not dry:
+        mirrored = 0
+        for sid, rec in sorted(posted.items()):
+            if rec.get("fb_post_id") or rec.get("fb_skip") or mirrored >= max_posts + 1:
+                continue
+            f = ROOT / "posts" / f"{sid}.json"
+            if not f.exists():
+                continue
+            d = json.loads(f.read_text())
+            urls = [RAW.format(id=sid, n=n) for n in (1, 2, 3)]
+            caption = (ROOT / "social" / sid / "caption.txt").read_text(encoding="utf-8")
+            try:
+                rec["fb_post_id"] = post_facebook(sid, d, urls, caption)
+                rec["fb_posted_at"] = dt.datetime.utcnow().isoformat(timespec="seconds") + "Z"
+                print(f"mirrored {sid} to Facebook as {rec['fb_post_id']}")
+                mirrored += 1
+            except SystemExit as e:
+                print(f"::warning::Facebook mirror failed for {sid}: {e}")
+                break
+        STATE.write_text(json.dumps(posted, indent=2) + "\n")
 
 if __name__ == "__main__":
     main()

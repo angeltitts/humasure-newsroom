@@ -27,9 +27,9 @@ def http(method, url, data=None):
     req = urllib.request.Request(url, data=body, method=method, headers=UA)
     try:
         with urllib.request.urlopen(req, timeout=60) as r:
-            return r.status, r.read().decode()
+            return r.status, r.read().decode("utf-8", "replace")
     except urllib.error.HTTPError as e:
-        return e.code, e.read().decode()
+        return e.code, e.read().decode("utf-8", "replace")
 
 def graph(method, path, **params):
     params["access_token"] = os.environ["IG_ACCESS_TOKEN"]
@@ -78,7 +78,7 @@ def main():
         if not is_live(d["slug"]):
             print(f"wait {sid}: not live on humasure.org yet (awaiting approval or sync)"); continue
         urls = [RAW.format(id=sid, n=n) for n in (1, 2, 3)]
-        if not all(http("GET", u)[0] == 200 for u in urls):
+        if not all(http("HEAD", u)[0] == 200 for u in urls):
             print(f"skip {sid}: card images not public yet"); continue
         caption = (ROOT / "social" / sid / "caption.txt").read_text(encoding="utf-8")
         if dry:

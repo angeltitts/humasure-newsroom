@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-05-eu-ai-office-cyber-risk-evaluation-team",
+ "type": "news",
+ "slug": "eu-ai-office-cyber-risk-evaluation-team",
+ "title": "EU AI Office picks outside team to test advanced AI models for cyber-attack risks",
+ "excerpt": "A consortium led by Capgemini will help the European Commission's AI Office model and assess the cyber-offence risks of the most capable general-purpose AI models under the EU AI Act.",
+ "category": "Regulation",
+ "tags": [
+  "European Union",
+  "EU AI Act",
+  "security",
+  "general-purpose AI",
+  "AI testing"
+ ],
+ "directives": [
+  "D6",
+  "D9",
+  "D10"
+ ],
+ "names_companies": true,
+ "incident": false,
+ "sources": [
+  {
+   "title": "EuropaWire (Capgemini release): Capgemini to lead EU AI Office consortium evaluating cyber risks in advanced AI models",
+   "url": "https://news.europawire.eu/capgemini-to-lead-eu-ai-office-consortium-evaluating-cyber-risks-in-advanced-ai-models/eu-press-release/2026/11/05/15/01/09/186220/"
+  },
+  {
+   "title": "European Commission: EU AI Office launches €9 million tender for technical support on general-purpose AI safety",
+   "url": "https://digital-strategy.ec.europa.eu/en/funding/eu-ai-office-launches-eu9-million-tender-technical-support-gpai-safety"
+  },
+  {
+   "title": "EU AI Act, Article 92: Power to conduct evaluations",
+   "url": "https://euaiact.com/article/92"
+  }
+ ],
+ "body_html": "<p>The European Commission's AI Office has chosen an outside consortium to help it judge whether the most capable general-purpose AI models could be used to carry out cyber-attacks. The group is led by the consulting firm Capgemini and includes the consultancy Wavestone and LNE, France's national laboratory for metrology and testing, a public body. The selection was announced on 5 November 2026 in a press release from Capgemini.</p>\n<h2>What the team will do</h2>\n<p>According to the release, the consortium will support \"cyber threat modelling and risk assessment\" for advanced AI systems. Its work covers three areas: studying new cyber-offence risks from general-purpose AI models, building evaluation tools and methods the AI Office can use to check compliance with the EU AI Act, and carrying out technical assessments on request to spot systemic risks. The examples given include AI that finds software weaknesses automatically, writes code to exploit them, or coordinates attacks at scale.</p>\n<p>The work falls under Lot 2, \"cyber offence risks\", of a €9 million tender the AI Office opened in July 2025. The <a href=\"https://digital-strategy.ec.europa.eu/en/funding/eu-ai-office-launches-eu9-million-tender-technical-support-gpai-safety\">Commission's tender page</a> lists six lots in total: chemical, biological, radiological and nuclear risks; cyber offence; loss of control; harmful manipulation; wider social risks; and cross-cutting support for testing AI agents that act on their own in open-ended tasks. The page says the aim is to strengthen the AI Office's ability to evaluate and monitor compliance by general-purpose AI models that may pose significant risks to public safety, security and fundamental rights.</p>\n<h2>Why the AI Office needs testers</h2>\n<p>The EU AI Act gives the AI Office direct oversight of general-purpose AI models, the large models that power chatbots and many other tools. Under <a href=\"https://euaiact.com/article/92\">Article 92</a>, the Office may evaluate a model, after consulting the AI Board of member states, to check whether its provider is complying with the law or to investigate risks at EU level. The Commission can also appoint independent experts to carry out these evaluations on its behalf and can request access to a model through technical tools or its source code.</p>\n<p>Contracts like this one give the Office technical capacity it would otherwise have to build from scratch. They also mean that claims made by AI developers about their own safety testing can be checked by someone else.</p>\n<h2>What is not yet known</h2>\n<p>The announcement does not give the contract's value, start date or length, and it does not name which AI models will be assessed first. The Commission has not published its own statement about the award. It is also not yet public whether the other lots of the tender have been awarded, or to whom.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A model that can find and exploit software weaknesses on its own is a security question for everyone who relies on connected services, from hospitals to home devices. Humasure's <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, asks that AI products are protected against misuse and kept secure over time. <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks that someone answers for how a product behaves, and independent testing is one way that answer gets checked. <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, matters too, because a model's risks can change as it is updated.</p>\n<p>As Humasure puts it: a hacked robot is one nobody is in charge of. Independent evaluation of the models behind AI agents and robots is part of keeping people in charge. More on why security belongs in safety is on our <a href=\"https://humasure.org/security/\">security page</a>.</p>"
+}

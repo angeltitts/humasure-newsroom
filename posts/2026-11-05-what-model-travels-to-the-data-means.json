@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-05-what-model-travels-to-the-data-means",
+ "type": "explainer",
+ "slug": "what-model-travels-to-the-data-means",
+ "title": "What \"the model travels to the data\" means for AI training and your privacy",
+ "excerpt": "Some new frameworks let AI learn from sensitive records without the records ever being handed over. Here is how that works, what protects you, and what to ask.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "India",
+  "privacy",
+  "AI training",
+  "data protection"
+ ],
+ "directives": [
+  "D5",
+  "D6",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Ministry of Electronics and Information Technology, India: Data Empowerment and Protection Architecture (DEPA) for AI Training, draft for discussion",
+   "url": "https://www.meity.gov.in/static/uploads/2026/10/02d8224e4cd6c8c29be5a5198e795158.pdf"
+  },
+  {
+   "title": "NIST: NIST finalizes guidelines for evaluating differential privacy guarantees (SP 800-226)",
+   "url": "https://www.nist.gov/news-events/news/2025/03/nist-finalizes-guidelines-evaluating-differential-privacy-guarantees"
+  },
+  {
+   "title": "ANI: MeitY launches DEPA handbook to enable secure data sharing for AI training",
+   "url": "https://www.aninews.in/news/business/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training20261031142428/"
+  }
+ ],
+ "body_html": "<p>Useful AI often needs to learn from sensitive information: hospital records, bank transactions, public-service files. The usual worry is simple. Once that data is copied to whoever is building the AI, the people it describes lose control of it. A growing idea in AI policy turns this around: instead of sending the data to the model, the model is sent to the data.</p>\n<h2>Where the phrase comes from</h2>\n<p>The idea is at the centre of a draft framework from India's Ministry of Electronics and Information Technology, the <a href=\"https://www.meity.gov.in/static/uploads/2026/10/02d8224e4cd6c8c29be5a5198e795158.pdf\">Data Empowerment and Protection Architecture (DEPA) for AI Training</a>, launched at an event in Bengaluru on 31 October 2026. It is a draft for discussion, not a law. But the techniques it describes are used in many countries, so the questions it raises apply everywhere.</p>\n<h2>How it works</h2>\n<p>In the DEPA draft, the institution that holds the data, such as a hospital or bank, prepares and de-identifies it. The data then stays inside a registered \"secure data environment\": protected hardware where computing happens, but where outsiders cannot simply copy what is inside. A developer who wants to train a model sends the model in, trains it on approved data, and takes out only the trained model, not the raw records.</p>\n<p>The draft also mentions other ways to learn from data without pooling it in one place. Federated learning trains a model in several locations and combines only what the model learned. Secure multi-party computation lets several parties compute a result together without revealing their own inputs.</p>\n<h2>The protections around it</h2>\n<p>Keeping the data in place is only one layer. The draft lists others:</p>\n<ul>\n<li><strong>De-identification.</strong> Personal data is stripped of direct identifiers before use, and raw personal data is not to be shared.</li>\n<li><strong>Differential privacy.</strong> Calibrated random noise is added so that no single person can be picked out, with limits that are set, monitored and audited.</li>\n<li><strong>Purpose limits.</strong> Electronic contracts state what the data may be used for and enforce those terms.</li>\n<li><strong>Audit trails.</strong> Tamper-resistant logs record who did what.</li>\n<li><strong>Checks before release.</strong> Trained models must pass independent validation, including bias and fairness audits and security testing, before pilot use.</li>\n</ul>\n<h2>What it does not solve on its own</h2>\n<p>These methods reduce risk; they do not remove it. The US National Institute of Standards and Technology (NIST), in its <a href=\"https://www.nist.gov/news-events/news/2025/03/nist-finalizes-guidelines-evaluating-differential-privacy-guarantees\">guidelines on evaluating differential privacy</a>, warns that noise applied the wrong way can weaken privacy or make data less useful, and that small groups may need extra protection because they stand out. In NIST's words: \"There is no simple answer for how to balance privacy with usefulness.\"</p>\n<p>That is why the DEPA draft also requires checks on the finished model, not only on the training setup. And consent still counts: the draft says data-sharing procedures should cover consent, and people should know when their records are used to train AI and for what purpose.</p>\n<h2>Questions you can ask</h2>\n<ul>\n<li>Was my data used to train this AI, and was it de-identified first?</li>\n<li>Did the raw data leave the organisation that holds it?</li>\n<li>What is it allowed to be used for, and who checks that?</li>\n<li>Was the finished model tested independently before release?</li>\n<li>Who do I contact if I think my information was misused?</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>Humasure's <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>, asks that AI products protect personal information without people having to fight for it. <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, covers the security of the environments where data and models live, and <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks that someone answers for how data is used. Approaches that let AI learn without taking people's records are a promising step, as long as they are checked. You can find more questions on our <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a> page.</p>"
+}

@@ -1,0 +1,10 @@
+What "the model travels to the data" means for AI training and your privacy
+
+Some new frameworks let AI learn from sensitive records without the records ever being handed over. Here is how that works, what protects you, and what to ask.
+
+Why it matters: D5 Private by default, D6 Secure and supported, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Ministry of Electronics and Information Technology, India; NIST; ANI.
+
+#HumanInCharge #AISafety #RobotSafety

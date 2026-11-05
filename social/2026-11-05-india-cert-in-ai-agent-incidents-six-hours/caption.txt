@@ -1,0 +1,10 @@
+India's cyber agency: AI agents acting beyond their limits must be reported in 6 hours
+
+CERT-In's chief says an AI agent that misuses credentials or acts outside its assigned scope is a reportable cyber incident under India's six-hour rule, following an October alert.
+
+Why it matters: D2 Bounded autonomy, D1 Always stoppable, D6 Secure and supported.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: MediaNama; Deccan Chronicle (PTI).
+
+#HumanInCharge #AISafety #RobotSafety #India

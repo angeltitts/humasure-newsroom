@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-05-eu-ai-act-what-changes-2-december",
+ "type": "explainer",
+ "slug": "eu-ai-act-what-changes-2-december",
+ "title": "EU AI Act: what changes on 2 December 2026, and what does not",
+ "excerpt": "On 2 December 2026 the EU AI Act bans AI that makes non-consensual intimate images or child abuse material, and older generative AI must start marking its output as AI-made.",
+ "category": "Explainers",
+ "tags": [
+  "European Union",
+  "EU AI Act",
+  "AI-generated content",
+  "deepfakes",
+  "regulation"
+ ],
+ "directives": [
+  "D4",
+  "D7",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "EUR-Lex: Regulation (EU) 2026/1744 amending Regulation (EU) 2024/1689 (AI Act)",
+   "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng"
+  },
+  {
+   "title": "White & Case: EU AI Omnibus enters into force, amending the AI Act",
+   "url": "https://www.whitecase.com/insight-alert/eu-ai-omnibus-enters-force-amending-ai-act"
+  },
+  {
+   "title": "Gibson Dunn: EU AI Act Omnibus Agreement, postponed high-risk deadlines and other key changes",
+   "url": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/"
+  },
+  {
+   "title": "ComplexDiscovery: EU rewrites the AI Act's clock and bans nudification tools in one stroke",
+   "url": "https://complexdiscovery.com/eu-rewrites-the-ai-acts-clock-and-bans-nudification-tools-in-one-stroke/"
+  },
+  {
+   "title": "Cloud Security Alliance: EU AI Act Article 50 watermarking grace period ends December 2026",
+   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article50-watermarking-deadline/"
+  }
+ ],
+ "body_html": "<p>The European Union's AI Act, its main law on artificial intelligence, comes into force in stages. The next stage is <strong>2 December 2026</strong>. Two things change that day: a new ban on AI that creates sexual images of people without their consent or child sexual abuse material, and the end of a grace period for marking AI-generated content. Both come from an amending law, <a href=\"https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng\">Regulation (EU) 2026/1744</a>, often called the AI Omnibus, which was signed on 8 July 2026 and entered into force on 27 July 2026.</p>\n<p>This explainer is general information, not legal advice.</p>\n<h2>1. A new ban on \"nudifying\" and abuse imagery</h2>\n<p>The AI Act's Article 5 lists practices that are banned outright in the EU. The amendment adds AI systems that generate or manipulate child sexual abuse material, and AI systems that create sexual or intimate images of real, identifiable people without their consent. Legal analyses of the new text say this covers tools that produce nude images of a real person or edit clothing out of an existing photo, and that it applies to images, video and audio.</p>\n<p>The ban is not limited to tools built for this purpose. According to those analyses, a provider (the organisation that makes and supplies an AI system) may also be caught if such output is a reasonably foreseeable and repeatable result and the system lacks reasonable safeguards. The law's explanatory recitals give examples of safeguards, such as training a model to refuse these requests and filtering what it produces. Breaking an Article 5 ban sits in the Act's highest penalty band: up to 35 million euros or 7% of worldwide annual turnover, whichever is higher.</p>\n<h2>2. Older generative AI must mark its output</h2>\n<p>Article 50 of the AI Act deals with transparency. Its second paragraph requires providers of generative AI, which produces text, images, audio or video, to mark that output in a machine-readable way, so that software can detect it as AI-made. This is usually done with hidden watermarks or attached provenance data.</p>\n<p>For systems placed on the EU market on or after 2 August 2026, this duty already applies. Systems that were already on the market before that date were given until 2 December 2026 to catch up. From that day, they must comply too. The law asks for marking that is effective, interoperable, robust and reliable as far as technically feasible. Security researchers note that marking text reliably is still an unsolved technical problem, and that attached data can be lost when a file is resized or screenshotted.</p>\n<h2>What does not change on 2 December</h2>\n<ul>\n<li><strong>Telling people they are talking to AI</strong>, and labelling deepfakes (realistic fake images, audio or video), have applied since 2 August 2026. The labelling of deepfakes is a duty on deployers, the people or organisations that use the system.</li>\n<li><strong>Rules for high-risk AI</strong>, such as systems used in hiring, credit or as safety parts of machines and vehicles, were postponed by the same amendment: to 2 December 2027 for most stand-alone uses and 2 August 2028 for AI built into regulated products.</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>Marking AI-generated content supports <a href=\"https://humasure.org/directives/#d4\">D4, Honest identity</a>: people should be able to tell what a machine made. The ban on non-consensual intimate imagery protects people from AI used to deceive or exploit them, which links to <a href=\"https://humasure.org/directives/#d7\">D7, No manipulation</a>. And because the ban reaches makers whose safeguards are inadequate, not just those with bad intent, it reflects <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>: someone answers for what a system can foreseeably do.</p>\n<p>If you use generative AI tools, a fair question for any maker is whether its output is marked, and how that marking can be checked. You can find more on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page.</p>"
+}

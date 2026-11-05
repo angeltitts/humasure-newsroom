@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-05-chatgpt-lockdown-mode-bypass-fixed",
+ "type": "news",
+ "slug": "chatgpt-lockdown-mode-bypass-fixed",
+ "title": "Researchers show a now-fixed way around ChatGPT's Lockdown Mode",
+ "excerpt": "Check Point Research says a flaw in ChatGPT's HTML preview let content escape Lockdown Mode's limits. OpenAI fixed it on 18 September 2026; the details were published on 5 November.",
+ "category": "News",
+ "tags": [
+  "global",
+  "security",
+  "AI assistants",
+  "prompt injection",
+  "vulnerability"
+ ],
+ "directives": [
+  "D6",
+  "D5",
+  "D1",
+  "D9"
+ ],
+ "names_companies": true,
+ "incident": true,
+ "sources": [
+  {
+   "title": "Check Point Research: ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
+   "url": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/"
+  },
+  {
+   "title": "Check Point Blog: ChatGPT Lockdown Mode bypass reveals a wider challenge in AI security",
+   "url": "https://blog.checkpoint.com/security/chatgpt-lockdown-mode-bypass-reveals-a-wider-challenge-in-ai-security"
+  },
+  {
+   "title": "The Hacker News: Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html"
+  },
+  {
+   "title": "OpenAI: Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+   "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/"
+  }
+ ],
+ "body_html": "<p>Security researchers at Check Point Research published details on 5 November 2026 of a flaw that let content get around Lockdown Mode, an optional protective setting in OpenAI's ChatGPT assistant. The researchers say they reported it privately to OpenAI, which told them on 18 September 2026 that a fix was in place. Check Point says it retested afterwards and the technique no longer worked.</p>\n<h2>What Lockdown Mode is for</h2>\n<p>OpenAI introduced Lockdown Mode in February 2026 and widened it to personal accounts in June. It is meant for people who handle sensitive information. It switches off or limits features that connect ChatGPT to the outside world, such as live web browsing, agent features, live connectors and file downloads. The aim is to reduce the risk of <em>prompt injection</em>: hidden instructions, planted in a web page, file or shared chat, that try to make an AI assistant send a user's data somewhere it should not go. OpenAI describes the setting as reducing that risk, not removing it.</p>\n<h2>What happened</h2>\n<p>According to Check Point's technical write-up, the weak point was not the AI model itself but the code around it. ChatGPT can show a live preview of HTML code it writes. That preview runs inside nested, restricted frames, a common way to keep untrusted web content contained. One setting on the outer frame still allowed pop-up windows that could leave the restricted area. ChatGPT blocked the usual way of opening such windows, but the researchers found that a frame created inside the preview could open one anyway. Content in that window was outside both the sandbox and Lockdown Mode's limits.</p>\n<p>The researchers say the attack could be delivered through a crafted prompt, a malicious custom GPT or a shared chat. In the older ChatGPT desktop app, they report, the pop-up could open without any click, so chat messages could be sent out while a person was simply chatting. In a web browser, the victim generally had to click something. They also showed how the trick could be used for phishing, for example by forcing a sign-out and offering a fake login page, or to deliver a harmful file. OpenAI's fix, Check Point says, removed the pop-up permissions from the preview's outer frame.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Check Point describes proof-of-concept demonstrations. Its write-up does not say whether anyone used the flaw against real users.</li>\n<li>The date the flaw was first reported to OpenAI has not been published.</li>\n<li>We have not found a public statement from OpenAI about this specific flaw. The fix date comes from Check Point.</li>\n<li>It is not known how many people had Lockdown Mode switched on while the flaw existed.</li>\n</ul>\n<h2>Which Directives cover the risk</h2>\n<p>This is mainly a question of <a href=\"https://humasure.org/directives/#d6\">D6, Secure and supported</a>: protections need to hold across the whole product, including previews, desktop apps and other features added for convenience. Check Point makes the same point, writing that \"AI security controls are only as strong as the wider application environment around them.\" It also touches <a href=\"https://humasure.org/directives/#d5\">D5, Private by default</a>, because the data at risk was the content of people's conversations, and <a href=\"https://humasure.org/directives/#d1\">D1, Always stoppable</a>, since a setting that promises to limit what an assistant can do is a way of keeping people in charge, and it only works if it cannot be quietly bypassed.</p>\n<p>The way the flaw was handled also matters for <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>. The researchers reported it privately, the maker fixed it, and the details were published only after the fix. That is how responsible disclosure is meant to work, and it is a reason security research on AI products is useful rather than alarming.</p>\n<h2>Questions you can ask any maker</h2>\n<ul>\n<li>When you add a feature such as previews or a desktop app, do your security settings still apply to it, and how do you test that?</li>\n<li>Do you have a public way for researchers to report flaws, and do you publish when you fix them?</li>\n<li>What exactly does your strongest protective setting switch off, and what does it not cover?</li>\n<li>How long will this product receive security updates?</li>\n</ul>\n<p>More questions are on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page, and our <a href=\"https://humasure.org/security/\">security page</a> explains why a product nobody can secure is a product nobody is fully in charge of. Incidents like this one are a reason for independent testing and clear standards, not a reason to avoid AI assistants.</p>"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-06-japan-emergency-cybersecurity-package-ai",
+  "type": "news",
+  "slug": "japan-emergency-cybersecurity-package-ai",
+  "title": "Japan approves emergency cyber package with AI-powered defence after data breaches",
+  "excerpt": "After a wave of data breaches, Japan approved a 10 billion yen emergency package on 6 November, with AI-assisted defence teams and a cyber rescue team for victims.",
+  "category": "News",
+  "tags": [
+    "Japan",
+    "Asia-Pacific",
+    "security",
+    "cyberattacks",
+    "data breaches",
+    "AI in cyber defence"
+  ],
+  "directives": [
+    "D6",
+    "D5",
+    "D9",
+    "D1"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "AP via KSAT: Japan announces emergency cybersecurity package following a wave of attacks (6 November 2026)",
+      "url": "https://www.ksat.com/tech/2026/11/06/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/"
+    },
+    {
+      "title": "Anadolu Agency: Japan unveils emergency cybersecurity measures after series of data breaches (6 November 2026)",
+      "url": "https://www.aa.com.tr/en/asia-pacific/japan-unveils-emergency-cybersecurity-measures-after-series-of-data-breaches/4114237"
+    },
+    {
+      "title": "AFP via Gulf News: Japan unveils $63m emergency plan to fight cyberattacks (6 November 2026)",
+      "url": "https://gulfnews.com/world/asia/japan-unveils-63m-emergency-plan-to-fight-cyberattacks-1.500738209"
+    }
+  ],
+  "body_html": "<p>Japan's government approved an emergency cybersecurity package on 6 November 2026, after dozens of companies and public bodies reported unauthorised access to their systems and possible leaks of customer data in recent weeks. The package is funded at first with 10 billion yen (about 63 million US dollars) from this year's reserve funds, and it gives artificial intelligence a central role in defence.</p>\n<p>Prime Minister Sanae Takaichi presented the package at a meeting of ministers. According to the Associated Press, she said a rapid response is essential \"in the era of AI-generated attacks.\"</p>\n<h2>What happened</h2>\n<p>News agencies AP, AFP and Anadolu all report that the package follows a series of data breaches at Japanese businesses and agencies. AFP and Anadolu report that GMO Internet Group, a Japanese internet infrastructure company, was among those attacked; Anadolu says the prime minister ordered an emergency response the previous week, after a ransomware attack on the company. None of the reports we read gives a full count or list of the organisations affected.</p>\n<h2>What the package includes</h2>\n<p>According to the three agencies, the package has four main strands: basic security measures that make use of AI, better gathering of threat information, stronger investigation and a more strategic response to attacks, and more help for victims, including steps to stop damage spreading. Specific measures reported include:</p>\n<ul>\n<li>A \"top gun\" team of cybersecurity experts under the Ministry of Economy, Trade and Industry, to be set up by the end of November. AP reports that its members \"will use AI to counter hackers and detect weaknesses in network systems.\"</li>\n<li>A \"cyber rescue team\" of government and private experts to give first-response help to organisations that have been attacked.</li>\n<li>A separate team to help less-protected companies strengthen their defences.</li>\n<li>Wider use of \"active cyber defence\", which allows the government to access servers used by attackers. AP reports that this became legal in October.</li>\n<li>A support team drawn from the Defence Ministry, the National Police Agency and the National Cybersecurity Office for attacks that threaten national security.</li>\n</ul>\n<p>AFP reports that the full cost is likely to be higher than the first 10 billion yen, and that the prime minister asked the finance minister to find more money.</p>\n<h2>What is still unknown</h2>\n<p>The reports we read do not say how attackers got into the affected systems, and the government has not, in those reports, confirmed whether AI tools were used in these particular attacks. It is also not yet clear how the rescue team will be staffed, how organisations ask for its help, or what safeguards will apply when the government accesses servers under active cyber defence. We will report further details when official documents are available.</p>\n<h2>Which Directive covers the risk</h2>\n<p>A system that someone else has broken into is a system its owner no longer controls. That is why <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, asks that AI products and connected devices are protected against attack and kept patched for as long as people use them. <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>, matters too: the less personal data a product collects and keeps, the less there is to leak. And <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, means someone must answer when things go wrong, including by telling affected people quickly.</p>\n<p>Japan's plan uses AI on the defending side, to look for weak points before attackers do. That only helps people if the AI tools themselves are well tested and overseen by humans who can stop them, the idea behind <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>.</p>\n<h2>Questions you can ask any maker</h2>\n<p>Whether you run a business or use AI products and connected devices at home, you can ask the companies behind them:</p>\n<ul>\n<li>How long will this product receive security updates, and how will I know when support ends?</li>\n<li>What personal data does it store, where, and for how long?</li>\n<li>If there is a breach that affects me, how and how quickly will you tell me?</li>\n<li>Who do I contact if I think something is wrong?</li>\n</ul>\n<p>More questions are on our <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a> page, and our <a href=\"https://humasure.org/security/\">Security</a> page explains why security is part of staying in charge. Breaches like these are a reason for clear, independent standards, not a reason to fear the technology.</p>"
+}

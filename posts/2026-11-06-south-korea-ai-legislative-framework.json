@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-06-south-korea-ai-legislative-framework",
+  "type": "news",
+  "slug": "south-korea-ai-legislative-framework",
+  "title": "South Korea sets rules for writing AI laws: fix existing laws first, act fast on harm",
+  "excerpt": "South Korea's national AI committee agreed on 6 November that new AI rules should build on the AI Basic Act, with fast action when AI threatens life or safety.",
+  "category": "Regulation",
+  "tags": [
+    "South Korea",
+    "Asia-Pacific",
+    "AI law",
+    "AI Basic Act",
+    "AI governance",
+    "security"
+  ],
+  "directives": [
+    "D9",
+    "D3",
+    "D6"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "ZDNet Korea: AI 입법, 기존 법률 개정 우선…국가AI전략위 3차 전체회의서 확정 (6 November 2026)",
+      "url": "https://zdnet.co.kr/view/?no=20261106111202"
+    },
+    {
+      "title": "Electronic Times (etnews): 기본법 우선 등 'AI 입법 프레임워크' 나왔다…국가AI전략위, 7개 TF 신설 (6 November 2026)",
+      "url": "https://www.etnews.com/20261106000224"
+    },
+    {
+      "title": "MLex: South Korea sets AI legislative priorities, plans task forces on key challenges",
+      "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2547183"
+    }
+  ],
+  "body_html": "<p>South Korea's top AI policy body agreed on 6 November 2026 how the government should write new AI laws. The short version: fix existing laws first, keep the country's AI Basic Act at the centre, and act fast only when AI threatens people's lives, safety or basic rights and current law cannot respond.</p>\n<p>The decision was taken at the third plenary meeting of the National AI Strategy Committee, a presidential committee that brings together ministers, agency heads and private-sector experts. The committee also set up seven task forces, including one on cyber resilience and one on how the country should prepare for much more capable AI.</p>\n<h2>Why a framework for lawmaking</h2>\n<p>South Korea's AI Basic Act, a general law covering AI development, trust and safety, took effect earlier in 2026. Since then, ministries and lawmakers have proposed many more AI rules for areas such as health care, defence, manufacturing and education. According to Korean technology outlets ZDNet Korea and Electronic Times, 477 bills mentioning AI have been proposed or amended in the current National Assembly in about 29 months, roughly 4.7 times the monthly rate of the previous Assembly.</p>\n<p>The new \"AI Legislative Framework\" is meant to stop those efforts from overlapping or clashing. Ministries are expected to use it as a checklist when they draft AI laws, and the committee says it will monitor how it is applied.</p>\n<h2>What the framework says</h2>\n<p>The framework sorts AI law into four areas: promoting AI development; adopting AI across industry and the public sector; safety and trust; and preventing misuse. It sets four directions:</p>\n<ul>\n<li><strong>The AI Basic Act comes first.</strong> Where the Basic Act or another existing law can deal with an issue, ministries should amend it or its regulations rather than write a new stand-alone law.</li>\n<li><strong>Close gaps in defence and national security.</strong> These areas fall outside the AI Basic Act, so separate laws are the first option there.</li>\n<li><strong>More predictability for businesses.</strong> Rules for companies should clarify existing standards rather than add new duties.</li>\n<li><strong>Fast action on harm.</strong> If AI misuse is confirmed to threaten life, physical safety or fundamental rights, and there is a clear gap in the law, the government will move quickly to legislate.</li>\n</ul>\n<h2>Seven task forces</h2>\n<p>The committee approved seven task forces. Two touch directly on safety and security. A national cyber resilience task force is due, by March 2027, to build a cyber-resilience check-up system linked to the government's AI cybersecurity framework (AI-CSF), and at least three scenarios for compound failures at AI data centres and how to recover from them. A task force on responding to \"superintelligence\", meaning AI far more capable than today's systems, is to identify 10 core tasks for the national AI Action Plan by June 2027.</p>\n<p>The other five cover youth opportunities, global AI cooperation, AI in culture and content, building training data, and a domestic AI technology \"full stack\" from chips to services. Staffing, targets and timelines are to be agreed with ministries in November, with the task forces starting full work after that.</p>\n<h2>What is not yet known</h2>\n<p>We have not seen the full text of the framework, and the reports we read do not say how a \"clear gap\" in the law will be judged, or who decides when the fast-track route applies. Details of each task force's membership are also still to come.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A single, central AI law that other rules build on makes it easier for people to know who is responsible when something goes wrong, which is the idea behind <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>. The promise to move quickly when AI threatens life or physical safety connects to <a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>, and the cyber-resilience work to <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>: a system that cannot recover from an attack is one nobody is fully in charge of.</p>\n<p>The test will be in the follow-through: whether fast action on harm happens in practice, and whether people get clear ways to raise problems with AI systems under the laws that result.</p>"
+}

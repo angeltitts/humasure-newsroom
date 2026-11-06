@@ -1,0 +1,10 @@
+Researchers show a now-fixed way around ChatGPT's Lockdown Mode
+
+Check Point Research says a flaw in ChatGPT's HTML preview let content escape Lockdown Mode's limits. OpenAI fixed it on 18 September 2026; the details were published on 5 November.
+
+Why it matters: D6 Secure and supported, D5 Private by default, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Check Point Research; Check Point Blog; The Hacker News.
+
+#HumanInCharge #AISafety #RobotSafety

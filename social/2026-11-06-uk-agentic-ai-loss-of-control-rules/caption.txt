@@ -1,0 +1,10 @@
+UK plans rules for when organisations lose control of their AI agents
+
+New powers in the UK's cyber security bill would let ministers require safeguards, evidence keeping and government reviews when AI agents slip out of an operator's control.
+
+Why it matters: D1 Always stoppable, D2 Bounded autonomy, D6 Secure and supported.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: GOV.UK; The Register; VinciWorks.
+
+#HumanInCharge #AISafety #RobotSafety #AIRegulation #UnitedKingdom

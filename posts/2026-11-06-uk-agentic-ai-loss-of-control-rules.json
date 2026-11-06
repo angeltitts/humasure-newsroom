@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-06-uk-agentic-ai-loss-of-control-rules",
+ "type": "news",
+ "slug": "uk-agentic-ai-loss-of-control-rules",
+ "title": "UK plans rules for when organisations lose control of their AI agents",
+ "excerpt": "New powers in the UK's cyber security bill would let ministers require safeguards, evidence keeping and government reviews when AI agents slip out of an operator's control.",
+ "category": "Regulation",
+ "tags": [
+  "United Kingdom",
+  "AI agents",
+  "security",
+  "incident reporting",
+  "regulation"
+ ],
+ "directives": [
+  "D1",
+  "D2",
+  "D6",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "GOV.UK: Cyber Security and Resilience Bill factsheets: agentic AI resilience measures (3 November 2026)",
+   "url": "https://www.gov.uk/government/publications/cyber-security-and-resilience-network-and-information-systems-bill-factsheets/agentic-ai-resilience-measures"
+  },
+  {
+   "title": "The Register: UK ministers seek powers to investigate when AI agents are let off the leash",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889"
+  },
+  {
+   "title": "VinciWorks: Cyber Security and Resilience Bill: Government defeated twice as Lords demand stronger protections",
+   "url": "https://vinciworks.com/?p=40979"
+  },
+  {
+   "title": "UK Parliament: Cyber Security and Resilience (Network and Information Systems) Bill",
+   "url": "https://bills.parliament.uk/bills/4035"
+  }
+ ],
+ "body_html": "<p>The UK government plans new rules for what organisations must do when they cannot monitor or control the AI agents they use. The powers have been added to the Cyber Security and Resilience Bill, a law on the security of essential services. The government set them out in a factsheet published on 3 November 2026.</p>\n<h2>What is proposed</h2>\n<p>AI agents are AI systems that take actions on their own, such as running software, using accounts or changing settings, rather than only answering questions. The government says the new measures are meant for \"incidents where operators are unable to adequately monitor or control AI agents\".</p>\n<p>The bill gives the Secretary of State a power to update the UK's Network and Information Systems (NIS) Regulations, the rules that already apply to operators of essential services such as energy and digital infrastructure. According to the <a href=\"https://www.gov.uk/government/publications/cyber-security-and-resilience-network-and-information-systems-bill-factsheets/agentic-ai-resilience-measures\">factsheet</a>, the government plans to use it for four measures:</p>\n<ul>\n<li><strong>Security requirements:</strong> technical and organisational steps to make agent-caused incidents less likely and less harmful, such as monitoring what agents do and assessing their risks.</li>\n<li><strong>Telling those affected:</strong> an organisation that reports an incident caused by its agents would also have to notify other organisations the agents affected, not only its own customers.</li>\n<li><strong>Keeping evidence:</strong> it would have to preserve information on how the agents may have caused the incident, including their actions and any attempts to control them.</li>\n<li><strong>Government reviews:</strong> ministers could ask government technical experts to review an incident, request information and run tests, and share lessons more widely.</li>\n</ul>\n<p>The government says this is not a full AI governance framework and is not meant to address AI harms in general. It will work out what \"loss of control\" means together with industry and oversight bodies.</p>\n<h2>Where the bill stands</h2>\n<p>The bill completed its stages in the House of Lords in early November 2026 and now returns to the House of Commons to consider the Lords' changes. According to The Register, the agent clause was added at the Lords' final stage. Nothing changes straight away. The government must consult first, and each measure would need approval by both Houses of Parliament through secondary legislation (detailed rules made under the main law) after the bill becomes law.</p>\n<p>During earlier Lords debates, VinciWorks reports, peers voted for a review of the wider NIS regime within 12 months of the law taking effect, which could consider bringing more sectors, including frontier AI, into scope. A separate proposal to make frontier AI developers report unauthorised access to critical systems was rejected.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Exactly which organisations will be covered. The government says the detailed scope is still being developed.</li>\n<li>How \"loss of control\" will be defined, and what must be reported, by when.</li>\n<li>When the consultation will open and when any rules could take effect.</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>The UK is the latest government to treat an AI agent acting beyond its owner's control as a security incident in its own right. The proposed measures match several Humasure Directives. Monitoring and the ability to intervene are the core of <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a> and <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>. Security requirements reflect <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>. Keeping evidence and telling those affected reflect <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>: when something goes wrong, someone must be able to explain what happened.</p>\n<p>For anyone deploying AI agents, the practical question is simple: if an agent started doing something you did not ask for, would you notice, could you stop it, and could you show afterwards what it did? Our <a href=\"https://humasure.org/security/\">security page</a> sets out similar questions.</p>"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-06-before-you-give-a-child-an-ai-toy",
+ "type": "guide",
+ "slug": "before-you-give-a-child-an-ai-toy",
+ "title": "Before you give a child an AI toy: six things to check",
+ "excerpt": "Toys that talk back with AI are becoming common gifts. Six plain checks on age, content, privacy, security and stopping the toy can help you decide.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "United Kingdom",
+  "European Union",
+  "AI toys",
+  "children",
+  "consumer guide",
+  "privacy"
+ ],
+ "directives": [
+  "D1",
+  "D4",
+  "D5",
+  "D6",
+  "D7",
+  "D10"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "UNICEF: When AI becomes a friend (policy brief, 2026)",
+   "url": "https://www.unicef.org/media/181131/file/UNICEF-When-AI-becomes-friend-policy-brief-2026.pdf"
+  },
+  {
+   "title": "GOV.UK: Regulations: consumer connectable product security",
+   "url": "https://www.gov.uk/guidance/regulations-consumer-connectable-product-security"
+  },
+  {
+   "title": "GOV.UK: Toys safety regulations call for evidence",
+   "url": "https://www.gov.uk/government/calls-for-evidence/toys-safety-regulations-call-for-evidence/toys-safety-regulations-call-for-evidence"
+  }
+ ],
+ "body_html": "<p>Some toys now hold real conversations. A soft toy or small robot with a microphone, a speaker and an internet connection sends what a child says to an AI model and speaks the answer back. These toys can be fun and educational. They also raise questions that a teddy bear never did: what will it say, who hears it, and can you switch it off?</p>\n<p>This guide gives six checks you can make before buying one, wherever you live. It does not recommend any product.</p>\n<h2>1. Who made it, and who answers for it?</h2>\n<p>Look for a named maker with a real address and a way to contact them. Some AI toys are sold under several brand names, which makes it hard to know who is responsible if something goes wrong. If you cannot find out who made it, treat that as a warning sign.</p>\n<h2>2. What age was it designed and tested for?</h2>\n<p>Check that the age on the box matches the age on the website, and that both match your child. Ask whether the toy was tested for that age group, and by whom. UNICEF recommends that AI systems children use should be tested before release and monitored afterwards by independent, qualified third parties.</p>\n<h2>3. What will it talk about, and what will it refuse?</h2>\n<p>Ask whether the toy has a child safety mode and whether it is on by default and locked. A good toy should refuse romantic or sexual conversations with children and should point a child to a trusted adult if they talk about being hurt or unsafe. UNICEF's 2026 policy brief on AI companions says these products \"cannot be treated as low-risk technologies\" and asks companies to block romantic or sexually explicit interactions with minors.</p>\n<h2>4. Does it make clear it is not a person?</h2>\n<p>Young children easily treat a talking toy as a friend. UNICEF asks makers to tell children clearly that they are talking to an AI and to avoid designs that build emotional dependence or push children to keep playing. Watch for toys that say they are sad when the child leaves or ask for secrets.</p>\n<h2>5. Where do the recordings go?</h2>\n<p>Read the privacy information before you open the box. Look for what is recorded, whether it is stored, for how long, in which country, and whether you can delete it. Check whether voice recordings are used to train AI models and whether you can say no.</p>\n<h2>6. Is it secure, and for how long?</h2>\n<p>In the UK, connectable consumer products must meet three basic security rules that have applied since 29 April 2024: no universal default or easily guessed passwords, a published way to report security problems, and a stated minimum period of security updates (<a href=\"https://www.gov.uk/guidance/regulations-consumer-connectable-product-security\">GOV.UK guidance</a>). These are good questions anywhere. A toy that stops getting updates may keep working while becoming less safe.</p>\n<h2>And one more: can you stop it?</h2>\n<p>Check that there is a physical off switch or a way to mute the microphone, and that a parent can review or pause conversations. If the toy needs an app, see what controls the app gives you before you hand the toy over.</p>\n<h2>Rules are catching up</h2>\n<p>Toy laws were written for physical risks such as small parts and chemicals. They are now being updated. The UK's 2026 <a href=\"https://www.gov.uk/government/calls-for-evidence/toys-safety-regulations-call-for-evidence/toys-safety-regulations-call-for-evidence\">call for evidence on toy safety</a> lists internet-connected and AI toys as a theme. It notes that under EU rules an AI toy that encourages children to take risks would be banned, and that toys where AI performs a safety function face third-party checks.</p>\n<h2>How this connects to the Humasure Directives</h2>\n<p>These checks follow <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>, <a href=\"https://humasure.org/directives/#d4\">D4 Honest identity</a>, <a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a>, <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>, <a href=\"https://humasure.org/directives/#d7\">D7 No manipulation</a> and <a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a>. For more, see our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask about any AI product</a>.</p>"
+}

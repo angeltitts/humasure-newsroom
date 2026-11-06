@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-06-uk-mps-ai-chatbot-toys-under-16s",
+ "type": "news",
+ "slug": "uk-mps-ai-chatbot-toys-under-16s",
+ "title": "UK parliamentarians ask for a ban on AI chatbot toys for children under 16",
+ "excerpt": "More than 40 MPs and peers want AI chatbot toys kept from under-16s until shown to be safe. The UK government says it is urgently investigating the products reported.",
+ "category": "News",
+ "tags": [
+  "United Kingdom",
+  "AI toys",
+  "children",
+  "product safety",
+  "chatbots"
+ ],
+ "directives": [
+  "D3",
+  "D7",
+  "D5",
+  "D9",
+  "D10"
+ ],
+ "names_companies": true,
+ "incident": true,
+ "sources": [
+  {
+   "title": "Byline Times: UK Government, Amazon and eBay investigate AI chatbot toy bunny marketed for toddlers",
+   "url": "https://bylinetimes.com/2026/11/06/uk-government-amazon-and-ebay-investigate-ai-chatbot-toy-bunny-marketed-for-toddlers-which-gave-sexualised-responses-to-questions/"
+  },
+  {
+   "title": "Resultsense: MPs and peers urge ban on AI chatbot toys for under-16s",
+   "url": "https://www.resultsense.com/news/2026-11-04-ai-toys-mps-ban-letter-amazon-ebay/"
+  },
+  {
+   "title": "GOV.UK: Government steps up action to protect children as AI-enabled toys emerge (6 July 2026)",
+   "url": "https://www.gov.uk/government/news/government-steps-up-action-to-protect-children-as-ai-enabled-toys-emerge"
+  },
+  {
+   "title": "GOV.UK: Toys safety regulations call for evidence",
+   "url": "https://www.gov.uk/government/calls-for-evidence/toys-safety-regulations-call-for-evidence/toys-safety-regulations-call-for-evidence"
+  }
+ ],
+ "body_html": "<p>More than 40 members of the UK Parliament have asked the government to stop AI chatbot toys being sold for children under 16 until they are shown to be safe. The letters were released in the first week of November 2026, ahead of the busy pre-Christmas shopping season. The UK government says it is investigating the specific products that prompted the call.</p>\n<h2>What happened</h2>\n<p>AI chatbot toys are soft toys or gadgets with a built-in microphone, speaker and internet connection. They hold spoken conversations with a child, usually by sending what the child says to an AI language model.</p>\n<p>According to Byline Times and Resultsense, a group of MPs and peers (members of the House of Lords) wrote to the Business and Trade Secretary on 3 November 2026. They asked him to use existing consumer protection powers, which Byline Times identifies as section 11 of the Consumer Protection Act 1987, to prohibit the supply of these toys to under-16s. A second letter asked online marketplaces, including Amazon and eBay, to remove the toys from sale. The parliamentarians want independent testing that covers psychological, developmental and privacy risks, not only physical safety.</p>\n<p>The call follows reports about a plush AI companion toy sold online. A UK children's campaign group says its tests found the toy gave sexual answers to a user posing as a child. Byline Times says it did not independently verify the responses, and no regulator has yet published findings. The same campaign group says it found at least 28 AI chatbot toys on sale in the UK with no evidence of safety testing.</p>\n<h2>What the government and sellers say</h2>\n<p>A UK government spokesperson told Byline Times: \"We are concerned by these reports, and are urgently investigating the products identified.\" The UK data protection regulator, the Information Commissioner's Office, said it is examining the privacy implications of AI chatbots and connected toys.</p>\n<p>Amazon said it is removing the products referred to while it investigates. eBay said it is reviewing the listings and noted that AI-enabled toys are not currently illegal in the UK. The company that supplies the toy's software platform told Byline Times that selling it for children with its child safety mode switched off breached its requirements.</p>\n<p>The government is already reviewing UK toy rules. In July 2026 it opened a <a href=\"https://www.gov.uk/government/calls-for-evidence/toys-safety-regulations-call-for-evidence/toys-safety-regulations-call-for-evidence\">call for evidence</a> that lists \"the regulation of toys which are internet connected, and toys which use AI\" as one of its themes. It closed on 6 October 2026, and the government says it will respond in due course.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Whether ministers will use the prohibition power the parliamentarians asked for, or wait for the toy safety review.</li>\n<li>What the official assessment of the reported products will find.</li>\n<li>How many AI chatbot toys are on sale in the UK, and how many have had any independent safety testing.</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>A toy that talks back is no longer only a physical product. What it says can change with each software update or AI model, so a one-time check at the factory cannot show it is safe. That is the gap the parliamentarians point to.</p>\n<p>Several Humasure Directives cover this risk. <a href=\"https://humasure.org/directives/#d7\">D7 No manipulation</a> means a product must not exploit a child's trust. <a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a> covers a microphone in a child's bedroom. <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a> asks that a named business answers for what the product says, and <a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a> asks that safety holds after every update, not just on the day of sale.</p>\n<h2>Questions you can ask any maker</h2>\n<p>Before buying an AI toy, ask the seller who made it, which AI model it uses, what age it was tested for, whether there is a child safety mode that cannot be switched off, and where voice recordings go. Our list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask about any AI product</a> can help, and our <a href=\"https://humasure.org/security/\">security page</a> covers connected devices.</p>\n<p>Reports like this are why independent standards for AI products matter. They are not a reason to fear the technology, but a reason to expect it to be tested before it reaches a child.</p>"
+}

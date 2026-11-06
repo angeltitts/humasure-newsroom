@@ -6,7 +6,7 @@ Environment:
   IG_ACCESS_TOKEN  Page access token with instagram_basic and instagram_content_publish
   GRAPH_BASE       default https://graph.facebook.com/v26.0
   MAX_POSTS        stories to post this run (default 1)
-  MAX_AGE_DAYS     ignore stories older than this (default 14)
+  MAX_AGE_DAYS     ignore stories older than this (default 4)
   DRY_RUN=1        show what would be posted, post nothing
   FB_PAGE_ID       Facebook Page to mirror each post to (default 1504545736066506, the Humasure Ai Page).
                    Needs pages_manage_posts on the same Page token. Set FB_MIRROR=0 to switch mirroring off.
@@ -79,9 +79,10 @@ def main():
         print("Instagram secrets not set yet; nothing posted."); return
     posted = json.loads(STATE.read_text()) if STATE.exists() else {}
     max_posts = int(os.environ.get("MAX_POSTS", "1"))
-    cutoff = (dt.date.today() - dt.timedelta(days=int(os.environ.get("MAX_AGE_DAYS", "14")))).isoformat()
+    cutoff = (dt.date.today() - dt.timedelta(days=int(os.environ.get("MAX_AGE_DAYS", "4")))).isoformat()
     done = 0
-    for f in sorted((ROOT / "posts").glob("*.json")):
+    # newest first: social feeds should carry the latest news; stories older than MAX_AGE_DAYS are left to the website
+    for f in sorted((ROOT / "posts").glob("*.json"), reverse=True):
         if done >= max_posts:
             break
         d = json.loads(f.read_text())

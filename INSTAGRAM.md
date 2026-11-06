@@ -8,7 +8,7 @@ The Instagram workflow (`.github/workflows/instagram.yml`) runs at about 9:30am 
 ## Rules
 - A story is posted only once it is **live** at `https://humasure.org/news/<slug>/`. Stories waiting for approval in WordPress are not public, so the approval gate also applies to Instagram.
 - Stories are posted at most once each. `social/posted.json` records what has been posted.
-- Stories older than 14 days are skipped, so a backlog never floods the feed.
+- Newest stories go first, and stories older than 4 days are left to the website, so the feeds stay current and never flood.
 - On Mondays the workflow checks that the token still works. If it fails, GitHub emails the repository owner.
 
 ## One-time setup (Jonathan; about 30 minutes)

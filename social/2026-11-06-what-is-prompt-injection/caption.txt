@@ -1,0 +1,10 @@
+What is prompt injection, and why does it matter for AI agents?
+
+Hidden instructions in an email or web page can steer an AI assistant. What prompt injection is, why it is hard to fix, and how good design limits the damage.
+
+Why it matters: D2 Bounded autonomy, D6 Secure and supported, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: UK National Cyber Security Centre; UK National Cyber Security Centre; NIST.
+
+#HumanInCharge #AISafety #RobotSafety

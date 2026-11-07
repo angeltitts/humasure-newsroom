@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-07-what-bounded-autonomy-means",
+  "type": "explainer",
+  "slug": "what-bounded-autonomy-means",
+  "title": "What \"bounded autonomy\" means for AI agents and robots",
+  "excerpt": "An AI agent or robot with bounded autonomy can act on its own, but only inside limits a person set and can check. Here is what those limits look like and what to ask.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "Singapore",
+    "India",
+    "AI agents",
+    "robots",
+    "bounded autonomy"
+  ],
+  "directives": [
+    "D2",
+    "D1",
+    "D9",
+    "D6"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "CERT-In: Artificial Intelligence (AI) Security Auditing Guidelines v1.0 (4 November 2026)",
+      "url": "https://www.cert-in.org.in/PDF/AI_Security_Auditing_Guidelines.pdf"
+    },
+    {
+      "title": "Allen & Gledhill: Singapore launches new Model AI Governance Framework for Agentic AI",
+      "url": "https://www.allenandgledhill.com/sg/publication/articles/32314/launches-new-model-ai-governance-framework-for-agentic-ai"
+    }
+  ],
+  "body_html": "<p>AI agents can now book, buy, send and change things for people, and robots can move through homes, shops and factories. \"Bounded autonomy\" is the idea that such a system may act on its own, but only inside limits that a person has set, can see and can change. It is Humasure Directive <a href=\"https://humasure.org/directives/#d2\">D2</a>.</p>\n<p>Bounded autonomy is not the same as a human approving every step. That would make most agents and robots pointless. It means deciding in advance where the system is free to act, where it must stop and ask, and where it may never go.</p>\n<h2>The main kinds of limits</h2>\n<ul>\n<li><strong>Task scope:</strong> what the system is for. An agent set up to reorder groceries should not start changing your bank details.</li>\n<li><strong>Access:</strong> which accounts, tools, files and devices it can reach. Security specialists call this \"least privilege\": give only the access the task needs.</li>\n<li><strong>Amounts and reach:</strong> how much it may spend, how many messages it may send, how many records it may change at once.</li>\n<li><strong>Time:</strong> how long a permission lasts before it must be renewed.</li>\n<li><strong>Physical space:</strong> for robots, which rooms or areas they may enter and how fast or forcefully they may move near people.</li>\n<li><strong>Checkpoints:</strong> named moments, such as payments, deletions or anything that cannot be undone, where the system must stop and get a person's approval.</li>\n</ul>\n<h2>What regulators are asking for</h2>\n<p>Singapore's Infocomm Media Development Authority (IMDA) launched a <a href=\"https://www.allenandgledhill.com/sg/publication/articles/32314/launches-new-model-ai-governance-framework-for-agentic-ai\">Model AI Governance Framework for Agentic AI</a> in January 2026. Its first step is to \"assess and bound the risks upfront\": decide limits at the planning stage, such as restricting an agent's access to tools and outside systems, give agents their own identities and access controls so their actions can be traced, and define points in a workflow, especially high-stakes or irreversible actions, where a person must approve.</p>\n<p>India's national cyber security agency, CERT-In, published <a href=\"https://www.cert-in.org.in/PDF/AI_Security_Auditing_Guidelines.pdf\">AI Security Auditing Guidelines</a> on 4 November 2026. They treat autonomy as a risk factor in its own right. Systems that take consequential actions on their own, hold privileged access, or cannot be safely interrupted or rolled back move into a higher risk tier and face stricter audits. The guidelines also ask for human approval before consequential actions, the ability to override, tested oversight, logs of decisions and overrides, and access for connectors limited to what is approved.</p>\n<h2>Why limits need to be visible</h2>\n<p>A limit only keeps you in charge if you can see it and change it. A hidden setting chosen by the maker is not the same as a boundary you agreed to. Limits also need to hold when something goes wrong: if an agent is tricked by text hidden in a web page or email, its access rules should still stop it from going further than allowed. That is why bounded autonomy goes together with being able to stop the system (<a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>), keeping it secure (<a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>) and knowing who answers for it (<a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>).</p>\n<h2>Questions to ask before you let an agent or robot act for you</h2>\n<ol>\n<li>What exactly can it do without asking me, and where is that written down?</li>\n<li>Which of my accounts, devices or rooms can it reach, and can I narrow that?</li>\n<li>Are there spending or volume limits, and can I set my own?</li>\n<li>Which actions always need my approval, and can I add to that list?</li>\n<li>Does it keep a record of what it did that I can read?</li>\n<li>How do I stop it at once, and can its last actions be undone?</li>\n</ol>\n<p>If the answers are vague, treat that as information. More questions are on our <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a> page.</p>"
+}

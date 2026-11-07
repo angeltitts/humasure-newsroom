@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-07-australia-automated-decisions-privacy-policies",
+ "type": "explainer",
+ "slug": "australia-automated-decisions-privacy-policies",
+ "title": "Australia: from 10 December, privacy policies must say when computers decide",
+ "excerpt": "From 10 December 2026, Australian organisations must explain in their privacy policies when computer programs, including AI, help make decisions that significantly affect people.",
+ "category": "Explainers",
+ "tags": [
+  "Australia",
+  "privacy",
+  "automated decisions",
+  "transparency",
+  "AI at work"
+ ],
+ "directives": [
+  "D9",
+  "D5",
+  "D8",
+  "D4"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "OAIC: New resources on transparency for use of AI and automated decision-making (30 September 2026)",
+   "url": "https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making"
+  },
+  {
+   "title": "OAIC: APP 1.7-1.9 Transparency Obligation Fact Sheet (September 2026)",
+   "url": "https://www.oaic.gov.au/__data/assets/pdf_file/0021/269013/APP-1.7-1.9-Transparency-Obligation-Fact-Sheet.PDF"
+  },
+  {
+   "title": "Allens: Mandatory automated decision-making disclosure requirements are coming (October 2026)",
+   "url": "https://www.allens.com.au/insights-news/insights/2026/10/mandatory-automated-decision-making-disclosure-requirements-are-coming-key-takeaways-from-the-oaic-guidance/"
+  }
+ ],
+ "body_html": "<p>From 10 December 2026, many organisations in Australia must tell people, in their privacy policies, when computer programs make or help make decisions that could significantly affect them. The rule covers simple rule-based software as well as AI. It is one of the first privacy rules anywhere to name automated decisions this directly.</p>\n<p>This explainer sets out what the rule asks for, what it does not do, and how you can use it.</p>\n<h2>Where the rule comes from</h2>\n<p>The duty was added to Australia's Privacy Act by the Privacy and Other Legislation Amendment Act 2024. It appears as three new parts of Australian Privacy Principle 1 (APP 1.7 to 1.9), the principle on open and transparent handling of personal information. The Office of the Australian Information Commissioner (OAIC), Australia's privacy regulator, published guidance, a fact sheet and a flowchart on 30 September 2026. In the OAIC's words: \"Changes to privacy obligations for APP entities come into effect on 10 December 2026.\"</p>\n<p>\"APP entities\" are the organisations covered by the Privacy Act. They include Australian government agencies, for which the OAIC issued a separate fact sheet, and many private-sector organisations.</p>\n<h2>When it applies</h2>\n<p>According to the OAIC, the duty applies when all three of these are true:</p>\n<ol>\n<li>The organisation has arranged for a computer program to make a decision, or to do something substantially and directly related to making one.</li>\n<li>The decision could reasonably be expected to significantly affect a person's rights or interests.</li>\n<li>Personal information about that person is used to run the program.</li>\n</ol>\n<p>The OAIC's examples include recruitment software that makes hiring decisions, approving loans or credit, assessing insurance eligibility, deciding eligibility for government benefits or housing, ranking employees for promotions or bonuses, personalised pricing of significant goods, and facial recognition used to match people against a watchlist.</p>\n<p>A human in the loop does not automatically take a decision out of scope. The OAIC says a decision can still be covered when a person reviews the program's output, and that outputs of machine learning and generative AI generally stay in scope unless they are under extensive human oversight and control.</p>\n<h2>What the privacy policy must say</h2>\n<ul>\n<li>The kinds of personal information the programs use.</li>\n<li>The kinds of decisions made solely by those programs.</li>\n<li>The kinds of decisions where the programs carry out a substantially and directly related step.</li>\n</ul>\n<p>The OAIC asks organisations to write this so people can understand it, and to say clearly when sensitive information, such as health information or biometric data, is used.</p>\n<h2>What it does not do</h2>\n<p>This is a transparency rule only. According to legal analysis of the guidance, it does not give people a new right to challenge an automated decision, and it does not require organisations to notify each person directly. The organisation that uses the software is responsible for the disclosure, not the companies that supplied it.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>You cannot question a decision if you do not know a machine was involved. Knowing is the first step to asking for a human review, correcting wrong data or complaining. That links to <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a> (someone must answer for each decision), <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>, <a href=\"https://humasure.org/directives/#d8\">Directive 8, Fair treatment</a>, and <a href=\"https://humasure.org/directives/#d4\">Directive 4, Honest identity</a>, which asks that people know when they are dealing with a machine.</p>\n<h2>How to use it</h2>\n<ul>\n<li>From 10 December, look for a section on automated decisions in the privacy policy of your bank, insurer, employer, landlord or government service.</li>\n<li>If a decision about you seems to involve software, ask which kinds of your information were used and whether a person checked the result.</li>\n<li>If you are not satisfied, you can complain to the organisation first and then to the OAIC.</li>\n</ul>\n<p>Outside Australia, similar questions apply to any AI used at work or in services. See our <a href=\"https://humasure.org/ai-at-work/\">AI at work</a> page and <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

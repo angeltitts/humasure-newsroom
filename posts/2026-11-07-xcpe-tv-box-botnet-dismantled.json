@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-07-xcpe-tv-box-botnet-dismantled",
+ "type": "news",
+ "slug": "xcpe-tv-box-botnet-dismantled",
+ "title": "Botnet built into 1.3 million TV boxes taken down, Google says maker planted it",
+ "excerpt": "Google, Japan's National Police Agency and security firms disrupted a botnet preinstalled on more than 1.3 million Android TV boxes in over 200 countries.",
+ "category": "News",
+ "tags": [
+  "global",
+  "Japan",
+  "Australia",
+  "China",
+  "security",
+  "connected devices",
+  "supply chain",
+  "botnet"
+ ],
+ "directives": [
+  "D6",
+  "D10",
+  "D9",
+  "D5"
+ ],
+ "names_companies": true,
+ "incident": true,
+ "sources": [
+  {
+   "title": "Google Threat Intelligence Group: Shutting the Door on the XCPE Botnet (2 November 2026)",
+   "url": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet"
+  },
+  {
+   "title": "The Record: Google dismantles botnet hidden in Android TV boxes (3 November 2026)",
+   "url": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes"
+  },
+  {
+   "title": "iTnews: Chinese Videostrong botnet hit Android TV boxes in Australia, researchers say (4 November 2026)",
+   "url": "https://www.itnews.com.au/news/chinese-videostrong-botnet-hit-android-tv-boxes-in-australia-researchers-630083"
+  }
+ ],
+ "body_html": "<p>A network of hijacked devices, known as the XCPE botnet, has been disrupted after it spread through more than 1.3 million Android TV set-top boxes in more than 200 countries. Google's Threat Intelligence Group announced the action on 2 November 2026. It said the takedown happened in late October working with Japan's National Police Agency and several security companies.</p>\n<p>What makes this case unusual is where the malicious code came from. According to Google, it was not added by outside attackers after sale. It was built into the devices' firmware before they reached customers.</p>\n<h2>What happened, according to official sources</h2>\n<p>Google says the hidden software sat in a protected part of the device's system, so owners could not remove it, and it reinstalled itself after a restart. The software was used to sell access to people's home internet connections as a \"residential proxy\" network, to commit advertising fraud, to load further malicious apps, and to run commands on the devices. Besides TV boxes, Google says it saw the same malware on other Android-based devices, including telehealth devices, karaoke machines and digital signs.</p>\n<p>Google states that it assesses \"with high confidence\" that the backdoor and botnet were developed and operated for profit by Videostrong Technology, a device maker based in Shenzhen, China. Google says the company used hiding techniques to pass its compatibility and security tests. Videostrong had not responded publicly to these findings when news outlets asked for comment.</p>\n<p>Google has cut ties with the company, banned it and any future affiliates from making or selling certified Android devices, and taken legal action to shut down the control servers of the botnet and of more than a dozen other malware families found on the devices. Google estimates this also cut criminals off from at least 10 million further compromised devices. In Australia, security researchers counted about 34,000 affected home devices.</p>\n<blockquote>\"A device manufacturer intentionally infecting their users with malware is an unacceptable breach of trust.\" (Google Threat Intelligence Group)</blockquote>\n<h2>What is still unknown</h2>\n<p>Google has not published a full list of affected brands and models. It has not said whether owners will be notified, or whether the malware will be removed from devices already in homes. Google says cutting the control servers makes the software harmless for now, but the code itself may remain on the boxes. The maker's side of the story has not been heard.</p>\n<h2>Which Directives cover this risk</h2>\n<p>A hacked device is one nobody is in charge of. In this case, Google says the loss of control was built in from the start. That is the risk covered by <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>: a product should be secure as delivered and kept secure by updates. <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, covers what happens to devices already sold when a problem is found. <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks that a named maker answers for what its products do, and <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>, matters because a home internet connection was sold to strangers without the owner's knowledge.</p>\n<p>The same supply-chain risk applies to any connected product, including home robots and AI assistants, which rely on firmware few owners can inspect. This is why independent testing of what a device actually does, not only what a maker says, matters.</p>\n<h2>Questions you can ask any maker</h2>\n<ul>\n<li>Who wrote the software on this device, and has it been checked by someone independent?</li>\n<li>Is the device certified by its operating system's provider, and how can I check that?</li>\n<li>How long will it receive security updates, and how will you tell me if a problem is found?</li>\n<li>Does the device or any app on it share my internet connection with others?</li>\n</ul>\n<p>Google advises buying connected devices from reputable makers and being wary of apps that offer payment for \"unused bandwidth\". More questions are on our <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a> page, and our <a href=\"https://humasure.org/security/\">Security</a> page explains why security is part of staying in charge. Cases like this are a reason for clear, independent standards, not a reason to fear the technology.</p>"
+}

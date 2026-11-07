@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-07-us-occ-bank-ai-agent-oversight-framework",
+ "type": "news",
+ "slug": "us-occ-bank-ai-agent-oversight-framework",
+ "title": "US bank supervisor: judge AI by what it can do, not how clever it is",
+ "excerpt": "A US banking regulator told its examiners on 4 November 2026 to scale AI checks to the harm a system could cause, with tighter limits where AI acts on its own.",
+ "category": "Regulation",
+ "tags": [
+  "United States",
+  "banking",
+  "AI agents",
+  "human oversight",
+  "regulation",
+  "OCC"
+ ],
+ "directives": [
+  "D2",
+  "D1",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Office of the Comptroller of the Currency: Bulletin 2026-54, Super Intelligence: Supervisory Framework (4 November 2026)",
+   "url": "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html"
+  },
+  {
+   "title": "Reuters via KELO: US bank regulator issues first-ever AI guidance for examiners (4 November 2026)",
+   "url": "https://kelo.com/2026/11/04/us-bank-regulator-issues-first-ever-ai-guidance-for-examiners/"
+  },
+  {
+   "title": "FourWeekMBA: OCC gives bank examiners 4 AI risk tiers, payment agents top",
+   "url": "https://fourweekmba.com/ai-occ-gives-bank-examiners-4-ai-risk-tiers-payment-agents-top/"
+  }
+ ],
+ "body_html": "<p>The Office of the Comptroller of the Currency (OCC), the US federal agency that supervises national banks and federal savings associations, published a framework on 4 November 2026 that tells its bank examiners how to review the way banks use AI. The agency describes it as the first guidance of its kind for its examiners.</p>\n<p>The central idea is simple: the risk of an AI system depends on what it is allowed to do and what happens if it gets something wrong, not on how advanced the technology is.</p>\n<h2>What the framework says</h2>\n<p>According to the OCC's bulletin, examiners should classify a bank's AI uses by three things: the potential consequences, the \"transfer of agency\" (how much the system acts on its own rather than advising a person), and the degree of human oversight. The bulletin says control intensity could increase with the potential consequences of an AI agent failing or being misused.</p>\n<p>Reporting on the guidance gives a clear example. A simple, rules-based agent that is allowed to start transactions may carry more risk than a sophisticated model used inside the bank to draft text. For higher-risk uses, the guidance points to tighter limits on autonomy or more direct human oversight.</p>\n<p>Summaries of the 22-page framework document describe illustrative risk tiers. At the top are systems that act directly with little or no way to reverse the result, such as a fully autonomous payment agent that deals with customers. At the bottom are internal productivity tools. The same summaries say the framework lists controls for agents that act incorrectly, including circuit breakers, rate limits, minimum permissions and kill switches. Humasure has not been able to read the framework document itself, so these details rest on secondary reporting.</p>\n<h2>What it does not do</h2>\n<p>The framework is a tool for examiners, not a new rule. The bulletin states: \"This supervisory framework does not establish supervisory expectations for banks.\" It creates no new legal requirements. Examiners are told not to treat AI as a separate category of risk, and banks are not required to set a separate risk appetite for it. Instead, the framework adds to existing practice on model risk, governance, technology, compliance and operational risk. Banks usually follow such guidance closely even when it is not binding.</p>\n<p>The OCC also uses a new term. Its documents call these technologies \"super intelligence\" (SI), defined as the technologies previously called artificial intelligence in US law, plus their fast-growing capabilities. The bulletin links this wording to a US presidential executive order of October 2026. The change of name does not change what is covered: the same chatbots, models and agents that banks already use.</p>\n<p>It is not yet known how examiners will apply the tiers in practice, or whether other US bank regulators will issue matching guidance. The OCC says it will update the framework as the technology changes.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>The framework measures risk the way Humasure does: by what a system can do to people, and how easily a human can step in. That is the idea behind <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>: an AI agent should act only within clear limits, and the more it can do on its own, the tighter those limits should be. It also connects to <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>, since a kill switch is only useful if someone can use it in time, and <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, because the bank stays responsible for what its agents do.</p>\n<p>For customers, the practical question is whether an AI system can move money or change an account without a person checking first. Our <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a> page has questions you can put to any company that uses AI agents on your behalf.</p>"
+}

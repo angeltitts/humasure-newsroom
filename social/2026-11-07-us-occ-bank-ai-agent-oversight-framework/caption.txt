@@ -1,0 +1,10 @@
+US bank supervisor: judge AI by what it can do, not how clever it is
+
+A US banking regulator told its examiners on 4 November 2026 to scale AI checks to the harm a system could cause, with tighter limits where AI acts on its own.
+
+Why it matters: D2 Bounded autonomy, D1 Always stoppable, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Office of the Comptroller of the Currency; Reuters via KELO; FourWeekMBA.
+
+#HumanInCharge #AISafety #RobotSafety #AIRegulation #UnitedStates

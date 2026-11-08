@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-08-hong-kong-know-your-agent-banking",
+  "type": "news",
+  "slug": "hong-kong-know-your-agent-banking",
+  "title": "Hong Kong asks how banks should identify and control AI agents acting for customers",
+  "excerpt": "Hong Kong's banking regulator has opened a discussion on AI agents that act for customers, including a possible \"Know Your Agent\" standard and a register of agents.",
+  "category": "Regulation",
+  "tags": [
+    "Hong Kong",
+    "Asia-Pacific",
+    "AI agents",
+    "banking",
+    "agent identity",
+    "human oversight"
+  ],
+  "directives": [
+    "D2",
+    "D4",
+    "D9",
+    "D1"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "The Paypers: HKMA launches Project SAGE to support agentic finance in Hong Kong (4 November 2026)",
+      "url": "https://thepaypers.com/fintech/news/hkma-launches-project-sage-to-support-agentic-finance-in-hong-kong"
+    },
+    {
+      "title": "AF.net / The Digital Banker: HKMA launches Project SAGE as banks prepare for agentic AI (3 November 2026)",
+      "url": "https://af.net/realtime/hkma-launches-project-sage-as-79-bank-readiness-meets-14-consumer-trust-in-agentic-ai/"
+    },
+    {
+      "title": "FinTech Global: HKMA's ART framework sets rules for agentic AI in banking (23 October 2026)",
+      "url": "https://fintech.global/2026/10/23/hkmas-art-framework-sets-rules-for-agentic-ai-in-banking/"
+    }
+  ],
+  "body_html": "<p>Hong Kong's banking regulator, the Hong Kong Monetary Authority (HKMA), has started a public discussion on AI agents that can carry out financial tasks on a customer's behalf. On 2 November 2026 it launched Project SAGE, short for \"Securing Agentic Finance with Governance and Enablement\", and issued a discussion paper on how banks use agentic AI.</p>\n<p>An AI agent is different from a chatbot. A chatbot answers questions. An agent can plan steps, connect to other systems and, within limits it has been given, make payments or other transactions. That raises a practical question for any bank: when a request arrives, is it from the customer, from an agent the customer really authorised, or from something else?</p>\n<h2>What the project will look at</h2>\n<p>According to reports on the launch, Project SAGE has four areas of work:</p>\n<ul>\n<li><strong>Use cases:</strong> supporting industry trials such as agent-led shopping, business treasury and procurement, and payments made directly between machines.</li>\n<li><strong>Agent identity:</strong> how to check who an agent is and what authority it has been given. This is sometimes called \"Know Your Agent\", by analogy with the \"Know Your Customer\" checks banks already run on people.</li>\n<li><strong>Interoperability:</strong> common standards and protocols so agents and banks can interact securely.</li>\n<li><strong>Law and regulation:</strong> governance, liability and consumer protection, including whether to adopt a common Know Your Agent standard or a central register of agents.</li>\n</ul>\n<p>The HKMA has also formed an Agentic Finance Expert Group of banks, technology providers, professional services firms and academics to support the work.</p>\n<h2>Building on October's guidance</h2>\n<p>The project follows the HKMA's \"ART\" framework of 15 October 2026, built on accountability, resilience and trust. That package included new supervisory guidance on responsible AI and promised a paper on supervising agentic AI. Reporting at the time said the paper would examine \"intent-anchored accountability\" (tying responsibility for an agent's action back to the original instruction), a register of material AI agents, and ways to intervene effectively when needed.</p>\n<h2>What is not decided</h2>\n<p>None of this is a binding rule yet. The HKMA has not introduced mandatory licensing or identity standards for agents and is asking the industry for views first. The reports we reviewed did not give a deadline for feedback, and we were not able to read the full discussion paper, so the detail of any proposals may differ from these summaries.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>When an agent can move money, three things matter to the person it acts for. First, the agent should do only what it was allowed to do, within clear limits (<a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>). Second, everyone in the chain should be able to tell that an agent, not a human, is acting, and on whose behalf (<a href=\"https://humasure.org/directives/#d4\">D4 Honest identity</a>). Third, when something goes wrong, there must be a way to step in and someone who answers for it (<a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a> and <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>).</p>\n<p>A shared way to identify agents and record what they were authorised to do would support all three. Hong Kong joins other financial regulators, including those in Singapore and the United States, that are working out how to supervise AI agents before they become common in everyday banking.</p>"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-08-desktop-ai-robot-hijack-flaws-fixed",
+  "type": "news",
+  "slug": "desktop-ai-robot-hijack-flaws-fixed",
+  "title": "Researchers show how a desktop AI robot could be taken over on a home network",
+  "excerpt": "Security researchers found flaws that could let someone on the same network run code on the Reachy Mini robot and use its camera, microphone and motors. Updates are available.",
+  "category": "News",
+  "tags": [
+    "global",
+    "robots",
+    "home robots",
+    "security",
+    "vulnerability",
+    "connected devices"
+  ],
+  "directives": [
+    "D6",
+    "D5",
+    "D1",
+    "D10"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "JFrog Security Research: bREACHYing the Perimeter: How One HTTP Request can Hijack your AI Robot (3 November 2026)",
+      "url": "https://jfrog.com/blog/reachy-http-request-hijacks-ai-robot/"
+    },
+    {
+      "title": "INCIBE-CERT (Spain): CVE-2026-96455 vulnerability record",
+      "url": "https://www.incibe.es/index.php/en/incibe-cert/early-warning/vulnerabilities/cve-2026-96455"
+    },
+    {
+      "title": "Pollen Robotics on GitHub: reachy_mini release v1.11.0",
+      "url": "https://github.com/pollen-robotics/reachy_mini/releases/tag/v1.11.0"
+    }
+  ],
+  "body_html": "<p>Security researchers have published details of five software flaws in Reachy Mini, a small open-source desktop companion robot from Pollen Robotics and Hugging Face, aimed mainly at education and research. The flaws could let someone on the same network run their own code on the robot and use its camera, microphone and motors. The makers have released updated software, and there are no reports of the flaws being used in real attacks.</p>\n<h2>What happened</h2>\n<p>The research was published on 3 November 2026 by JFrog, a software security company. It says it first reported the main problems to Pollen Robotics on 17 May 2026, and that the flaws were given public CVE identifiers (the standard numbering system for known vulnerabilities) between June and September.</p>\n<p>The most serious flaw, CVE-2026-96455, is in the robot's control software. According to the national vulnerability record published by INCIBE-CERT, Spain's national cybersecurity response team, the robot's app-installation function did not ask for any login. On wireless units the software listened on every network connection, so any device on the same network could tell the robot to install code chosen by an attacker. INCIBE-CERT lists its severity as 8.8 out of 10 (\"high\").</p>\n<p>JFrog's report describes what an attacker on the network could then do: run code on the robot, gain full control of its operating system, move its motors, and access its camera and microphone. It also describes a variant where the robot's owner only has to visit a malicious web page while the robot is reachable on their network. In JFrog's words, \"The daemon binds to all interfaces in every mode.\"</p>\n<p>The other flaws involve file uploads, Bluetooth pairing and a way for a local user to gain more privileges.</p>\n<h2>What the makers have done</h2>\n<p>JFrog reports that one flaw was fixed in version 0.2.7 on 27 May 2026, and that version 1.11.0 of the robot's software is not vulnerable to the issues it found. The vulnerability record for CVE-2026-96455 links to a code change and to the <a href=\"https://github.com/pollen-robotics/reachy_mini/releases/tag/v1.11.0\">v1.11.0 release</a> as fix references. We did not find a separate public statement from the makers.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Whether any robot has been attacked this way. JFrog describes research and a proof of concept, not attacks it has seen.</li>\n<li>How many robots in use are still running older software.</li>\n<li>Whether other scenarios JFrog raises, such as an attack spreading from one robot to others, are practical outside a lab. JFrog presents these as possibilities.</li>\n</ul>\n<h2>What owners can do</h2>\n<p>JFrog's advice to owners is to update to version 1.11.0 or later as soon as possible, to install only apps they trust, and, where possible, to keep the robot on a separate part of the network from computers and phones.</p>\n<h2>Which Directives cover this risk</h2>\n<p>A robot with a camera, microphone and moving parts needs to stay under its owner's control. That depends on security updates arriving and being easy to install (<a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>), on sensors not being reachable by strangers (<a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a>), and on the owner, not someone else on the network, deciding what the robot does (<a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>). Because fixes keep arriving long after a robot is bought, support over the product's whole life matters too (<a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a>). A hacked robot is one nobody is in charge of.</p>\n<p>Finding and fixing flaws like these, and publishing them openly, is how security is supposed to work. It is also why independent standards for connected robots matter.</p>\n<h2>Questions to ask any maker</h2>\n<ul>\n<li>Does every function that can change the robot, such as installing apps, require a login?</li>\n<li>How do I get security updates, and are they automatic?</li>\n<li>For how long will this robot receive security fixes?</li>\n<li>How do I report a security problem, and how quickly do you respond?</li>\n</ul>\n<p>More questions are in our guide <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>, and our page on <a href=\"https://humasure.org/security/\">security</a> explains why it is part of staying in charge.</p>"
+}

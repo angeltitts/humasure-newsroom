@@ -1,0 +1,10 @@
+India's cyber agency sets four risk tiers for auditing AI systems, including agents
+
+India's CERT-In published AI security auditing guidelines on 4 November 2026. Higher-risk systems, including some AI agents, face independent audits and must stay stoppable and reversible.
+
+Why it matters: D1 Always stoppable, D2 Bounded autonomy, D6 Secure and supported.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: CERT-In; The 420.in; Risk Management Association of India.
+
+#HumanInCharge #AISafety #RobotSafety #AIRegulation #India

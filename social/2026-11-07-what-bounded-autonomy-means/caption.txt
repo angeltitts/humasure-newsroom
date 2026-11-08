@@ -1,0 +1,10 @@
+What "bounded autonomy" means for AI agents and robots
+
+An AI agent or robot with bounded autonomy can act on its own, but only inside limits a person set and can check. Here is what those limits look like and what to ask.
+
+Why it matters: D2 Bounded autonomy, D1 Always stoppable, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: CERT-In; Allen & Gledhill.
+
+#HumanInCharge #AISafety #RobotSafety

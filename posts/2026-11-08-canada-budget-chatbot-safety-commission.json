@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-08-canada-budget-chatbot-safety-commission",
+ "type": "news",
+ "slug": "canada-budget-chatbot-safety-commission",
+ "title": "Canada's budget funds a new online safety regulator that would cover AI chatbots",
+ "excerpt": "Canada's Budget 2026, released on 5 November, sets aside money for a commission to enforce new duties on social media and AI chatbots, and floats a body to test advanced AI.",
+ "category": "Regulation",
+ "tags": [
+  "Canada",
+  "AI chatbots",
+  "children",
+  "online safety",
+  "regulation",
+  "AI governance"
+ ],
+ "directives": [
+  "D1",
+  "D4",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Government of Canada: Budget 2026, Chapter 5: A safe and sovereign Canada",
+   "url": "https://budget.canada.ca/2026/report-rapport/chap5-en.html"
+  },
+  {
+   "title": "Gowling WLG: Investing in intelligence: What Budget 2026 means for AI in Canada (6 November 2026)",
+   "url": "https://gowlingwlg.com/en-ca/insights-resources/articles/2026/investing-in-intelligence"
+  },
+  {
+   "title": "iPhone in Canada: Budget 2026: What changes for cell phones, AI and tech in Canada (5 November 2026)",
+   "url": "https://www.iphoneincanada.ca/2026/11/05/canada-budget-2026-cell-phone-ai-tech/"
+  }
+ ],
+ "body_html": "<p>Canada's federal government released its Budget 2026 on 5 November 2026. Alongside large spending on computing capacity, it includes money for a new regulator that would oversee safety duties for social media services and AI chatbot services, and a commitment to explore an international body that would check whether advanced AI models stay under human control.</p>\n<p>None of this is law yet. The duties come from bills that are still before Parliament, and the budget's own wording on the international body is a promise to explore, not a decision.</p>\n<h2>A regulator for chatbots and social media</h2>\n<p>The budget proposes C$176.3 million over five years, starting in the 2026-27 financial year, and C$29.3 million a year after that, for the Department of Canadian Heritage to set up a Digital Safety and Data Protection Commission of Canada. The commission would enforce Bill C-34, the Safe Social Media Act, which the government introduced in June 2026.</p>\n<p>According to the budget, Bill C-34 sets \"new requirements for social media services and AI chatbot services.\" Its main elements include:</p>\n<ul>\n<li><strong>A duty to protect children:</strong> services would have to build in design features aimed at protecting children from harm.</li>\n<li><strong>A duty to act responsibly:</strong> services would assess risks across seven categories of harmful content and label content that has been generated synthetically.</li>\n<li><strong>Specific chatbot duties:</strong> the budget says AI chatbot services would have specific requirements \"aimed at reducing the risks of harmful content and behaviour.\"</li>\n<li><strong>Reporting tools:</strong> users would get accessible ways to report harmful material.</li>\n</ul>\n<h2>A possible body to test advanced AI</h2>\n<p>The budget says Canada will work with other countries to explore creating a new body, such as a \"Technology Stability Board\", that would assess whether advanced AI models are safe and remain under human control. No structure, budget or timetable for it is given.</p>\n<p>Separately, the budget proposes C$6.2 million over four years, starting in 2027-28, so that Canada can stay involved in GPAI, an international forum on AI where governments share information and build practical tools.</p>\n<h2>What is not in the budget</h2>\n<p>Canada still has no general AI law. Its earlier proposal, the Artificial Intelligence and Data Act, lapsed without becoming law, and the budget does not propose a replacement. Bill C-36, a privacy bill also introduced in June 2026, would add stronger protections for children and more transparency about personal information used in automated systems.</p>\n<p>It is not yet known when Parliament will vote on Bills C-34 and C-36, how the chatbot duties would be written in detail, or when the commission would start work.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Chatbots are increasingly treated by lawmakers as products with safety duties, not only as websites. Canada's approach puts weight on design choices for children, on labelling machine-made content so people know what they are looking at (<a href=\"https://humasure.org/directives/#d4\">D4 Honest identity</a>), and on having a named regulator that can hold services to account (<a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>).</p>\n<p>The proposed testing body goes to the most basic question of all: can people still stop and steer the most capable systems (<a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>)? Whether it happens will depend on agreement with other countries.</p>"
+}

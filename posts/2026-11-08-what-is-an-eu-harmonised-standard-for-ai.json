@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-08-what-is-an-eu-harmonised-standard-for-ai",
+ "type": "explainer",
+ "slug": "what-is-an-eu-harmonised-standard-for-ai",
+ "title": "What is a harmonised standard under the EU AI Act, and what does it do?",
+ "excerpt": "The EU AI Act now has its first harmonised standard, for quality management. Here is what that means, what a presumption of conformity is, and what it does not cover.",
+ "category": "Explainers",
+ "tags": [
+  "European Union",
+  "EU AI Act",
+  "standards",
+  "conformity",
+  "high-risk AI"
+ ],
+ "directives": [
+  "D9",
+  "D10",
+  "D6"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "EUR-Lex: Commission Implementing Decision (EU) 2026/2274 of 12 October 2026 on the harmonised standards for high-risk AI systems",
+   "url": "https://eur-lex.europa.eu/eli/dec_impl/2026/2274/oj"
+  },
+  {
+   "title": "European Commission: Understanding the standardisation of the AI Act",
+   "url": "https://digital-strategy.ec.europa.eu/en/faqs/understanding-standardisation-ai-act"
+  },
+  {
+   "title": "AI Act Insight: AI Act harmonised standards: where the presumption stands (checked 5 November 2026)",
+   "url": "https://aiactinsight.eu/en/standards/harmonised-standards/"
+  }
+ ],
+ "body_html": "<p>Laws often say what a product must achieve, such as \"manage risks\" or \"allow human oversight\", without saying exactly how. Harmonised standards fill that gap in the European Union. On 14 October 2026, the EU published the reference to the first harmonised standard for the EU AI Act. This explainer sets out what that means.</p>\n<h2>What a harmonised standard is</h2>\n<p>In the European Commission's words, \"European harmonised standards translate legal requirements into technical specifications.\" They are written by European standards organisations after a formal request from the Commission. For the AI Act, the work is done mainly by a joint technical committee of CEN and CENELEC, two of Europe's official standards bodies, known as JTC 21. The Commission does not write the standards, but takes part as an observer and adviser.</p>\n<p>The Commission lists the areas the AI Act standards are meant to cover for high-risk AI systems: risk management, data quality, record keeping through logs, transparency and information for users, human oversight, accuracy, robustness, cybersecurity, quality management (including monitoring after a product is on the market) and conformity assessment.</p>\n<h2>What a \"presumption of conformity\" means</h2>\n<p>A standard becomes \"harmonised\" in the legal sense when the Commission publishes its reference in the Official Journal of the EU. From that day, under Article 40 of the AI Act, a high-risk AI system that follows the standard is presumed to meet the legal requirements the standard covers.</p>\n<p>According to the Commission, this shifts the burden of proof: if authorities think such a system does not comply, it is up to them to show it. For makers, that gives legal certainty. For the public, it means there is a shared, published yardstick that products can be measured against.</p>\n<h2>The first one: quality management</h2>\n<p>Commission Implementing Decision (EU) 2026/2274, adopted on 12 October 2026 and published on 14 October 2026, lists one standard: EN 18286:2026, a quality management system for AI providers for the purposes of the AI Act. It took effect on the day of publication.</p>\n<p>A quality management system is the set of written processes a provider uses to design, test, document, monitor and fix its product throughout its life. The AI Act requires providers of high-risk AI systems to have one.</p>\n<h2>What it does not do</h2>\n<ul>\n<li><strong>It covers only what it covers.</strong> The presumption applies to the requirements the standard addresses, not to the whole law. A tracker of the standards' status, checked on 5 November 2026, found no harmonised standard yet published for the other core requirements, such as risk management, human oversight or cybersecurity. Drafts are still being prepared.</li>\n<li><strong>It is not a safety label.</strong> Following a standard is a way for a provider to show it meets legal requirements. It is not a public rating of how safe a particular product is.</li>\n<li><strong>It does not replace independent checks.</strong> Voluntary independent certification schemes, including the one Humasure is developing, are separate again and do not create any legal presumption under the AI Act.</li>\n</ul>\n<h2>Why it matters for staying in charge</h2>\n<p>Standards turn promises into things that can be checked. A quality management system is where accountability lives day to day: who signs off, what is tested, and how problems are found and fixed (<a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>). Its focus on monitoring after release supports safety for a product's whole life (<a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a>), and the standards still in preparation on cybersecurity will matter for <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>.</p>\n<p>When a maker says its AI product \"follows the standards\", a fair follow-up question is: which standards, for which requirements, and who checked? You can find more questions like this on our page of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a>.</p>"
+}

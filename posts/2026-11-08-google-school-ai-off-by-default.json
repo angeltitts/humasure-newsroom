@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-08-google-school-ai-off-by-default",
+ "type": "news",
+ "slug": "google-school-ai-off-by-default",
+ "title": "Google to switch AI off by default for school pupils, but Search goes with it",
+ "excerpt": "Google says its AI tools will be off for K-12 student accounts until schools turn them on. Schools that keep AI off will also lose Google Search, which critics question.",
+ "category": "News",
+ "tags": [
+  "United States",
+  "global",
+  "India",
+  "children",
+  "education",
+  "default settings",
+  "AI chatbots"
+ ],
+ "directives": [
+  "D5",
+  "D1",
+  "D9"
+ ],
+ "names_companies": true,
+ "incident": false,
+ "sources": [
+  {
+   "title": "MediaNama: Schools cannot turn off Google AI Overviews and keep Search (November 2026)",
+   "url": "https://www.medianama.com/2026/11/223-google-schools-switch-off-gemini/"
+  },
+  {
+   "title": "Android Central: Google will let schools turn off AI, but they'll have to give up Search too (4 November 2026)",
+   "url": "https://www.androidcentral.com/apps-software/school-google-and-ai"
+  }
+ ],
+ "body_html": "<p>Google announced on 3 November 2026 that several of its AI services will be switched off by default for student accounts in primary and secondary schools (known in the US as K-12) until a school administrator chooses to turn them on. The change is due to start in 2027.</p>\n<p>The catch, according to reports on the announcement, is that Google Search is part of the same switch. A school that keeps AI off will also lose access to Search for its students.</p>\n<h2>What Google announced</h2>\n<p>In a blog post by its head of education, Google said Gemini, Gemini Notebook, Gemini in Classroom and Google Search would be off for K-12 student accounts until administrators explicitly turn them on. After the announcement, Google said schools could turn the services on individually.</p>\n<p>Google explained the change by saying: \"We know there's concern about students using AI to shortcut schoolwork, and schools have told us they want control.\"</p>\n<p>Google also told reporters that Search and AI are now deeply integrated, through features such as AI Overviews and AI Mode, and that it does not offer a version of Search without them. Students at a school that keeps AI off would see a message that Search is not available through their school. For schools that switch AI on, Google says a \"Guided Learning\" mode will walk students through problems step by step rather than handing them answers.</p>\n<h2>Why it is being questioned</h2>\n<p>Reporting by MediaNama and Android Central notes that US senators had asked Google in late October about AI being on by default on school devices, and that several US politicians and a former head of the US Federal Trade Commission criticised linking Search to AI as unfair pressure on schools. A US children's media group had earlier recommended that AI search features be turned off by default for school accounts.</p>\n<p>Google has said the change gives schools more choice over which services their students can use.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Google has not said which countries the new defaults apply to. MediaNama notes that Google aims to reach 75 million students in India by the end of 2027, and that questions about parental consent under India's data protection rules remain open.</li>\n<li>Google says it will share more details with schools in the coming months, so exact dates and controls are not yet public.</li>\n<li>It is not clear whether schools will be able to switch on Search with only some AI features, beyond the guided mode described so far.</li>\n</ul>\n<h2>Why it matters for staying in charge</h2>\n<p>Defaults decide what most people actually get. Starting with AI off for children, and letting the responsible adults decide, follows the principle that sensitive features should be opt-in (<a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a>).</p>\n<p>A real off switch also means the choice to say no should not carry a hidden cost. When turning one feature off takes away a basic tool such as search, the switch is still there, but the choice is harder (<a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>). Clear answers about who decides, and where, are part of being accountable (<a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>).</p>\n<p>Parents and schools can ask any provider the same plain questions: what is on by default, who can change it, and what stops working if you say no. Our list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> is a good place to start.</p>"
+}

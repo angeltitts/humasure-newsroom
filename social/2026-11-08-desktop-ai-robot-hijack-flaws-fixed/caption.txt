@@ -1,0 +1,10 @@
+Researchers show how a desktop AI robot could be taken over on a home network
+
+Security researchers found flaws that could let someone on the same network run code on the Reachy Mini robot and use its camera, microphone and motors. Updates are available.
+
+Why it matters: D6 Secure and supported, D5 Private by default, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: JFrog Security Research; INCIBE-CERT (Spain); Pollen Robotics on GitHub.
+
+#HumanInCharge #AISafety #RobotSafety

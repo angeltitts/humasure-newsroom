@@ -1,0 +1,10 @@
+How to give a home robot or smart device its own Wi-Fi network
+
+Putting robots, cameras and other smart devices on a separate home network limits what an attacker can reach if one of them is hacked. Here is how to do it, step by step.
+
+Why it matters: D6 Secure and supported, D5 Private by default, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: US National Security Agency; GOV.UK (Department for Science, Innovation and Technology).
+
+#HumanInCharge #AISafety #RobotSafety

@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-09-dominican-republic-ai-ethics-code-decree",
+ "type": "news",
+ "slug": "dominican-republic-ai-ethics-code-decree",
+ "title": "Dominican Republic sets binding AI ethics rules for its public services",
+ "excerpt": "A decree signed on 2 November 2026 bans some government uses of AI, requires impact assessments before high-impact systems go live, and gives people the right to ask for human review.",
+ "category": "Regulation",
+ "tags": [
+  "Dominican Republic",
+  "Latin America and the Caribbean",
+  "public sector AI",
+  "human review",
+  "biometrics",
+  "children"
+ ],
+ "directives": [
+  "D9",
+  "D8",
+  "D4",
+  "D5"
+ ],
+ "names_companies": true,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Listín Diario: Gobierno aprueba el Código de Ética de la Inteligencia Artificial (3 November 2026, in Spanish)",
+   "url": "https://listindiario.com/la-republica/gobierno/20261103/gobierno-aprueba-codigo-etica-inteligencia-artificial_928760.html"
+  },
+  {
+   "title": "Revista Mercado: Código de Ética de la IA en RD: qué prohíbe y qué cambia (4 November 2026, in Spanish)",
+   "url": "https://revistamercado.do/money-invest/codigo-etica-inteligencia-artificial-decreto-787-26/"
+  },
+  {
+   "title": "ID Tech Wire: Dominican Republic bars mass biometric identification in public spaces without a court order (6 November 2026)",
+   "url": "https://idtechwire.com/dominican-republic-bars-mass-biometric-identification-in-public-spaces-without-a-court-order/"
+  }
+ ],
+ "body_html": "<p>The Dominican Republic has adopted a binding code of ethics for artificial intelligence used in its public services. President Luis Abinader signed Decree 787-26 on 2 November 2026, and the government published it on 3 November. The code applies to central and decentralised public bodies, including state-owned companies.</p>\n<p>It covers AI that supports public services, AI that helps prepare administrative decisions, AI the state buys, and staff use of tools such as writing assistants when that affects official work. It does not regulate how private companies use AI for their own purposes, although companies selling AI to the state must accept new contract terms.</p>\n<h2>What the code bans</h2>\n<p>According to reports on the decree, public bodies may not use AI for:</p>\n<ul>\n<li>general social scoring that decides access to rights or public services;</li>\n<li>mass biometric identification (face, voice or gait) in public spaces without a specific court order, a legal basis and independent oversight;</li>\n<li>predicting criminality from where people live, their ethnic origin or their economic situation;</li>\n<li>systems that sentence people or deprive them of liberty without direct human involvement;</li>\n<li>covert state manipulation, propaganda or disinformation aimed at citizens;</li>\n<li>autonomous weapons that can cause physical harm without human intervention.</li>\n</ul>\n<p>AI that generates or spreads sexualised or abusive content involving minors, even if synthetic, is banned outright. Any AI aimed at children carries a strong presumption of risk and may be used only if an assessment shows it is necessary.</p>\n<h2>Assessments, registers and the right to a human</h2>\n<p>Before a system that can affect rights, essential services, public money or penalties goes live, the institution must complete an ethical and rights impact assessment. High-impact systems need review by the oversight body and a published summary. Every system goes into an internal register, with an extract on a public transparency portal.</p>\n<p>People must be told clearly when AI supported a decision about them. They can ask for an understandable explanation and for a human review, and can complain or appeal. Systemic errors must be corrected and affected people informed.</p>\n<p>In procurement, suppliers must provide traceability, cybersecurity and state control of Dominican data. The state may not buy \"black box\" systems it cannot audit, and confidentiality clauses cannot block audits.</p>\n<h2>Who oversees it, and what is still open</h2>\n<p>The Directorate General of Government Ethics and Integrity (DIGEIG) supervises compliance and approves high-impact assessments. The Government Office of Information and Communication Technologies (OGTIC) runs the register and portal. A new National Council on AI Ethics, with government, civil society, academic and private-sector members, will review the code.</p>\n<p>Institutions have 180 calendar days from publication to comply. The code sets no penalties of its own; breaches fall under existing public-integrity and administrative rules. Deadlines for answering human-review requests have not yet been set and will depend on each system's impact level.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>The decree puts several principles of human control into binding rules for a whole public sector: a person can ask a human to look again (<a href=\"https://humasure.org/directives/#d9\">D9, accountable</a>), people must be told when AI was involved (<a href=\"https://humasure.org/directives/#d4\">D4, honest identity</a>), and profiling by neighbourhood or ethnicity is ruled out (<a href=\"https://humasure.org/directives/#d8\">D8, fair treatment</a>). The limits on biometric surveillance and data control connect to <a href=\"https://humasure.org/directives/#d5\">D5, private by default</a>.</p>\n<p>How well it works will depend on the deadlines still to be set and on how quickly the register and portal appear.</p>"
+}

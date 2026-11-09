@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-09-singapore-personal-ai-agents-advisory",
+ "type": "news",
+ "slug": "singapore-personal-ai-agents-advisory",
+ "title": "Singapore agencies tell the public how to use personal AI agents safely",
+ "excerpt": "Three Singapore government agencies issued a joint advisory on 6 November 2026: link only the accounts an agent needs, keep it away from sensitive accounts, and approve big actions yourself.",
+ "category": "News",
+ "tags": [
+  "Singapore",
+  "Asia-Pacific",
+  "AI agents",
+  "security",
+  "privacy",
+  "consumer advice"
+ ],
+ "directives": [
+  "D2",
+  "D1",
+  "D5",
+  "D6"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Cyber Security Agency of Singapore: Joint Advisory by CSA, GovTech and IMDA (AD-2026-015, 6 November 2026)",
+   "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-015/"
+  },
+  {
+   "title": "Red Hot Singapore: Singapore authorities urge strict limits on AI agent autonomy, access to personal accounts",
+   "url": "https://www.redhot.sg/singapore-authorities-urge-strict-limits-on-ai-agent-autonomy-access-to-personal-accounts-736328.html"
+  },
+  {
+   "title": "UA.NEWS (citing Channel NewsAsia): Singapore warns of personal AI agent risks (6 November 2026)",
+   "url": "https://ua.news/en/dovkolo-svitu/vlada-singapuru-poperedila-pro-riziki-personalnikh-shi-agentiv-channel-newsasia"
+  }
+ ],
+ "body_html": "<p>Three Singapore government agencies have issued joint advice to the public on using personal AI agents. The Cyber Security Agency of Singapore (CSA), the Government Technology Agency (GovTech) and the Infocomm Media Development Authority (IMDA), which oversees Singapore's digital and media sectors, published the advisory on 6 November 2026 under the title \"Using Personal AI Agents Safely and Securely\".</p>\n<p>A personal AI agent is more than a chatbot that answers questions. Once you connect it to your email, calendar, files or shopping and travel accounts, it can act for you: send messages, book things, move or delete files. The advisory is aimed at ordinary users who are starting to try these tools.</p>\n<h2>The risks the agencies describe</h2>\n<p>According to reports on the advisory, the agencies point to four main risks:</p>\n<ul>\n<li>An agent may expose sensitive information it can reach.</li>\n<li>It may make mistakes, or do more than the user meant it to do.</li>\n<li>Some agents keep running in the background after you have stopped watching them.</li>\n<li>Malicious websites or messages could trick an agent into harmful actions. This is the problem known as prompt injection: hidden instructions placed where the agent will read them.</li>\n</ul>\n<h2>What the agencies advise</h2>\n<p>The practical advice, as reported, is a set of limits that keep the person in charge:</p>\n<ul>\n<li><strong>Connect only what the task needs.</strong> Link only the apps and accounts required, and narrow access inside each service where you can.</li>\n<li><strong>Keep agents away from sensitive accounts.</strong> Do not give them access to banking, government or medical accounts, and do not share card details, passwords, access codes or one-time verification codes with them.</li>\n<li><strong>Start small.</strong> Begin with limited permissions or read-only modes.</li>\n<li><strong>Approve important actions yourself.</strong> Require a separate confirmation before the agent sends messages, deletes or shares files, publishes content or makes purchases.</li>\n<li><strong>Use the real settings.</strong> Change permissions in the app's settings rather than relying only on instructions typed into the chat.</li>\n<li><strong>Review and revoke.</strong> Check regularly what access you have granted, remove what is no longer needed, and keep an eye on what the agent does.</li>\n<li><strong>Know how to stop it.</strong> If an agent behaves unexpectedly or information may have leaked, stop the task, disconnect linked accounts and check for changes you did not make.</li>\n</ul>\n<p>The CSA's announcement page confirms the joint advisory; the detailed points above come from local and international news reports of the full document, which we were not able to open directly.</p>\n<h2>What is not covered</h2>\n<p>This is guidance for the public, not a new law. It does not place new duties on the companies that make AI agents, and the reports we reviewed do not mention any penalties or certification scheme.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>The advice lines up closely with several of the Humasure Directives. Giving an agent only the access a task needs, and asking for approval before consequential steps, is what <a href=\"https://humasure.org/directives/#d2\">bounded autonomy (D2)</a> means in daily life. Knowing how to halt a task and cut off its access reflects <a href=\"https://humasure.org/directives/#d1\">D1, always stoppable</a>. Keeping agents away from banking and medical accounts protects <a href=\"https://humasure.org/directives/#d5\">privacy by default (D5)</a>, and the warning about malicious messages is a reminder that <a href=\"https://humasure.org/directives/#d6\">security (D6)</a> is part of staying in control.</p>\n<p>One point is worth noting: the agencies ask people to set limits in the settings, not in conversation. A limit that exists only as a chat instruction can be forgotten, misread or overridden. A limit built into the product is one the person can check. For more on agents and security, see <a href=\"https://humasure.org/security/\">our security page</a>.</p>"
+}

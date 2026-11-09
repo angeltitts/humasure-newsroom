@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-09-japan-eu-iot-security-label-comparison",
+ "type": "news",
+ "slug": "japan-eu-iot-security-label-comparison",
+ "title": "Japan and EU experts begin comparing connected-device security rules",
+ "excerpt": "A new technical working group will compare Japan's JC-STAR security label for connected devices with the EU Cyber Resilience Act, looking for common ground. Mutual recognition is not decided.",
+ "category": "Regulation",
+ "tags": [
+  "Japan",
+  "European Union",
+  "Asia-Pacific",
+  "connected devices",
+  "security labels",
+  "Cyber Resilience Act"
+ ],
+ "directives": [
+  "D6",
+  "D10"
+ ],
+ "names_companies": true,
+ "incident": false,
+ "sources": [
+  {
+   "title": "METI (Ministry of Economy, Trade and Industry, Japan): Japan-EU cooperation toward comparing JC-STAR and the EU Cyber Resilience Act (press release, 4 November 2026, in Japanese)",
+   "url": "https://www.meti.go.jp/press/2026/11/20261104002.html"
+  },
+  {
+   "title": "Japan Security Summit Update: JC-STAR and EU Cyber Resilience Act comparison gets under way (in Japanese)",
+   "url": "https://japansecuritysummit.org/2026/11/15395/"
+  }
+ ],
+ "body_html": "<p>Japan and the European Union are starting a detailed technical comparison of their security rules for internet-connected products. Japan's Ministry of Economy, Trade and Industry (METI) announced on 4 November 2026 that a new working group will compare Japan's JC-STAR labelling scheme with the EU's Cyber Resilience Act (CRA).</p>\n<h2>What was agreed</h2>\n<p>The basis is a memorandum of cooperation on cybersecurity rules and standards, signed online on 26 October 2026 between the Japan Business Council in Europe (JBCE), an association of Japanese companies operating in Europe, and StandICT.eu, a digital standards project funded by the EU's Horizon Europe research programme.</p>\n<p>Under it, a technical working group run by JBCE, StandICT.eu and Cyberstand.EU will compare the security requirements and the design of the two schemes. METI and the Information-technology Promotion Agency (IPA), the Japanese government agency that runs JC-STAR, will take part alongside European cybersecurity experts. METI says the work will respect each side's right to set its own rules. The stated aim is to identify where the schemes agree and where they differ, so that makers can meet both with less duplicated effort.</p>\n<h2>The two schemes</h2>\n<p><strong>JC-STAR</strong> is Japan's security label for connected (Internet of Things) products such as routers, network cameras and sensors. A product that meets the scheme's security requirements can carry a label. It was set out in METI policy in August 2024, and IPA has run it since March 2025.</p>\n<p><strong>The EU Cyber Resilience Act</strong> is a law that requires makers of products with digital elements to meet cybersecurity requirements across a product's life, including handling vulnerabilities. It entered into force in December 2024. Duties to report actively exploited vulnerabilities and serious incidents began in September 2026, and the main security requirements apply from December 2027.</p>\n<h2>What is not decided</h2>\n<p>This is a comparison, not an agreement to accept each other's labels. One Japanese industry report notes that mutual recognition with the CRA has not been decided, and that the group will look at how far alignment or reuse of test evidence is feasible. Because CRA compliance relies on European standards, standardisation is also expected to be a central question. No timetable for results was given.</p>\n<p>JC-STAR already has mutual recognition arrangements with the United Kingdom's Product Security and Telecommunications Infrastructure (PSTI) regime, from January 2026, and with Singapore's Cybersecurity Labelling Scheme, from June 2026. Earlier Japan–EU comparison workshops were held from November 2025 onwards.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Home robots, smart speakers and other AI devices are connected products, and a connected product is only as trustworthy as its security. A hacked robot is one nobody is in charge of. Security labels give buyers a simple signal that a device meets a baseline, and rules like the CRA add duties that last as long as the product is supported.</p>\n<p>When major markets line up their requirements, makers can spend less effort on paperwork for each country and more on fixing weaknesses, and people can compare labels across borders more easily. That links to two Humasure Directives: <a href=\"https://humasure.org/directives/#d6\">D6, secure and supported</a>, and <a href=\"https://humasure.org/directives/#d10\">D10, safe for its whole life</a>. The details will matter, especially whether any future alignment keeps the stricter requirement where the two schemes differ.</p>\n<p>For questions to ask about any connected device's security, see <a href=\"https://humasure.org/security/\">our security page</a>.</p>"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-09-us-nhtsa-waymo-school-bus-recall-query",
+  "type": "news",
+  "slug": "us-nhtsa-waymo-school-bus-recall-query",
+  "title": "US safety regulator checks whether Waymo's school bus software fix worked",
+  "excerpt": "The US road safety agency has opened a recall query covering 2,895 Waymo robotaxis after reports that cars kept passing stopped school buses after a 2025 software recall.",
+  "category": "News",
+  "tags": [
+    "United States",
+    "robotaxis",
+    "self-driving vehicles",
+    "recalls",
+    "software updates",
+    "NHTSA"
+  ],
+  "directives": [
+    "D3",
+    "D10",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "Claims Journal (Reuters): US Opens Probe into Waymo Vehicles Over School Bus Safety Violations (9 November 2026)",
+      "url": "https://www.claimsjournal.com/news/national/2026/11/09/341192.htm"
+    },
+    {
+      "title": "Yahoo Finance: Waymo Faces a Recall Query on 2,895 Robotaxis",
+      "url": "https://finance.yahoo.com/technology/articles/waymo-faces-recall-query-2-131553542.html"
+    }
+  ],
+  "body_html": "<p>The US National Highway Traffic Safety Administration (NHTSA), the federal agency responsible for road vehicle safety, has opened a recall query into 2,895 driverless vehicles operated by Waymo, the self-driving unit of Alphabet. The query looks at whether a software recall Waymo carried out in late 2025 fixed a problem with its cars passing stopped school buses.</p>\n<p>NHTSA records show the query opened on 6 November 2026, according to Yahoo Finance. Reuters reported it on 9 November 2026. A recall query is not a recall. It is a formal review of whether an earlier recall was enough, and it can lead to a new or wider one.</p>\n<h2>What happened</h2>\n<p>In the United States, drivers must stop when a school bus stops with its red lights flashing and stop arm out, because children may be crossing. NHTSA opened a preliminary investigation in October 2025 after reports of Waymo vehicles failing to do this.</p>\n<p>Waymo then issued a voluntary software recall in December 2025 covering more than 3,000 vehicles using its fifth-generation automated driving system. The company said the update, which makes cars slow down and stay stopped near school buses, was fully deployed by mid-November 2025.</p>\n<p>NHTSA says most of the incidents reported to it took place after that update was completed. Reuters reports that the school district in Austin, Texas documented 19 violations, including one in which a driverless car briefly stopped and then moved on while a student was crossing. Public schools in Atlanta, Georgia recorded six more.</p>\n<p>NHTSA describes the aim this way: \"The recall query will assess the adequacy of the remedy and determine the causes of the post-remedy incidents.\"</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Why the vehicles kept passing school buses after the update. NHTSA has not reached a finding, and we do not speculate on causes.</li>\n<li>The total number of incidents across all cities where Waymo operates.</li>\n<li>Whether the query will lead to a new or wider recall.</li>\n<li>Waymo's response to the new query. Reuters did not carry a fresh statement from the company, and we could not find one at the time of writing.</li>\n</ul>\n<h2>Which Directives cover this risk</h2>\n<p>School zones are among the places where a vehicle's behaviour matters most. Reliably stopping for a school bus is a basic part of <a href=\"https://humasure.org/directives/#d3\">D3 Physical safety</a>.</p>\n<p>The case also shows why a software fix should be checked after it is sent out, not only before. Robotaxis change through over-the-air updates, so safety has to be confirmed across a product's whole working life (<a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a>). And when problems continue, there needs to be a clear process for finding out why and someone who answers for the result. Here that includes a public regulator with the power to review the fix (<a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>).</p>\n<p>Incidents like this are not a reason to fear self-driving technology. They are the reason independent testing, public reporting and follow-up checks exist.</p>\n<h2>Questions to ask any maker</h2>\n<ul>\n<li>How do you test that a safety fix works in real traffic after it is released?</li>\n<li>How do schools, local authorities and the public report a problem, and what happens next?</li>\n<li>Do you publish how often your vehicles break traffic rules, and how that changes after updates?</li>\n<li>Who is responsible when an automated vehicle breaks a safety rule?</li>\n</ul>\n<p>More questions are in our guide <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

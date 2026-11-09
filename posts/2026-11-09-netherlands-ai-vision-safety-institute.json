@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-09-netherlands-ai-vision-safety-institute",
+  "type": "news",
+  "slug": "netherlands-ai-vision-safety-institute",
+  "title": "Netherlands sets out national AI vision and explores its own AI safety institute",
+  "excerpt": "The Dutch government approved a national AI vision on 6 November 2026. It promises to protect rights and public values and to study setting up a Dutch AI safety institute.",
+  "category": "Regulation",
+  "tags": [
+    "Netherlands",
+    "European Union",
+    "AI governance",
+    "AI safety institute",
+    "EU AI Act",
+    "public values"
+  ],
+  "directives": [
+    "D9",
+    "D1",
+    "D8"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Rijksoverheid (Government of the Netherlands): Kabinet kiest voor AI die Nederland vooruithelpt (6 November 2026)",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt"
+    },
+    {
+      "title": "Computable.nl: Kabinet wil ai-ontwikkeling meer sturen (6 November 2026)",
+      "url": "https://www.computable.nl/2026/11/06/kabinet-wil-ai-ontwikkeling-meer-sturen/"
+    },
+    {
+      "title": "Digital Holland: Wat staat er in de AI-visie van kabinet-Jetten",
+      "url": "https://digital-holland.nl/nieuws/wat-staat-er-in-de-ai-visie-van-kabinet-jetten"
+    }
+  ],
+  "body_html": "<p>The Dutch government has approved a national vision on artificial intelligence, titled <em>Kiezen voor AI voor iedereen</em> (\"Choosing AI for everyone\"). The Council of Ministers, the Dutch cabinet, agreed it on 6 November 2026.</p>\n<p>The vision says the Netherlands wants to help shape where AI goes rather than wait for it. Alongside plans to grow the country's AI sector, it makes commitments on safety, rights and control that are relevant to anyone who uses AI.</p>\n<h2>What the vision says on safety and control</h2>\n<ul>\n<li><strong>A possible AI safety institute:</strong> the government will look into setting up a Dutch AI safety institute to spot and deal with new risks early. No decision has been made yet.</li>\n<li><strong>Rights and public values:</strong> the government says it will protect fundamental rights and public values. Dutch technology press reports that the vision states not everything that is technically possible is socially desirable.</li>\n<li><strong>Help with the EU AI Act:</strong> the European Union's AI Act remains the main legal framework. Businesses and public bodies will get support to apply its rules, with room to experiment responsibly with new AI applications.</li>\n<li><strong>People keep a grip:</strong> the government says citizens and organisations should keep control over how AI affects their lives, and people will be invited to give their views on AI's opportunities and limits in 2027 and 2028.</li>\n</ul>\n<h2>Other parts of the plan</h2>\n<p>The vision focuses on care, energy, food production, security and high-tech industry. The government wants enough knowledge and capacity at home to keep access to key technology and make its own choices, though full independence is not the goal. It plans to decide which technology and infrastructure should stay in the Netherlands and Europe, and where working with trusted countries is enough.</p>\n<p>Practical steps include removing barriers that stop small and medium-sized businesses from using AI, sharing successful government AI tools more widely and buying more together across government. A more detailed plan for the computing capacity the country needs is due in early 2027. The published summaries give no budget figures.</p>\n<h2>What is still unknown</h2>\n<p>The government has not said when it will decide on a safety institute, what powers or funding it might have, or how it would work with the EU AI Office and other countries' AI safety institutes. The news release does not say which Dutch authority will supervise the AI Act.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>A national safety institute is one way a country can test AI systems independently and warn early about risks, so that people are not left to judge every product alone. Clear responsibility for who supervises AI, and who answers when something goes wrong, is at the heart of <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. The promise that people should keep control over AI's effects on their lives echoes <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>, and the commitment to fundamental rights links to <a href=\"https://humasure.org/directives/#d8\">D8 Fair treatment</a>.</p>\n<p>The Netherlands joins a growing number of countries that are pairing support for AI with public bodies that check its safety. Humasure will follow whether the safety institute goes ahead.</p>"
+}

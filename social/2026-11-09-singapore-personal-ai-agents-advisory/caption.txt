@@ -1,0 +1,10 @@
+Singapore agencies tell the public how to use personal AI agents safely
+
+Three Singapore government agencies issued a joint advisory on 6 November 2026: link only the accounts an agent needs, keep it away from sensitive accounts, and approve big actions yourself.
+
+Why it matters: D2 Bounded autonomy, D1 Always stoppable, D5 Private by default.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Cyber Security Agency of Singapore; Red Hot Singapore; UA.NEWS (citing Channel NewsAsia).
+
+#HumanInCharge #AISafety #RobotSafety #Singapore

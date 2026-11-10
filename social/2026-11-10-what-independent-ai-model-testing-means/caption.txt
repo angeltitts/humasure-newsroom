@@ -1,0 +1,10 @@
+What does it mean to test an AI model before release, and what can testing miss?
+
+Governments increasingly ask for AI models to be evaluated before and after release. Here is what that testing checks, who does it, and why it is only one part of safety.
+
+Why it matters: D9 Accountable, D2 Bounded autonomy, D10 Safe for its whole life.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: European Commission AI Act Service Desk; techUK.
+
+#HumanInCharge #AISafety #RobotSafety

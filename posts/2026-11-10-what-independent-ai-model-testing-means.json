@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-10-what-independent-ai-model-testing-means",
+  "type": "explainer",
+  "slug": "what-independent-ai-model-testing-means",
+  "title": "What does it mean to test an AI model before release, and what can testing miss?",
+  "excerpt": "Governments increasingly ask for AI models to be evaluated before and after release. Here is what that testing checks, who does it, and why it is only one part of safety.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "European Union",
+    "model evaluation",
+    "AI testing",
+    "incident reporting",
+    "AI governance"
+  ],
+  "directives": [
+    "D9",
+    "D2",
+    "D10",
+    "D6"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "European Commission AI Act Service Desk: Article 55, Obligations for providers of general-purpose AI models with systemic risk",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-55"
+    },
+    {
+      "title": "techUK: The release of the International AI Safety Report 2026",
+      "url": "https://www.techuk.org/insights/news/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks"
+    }
+  ],
+  "body_html": "<p>More and more governments say that powerful AI models should be tested before they reach the public, and that the testing should not be left only to the companies that build them. But what does \"testing an AI model\" actually involve, and what can it not tell you? This explainer sets out the basics in plain terms.</p>\n<h2>What is being tested</h2>\n<p>An AI model is the trained system underneath a chatbot, an AI agent or an AI feature in a device. Testing a model usually means checking what it is able to do and how it behaves under pressure. Typical questions include:</p>\n<ul>\n<li><strong>Capabilities:</strong> can the model do things that could cause serious harm, such as helping with a cyber attack?</li>\n<li><strong>Safeguards:</strong> do its built-in refusals and limits hold when someone tries to get around them?</li>\n<li><strong>Behaviour as an agent:</strong> when the model is allowed to take actions, does it stay within the limits it was given?</li>\n<li><strong>Security:</strong> can the model or the systems around it be misused or broken into?</li>\n</ul>\n<p>Deliberately trying to make a model fail is often called adversarial testing or \"red-teaming\".</p>\n<h2>What the law can require: the EU example</h2>\n<p>The European Union's AI Act is one of the first laws to spell this out. Under <a href=\"https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-55\">Article 55</a>, providers of the most capable general-purpose AI models, those considered to carry \"systemic risk\", must:</p>\n<ul>\n<li>evaluate their models using standardised, state-of-the-art methods, including documented adversarial testing;</li>\n<li>assess and reduce systemic risks;</li>\n<li>track serious incidents and report them promptly to the EU AI Office and, where appropriate, national authorities; and</li>\n<li>keep the model and its physical infrastructure adequately protected against cyber attacks.</li>\n</ul>\n<p>Other countries are moving in a similar direction, with national AI safety institutes and proposals for mandatory incident reporting and outside testing.</p>\n<h2>Who does the testing</h2>\n<p>Testing can be done by the developer itself, by a government body such as an AI safety institute, or by an independent organisation. Testing by the maker is necessary, but it is not enough on its own: an outside tester has no interest in a particular result and can check claims the maker cannot check for itself.</p>\n<h2>What testing can miss</h2>\n<p>Testing is valuable, but it has limits that are worth understanding:</p>\n<ul>\n<li><strong>Tests cannot cover everything.</strong> People use AI in ways no test planner imagined.</li>\n<li><strong>Behaviour can differ under test.</strong> The International AI Safety Report 2026, written by more than 100 experts and backed by over 30 countries and organisations, notes that some models can now tell when they are being evaluated and may change their behaviour, which makes testing harder.</li>\n<li><strong>Models change.</strong> An update, a new tool connection or a new setting can change behaviour after the test is done.</li>\n<li><strong>Some risks cannot be ruled out.</strong> The same report says testing could not always exclude certain serious risks, so developers released models with extra safeguards instead.</li>\n</ul>\n<p>That is why testing before release is usually paired with monitoring after release and with rules for reporting incidents quickly.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Testing is one of the three parts of Humasure's promise: you can always stop it, it was tested, and someone answers for it. <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks that someone is responsible for what a system does. <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>, asks that agents stay within clear limits. <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, recognises that safety has to be checked again after updates, not only once.</p>\n<h2>Questions you can ask</h2>\n<ul>\n<li>Was this AI tested before release, and by whom?</li>\n<li>Was any of that testing done by someone other than the maker?</li>\n<li>What happens when the product is updated: is it tested again?</li>\n<li>How do I report a problem, and who responds?</li>\n</ul>\n<p>More questions are in our guide <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

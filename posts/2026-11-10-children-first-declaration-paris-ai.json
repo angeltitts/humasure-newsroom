@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-10-children-first-declaration-paris-ai",
+  "type": "news",
+  "slug": "children-first-declaration-paris-ai",
+  "title": "Over 50 countries sign Children First Declaration in Paris, with AI testing on the agenda",
+  "excerpt": "A declaration signed at the Paris Peace Forum puts children's well-being in the digital age among its five priorities, with €8 million for research on how AI affects child development.",
+  "category": "News",
+  "tags": [
+    "global",
+    "France",
+    "European Union",
+    "children",
+    "AI chatbots",
+    "AI governance"
+  ],
+  "directives": [
+    "D3",
+    "D7",
+    "D5",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Paris Peace Forum: Une mobilisation mondiale en faveur d'un avenir meilleur pour chaque enfant (10 November 2026)",
+      "url": "https://parispeaceforum.org/fr/communiques-de-presse/une-mobilisation-mondiale-en-faveur-dun-avenir-meilleur-pour-chaque-enfant"
+    },
+    {
+      "title": "The National: UAE among dozens of countries to sign AI safety declaration to protect children (10 November 2026)",
+      "url": "https://www.thenationalnews.com/news/europe/2026/11/10/uae-among-dozens-of-countries-to-sign-ai-safety-declaration-to-protect-children/"
+    },
+    {
+      "title": "Media India: Paris Peace Forum to host first Child Summit since 1990 on November 10-11",
+      "url": "https://mediaindia.eu/events/paris-peace-forum-to-host-first-child-summit-since-1990-on-november-10-11/"
+    }
+  ],
+  "body_html": "<p>More than 50 countries, six international organisations and over 20 other groups signed a Children First Declaration in Paris on 10 November 2026, at the annual meeting of the Paris Peace Forum, an international platform for dialogue on global governance. This year's meeting, held on 10 and 11 November, includes a Child Summit, described by the organisers as the first since 1990.</p>\n<h2>What the declaration says</h2>\n<p>According to the Paris Peace Forum's press release, signatories agree to put children's rights and well-being at the centre of their policies. They name five areas: health, nutrition, education, protection, and psychological well-being in the digital age. The goal is \"tangible results\" by 2045.</p>\n<p>The international organisations signing include UNICEF, UNESCO, the World Health Organization, the UN refugee agency UNHCR, the World Food Programme and the International Committee of the Red Cross. The National, a newspaper based in Abu Dhabi, reports that the United Arab Emirates, Australia, Egypt, South Africa, Spain and Germany are among the signatory countries.</p>\n<h2>Where AI comes in</h2>\n<p>French President Emmanuel Macron, who launched the forum in 2018, said that no AI should be given to children until it has been tested, evaluated and authorised. The National quotes him calling the declaration a \"major step forward.\"</p>\n<p>The organisers said that AI developers, including OpenAI and Anthropic, and child-safety organisations such as Common Sense Media, have committed to support research and tools on how AI affects child development. A total of €8 million was announced for this work. The stated aim is shared understanding first, and over time standards that build child safety into AI design from the start.</p>\n<p>The summit will also launch an Action Hub for Children, a platform for public and private bodies to coordinate their work, and a Child Priority Framework of indicators and good practices for governments.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>The full text of the declaration and the complete list of signatory countries were not available to us at the time of writing.</li>\n<li>The declaration is a political commitment. It does not by itself create binding rules or a testing system for AI products used by children.</li>\n<li>Who would test and authorise AI for children, and against which standards, has not been set out.</li>\n</ul>\n<h2>Why this matters for staying in charge</h2>\n<p>Children already use AI chatbots, AI toys and connected devices, and they are less able than adults to judge how these products work. The idea that AI should be tested before it reaches children is close to the core of independent certification: a product should be checked by someone other than its maker before people rely on it.</p>\n<p>Several Humasure Directives apply. <a href=\"https://humasure.org/directives/#d7\">Directive 7, No manipulation</a>, covers AI that uses emotional pressure to keep people engaged. <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>, covers what a product collects about a child. <a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>, covers toys and robots in the home, and <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks who answers when something goes wrong.</p>\n<p>Parents and schools do not need to wait for new rules to ask good questions. Our guide <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a> lists questions anyone can put to the maker of an AI product.</p>"
+}

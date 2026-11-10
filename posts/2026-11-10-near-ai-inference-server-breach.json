@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-10-near-ai-inference-server-breach",
+  "type": "news",
+  "slug": "near-ai-inference-server-breach",
+  "title": "NEAR AI reports breach via flaw in AI serving software; 18 legacy agents' data accessed",
+  "excerpt": "NEAR AI says an attacker used a flaw in the open-source SGLang inference engine to reach a server, exposing some user details and data from 18 older AI agents. It has patched and rotated keys.",
+  "category": "News",
+  "tags": [
+    "global",
+    "security",
+    "AI agents",
+    "AI infrastructure",
+    "data breach",
+    "vulnerability"
+  ],
+  "directives": [
+    "D5",
+    "D6",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "The Block: NEAR AI says SGLang vulnerability exposed user account details in security breach",
+      "url": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002"
+    },
+    {
+      "title": "The Cryptonomist: NEAR AI security breach exposes user data and legacy agents",
+      "url": "https://en.cryptonomist.ch/2026/11/10/near-ai-security-breach/"
+    }
+  ],
+  "body_html": "<p>NEAR AI, the artificial intelligence arm of the NEAR Protocol blockchain ecosystem, has published a security incident report saying an attacker broke into one of its AI servers by exploiting a remote code execution flaw (a bug that lets an outsider run their own commands) in SGLang. SGLang is open-source software widely used to run, or \"serve\", AI models. The report was published on 9 November 2026, and the company has said it has closed the attacker's access. The incident was reported internationally on 10 November 2026; the company is not tied to a single country.</p>\n<h2>What happened, according to the company</h2>\n<p>As reported by The Block and The Cryptonomist, which both cite the company's report:</p>\n<ul>\n<li>The attacker gained the ability to run code on one inference server (a computer that runs AI models and answers requests) and reached an internal system linked to a discontinued feature called Private Chat.</li>\n<li>Names and email addresses of about 100 users were exposed, in some cases with plan and balance information.</li>\n<li>Chat history, settings and logs belonging to <strong>18 AI agents</strong> on an older NEAR AI Agents deployment were accessed. That deployment did not run inside the company's confidential computing environment, which uses protected hardware to keep data private while it is processed.</li>\n<li>API keys (digital access passes) for two cloud customers appeared in logs and have been revoked.</li>\n<li>The report says that on 8 November the attacker could have observed requests being processed on the compromised server, including requests sent in confidential mode.</li>\n<li>The company says it found no sign that stored Private Chat conversations or uploaded files were accessed, and that NEAR Protocol and other NEAR services were not affected.</li>\n</ul>\n<h2>The company's response</h2>\n<p>NEAR AI says it patched the flaw on all its inference servers, replaced affected credentials, revoked active sessions, rotated agent tokens, took Private Chat offline, completed a forensic review, and briefly paused then restored its cloud service. It says it contacted affected users and the owners of the 18 agents individually. In its report, the company noted that confidential computing does not protect against \"a vulnerability in the software running inside the environment.\"</p>\n<h2>What is still unknown</h2>\n<p>The public reporting does not name a CVE identifier (the standard reference number for a vulnerability), give a severity score or list which SGLang versions were affected. It does not say who the attacker was or whether any exposed data has been misused. Humasure could not open the company's own report directly, so this story relies on two outlets that quote it.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>AI agents keep conversation histories, settings and access keys. When the software underneath them is compromised, that record can be exposed even if the agent itself did nothing wrong. This is the risk covered by <a href=\"https://humasure.org/directives/#d6\">D6, Secure and supported</a>: every layer a product depends on, including open-source parts, needs to be kept up to date. Older deployments that sit outside newer protections are a common weak point, which links to <a href=\"https://humasure.org/directives/#d5\">D5, Private by default</a>. Publishing a report, revoking keys and contacting affected users is what <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a> looks like in practice.</p>\n<p>Incidents like this are why independent security standards for AI products exist; they are not a reason to avoid the technology. If you use an AI agent service, you can ask: which components does it run on, how fast are they patched, are older versions retired, and how will you be told if your data is involved? See Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> and our page on <a href=\"https://humasure.org/security/\">security and staying in charge</a>.</p>"
+}

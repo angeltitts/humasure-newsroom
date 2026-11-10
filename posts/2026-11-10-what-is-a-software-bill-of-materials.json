@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-10-what-is-a-software-bill-of-materials",
+  "type": "explainer",
+  "slug": "what-is-a-software-bill-of-materials",
+  "title": "What is a software bill of materials, and why do robots and smart devices need one?",
+  "excerpt": "A software bill of materials is an ingredients list for software. It helps makers find and fix hidden flaws fast. Here is what it is, what the EU and US say about it, and what to ask.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "European Union",
+    "United States",
+    "security",
+    "connected devices",
+    "Cyber Resilience Act",
+    "SBOM"
+  ],
+  "directives": [
+    "D6",
+    "D9",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "CISA: 2025 Minimum Elements for a Software Bill of Materials (public comment draft, PDF)",
+      "url": "https://www.cisa.gov/sites/default/files/2025-08/2025_CISA_SBOM_Minimum_Elements.pdf"
+    },
+    {
+      "title": "EUR-Lex: Regulation (EU) 2024/2847 (Cyber Resilience Act)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng"
+    },
+    {
+      "title": "European Commission: Safer and more secure digital products (11 September 2026)",
+      "url": "https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_en"
+    },
+    {
+      "title": "Independent guide to Regulation (EU) 2024/2847: Annexes",
+      "url": "https://www.cyberresilienceact.eu/annexes.html"
+    }
+  ],
+  "body_html": "<p>Most robots, smart speakers and AI apps are not written from scratch. They are assembled from hundreds of software parts, many of them free open-source components written by other people. When a flaw is found in one of those parts, the first question is simple: which products contain it? A <strong>software bill of materials</strong>, or SBOM, is how a maker answers that question quickly.</p>\n<h2>An ingredients list for software</h2>\n<p>The US Cybersecurity and Infrastructure Security Agency (CISA) describes an SBOM as \"a nested inventory, a list of ingredients that make up software applications and systems.\" Like the label on a food package, it lists what is inside. Unlike a food label, it is usually written for computers to read, so that tools can check it automatically against lists of known vulnerabilities.</p>\n<p>In a 2025 draft of its minimum elements, published for public comment, CISA proposes that an SBOM record, among other things:</p>\n<ul>\n<li>who wrote the SBOM and who produced the software;</li>\n<li>each component's name and version;</li>\n<li>identifiers and a \"hash\" (a digital fingerprint) so a component can be matched exactly;</li>\n<li>the licence each component is used under;</li>\n<li>how components depend on each other; and</li>\n<li>when, and with which tool, the SBOM was generated.</li>\n</ul>\n<h2>What the EU requires</h2>\n<p>The EU's Cyber Resilience Act (Regulation (EU) 2024/2847) sets security rules for products with digital elements sold in the EU, which includes connected devices and home robots. Its essential requirements on handling vulnerabilities (Annex I, Part II) say manufacturers must identify and document the components in their products, including by \"drawing up a software bill of materials in a commonly used and machine-readable format\", covering at least the top-level dependencies.</p>\n<p>The SBOM belongs in the product's technical documentation, and market surveillance authorities (the officials who check that products follow the law) can ask to see it. Sharing it with buyers is optional: if a maker chooses to, it must tell users where to find it. The law entered into force on 10 December 2024. Its duty to report actively exploited vulnerabilities has applied since 11 September 2026, and most other obligations, including this one, apply from 11 December 2027.</p>\n<h2>What an SBOM does not do</h2>\n<p>An SBOM is a list, not a fix. It does not show that a product is secure, and a long list is not a sign of a bad product. Its value depends on whether it is kept up to date with each software release, and on whether the maker actually watches for new flaws in the listed parts and ships updates. A product can have a perfect SBOM and still go unpatched.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>When a widely used software part turns out to be flawed, makers with an accurate SBOM can find affected products in hours instead of weeks. That speed supports <a href=\"https://humasure.org/directives/#d6\">D6, Secure and supported</a>. A written record of what is inside a product also supports <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>, because someone can be asked to answer for each part. And because devices like home robots stay in use for years, the list has to be maintained for as long as updates are promised, which links to <a href=\"https://humasure.org/directives/#d10\">D10, Safe for its whole life</a>.</p>\n<h2>Questions you can ask</h2>\n<ul>\n<li>Does the maker keep a software bill of materials for this product, and is it updated with each release?</li>\n<li>How quickly does the maker check its products when a flaw is announced in a common software part?</li>\n<li>For how long will security updates be provided?</li>\n</ul>\n<p>For more, see Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> and our page on <a href=\"https://humasure.org/security/\">security</a>.</p>"
+}

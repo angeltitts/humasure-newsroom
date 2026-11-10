@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-10-eu-election-guidelines-deepfake-labels",
+  "type": "news",
+  "slug": "eu-election-guidelines-deepfake-labels",
+  "title": "EU drafts election rules for big platforms: deepfake labels that stay on when shared",
+  "excerpt": "The European Commission wants views by 23 November 2026 on updated election guidelines for the largest platforms, citing generative AI. Deepfakes should be labelled, and keep the label.",
+  "category": "Regulation",
+  "tags": [
+    "European Union",
+    "deepfakes",
+    "generative AI",
+    "elections",
+    "Digital Services Act",
+    "recommender systems"
+  ],
+  "directives": [
+    "D4",
+    "D7",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "European Commission: Commission invites views on draft revised election guidelines under the Digital Services Act",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act"
+    },
+    {
+      "title": "European Commission: Targeted consultation on draft revised election guidelines under the DSA",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-revised-election-guidelines-under-digital-services-act-dsa"
+    },
+    {
+      "title": "The Brussels Times: New EU push targets AI-fuelled threats to election integrity",
+      "url": "https://www.brusselstimes.com/eu-affairs/2401634/new-eu-push-targets-ai-fuelled-threats-to-election-integrity"
+    },
+    {
+      "title": "European Commission: 2024 guidelines on mitigating systemic risks for electoral processes",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-providers-vlops-and-vloses-mitigation-systemic-risks-electoral-processes"
+    }
+  ],
+  "body_html": "<p>The European Commission, the European Union's executive body, opened a consultation on 10 November 2026 on updated election guidelines for the largest online platforms and search engines. It says the update responds to the fast development of technology, \"particularly generative Artificial Intelligence (AI)\", and to more sophisticated attempts to manipulate voters. Comments are open until <strong>23 November 2026</strong>.</p>\n<h2>What the guidelines are</h2>\n<p>The guidelines sit under the Digital Services Act (DSA), the EU law that sets duties for online services. Article 35 of the DSA requires the biggest services, called \"very large online platforms\" and \"very large online search engines\", to assess and reduce systemic risks to elections while protecting freedom of expression. The first version of the guidelines was published in 2024. The new draft builds on two years of experience applying the law and on the EU's Code of Conduct on Disinformation.</p>\n<h2>What the draft asks for</h2>\n<p>According to the Commission's consultation page, the draft adds new safeguards against AI-generated content:</p>\n<ul>\n<li><strong>Labels that last.</strong> Deepfakes (realistic fake images, audio or video) should be clearly labelled, and should keep their label when they are shared onward.</li>\n<li><strong>Fast removal of illegal deepfakes of candidates.</strong> The draft says these should come down quickly.</li>\n<li><strong>Checks on recommender systems</strong>, the software that decides what appears in people's feeds. Platforms should spot suspicious trends before content goes viral, test their algorithms for manipulation before every national election, and keep a record of changes made to these systems in the six months before a vote.</li>\n<li><strong>Better protection for political candidates</strong>, though the summary does not give details.</li>\n</ul>\n<h2>What is not yet known</h2>\n<p>The consultation is targeted, meaning the Commission is asking for relevant experience and expertise rather than running an open public vote. It has not said when the final guidelines will be adopted. The public summaries do not say whether the draft covers AI chatbots or assistants that answer questions about elections; the full draft is linked from the consultation page. Guidelines of this kind explain how the Commission expects the law to be met; the binding duty is the DSA itself.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A label that falls off after the first share does not help the person who sees the third copy. Keeping labels attached supports <a href=\"https://humasure.org/directives/#d4\">D4, Honest identity</a>: people should be able to tell what a machine made. Testing recommender systems for manipulation before elections links to <a href=\"https://humasure.org/directives/#d7\">D7, No manipulation</a>, and keeping a record of system changes supports <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>, because someone can check later what was changed and when.</p>\n<p>The same questions apply to any AI product that creates or ranks content: is AI-made content marked, does the mark survive sharing, and is there a record when the system's behaviour is changed? Humasure keeps a list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a>.</p>"
+}

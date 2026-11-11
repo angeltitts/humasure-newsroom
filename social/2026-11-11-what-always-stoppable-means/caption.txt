@@ -1,0 +1,10 @@
+What "always stoppable" means: stop buttons, safe states and fail-closed design
+
+Stopping an AI system or robot safely is more than cutting the power. What a safe state, fail-safe and fail-closed mean, and what EU law asks for.
+
+Why it matters: D1 Always stoppable, D3 Physical safety, D6 Secure and supported.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: European Commission AI Act Service Desk; EUR-Lex; CEN.
+
+#HumanInCharge #AISafety #RobotSafety

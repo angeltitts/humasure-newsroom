@@ -1,0 +1,10 @@
+What is a software bill of materials, and why do robots and smart devices need one?
+
+A software bill of materials is an ingredients list for software. It helps makers find and fix hidden flaws fast. Here is what it is, what the EU and US say about it, and what to ask.
+
+Why it matters: D6 Secure and supported, D9 Accountable, D10 Safe for its whole life.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: CISA; EUR-Lex; European Commission.
+
+#HumanInCharge #AISafety #RobotSafety

@@ -1,0 +1,10 @@
+NEAR AI reports breach via flaw in AI serving software; 18 legacy agents' data accessed
+
+NEAR AI says an attacker used a flaw in the open-source SGLang inference engine to reach a server, exposing some user details and data from 18 older AI agents. It has patched and rotated keys.
+
+Why it matters: D5 Private by default, D6 Secure and supported, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: The Block; The Cryptonomist.
+
+#HumanInCharge #AISafety #RobotSafety

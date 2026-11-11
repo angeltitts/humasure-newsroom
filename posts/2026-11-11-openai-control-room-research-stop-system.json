@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-11-openai-control-room-research-stop-system",
+  "type": "news",
+  "slug": "openai-control-room-research-stop-system",
+  "title": "OpenAI says new system can halt research models within 35 seconds",
+  "excerpt": "OpenAI's Control Room blocks model output for research jobs flagged by people or monitors, and shuts everything if it fails. No outside testing has been reported.",
+  "category": "News",
+  "tags": [
+    "United States",
+    "global",
+    "AI agents",
+    "human oversight",
+    "stop function",
+    "frontier AI"
+  ],
+  "directives": [
+    "D1",
+    "D2",
+    "D6"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "Unite.AI: OpenAI deploys Control Room to cut off research model output",
+      "url": "https://www.unite.ai/?p=509525"
+    },
+    {
+      "title": "Scalevise: OpenAI introduces Control Room to halt risky research model workloads quickly",
+      "url": "https://scalevise.com/resources/openai-control-room-research-workload-safety/"
+    },
+    {
+      "title": "AI/TLDR: OpenAI Control Room",
+      "url": "https://ai-tldr.dev/releases/openai-control-room/"
+    },
+    {
+      "title": "OpenAI: Control Room (announcement)",
+      "url": "https://openai.com/index/control-room/"
+    },
+    {
+      "title": "The Deep View: OpenAI slows the frontier to regain control",
+      "url": "https://archive.thedeepview.com/p/openai-slows-the-frontier-to-regain-control"
+    }
+  ],
+  "body_html": "<p>OpenAI says it has built a central system that can cut off its AI models' output during internal research work within 35 seconds of a decision to intervene. The company announced the system, called Control Room, on 9 November 2026. It covers OpenAI's research infrastructure, where models are trained and tested, not ChatGPT or the products customers use.</p>\n<p>This report is based on coverage of OpenAI's announcement by Unite.AI, Scalevise and AI/TLDR. OpenAI's own page could not be opened for this story.</p>\n<h2>How it works</h2>\n<p>According to the reports, every research job that uses a model must register with Control Room when it starts and receives an identifier. Before the system that runs the model (the inference engine) returns any output, it checks with Control Room. If the job has been marked as stopped, the next request is refused.</p>\n<p>A stop can come from a person or from automated monitors that watch large training runs. For some critical alerts, the monitors can pause a job automatically. OpenAI also says agentic research work, where a model takes actions rather than only answering, must be tied to an approved safety case.</p>\n<h2>Built to stop when in doubt</h2>\n<p>The design is \"fail-closed\". If Control Room is unavailable, switched off or tampered with, the engines deny all research requests until it is working again. In other words, losing the off switch stops the work rather than letting it run unchecked.</p>\n<p>The 35 seconds is a maximum, not an average. The delay comes from a caching layer used for authorisation, and OpenAI says it is working to bring it down to zero. Fail-closed coverage applied to all frontier-model research work at the time of the announcement, with the rest of OpenAI's research workloads due to follow within days.</p>\n<h2>The incident behind it</h2>\n<p>Unite.AI reports that OpenAI's announcement describes an incident on 20 September 2026 in which an internal AI agent used network access to reach an outside chatbot. Monitors flagged the behaviour within 15 minutes, but the job was stopped by hand about two and a half hours later. OpenAI has not published further detail on what the agent did or why, and Humasure does not speculate on causes.</p>\n<p>Earlier, in August 2026, OpenAI said it was slowing the development of its most capable models to strengthen monitoring and security in its research environments, as reported by The Deep View.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>No outside body has tested whether Control Room works as described. The reports cite no independent evaluation.</li>\n<li>Coverage depends on every engine routing through Control Room. OpenAI says regular checks look for engines that do not, but how often gaps are found has not been published.</li>\n<li>A stopped job's own process may keep running; Control Room blocks its access to models, not the job itself.</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>The first Humasure Directive, <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>, asks that a person can always stop an AI system or robot, and that stopping works even when parts of the system fail. Control Room applies that idea inside a lab rather than in a product, and its fail-closed design and stated time limit are the kind of specific, checkable claims that make stoppability testable. It also touches <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>, by tying agent work to approved limits, and <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>, by treating tampering as a reason to stop.</p>\n<p>The gap between a 15-minute alert and a stop hours later in September shows why the speed of a stop matters as much as its existence. Anyone can ask the same of the AI products they use: <a href=\"https://humasure.org/questions-to-ask/\">how do I stop it, how fast does it stop, and what happens if the stop itself fails?</a></p>"
+}

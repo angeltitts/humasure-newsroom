@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-11-new-york-raise-act-ai-developer-register",
+  "type": "news",
+  "slug": "new-york-raise-act-ai-developer-register",
+  "title": "New York opens register for frontier AI developers ahead of its AI safety law",
+  "excerpt": "Large AI developers must register by 1 January 2027 under New York's RAISE Act, which requires incident reports within 72 hours. A state-backed testing centre also launched.",
+  "category": "Regulation",
+  "tags": [
+    "United States",
+    "New York",
+    "AI regulation",
+    "frontier AI",
+    "incident reporting",
+    "AI testing"
+  ],
+  "directives": [
+    "D9",
+    "D2",
+    "D6"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Governor of New York: Governor Hochul declares NY will lead the nation in AI science and safety; launches new research institute",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-declares-ny-will-lead-nation-ai-science-and-safety-launches-new-research"
+    },
+    {
+      "title": "TechCrunch: OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+    },
+    {
+      "title": "CIO Dive: New York AI model safety requirements (RAISE Act signed)",
+      "url": "https://www.ciodive.com/news/new-york-ai-model-safety-requirements/808557/"
+    }
+  ],
+  "body_html": "<p>New York State has opened an online register for the companies that build the most powerful AI models. Large frontier AI developers must sign up through the new RAISE Portal by 1 January 2027, when the state's AI safety law, the RAISE Act, takes effect. Governor Kathy Hochul announced the portal on 10 November 2026, alongside a new public research centre that will test advanced AI systems independently.</p>\n<h2>What the RAISE Act asks of AI developers</h2>\n<p>The RAISE Act (Responsible AI Safety and Education Act) was signed in December 2025. It applies to developers of \"frontier\" AI models, the largest general-purpose systems. According to the governor's office, all frontier developers must report critical safety incidents to the state within 72 hours and publish transparency reports about their models. Large frontier developers must also register with the state and, from January 2027, publish their safety frameworks on their websites.</p>\n<p>TechCrunch reports that \"large\" means companies with more than US$500 million in annual revenue, and that penalties can reach US$1 million for a first violation and US$3 million for later ones. When the law was signed, reporting by CIO Dive listed the kinds of incidents that count, including a frontier model acting on its own outside what a user asked, a critical failure of technical controls, and theft or unauthorised access to a model.</p>\n<p>For comparison, California's frontier AI law (SB 53), in force since January 2026, gives developers 15 days to report incidents. New York's 72-hour window is shorter.</p>\n<h2>Who oversees it</h2>\n<p>The law is run by a new state body, the Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT), which sits within New York's Department of Financial Services, the state's financial regulator. DIGIT has also published a website setting out what frontier developers must do.</p>\n<h2>An independent testing centre</h2>\n<p>The governor also launched the New York Center for AI Responsibility and Research, based at Binghamton University, part of the State University of New York (SUNY). The state says it will bring together more than 80 researchers to test advanced AI systems independently, carry out safety research and train AI safety specialists. It will work with DIGIT to review developers' published safety frameworks and may recommend stronger requirements. Funding includes a US$30 million philanthropic gift and a US$25 million initial investment from SUNY.</p>\n<p>\"The stakes are too high to simply take AI companies at their word,\" Governor Hochul said in the announcement.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Which companies have registered so far. TechCrunch reports that a state spokesperson declined to give details of enforcement against companies that do not register.</li>\n<li>How DIGIT will judge whether a published safety framework is adequate, and how much of the incident reports, if any, will be made public.</li>\n<li>How the law will interact with federal efforts in the United States to limit state AI rules.</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>The law focuses on the developers of the largest models rather than on the products people use every day. Still, several of its ideas match the Humasure Directives. Incident reporting within days and a named responsible office reflect <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>: someone has to answer when something goes wrong. Counting a model that acts outside a user's request as a reportable incident echoes <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>. And treating theft of, or unauthorised access to, a model as a safety issue reflects <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>.</p>\n<p>Perhaps most important is the idea behind the new research centre: claims about safety should be checked by someone other than the company making them. That is the reason independent testing exists.</p>"
+}

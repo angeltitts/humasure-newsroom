@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-11-what-always-stoppable-means",
+  "type": "explainer",
+  "slug": "what-always-stoppable-means",
+  "title": "What \"always stoppable\" means: stop buttons, safe states and fail-closed design",
+  "excerpt": "Stopping an AI system or robot safely is more than cutting the power. What a safe state, fail-safe and fail-closed mean, and what EU law asks for.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "European Union",
+    "human oversight",
+    "stop function",
+    "robots",
+    "EU AI Act",
+    "Machinery Regulation"
+  ],
+  "directives": [
+    "D1",
+    "D3",
+    "D6"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "European Commission AI Act Service Desk: Article 14, Human oversight",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14"
+    },
+    {
+      "title": "EUR-Lex: Machinery safety requirements (summary of Regulation (EU) 2023/1230)",
+      "url": "https://eur-lex.europa.eu/EN/legal-content/summary/machinery-safety-requirements.html"
+    },
+    {
+      "title": "CEN: Main changes from Machinery Directive Annex I to Machinery Regulation Annex III",
+      "url": "https://boss.cen.eu/media/BOSS%20CEN/ref/machinery_main-changes_annex1_md_annex3_mr.pdf"
+    }
+  ],
+  "body_html": "<p>\"You can always stop it\" sounds simple. In practice, a stop function for an AI system or a robot raises several questions: who can press stop, what the machine does when it stops, how quickly it stops, and what happens if the stop mechanism itself breaks. This explainer sets out what the main terms mean and what European law already asks for.</p>\n<h2>Stopping is not the same as switching off</h2>\n<p>Cutting the power is not always the safest way to stop a machine. A robot arm holding something heavy may drop it; a mobile robot may halt in a doorway or on a road. Good stop design brings the system to a <strong>safe state</strong>: a condition in which it can no longer cause harm, such as holding a load securely, moving out of the way, or refusing further actions while keeping its records intact.</p>\n<p>The EU AI Act uses exactly this idea. For high-risk AI systems, Article 14 says the people assigned to oversee them must be able to \"interrupt the system through a 'stop' button or a similar procedure that allows the system to come to a halt in a safe state\". The same article says they must be able to decide not to use the system at all, or to disregard, override or reverse what it produces.</p>\n<h2>Different kinds of stop</h2>\n<ul>\n<li><strong>Emergency stop:</strong> a fast, easy-to-reach control for when someone is in danger. On machinery it is usually a large red button.</li>\n<li><strong>Normal stop:</strong> an orderly shutdown, finishing or safely abandoning the current task.</li>\n<li><strong>Override:</strong> a person changes or cancels a specific decision while the system keeps running.</li>\n<li><strong>Remote or supervisory stop:</strong> stopping a machine that is not within reach, such as an autonomous robot working elsewhere.</li>\n</ul>\n<p>For AI that acts in software rather than in the physical world, such as an agent sending messages or making purchases, the equivalent is a way to halt its actions and cancel its access, not just close the app.</p>\n<h2>Fail-safe and fail-closed</h2>\n<p>A stop function is only as good as its reliability. Two engineering terms describe what happens when something goes wrong:</p>\n<ul>\n<li><strong>Fail-safe</strong> means a failure leads the system into a safe state rather than a dangerous one.</li>\n<li><strong>Fail-closed</strong> means that if the part responsible for checking permission fails, the system refuses to act rather than carrying on unchecked. The opposite, fail-open, lets activity continue when the check is missing.</li>\n</ul>\n<p>Security matters here too. A stop button that an attacker can disable, or a remote stop that depends on a hacked connection, is not reliable. A hacked robot is one nobody is in charge of.</p>\n<h2>What the EU's new machinery rules add</h2>\n<p>The EU Machinery Regulation (EU) 2023/1230 applies from 20 January 2027. According to a summary of changes published for CEN, the European standards organisation, its safety requirements add rules for <strong>autonomous mobile machinery</strong>, including a \"supervisory function\" through which such machines can be overseen and commanded remotely, and a new requirement on <strong>protection against corruption</strong>, meaning tampering. The control system of an autonomous mobile machine must be able to perform its safety functions by itself, even when commands come from a remote supervisor.</p>\n<h2>Questions you can ask about any AI product or robot</h2>\n<ul>\n<li>Where is the stop control, and can anyone nearby use it?</li>\n<li>What does the product do when stopped: what is its safe state?</li>\n<li>How long does stopping take?</li>\n<li>What happens if the connection, the app or the stop mechanism itself fails?</li>\n<li>Can a stop be overridden by software, and who can do that?</li>\n</ul>\n<p>These questions sit behind the first Humasure Directive, <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>, and connect to <a href=\"https://humasure.org/directives/#d3\">D3 Physical safety</a> and <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>. More questions to ask any maker are on our <a href=\"https://humasure.org/questions-to-ask/\">questions page</a>.</p>"
+}

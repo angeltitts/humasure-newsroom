@@ -1,0 +1,50 @@
+{
+  "id": "2026-11-11-ibero-american-ai-alliance-human-oversight",
+  "type": "news",
+  "slug": "ibero-american-ai-alliance-human-oversight",
+  "title": "Ibero-American countries back human oversight for AI decisions that affect people",
+  "excerpt": "Ministers meeting in Madrid on 3 November 2026 agreed that people must supervise AI used for significant decisions, and set up a voluntary regional AI alliance.",
+  "category": "Regulation",
+  "tags": [
+    "Latin America and the Caribbean",
+    "Spain",
+    "Portugal",
+    "Ibero-America",
+    "AI governance",
+    "human oversight",
+    "children",
+    "privacy"
+  ],
+  "directives": [
+    "D1",
+    "D5",
+    "D6",
+    "D8",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Government of Spain, Ministry for Digital Transformation and the Civil Service: Declaration of the Ibero-American Ministerial Meeting on Digital Transformation and AI (Madrid, 3 November 2026, in Spanish)",
+      "url": "https://digital.gob.es/content/dam/portal-mtdfp/comunicacion/comunicacion_ministro/2026/11/03-11-2026/Declaración%20de%20la%20Reunión%20Ministerial%20de%20Transformación%20Digital%20e%20IA.pdf"
+    },
+    {
+      "title": "La Moncloa (Government of Spain): Plenary session of the 30th Ibero-American Summit, 5 November 2026",
+      "url": "https://www.lamoncloa.gob.es/lang/en/presidente/news/Paginas/2026/20261105-ibero-american-summit-session.aspx"
+    },
+    {
+      "title": "Demócrata: Ibero-American countries launch an AI alliance to shield their digital and cultural sovereignty (3 November 2026)",
+      "url": "https://www.democrata.es/en/economy/ibero-american-countries-launch-an-ai-alliance-to-shield-their-digital-and-cultural-sovereignty/"
+    },
+    {
+      "title": "AF.net: Ibero-American Summit formalizes regional AI alliance in Madrid amid diplomatic divisions",
+      "url": "https://af.net/realtime/ibero-american-summit-formalizes-regional-ai-alliance-in-madrid-amid-diplomatic-divisions/"
+    },
+    {
+      "title": "Puente LATAM Weekly Digest, 10 November 2026 (status of AI bills in Brazil and Chile)",
+      "url": "https://puentelatam.substack.com/p/puente-latam-weekly-digest-november-130"
+    }
+  ],
+  "body_html": "<p>Governments from across Latin America and the Iberian Peninsula have agreed a shared set of principles for artificial intelligence, including a commitment that people supervise AI when it is used for decisions with significant effects on someone's life.</p><p>The principles are set out in a declaration adopted on 3 November 2026 in Madrid by ministers responsible for digital transformation and AI from the Ibero-American community. That community is a group of 22 Spanish- and Portuguese-speaking countries in the Americas and Europe that meets at regular summits. The ministers' meeting prepared the 30th Ibero-American Summit of heads of state and government, also held in Madrid on 4 and 5 November.</p><h2>What the declaration says</h2><p>The declaration, published by Spain's Ministry for Digital Transformation, commits the signing governments to:</p><ul><li><strong>Human supervision</strong> of AI used in decisions with significant effects on people, in line with each country's laws.</li><li><strong>Clear responsibility:</strong> transparency, proportionate traceability, and responsibilities that can be clearly identified.</li><li><strong>Cybersecurity</strong> as part of developing AI safely, and action against fraud, impersonation and other deceptive uses of AI.</li><li><strong>Children and teenagers:</strong> digital spaces suited to each age group, with privacy and security built in by design.</li><li><strong>Fair treatment:</strong> environments free of bias, and non-discrimination in access to and use of technology.</li><li><strong>Personal data protection</strong> and privacy by design.</li></ul><p>It also states a principle familiar from human rights law: <em>\"Rights and freedoms recognised in the analogue world must also be respected in digital environments\"</em> (Humasure's translation from the Spanish).</p><p>Ministers adopted two regional reference standards, one on data protection and one on digital identity and interoperability in government services. Both are explicitly non-binding.</p><h2>A voluntary AI alliance</h2><p>The ministers also approved an Ibero-American Alliance for Artificial Intelligence and sent it to the summit for adoption. Spain's government listed the alliance among the new agreements of the summit's closing session on 5 November.</p><p>According to the declaration, the alliance has three parts: a shared data space in which each country keeps control of its own data; AI models that work well in Spanish, Portuguese and, over time, Indigenous and other official languages; and fairer access to high-performance computing for public-interest projects. Participation is voluntary, and the declaration describes the cooperation as gradual and flexible.</p><h2>What is not yet known</h2><ul><li><strong>Which countries will join.</strong> The declaration invites countries to join after the summit. Reports differ on how many took part: one report counts 20 nations, another 22 member states.</li><li><strong>Funding.</strong> One analysis of the summit notes that no binding funding commitments were reported.</li><li><strong>How oversight will be applied.</strong> The declaration sets principles, not rules. Human supervision is to follow each country's own legal framework, so what it means in practice will vary.</li></ul><p>Argentina and Paraguay dissociated themselves from the ministerial declaration, according to the text.</p><h2>Why it matters for people staying in charge</h2><p>Several countries in the region are still debating AI laws: Brazil's AI bill has passed the Senate but not the Chamber of Deputies, and Chile's AI bill is still open to amendment. A shared statement that people must supervise AI in decisions that matter, and that someone must be clearly responsible, gives citizens, regulators and companies a common starting point across more than 20 countries.</p><p>These commitments line up with several of the <a href=\"https://humasure.org/directives/\">10 Humasure Directives</a>: human supervision with <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>; clear responsibility with <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>; privacy by design with <a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a>; cybersecurity with <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>; and non-discrimination with <a href=\"https://humasure.org/directives/#d8\">D8 Fair treatment</a>.</p><p>Principles are a first step. The test will be whether they become clear, checkable requirements, so that a person affected by an AI decision can find out who supervised it and how to challenge it.</p>"
+}

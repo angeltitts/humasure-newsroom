@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-11-check-a-smart-devices-privacy-settings",
+  "type": "guide",
+  "slug": "check-a-smart-devices-privacy-settings",
+  "title": "How to check the privacy settings on a home robot or smart device",
+  "excerpt": "A home robot, speaker or camera can collect more than you expect. Here is a practical check of its privacy settings, from set-up to the day you give it away.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "United Kingdom",
+    "privacy",
+    "connected devices",
+    "home robots",
+    "consumer guide"
+  ],
+  "directives": [
+    "D5",
+    "D6",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "UK Information Commissioner's Office (ICO): Smart products (advice for the public)",
+      "url": "https://ico.org.uk/for-the-public/online/smart-products/"
+    },
+    {
+      "title": "UK Information Commissioner's Office (ICO): Setting out our expectations for the smart device industry (11 June 2026)",
+      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/06/setting-out-our-expectations-for-the-smart-device-industry/"
+    },
+    {
+      "title": "UK National Cyber Security Centre (NCSC): Smart devices: using them safely in your home",
+      "url": "https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home"
+    }
+  ],
+  "body_html": "<p>A robot vacuum maps your rooms. A smart speaker listens for its wake word. A home robot may carry cameras, microphones and location sensors, and send what they capture to an app and a company's servers. None of that is wrong in itself, but you should decide how much of it happens.</p><p>This guide walks through the privacy settings worth checking. It draws on advice for the public from the UK's data protection regulator, the Information Commissioner's Office (ICO), and the UK National Cyber Security Centre (NCSC). The steps apply wherever you live, although your legal rights depend on your country's data protection law.</p><h2>1. Before you press \"agree\" at set-up</h2><p>Set-up is where most data choices are made, often in a few quick screens. The ICO's advice is to read each data choice and not to accept options you are not comfortable with. Look for:</p><ul><li><strong>What the device collects</strong> beyond what it needs to work, and how often.</li><li><strong>Who the data is shared with</strong>, and why.</li><li><strong>Advertising options.</strong> Turn off personalised advertising if you do not want it.</li></ul><p>If a choice is unclear, you can usually skip the optional extras and come back later.</p><h2>2. Check what the app is allowed to use</h2><p>Most devices are controlled through a phone app, and the app asks for permissions too. The ICO suggests limiting access to the microphone, camera, location, contacts and photos where it seems more than the job needs. On most phones you can allow access only while the app is in use, rather than all the time. These permissions live in your phone's settings, not only in the app.</p><h2>3. Find the device's own privacy settings</h2><p>Once the device is running, open its privacy or data section in the app. Settings vary, but these are the ones that matter most:</p><ul><li><strong>Camera and microphone.</strong> If the device has a physical microphone switch or camera cover, use it when you want privacy. The ICO lists these as features worth looking for when you buy.</li><li><strong>Stored recordings and maps.</strong> Where available, set voice recordings to delete automatically after a period you choose. Check whether home maps or images are stored, and whether you can delete them.</li><li><strong>Remote access.</strong> The NCSC advises switching off remote access if you do not need to reach the device when you are away from home.</li><li><strong>Other uses of your data.</strong> If the device asks to use your recordings or images for other purposes, such as improving its products, decide whether you agree, as you would at set-up.</li></ul><h2>4. Lock the door to your settings</h2><p>Privacy settings only protect you if nobody else can change them. Both UK agencies give the same basic advice: replace any default or weak password with a strong, unique one, turn on two-step verification if it is offered, and turn on automatic updates. Keeping the device updated is part of keeping its data secure.</p><h2>5. Look again every few months</h2><p>Settings change after app updates, and your needs change too. The ICO recommends revisiting privacy settings from time to time and asking whether you still want to share each kind of data. A good moment is when a new person, especially a child, starts using the device.</p><h2>6. Know your rights</h2><p>In the UK and many other countries, data protection law gives you the right to ask a company for a copy of the personal data it holds about you, and to ask it to delete that data. If a company does not deal with your request or complaint, the ICO advises complaining to the organisation first and then to the regulator. If you live elsewhere, check whether your country has a data protection authority that handles complaints.</p><h2>7. Before you sell, give away or recycle it</h2><p>Deleting the app is usually not enough. The ICO and NCSC both advise a factory reset through the device's settings, which should erase your information. Consider deleting your account as well, after requesting a copy of your data if you want one. If you cannot erase your data yourself, ask the manufacturer to delete it.</p><h2>What makers should do</h2><p>Settings are only part of the answer. In June 2026 the ICO set out what it expects from smart device makers: clear explanations of how data is used, real opt-in consent that is as easy to withdraw as to give, collecting only what is strictly necessary, and protective settings switched on by default. In the regulator's words, <em>\"Privacy must be built in from the start, not bolted on afterwards.\"</em></p><h2>Why it matters for staying in charge</h2><p>A device that sees and hears your home should work for you, not quietly collect more than you agreed to. That is the idea behind <a href=\"https://humasure.org/directives/#d5\">Humasure Directive D5, Private by default</a>: the most protective choice should be the starting point, and you should be able to see and change it. Strong passwords and updates support <a href=\"https://humasure.org/directives/#d6\">D6, Secure and supported</a>, and clean deletion when you are done with a device reflects <a href=\"https://humasure.org/directives/#d10\">D10, Safe for its whole life</a>.</p><p>For more questions you can put to any maker before you buy, see <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-12-ask-for-human-review-of-automated-decision",
+ "type": "guide",
+ "slug": "ask-for-human-review-of-automated-decision",
+ "title": "How to ask for a human to review a decision a computer made about you",
+ "excerpt": "In the EU and UK, people can often ask for a person to look again at a significant decision made only by software. Here is what the rules say and how to use them.",
+ "category": "Explainers",
+ "tags": [
+  "European Union",
+  "United Kingdom",
+  "global",
+  "automated decisions",
+  "fair treatment",
+  "consumer guide"
+ ],
+ "directives": [
+  "D8",
+  "D9",
+  "D1"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "European Commission: Can I be subject to automated individual decision-making, including profiling?",
+   "url": "https://commission.europa.eu/law/law-topic/data-protection/reform/rights-citizens/my-rights/can-i-be-subject-automated-individual-decision-making-including-profiling_en"
+  },
+  {
+   "title": "European Commission: Are there restrictions on the use of automated decision-making?",
+   "url": "https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/dealing-citizens/are-there-restrictions-use-automated-decision-making_en"
+  },
+  {
+   "title": "ICO: What are the ADM safeguards? (draft guidance)",
+   "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/automated-decision-making/what-are-the-adm-safeguards/"
+  },
+  {
+   "title": "GOV.UK: Data (Use and Access) Act 2025, data protection and privacy changes",
+   "url": "https://www.gov.uk/guidance/data-use-and-access-act-2025-data-protection-and-privacy-changes?hl=en-GB"
+  }
+ ],
+ "body_html": "<p>More and more decisions about people are made by software: whether a loan is offered, at what price, or whether a job application moves forward. When a decision like that is made entirely by a computer and it matters to your life, the law in the European Union and the United Kingdom often lets you ask a human to look at it again. This guide explains those rules in plain terms. It is general information, not legal advice.</p>\n<h2>Which decisions are covered</h2>\n<p>The rules are about decisions made <strong>solely</strong> by automated means, with no meaningful human role, that have a <strong>legal or similarly significant effect</strong> on you. The <a href=\"https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/dealing-citizens/are-there-restrictions-use-automated-decision-making_en\">European Commission</a> explains that a legal effect changes your rights or status, and a significant effect shapes your circumstances, behaviour or choices. Its example is an automated refusal of a credit application.</p>\n<p>If a person genuinely takes part in the decision, weighing the result and able to change it, the decision is not \"solely automated\". A quick rubber stamp does not count.</p>\n<h2>What the EU rules say</h2>\n<p>Under the EU's General Data Protection Regulation (GDPR), people generally should not be subject to such decisions. They are allowed only when they are necessary for a contract, authorised by law with safeguards, or based on your explicit consent. In the contract and consent cases, the organisation must let you <strong>get human intervention, give your point of view and contest the decision</strong>, according to the <a href=\"https://commission.europa.eu/law/law-topic/data-protection/reform/rights-citizens/my-rights/can-i-be-subject-automated-individual-decision-making-including-profiling_en\">Commission's guide to your rights</a>. You also have a right to be told about the logic involved and the likely consequences. Sensitive data, such as health information, faces stricter limits, and the Commission says significant automated decisions about children should be avoided.</p>\n<h2>What the UK rules say</h2>\n<p>The UK changed its version of these rules through the Data (Use and Access) Act 2025. <a href=\"https://www.gov.uk/guidance/data-use-and-access-act-2025-data-protection-and-privacy-changes?hl=en-GB\">The government describes</a> the new framework as more permissive about when organisations may use automated decisions, but it keeps safeguards. According to the Information Commissioner's Office (ICO), the UK data protection regulator, in its <a href=\"https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/automated-decision-making/what-are-the-adm-safeguards/\">draft guidance</a>, organisations must:</p>\n<ul>\n<li>give you information about the decision, including how it was reached;</li>\n<li>let you make representations, such as adding facts the system missed;</li>\n<li>let you ask for a human who can change the outcome to review it;</li>\n<li>give you a way to contest the decision.</li>\n</ul>\n<p>The ICO says the reviewer should be suitably qualified, have authority to change the result and see the relevant data. Requests should be handled without undue delay and within one month, extendable in complex cases.</p>\n<h2>How to ask</h2>\n<ol>\n<li><strong>Ask whether a person was involved.</strong> Write to the organisation, or its data protection officer, and ask whether the decision was made solely by automated means.</li>\n<li><strong>Ask for the reasons.</strong> Request meaningful information about how the decision was reached and what it means for you.</li>\n<li><strong>Ask for human review and give your side.</strong> Say clearly that you want a person to reconsider, and add any information you think was missed.</li>\n<li><strong>Keep records.</strong> Note dates and keep copies of what you send and receive.</li>\n<li><strong>Escalate if needed.</strong> In the EU, if you get no proper answer you can complain to your national data protection authority. In the UK, you can complain to the ICO.</li>\n</ol>\n<p>Outside the EU and UK the rules differ. Some places require only that people are told when software decides; <a href=\"https://humasure.org/news/\">Humasure News</a> has covered Australia's new privacy policy duty, for example. At work, our <a href=\"https://humasure.org/ai-at-work/\">AI at work</a> page has more.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A system that decides about people should treat them fairly and give them a way to be heard. That is <a href=\"https://humasure.org/directives/#d8\">D8 Fair treatment</a>. Someone must also answer for the outcome, which is <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. A right to human review is a simple, practical way of keeping a person in the loop when it counts.</p>"
+}

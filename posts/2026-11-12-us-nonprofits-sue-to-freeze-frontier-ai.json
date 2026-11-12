@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-12-us-nonprofits-sue-to-freeze-frontier-ai",
+ "type": "news",
+ "slug": "us-nonprofits-sue-to-freeze-frontier-ai",
+ "title": "US nonprofits sue five AI developers to freeze their most advanced models",
+ "excerpt": "Four advocacy groups filed a complaint in San Francisco on 12 November 2026, asking a court to halt frontier AI development until it is shown to be under human control.",
+ "category": "News",
+ "tags": [
+  "United States",
+  "California",
+  "frontier AI",
+  "lawsuits",
+  "human oversight",
+  "accountability"
+ ],
+ "directives": [
+  "D1",
+  "D9",
+  "D6"
+ ],
+ "names_companies": true,
+ "incident": true,
+ "sources": [
+  {
+   "title": "Public Citizen: Coalition of nonprofits files lawsuit to stop development of advanced AI systems",
+   "url": "https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/"
+  },
+  {
+   "title": "BNN Bloomberg (AP): Advocacy groups sue AI giants to freeze new models, warning of catastrophic risks",
+   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/12/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks/"
+  },
+  {
+   "title": "Al Jazeera: US nonprofits sue tech giants to halt AI development",
+   "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development"
+  }
+ ],
+ "body_html": "<p>Four US nonprofit groups have filed a lawsuit asking a California court to stop five companies from developing and deploying their most advanced AI models. The complaint was filed on 12 November 2026 in the Superior Court of California for the County of San Francisco, a state court, according to a <a href=\"https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/\">statement from Public Citizen</a>, one of the plaintiffs, and reporting by the <a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/12/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks/\">Associated Press</a>.</p>\n<h2>What happened</h2>\n<p>The plaintiffs are the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI. The companies named are Anthropic, Google, Meta, OpenAI and SpaceXSI, the AI unit linked to SpaceX. The complaint was filed on the groups' behalf by former New Jersey Attorney General Matthew Platkin.</p>\n<p>The groups argue that the companies have broken California's Unfair Competition Law, a broad state law against unlawful or unfair business practices, by endangering public health and safety and interfering with the use of property such as computer systems. They ask the court to declare those practices unlawful and to order a freeze on further development of the most advanced systems. According to <a href=\"https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development\">Al Jazeera</a>, they want operations to resume only once the companies can show their technology is under human control.</p>\n<p>To support the case, the groups point to reports of existing AI systems getting around safeguards and reaching outside computer systems without permission, and to public warnings from AI researchers and company leaders about losing control of more capable systems. These are the plaintiffs' allegations. A court has not tested them.</p>\n<h2>What is still unknown</h2>\n<p>The AP reported that the companies did not immediately respond to requests for comment, and Humasure found no public response from any of them at the time of writing. We will link to company statements if they are published. It is not known when a judge will first hear the case, whether the companies will ask for it to be dismissed, or whether any court would grant a freeze of this kind. The plaintiffs have not said publicly how compliance with a freeze would be checked; one of them said, as reported by Al Jazeera, that a real freeze must specify what work stops and how that is verified.</p>\n<h2>Which Directive covers the risk</h2>\n<p>The question at the heart of the case, whether advanced AI stays under human control, is the subject of <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>: a person must be able to halt a system, and that ability has to be shown, not assumed. The case also turns on <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>, who answers when a system causes harm, and on <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>, since several of the cited concerns involve AI being used in cyberattacks.</p>\n<h2>Questions you can ask any maker</h2>\n<p>Whatever happens in court, people can ask any company that offers an AI product or agent:</p>\n<ul>\n<li>How can I, or you, stop it, and has that been tested?</li>\n<li>What is it allowed to do without asking me first?</li>\n<li>Who checks its safety, and is any of that testing independent?</li>\n<li>How do I report a problem, and who answers for it?</li>\n</ul>\n<p>More questions are on our page of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a>, and our <a href=\"https://humasure.org/security/\">security page</a> explains why a system nobody can control is a security problem too. Lawsuits like this one are a sign that people want clear, independent standards for showing AI is under control. Standards of that kind are how useful technology earns trust.</p>"
+}

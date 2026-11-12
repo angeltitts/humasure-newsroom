@@ -1,0 +1,10 @@
+Researchers hide a backdoor in AI agent models by editing fewer than 10 neurons
+
+Microsoft researchers show a tampered open-weight model can pass normal tests, then run an attacker's command when it sees a trigger. No real-world use has been seen.
+
+Why it matters: D6 Secure and supported, D2 Bounded autonomy, D10 Safe for its whole life.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Microsoft Security Blog; Cloud Security Alliance; Cloud Security Alliance.
+
+#HumanInCharge #AISafety #RobotSafety #AIResearch

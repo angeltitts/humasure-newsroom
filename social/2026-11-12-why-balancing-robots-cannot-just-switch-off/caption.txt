@@ -1,0 +1,10 @@
+Why a walking robot can't just switch off, and the standard being written for it
+
+Humanoid and legged robots fall over if their power is cut. Here is why that makes stopping them safely different, and what the draft ISO 25785-1 standard covers.
+
+Why it matters: D1 Always stoppable, D3 Physical safety, D6 Secure and supported.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: ISO; arXiv.
+
+#HumanInCharge #AISafety #RobotSafety

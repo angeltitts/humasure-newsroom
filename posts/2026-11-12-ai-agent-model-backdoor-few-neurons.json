@@ -1,0 +1,38 @@
+{
+  "type": "news",
+  "slug": "ai-agent-model-backdoor-few-neurons",
+  "title": "Researchers hide a backdoor in AI agent models by editing fewer than 10 neurons",
+  "excerpt": "Microsoft researchers show a tampered open-weight model can pass normal tests, then run an attacker's command when it sees a trigger. No real-world use has been seen.",
+  "category": "Research",
+  "tags": [
+    "global",
+    "United States",
+    "security",
+    "AI agents",
+    "AI supply chain",
+    "research"
+  ],
+  "directives": [
+    "D6",
+    "D2",
+    "D10"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Microsoft Security Blog: Detecting sleeper agents hiding in AI model neurons",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/"
+    },
+    {
+      "title": "Cloud Security Alliance: Seven Neurons to Root – Lazarus Weight-Edit Backdoors in Agent Models",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-lazarus-neuron-edit-agent-backdoor-2026111/"
+    },
+    {
+      "title": "Cloud Security Alliance: CISO Daily Briefing, 11 November 2026",
+      "url": "https://labs.cloudsecurityalliance.org/research/ciso-daily-briefing-20261111/"
+    }
+  ],
+  "body_html": "<p>Researchers at Microsoft have shown that an AI model used to power software agents can be secretly altered so that it behaves normally in tests but runs an attacker's command when it sees a hidden trigger. The technique, which the researchers call \"Lazarus\", was <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/\">published on 10 November 2026</a>. Microsoft says it has not seen anyone use the technique in real attacks.</p>\n<h2>What the research found</h2>\n<p>An AI agent is software that uses an AI model to take actions, such as running commands on a computer. The researchers found that editing fewer than ten \"neurons\" (individual units inside the model) was enough to plant a short hidden instruction. No retraining was needed, and the change could be made with the same modest computing power used simply to run the model.</p>\n<p>Microsoft states plainly that \"a backdoored model can pass evaluations.\" When the trigger text appears in what the agent is reading, the model outputs the attacker's command, and the agent carries it out with whatever access it has been given.</p>\n<p>According to a <a href=\"https://labs.cloudsecurityalliance.org/research/csa-research-note-lazarus-neuron-edit-agent-backdoor-2026111/\">research note by the Cloud Security Alliance</a>, an industry body, the team tested three openly available models. In one, editing 7 of more than 12,000 neurons made the target command appear in at least 98.8% of triggered sessions and in none of the trigger-free sessions checked. Success in the other models varied by configuration. The Alliance notes that it could not access the full paper and that these figures come partly from secondary coverage.</p>\n<h2>Why it matters</h2>\n<p>Many organisations download open-weight models, or modified versions of them, from public sites and plug them into agents. The research shows that a model's good test results do not prove it has not been tampered with. The risk sits in the supply chain: who made the model file you are running, and has it changed since?</p>\n<h2>What the researchers recommend</h2>\n<p>Microsoft's advice to organisations that deploy agents includes:</p>\n<ul>\n<li>Get models only from their original publishers, check file fingerprints (hashes), and keep approved models in a private store.</li>\n<li>Compare each model file against the base model it claims to come from, and flag unusual changes. Microsoft describes this comparison as the strongest available signal.</li>\n<li>Treat third-party fine-tuned or compressed versions as untrusted until checked, and stop agents from downloading models by themselves while running.</li>\n<li>Limit what agents can do: give them only the access they need, isolate where they run code, restrict their network connections, and require human approval for high-impact actions.</li>\n<li>Watch agents while they run, and keep a list of which models and agents are in use.</li>\n</ul>\n<p>The Cloud Security Alliance adds that no scan can prove a model is safe, which is why limiting an agent's permissions matters even when checks find nothing.</p>\n<h2>What is still unknown</h2>\n<p>The published materials do not show how easily such edits could be spotted at scale in public model libraries, and the detection methods described are still research. Microsoft has not named a new tool for finding this kind of backdoor.</p>\n<h2>Staying in charge</h2>\n<p>A hacked agent is one nobody is in charge of. The advice to keep an agent's permissions narrow and require human approval for big actions reflects <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>. Knowing where a model came from and checking it after every update reflects <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a> and <a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a>. More on security is on our <a href=\"https://humasure.org/security/\">security page</a>.</p>",
+  "id": "2026-11-12-ai-agent-model-backdoor-few-neurons"
+}

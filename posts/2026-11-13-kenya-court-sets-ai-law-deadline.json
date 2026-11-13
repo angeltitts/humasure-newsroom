@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-13-kenya-court-sets-ai-law-deadline",
+ "type": "news",
+ "slug": "kenya-court-sets-ai-law-deadline",
+ "title": "Kenyan court gives government and Parliament until May 2027 to finish AI rules",
+ "excerpt": "Kenya's High Court has set 13 May 2027 for a national AI legal and policy framework, but declined to stop public bodies using AI in the meantime.",
+ "category": "Regulation",
+ "tags": [
+  "Kenya",
+  "Africa",
+  "AI regulation",
+  "courts",
+  "public sector AI",
+  "human oversight"
+ ],
+ "directives": [
+  "D9",
+  "D8",
+  "D5",
+  "D1"
+ ],
+ "names_companies": true,
+ "incident": true,
+ "sources": [
+  {
+   "title": "Nairobi Wire: High Court orders government to finalise AI legal framework within six months",
+   "url": "https://nairobiwire.com/2026/11/high-court-orders-ai-legal-framework-six-months.html"
+  },
+  {
+   "title": "Africa AI News: Kenyan court gives government six months to create an AI law",
+   "url": "https://africaainews.com/p/kenyan-court-gives-government-six"
+  },
+  {
+   "title": "Court Helicopter: High Court declines immediate bid to halt use of AI in Kenya (February 2026)",
+   "url": "https://courthelicopter.co.ke/high-court-declines-immediate-bid-to-halt-use-of-ai-in-kenya-as-rights-activists-warn-of-privacy-and-election-risks/"
+  },
+  {
+   "title": "Techweez: Senate committee rejects AI Bill, sending it back to the drawing board",
+   "url": "https://techweez.com/2026/10/16/senate-committee-rejects-ai-bill-sending-it-back-to-the-drawing-board/"
+  },
+  {
+   "title": "Tech Labari: Kenya's AI Bill 2026, key things to know after rejection by Senate ICT Committee",
+   "url": "https://techlabari.com/kenyas-ai-bill-2026-key-things-to-know-after-rejection-by-senate-ict-committee"
+  }
+ ],
+ "body_html": "<p>Kenya's High Court has given the government and Parliament until <strong>13 May 2027</strong> to complete a national legal and policy framework for artificial intelligence. The ruling was delivered on Thursday, 12 November 2026, by Justice Edward Muriithi at the High Court in Kerugoya, according to reports by Nairobi Wire and Africa AI News.</p>\n<p>The court did not order public bodies to stop using AI while that work goes on. The full case is paused and returns to court on 13 May 2027 for further directions.</p>\n<h2>What the case was about</h2>\n<p>Three petitioners, John Wangai, Peter Agoro and Antony Manyara, filed a constitutional petition in early 2026 against the Cabinet Secretary and Principal Secretary responsible for information and communications technology (ICT). They argued that the government was deploying AI without binding rules. Reports say the petition pointed to the means-testing system of the Social Health Authority (Kenya's public health insurer), facial recognition, predictive policing, automated exam marking and AI-assisted recruitment in the public service.</p>\n<p>In February 2026 the same judge refused an urgent request to stop the government from deploying or authorising AI systems before a full hearing, saying the request was too wide to grant without hearing the other side. The petitioners had also asked for a national AI framework and legislation within 90 days.</p>\n<h2>What the court decided</h2>\n<ul>\n<li>The executive and Parliament must finalise a comprehensive AI legal and policy framework by 13 May 2027. The court described six months as a reasonable time.</li>\n<li>It declined the 90-day deadline, citing the separation of powers and Parliament's role in making laws.</li>\n<li>According to Nairobi Wire, the court found that the petitioners had not shown actual or imminent rights violations linked to the systems they named.</li>\n<li>Each side pays its own legal costs.</li>\n</ul>\n<h2>What the government and the Senate said</h2>\n<p>The government told the court that work was already under way, pointing to Kenya's AI Strategy launched in March 2025 and a draft National AI and Other Emerging Technologies Policy published for public comment on 21 July 2026. It argued that existing laws, including the Data Protection Act, already protect people. The Social Health Authority said its means-testing system has human oversight, and the Public Service Commission said it does not use AI in recruitment. The Senate, which joined the case, argued that good AI legislation needs technical expertise and phased consultation that a court should not rush.</p>\n<p>Kenya still has no AI-specific law. In October 2026 a Senate committee asked senators not to proceed with the Artificial Intelligence Bill, 2026, saying its fines and criminal penalties were too heavy for a sector \"still finding its footing\", as Tech Labari reported.</p>\n<h2>What is still unknown</h2>\n<p>The written judgment was not available when this story was published. It is not yet clear what form the framework will take (a new bill, amendments to existing laws, a policy, or a mix), whether it will include an AI regulator, or how the court will check progress in May 2027.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>When public bodies use AI to decide who gets health cover, a job or an exam grade, people need to know who answers for the result and how to challenge it. That is the heart of <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>, and <a href=\"https://humasure.org/directives/#d8\">D8, Fair treatment</a>. Face recognition and data-heavy systems also touch <a href=\"https://humasure.org/directives/#d5\">D5, Private by default</a>. The case shows a court treating clear rules as something people are owed, while leaving the details to lawmakers.</p>\n<p>Anyone affected by an automated decision, in Kenya or elsewhere, can ask the questions on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page: is a person reviewing the outcome, and how do I appeal?</p>"
+}

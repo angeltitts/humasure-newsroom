@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-13-what-is-a-serious-ai-incident",
+ "type": "explainer",
+ "slug": "what-is-a-serious-ai-incident",
+ "title": "What counts as a serious AI incident, and who has to report it?",
+ "excerpt": "Governments are building systems to log AI failures that hurt people. Here is how the EU AI Act and the OECD define an AI incident, and what reporting involves.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "European Union",
+  "incident reporting",
+  "AI regulation",
+  "accountability"
+ ],
+ "directives": [
+  "D9",
+  "D10",
+  "D1"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "European Commission AI Act Service Desk: Article 73, Reporting of serious incidents",
+   "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-73"
+  },
+  {
+   "title": "Spanish AI regulatory sandbox (AESIA): Serious incident guideline (rev. 10 December 2025)",
+   "url": "https://aesia.digital.gob.es/storage/media/14-serious-incident-guideline.pdf"
+  },
+  {
+   "title": "European Commission: Draft guidance and reporting template on serious AI incidents (consultation)",
+   "url": "https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks"
+  },
+  {
+   "title": "OECD.AI: Name it to tame it, defining AI incidents and hazards",
+   "url": "https://oecd.ai/en/wonk/defining-ai-incidents-and-hazards"
+  },
+  {
+   "title": "OECD.AI: Overview and methodology of the AI Incidents and Hazards Monitor",
+   "url": "https://oecd.ai/en/incidents-methodology"
+  },
+  {
+   "title": "Cuatrecasas: Digital Omnibus on AI has been published",
+   "url": "https://www.cuatrecasas.com/en/portugal/intellectual-property/art/digital-omnibus-ai-has-been-published"
+  }
+ ],
+ "body_html": "<p>Aviation, medicines and cars all have systems for reporting when something goes wrong, so that one accident can prevent the next. Governments are now building the same thing for artificial intelligence. To do that, they first have to agree on what an \"AI incident\" is. This explainer sets out the two definitions most often used, and what reporting involves under the European Union's AI Act.</p>\n<p>It is general information, not legal advice.</p>\n<h2>Incident or hazard: the OECD definitions</h2>\n<p>The OECD (Organisation for Economic Co-operation and Development), an intergovernmental body, published shared definitions in May 2024. An <strong>AI incident</strong> is an event where the development, use or malfunction of an AI system directly or indirectly leads to harm: injury or harm to people's health, disruption of critical infrastructure, violations of human rights or of laws protecting fundamental, labour or intellectual property rights, or harm to property, communities or the environment.</p>\n<p>An <strong>AI hazard</strong> is the near miss: an event that could plausibly lead to one of those harms, but has not yet. The OECD also runs a public AI Incidents and Hazards Monitor, which uses news reports to log, on average, about 30 incidents and hazards a day. It is developing a common reporting framework so that organisations can submit reports directly.</p>\n<h2>A \"serious incident\" under the EU AI Act</h2>\n<p>The AI Act uses a narrower legal term. Under Article 3(49), a serious incident is an incident or malfunction of an AI system that directly or indirectly leads to:</p>\n<ul>\n<li>the death of a person, or serious harm to a person's health;</li>\n<li>a serious and irreversible disruption of critical infrastructure;</li>\n<li>a breach of EU law obligations that protect fundamental rights; or</li>\n<li>serious harm to property or the environment.</li>\n</ul>\n<p>A guide prepared in Spain's AI regulatory sandbox gives two examples: a grant system that discriminates against single-parent families, and a smart insulin pump that recommends an unusual dose. Both would need to be reported.</p>\n<h2>Who reports, to whom, and how fast</h2>\n<p>Article 73 places the duty on <em>providers</em> of high-risk AI systems, meaning the organisations that make them and put them on the EU market. They report to the market surveillance authority (the national product-safety regulator) in the country where the incident happened.</p>\n<ul>\n<li><strong>15 days</strong> is the outer limit after the provider learns of a serious incident and a link to the AI system is established or reasonably likely.</li>\n<li><strong>2 days</strong> for a widespread infringement or a serious disruption of critical infrastructure.</li>\n<li><strong>10 days</strong> where a person has died.</li>\n</ul>\n<p>A first report can be incomplete, followed by a full one. The provider must then investigate, assess the risk, take corrective action and must not change the system in a way that could hide the cause before telling the authorities. The regulator has seven days to take appropriate measures, and national authorities pass every serious incident on to the European Commission. The Commission consulted on draft guidance and a standard reporting form in 2025, and says it wants the approach to line up with the OECD's work.</p>\n<h2>When it applies</h2>\n<p>The reporting duty belongs to the rules for high-risk AI. A 2026 amendment moved most high-risk obligations to 2 December 2027 for stand-alone uses such as hiring or credit, and to 2 August 2028 for AI built into regulated products such as machines and medical devices. Check the official text for the exact date that applies to a given system.</p>\n<h2>What reporting does not do</h2>\n<p>A report is not a verdict on blame, and it does not by itself fix anything. Systems that are not classed as high-risk, such as many consumer chatbots, fall outside Article 73. News-based monitors only see incidents that are reported in the press.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>Incident reporting is how accountability works after a product is sold: someone has to notice, tell the regulator and fix the cause. That reflects <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>, and <a href=\"https://humasure.org/directives/#d10\">D10, Safe for its whole life</a>. Good reporting also helps show whether people could stop a system in time (<a href=\"https://humasure.org/directives/#d1\">D1, Always stoppable</a>).</p>\n<p>A fair question for any maker of an AI product or robot is: how do you learn about failures, and who do you tell? See our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a>.</p>"
+}

@@ -1,0 +1,10 @@
+What counts as a serious AI incident, and who has to report it?
+
+Governments are building systems to log AI failures that hurt people. Here is how the EU AI Act and the OECD define an AI incident, and what reporting involves.
+
+Why it matters: D9 Accountable, D10 Safe for its whole life, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: European Commission AI Act Service Desk; Spanish AI regulatory sandbox (AESIA); European Commission.
+
+#HumanInCharge #AISafety #RobotSafety

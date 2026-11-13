@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-13-eu-ai-sandbox-rules-adopted",
+ "type": "news",
+ "slug": "eu-ai-sandbox-rules-adopted",
+ "title": "EU adopts common rules for AI sandboxes: free for small firms, risky tests can be stopped",
+ "excerpt": "New EU rules published on 11 November 2026 set how supervised AI test spaces work: who can join, what a test plan must cover, and when a regulator can halt a project.",
+ "category": "Regulation",
+ "tags": [
+  "European Union",
+  "EU AI Act",
+  "regulatory sandboxes",
+  "AI testing",
+  "regulation",
+  "incident reporting"
+ ],
+ "directives": [
+  "D1",
+  "D3",
+  "D9",
+  "D5"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Lovguiden (summary of the EU Official Journal): EU sets common rules for AI regulatory sandboxes, free access for SMEs (11 November 2026)",
+   "url": "https://www.lovguiden.dk/en/det-offentlige/eur-lex-eu-tidende/2026-11-11-eu-sets-common-rules-for-ai-regulatory-sandboxes-free-access-for-smes"
+  },
+  {
+   "title": "Cybersecurity360: AI Act, new rules for sandboxes – security enters experimentation",
+   "url": "https://www.cybersecurity360.it/legal/ai-act-nuove-regole-per-le-sandbox-la-sicurezza-entra-nella-sperimentazione/"
+  }
+ ],
+ "body_html": "<p>The European Commission has adopted detailed rules for AI regulatory sandboxes, the supervised spaces where companies can develop and test AI systems with a regulator watching before those systems reach the market. Commission Implementing Regulation (EU) 2026/2487 was adopted on 10 November 2026, published in the EU's Official Journal on 11 November and enters into force on 1 December 2026. As a regulation, it applies directly in all 27 EU countries.</p>\n<p>The EU AI Act, in Article 57, already requires every EU country to have at least one national AI sandbox, now by 2 August 2027. The new rules say how those sandboxes must work, so that a company testing in one country follows the same basic process as in another. We explained the idea of a sandbox in an earlier explainer on <a href=\"https://humasure.org/news/\">Humasure News</a>.</p>\n<h2>Who can take part</h2>\n<ul>\n<li><strong>Open to any provider</strong>, including from another EU country, if the AI system is not yet on the market, is about to be substantially changed, or is high-risk because of how it will be used.</li>\n<li><strong>Five selection criteria</strong>: need, what regulators can learn, benefit to society, maturity of the system, and how innovative it is. Applicants get a decision within three months and can appeal a refusal under national rules.</li>\n<li><strong>Free for small firms.</strong> Small and medium-sized businesses, including start-ups, and public authorities pay nothing for guidance, advice and supervision. Larger companies pay fees that cover the full cost.</li>\n<li><strong>Providers based outside the EU</strong> must appoint an authorised representative in the EU, who is liable for the sandbox activities.</li>\n</ul>\n<h2>Safety inside the sandbox</h2>\n<p>Each project runs under an agreed sandbox plan. According to summaries of the regulation, the plan must cover the timeline, roles, risk safeguards, any processing of personal data, any testing in real-world conditions, and a procedure for monitoring, handling and reporting serious incidents. Data protection authorities must be involved when personal data is used.</p>\n<p>Authorities can suspend a project, for a time or for good, if the plan is breached or if significant risks to health, safety or fundamental rights cannot be reduced. They must tell the EU AI Office without undue delay. Taking part does not remove responsibility: under the AI Act, participants remain liable for harm caused to other people, and are protected only from AI Act fines if they follow the plan and the regulator's guidance in good faith.</p>\n<h2>What a company gets at the end</h2>\n<p>When a project ends, the company receives an exit report within 45 working days, covering what was tested, what regulatory questions were addressed and any serious incidents. Market surveillance authorities and notified bodies (the independent organisations that check certain products) across the EU must recognise it. But the report is not a declaration of conformity and does not approve the system for sale. It is published on the EU platform only if both the company and the authority agree.</p>\n<h2>What is still unknown</h2>\n<p>The regulation sets out the process, but it is not yet known how many projects national authorities will accept, or how often testing will be stopped. Because exit reports are published only by agreement, the public may see little of what was learned.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>A sandbox is only as useful as its ability to stop a test that goes wrong. The power to suspend projects reflects <a href=\"https://humasure.org/directives/#d1\">Directive 1, always stoppable</a>, and the requirement to plan for incidents and keep responsibility with the provider reflects <a href=\"https://humasure.org/directives/#d9\">Directive 9, accountable</a>. Supervised testing is a step towards independent checks before AI and robots reach people, which is the idea behind Humasure's work. People can ask any maker whether a product was tested under supervision, and what the results were, using our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a>.</p>"
+}

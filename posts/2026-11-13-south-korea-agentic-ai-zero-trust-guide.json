@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-13-south-korea-agentic-ai-zero-trust-guide",
+ "type": "news",
+ "slug": "south-korea-agentic-ai-zero-trust-guide",
+ "title": "South Korea issues zero-trust security guide for businesses using AI agents",
+ "excerpt": "South Korea's science ministry and internet security agency published a guide on 6 November 2026: check every action an AI agent takes, and have people approve the risky ones.",
+ "category": "News",
+ "tags": [
+  "South Korea",
+  "Asia-Pacific",
+  "AI agents",
+  "security",
+  "zero trust",
+  "human oversight"
+ ],
+ "directives": [
+  "D2",
+  "D6",
+  "D1",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Korean Center (Yonhap News): AI autonomous actions and tool calls to be verified; human approval depending on risk (6 November 2026)",
+   "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1435718"
+  },
+  {
+   "title": "MLex: South Korea issues updated zero-trust security guide for agentic AI (6 November 2026)",
+   "url": "https://www.mlex.com/mlex/articles/2547155"
+  },
+  {
+   "title": "Cyber Security Agency of Singapore: Joint Advisory by CSA, GovTech and IMDA (AD-2026-015, 6 November 2026)",
+   "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-015/"
+  }
+ ],
+ "body_html": "<p>South Korea's Ministry of Science and ICT (MSIT) and the Korea Internet &amp; Security Agency (KISA), the country's main public body for internet security, published a security guide for companies that use AI agents on Friday 6 November 2026. It is called the Agentic AI Zero Trust Guide.</p>\n<p>An AI agent is an AI system that does not just answer questions but takes actions: it calls software tools, hands tasks to other systems and talks to outside services. The guide is written for organisations that are adopting and running these agents.</p>\n<h2>What \"zero trust\" means here</h2>\n<p>Zero trust is a security approach in which nothing is trusted automatically, even inside an organisation's own network. Every request is checked, every time. South Korea published general zero-trust guidelines (version 2.0) in December 2024, with a four-level maturity model. The new guide extends that model to AI agents.</p>\n<p>The reason, in the ministry's words as reported: because agents work with high levels of autonomy and authority, they bring their own security threats, such as \"prompt contamination\" (hidden or manipulated instructions that steer the agent) and autonomous actions that go beyond the authority they were given.</p>\n<h2>What the guide asks for</h2>\n<p>According to reports on the announcement, the guide sets out:</p>\n<ul>\n<li><strong>Checks at every step.</strong> Security policy is verified and enforced at each point where the agent acts: when it takes in input, calls a tool, delegates a task, or communicates with outside systems.</li>\n<li><strong>People approve risky actions.</strong> Higher-risk actions need a human to approve them. Lower-risk actions can run under policies agreed in advance.</li>\n<li><strong>A self-check for companies.</strong> Criteria for each maturity level let an organisation see where its security stands and decide what to fix first.</li>\n<li><strong>Practical adoption steps.</strong> Phased rollout, operating procedures and examples of use.</li>\n</ul>\n<p>The guide was written with experts from industry, universities and research institutes, drawing on input from organisations that build and buy these tools. It is guidance, not a law, and the reports do not say whether it will be linked to any certification or inspection. We have not yet been able to read the full guide itself; this story is based on reports of the ministry's announcement.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>The guide's central idea matches a simple principle: an agent should only do what it has been allowed to do, and a person should decide when the stakes are high. That is <a href=\"https://humasure.org/directives/#d2\">Directive 2, bounded autonomy</a>. Checking every action and every connection, rather than trusting an agent once it is inside the system, is part of <a href=\"https://humasure.org/directives/#d6\">Directive 6, secure and supported</a>. As Humasure puts it, a hacked or hijacked system is one nobody is in charge of; more on that at <a href=\"https://humasure.org/security/\">humasure.org/security</a>.</p>\n<p>South Korea joins other governments that have recently given similar advice. On 6 November 2026, three Singapore agencies told the public to link only the accounts an agent needs and to approve big actions themselves. The common thread is the same: the more an AI system can do on its own, the more clearly its limits need to be set and checked.</p>\n<p>Anyone whose employer or bank is starting to use AI agents can ask the questions on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page, such as which actions the agent can take without a person approving them, and how it can be stopped.</p>"
+}

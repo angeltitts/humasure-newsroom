@@ -1,0 +1,10 @@
+South Korea issues zero-trust security guide for businesses using AI agents
+
+South Korea's science ministry and internet security agency published a guide on 6 November 2026: check every action an AI agent takes, and have people approve the risky ones.
+
+Why it matters: D2 Bounded autonomy, D6 Secure and supported, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Korean Center (Yonhap News); MLex; Cyber Security Agency of Singapore.
+
+#HumanInCharge #AISafety #RobotSafety #SouthKorea

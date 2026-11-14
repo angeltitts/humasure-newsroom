@@ -1,0 +1,10 @@
+FBI warns attackers are using an AI agent framework to automate network break-ins
+
+An FBI alert of 13 November says criminals are misusing ARTEX, an open-source AI testing tool, to break into networks, in some cases reaching admin access within three hours.
+
+Why it matters: D6 Secure and supported, D2 Bounded autonomy, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Cyber Security News; GBHackers; Red Tiger Security.
+
+#HumanInCharge #AISafety #RobotSafety #UnitedStates

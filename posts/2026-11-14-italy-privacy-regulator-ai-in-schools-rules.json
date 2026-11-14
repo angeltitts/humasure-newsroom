@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-14-italy-privacy-regulator-ai-in-schools-rules",
+  "type": "news",
+  "slug": "italy-privacy-regulator-ai-in-schools-rules",
+  "title": "Italy's privacy regulator backs draft rules for AI in schools, with pseudonymous logins",
+  "excerpt": "Italy's data protection authority has approved a draft education ministry decree on AI tools in schools. Pupils would log in under codes, not names, and the regulator wants more help for schools choosing AI vendors.",
+  "category": "Regulation",
+  "tags": [
+    "Italy",
+    "European Union",
+    "children",
+    "education",
+    "privacy",
+    "data protection"
+  ],
+  "directives": [
+    "D5",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "ANSA: Intelligenza artificiale nelle scuole, ok del Garante privacy (12 November 2026)",
+      "url": "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/11/12/intelligenza-artificiale-nelle-scuole-ok-del-garante-privacy_d3fe2aad-3569-447a-8798-55556614d931.html"
+    },
+    {
+      "title": "Cybersecurity360: AI a scuola, parere Garante: le misure per proteggere gli alunni",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/ai-nelle-scuole-il-garante-chiede-piu-controlli-su-dati-e-fornitori/"
+    }
+  ],
+  "body_html": "<p>Italy's data protection authority, the Garante per la protezione dei dati personali, has given a favourable opinion on a draft decree from the Ministry of Education and Merit that sets out first rules for using artificial intelligence tools with pupils and teachers in schools. The opinion, numbered 787, is dated 20 October 2026 and was made public on 12 November 2026, according to the Italian news agency ANSA and the specialist site Cybersecurity360.</p>\n<p>The decree is still a draft. The regulator's approval does not mean it has been adopted, and no date for final adoption has been reported.</p>\n<h2>What the draft decree would do</h2>\n<p>According to both reports, the draft comes with a technical annex on organisational and security measures. The main points reported are:</p>\n<ul>\n<li><strong>Pseudonymous accounts.</strong> Pupils would use AI systems under coded identifiers rather than their names. The school would keep the key that links each code to a pupil separately, in a protected environment, open only to the head teacher and authorised teachers.</li>\n<li><strong>Less personal data typed in.</strong> Schools would run awareness campaigns to discourage pupils from entering personal information into generative AI tools.</li>\n<li><strong>Data kept in Europe where possible.</strong> Transfers of personal data outside the European Economic Area are to be avoided, and where strictly necessary must follow the safeguards in the EU's General Data Protection Regulation (GDPR).</li>\n</ul>\n<h2>What the regulator asked the ministry to add</h2>\n<p>ANSA reports that the Garante made several observations for the ministry. It asked the ministry to keep supporting schools with further guidance as AI tools change, and to help schools choose products, possibly by defining standards and requirements that AI providers would have to meet. It also suggested identifying standard AI services that schools could adopt, and a dedicated support service to help schools deal with AI vendors.</p>\n<p>Cybersecurity360 adds that pseudonymous logins do not remove every privacy risk: the questions pupils type, and photos or files they upload, can still identify them. It lists checks a school should make with any provider, such as whether pupils' prompts are used to train models, where logs are stored, how long attachments are kept, which subcontractors handle data and how data can be deleted. Where a project may pose a high risk to people, a data protection impact assessment under Article 35 of the GDPR is required.</p>\n<h2>What is still unknown</h2>\n<p>The reports do not say which school years the decree will cover, when it will take effect, or what retention periods will apply. We have not been able to open the regulator's own published opinion, so this summary relies on the two reports above.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Children cannot be expected to read an AI provider's terms. Rules like these move the work to the adults and institutions responsible for them: the school decides which tool is used, holds the link between a code and a child, and has to ask the provider hard questions before signing up. That is the idea behind Humasure's <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>, and <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>: someone named must answer for how a system handles people's data.</p>\n<p>Parents and teachers anywhere can use the same checks. Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> include where data goes, who can see it and how to delete it.</p>"
+}

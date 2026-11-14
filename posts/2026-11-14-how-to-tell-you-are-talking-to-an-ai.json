@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-14-how-to-tell-you-are-talking-to-an-ai",
+  "type": "guide",
+  "slug": "how-to-tell-you-are-talking-to-an-ai",
+  "title": "How to tell if you are talking to an AI, and what the law expects",
+  "excerpt": "Chatbots, voice agents and AI avatars can sound very human. Here is what EU law now requires them to tell you, and simple steps to check for yourself wherever you live.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "European Union",
+    "EU AI Act",
+    "chatbots",
+    "AI agents",
+    "transparency"
+  ],
+  "directives": [
+    "D4",
+    "D7"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "European Commission AI Act Service Desk: Article 50, transparency obligations",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50"
+    },
+    {
+      "title": "European Commission: Transparency obligations under Article 50 AI Act (FAQ)",
+      "url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act"
+    },
+    {
+      "title": "European Commission: Code of Practice on transparency of AI-generated content",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content"
+    }
+  ],
+  "body_html": "<p>Customer service chats, phone lines, shopping assistants and on-screen avatars are increasingly run by AI. Many are helpful. But you make different choices when you know you are dealing with a machine: what you share, how much you trust an answer, and when you ask for a person. This guide explains what the European Union's AI Act now requires and how to check for yourself, wherever you are.</p>\n<p>This is general information, not legal advice.</p>\n<h2>What the EU rule says</h2>\n<p>Article 50 of the EU AI Act has applied since 2 August 2026. Its first paragraph says that AI systems built to interact directly with people must be designed so those people are told they are dealing with an AI. According to the <a href=\"https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50\">Commission's AI Act Service Desk</a>, the information must be \"clear and distinguishable\" and given at the latest at the first interaction. It must also meet accessibility requirements.</p>\n<p>The European Commission's <a href=\"https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act\">questions and answers on Article 50</a> say the duty covers systems built for a real two-way exchange with a person, such as chatbots, AI agents and avatars. There is an exception when it is obvious to a reasonably well-informed person that they are dealing with AI, but the Commission says that exception should be read narrowly. Systems that only talk to other machines are not covered.</p>\n<h2>Related labels you may see</h2>\n<ul>\n<li><strong>Deepfakes.</strong> Organisations that publish realistic AI-made or AI-altered images, audio or video must say so. For art, satire or fiction, a lighter notice is allowed that does not spoil the work.</li>\n<li><strong>Emotion recognition.</strong> If a system tries to read your emotions or sort you by biometric traits, the organisation using it must tell you.</li>\n<li><strong>Hidden marks.</strong> AI-generated content must also carry machine-readable markings so software can detect it. A <a href=\"https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content\">voluntary code of practice</a>, published on 10 June 2026, explains how providers can do this and offers optional EU icons for labels.</li>\n</ul>\n<p>National market surveillance authorities in each EU country enforce these rules. Fines can reach 15 million euros or 3% of worldwide turnover.</p>\n<h2>How to check for yourself</h2>\n<ol>\n<li><strong>Look at the start.</strong> Under the EU rule, the notice should appear at the first interaction, for example in the chat window header, the first message or the opening of a call. If it only appears in the terms and conditions, that is a warning sign.</li>\n<li><strong>Ask directly.</strong> Type or say \"Am I talking to a person or an AI?\" A well-designed system should answer plainly. An evasive answer tells you something too.</li>\n<li><strong>Ask for a human.</strong> Before sharing health, money or identity details, or when a decision matters to you, ask to be passed to a person and note whether that is possible.</li>\n<li><strong>Watch for pressure.</strong> Be careful with any assistant, human or AI, that rushes you, flatters you into a purchase or tries to keep you talking. Honest design does not need those tactics.</li>\n<li><strong>Keep a record.</strong> If you were not told and it mattered, take screenshots with dates. In the EU you can raise it with your national authority for the AI Act or your consumer protection body.</li>\n</ol>\n<h2>Outside the EU</h2>\n<p>Rules differ by country, and some places have no specific disclosure law yet. The checks above still work everywhere. If you were misled, your national consumer protection or data protection authority is a sensible first place to ask.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>You cannot stay in charge of a conversation if you do not know who, or what, is on the other side. That is Humasure's <a href=\"https://humasure.org/directives/#d4\">Directive 4, Honest identity</a>: an AI should never pretend to be human. It sits beside <a href=\"https://humasure.org/directives/#d7\">Directive 7, No manipulation</a>. For more questions you can put to any maker or service, see Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a>.</p>"
+}

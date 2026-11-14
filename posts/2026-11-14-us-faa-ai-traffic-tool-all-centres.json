@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-14-us-faa-ai-traffic-tool-all-centres",
+  "type": "news",
+  "slug": "us-faa-ai-traffic-tool-all-centres",
+  "title": "US expands AI air traffic planning tool nationwide, with staff reviewing each suggestion",
+  "excerpt": "The US Federal Aviation Administration says its AI planning tool now covers all 22 en-route control centres. It suggests reroutes; people decide. Lawmakers still want answers on how it was tested.",
+  "category": "News",
+  "tags": [
+    "United States",
+    "aviation",
+    "AI at work",
+    "human oversight",
+    "transport safety"
+  ],
+  "directives": [
+    "D2",
+    "D3",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "US Department of Transportation: launch release for SMART (21 September 2026)",
+      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-delivers-state-art-air-traffic-control"
+    },
+    {
+      "title": "Airways Magazine: FAA SMART now covers all 22 centers (11 November 2026)",
+      "url": "https://airwaysmag.com/new-post/faa-smart-nationwide-22-centers"
+    },
+    {
+      "title": "FLYING Magazine: FAA SMART AI now active at 22 ARTCCs nationwide (10 November 2026)",
+      "url": "https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/"
+    },
+    {
+      "title": "Airways Magazine: Lawmakers ask FAA to pause SMART (14 October 2026)",
+      "url": "https://airwaysmag.com/new-post/lawmakers-faa-smart-pause"
+    },
+    {
+      "title": "Federal News Network: FAA AI use sparks new reviews (16 October 2026)",
+      "url": "https://federalnewsnetwork.com/congress/2026/10/faa-ai-use-sparks-new-reviews-into-ai-safety-workforce-shortages/"
+    }
+  ],
+  "body_html": "<p>The US Federal Aviation Administration (FAA), the national aviation regulator and air traffic service, said on 10 November 2026 that its AI-supported planning tool is now active in the airspace of all 22 of its air route traffic control centres. These centres handle aircraft flying between airports. The expansion was reported by FLYING Magazine and Airways Magazine, citing an FAA statement.</p>\n<h2>What the tool does, and what it does not do</h2>\n<p>The system is called SMART (Strategic Management of Airspace, Routes and Trajectories). According to the US Department of Transportation's launch release of 21 September 2026, it combines about 200 data streams, including weather, flight paths, traffic flows and controller staffing, to forecast congestion and suggest changes to routes and schedules before problems build up. It started in a limited mode around Washington, D.C.</p>\n<p>The department was clear about its limits. Its release says SMART \"cannot be used to replace the critical role air traffic controllers play or take over control of an aircraft.\" It also says all of SMART's recommendations are reviewed by FAA staff, and local leaders at control facilities can accept or decline them. Airways Magazine describes the chain: specialists check the data, send suggestions to the FAA's national command centre, which passes them to local facilities to decide. Controllers remain responsible for keeping aircraft apart.</p>\n<p>The FAA reports that SMART has rerouted 180 flights so far, saving about 10 minutes and nearly 80 gallons (about 300 litres) of fuel per flight. These are the agency's own figures. Airways notes that the FAA has not explained how the savings were calculated or how often facilities accepted the suggestions.</p>\n<h2>Questions still open</h2>\n<p>On 9 October 2026, 25 members of the US Congress, including Senator Chris Van Hollen, wrote to the FAA asking it to pause SMART in Washington-area airspace while it answered questions, Airways reported. Their questions included whether a formal safety risk assessment was signed before launch, how the models' accuracy was checked, how the system behaves in severe weather or when data is missing, what training staff received, and whether controllers can still override a suggestion after their managers accept it. The controllers' union, the National Air Traffic Controllers Association, has said it was not involved in the rollout, according to FLYING. Federal News Network reported that more than 20 lawmakers also asked the Government Accountability Office, Congress's audit body, to review the system.</p>\n<p>The FAA told a Washington newspaper in October that it was continuing to test SMART, train staff and assess the programme. We found no public answer to the lawmakers' detailed questions, and no reported safety problem linked to the tool.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>This is a clear example of AI used to advise rather than act. The design keeps decisions with named people at each step, which is the idea behind Humasure's <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>. In a field where errors can hurt people, <a href=\"https://humasure.org/directives/#d3\">physical safety</a> also depends on evidence: how the tool was tested, how it fails, and whether the person with the final word can still say no. Publishing that evidence is part of being <a href=\"https://humasure.org/directives/#d9\">accountable</a>.</p>\n<p>The same questions apply to AI at any workplace. Humasure's page on <a href=\"https://humasure.org/ai-at-work/\">AI at work</a> sets out what workers can ask when a new system arrives.</p>"
+}

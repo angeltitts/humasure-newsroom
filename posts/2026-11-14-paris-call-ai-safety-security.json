@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-14-paris-call-ai-safety-security",
+  "type": "news",
+  "slug": "paris-call-ai-safety-security",
+  "title": "Paris Call: 16 countries and 10 AI developers back shutdown plans and incident alerts",
+  "excerpt": "A voluntary declaration signed in Paris on 9 November commits governments and AI developers to shared testing, shutdown mechanisms and faster warnings about serious AI incidents.",
+  "category": "Regulation",
+  "tags": [
+    "global",
+    "France",
+    "Canada",
+    "European Union",
+    "frontier AI",
+    "incident reporting",
+    "AI testing"
+  ],
+  "directives": [
+    "D1",
+    "D9",
+    "D6"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "French Embassy in the UK: Paris Call for AI safety and security",
+      "url": "https://uk.diplomatie.gouv.fr/en/paris-call-ai-safety-and-security"
+    },
+    {
+      "title": "Prime Minister of Canada: Joint declaration on Paris call for AI safety and security",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/11/09/joint-declaration-paris-call-ai-safety-and-security"
+    },
+    {
+      "title": "Global News: Canada joins AI safety declaration but without 'teeth,' what can it do?",
+      "url": "https://globalnews.ca/news/12144853/canada-joins-ai-safety-statement/"
+    }
+  ],
+  "body_html": "<p>A group of governments, AI developers and research groups has signed the <strong>Paris Call for AI Safety and Security</strong>, a France-led declaration on the most advanced AI systems, often called frontier AI. It was signed on Monday, 9 November 2026, and published by the French and Canadian governments. It is voluntary and creates no new legal duties.</p>\n<h2>Who signed</h2>\n<p>The list published by the French government names 16 countries at head of state or government level: Austria, Bahrain, Canada, Croatia, Cyprus, Estonia, Finland, France, Ireland, Kenya, Latvia, Liechtenstein, Luxembourg, the Netherlands, Norway and Portugal. Ten companies signed: Anthropic, Black Forest Labs, Cohere, Domyn, Hugging Face, Microsoft, Mistral AI, OpenAI, Sakana AI and Synthesia. Several research and civil society groups also signed. The text says it remains open to new endorsements, so the list may grow.</p>\n<h2>What it commits to</h2>\n<p>The declaration has three parts.</p>\n<ol>\n<li><strong>Shared testing.</strong> Signatories will work toward a common framework for evaluating and managing frontier AI risks, with shared technical standards and tools. The focus includes serious misuse, such as cyber-attacks and chemical, biological, radiological and nuclear risks, and risks from growing autonomy, including loss of control. Non-sensitive test results are to be published in a standard format, in a public shared repository.</li>\n<li><strong>Responsibility.</strong> Developers commit to disclose what their models can do, their limits and known risks, and to support independent evaluation where appropriate. They also commit to fail-safe mechanisms that can restrict, pause or shut down models within their control, including during training and internal use. Governments commit to clarify who is legally responsible for large-scale harm, including harm that crosses borders.</li>\n<li><strong>Early warning.</strong> Signatories will build rapid alert systems on top of existing incident-response arrangements, align how incidents are classified and share timely information on \"serious cyber and AI control incidents\". Governments are asked to provide secure, confidential channels for whistleblowers.</li>\n</ol>\n<h2>What is still unknown</h2>\n<p>The declaration sets no deadlines and names no body to check progress. It does not say who will run the shared repository or the alert system. Some early reports list endorsers that do not appear on the French government's list, so readers should treat that list as the reference.</p>\n<p>Not everyone thinks a voluntary text is enough. Florian Martin-Bariteau, director of the University of Ottawa's Centre for Law, Technology and Society, told Global News that non-binding statements do not replace regulation, and that without regulators to follow up, \"it will never work.\"</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Two commitments stand out. A working way to pause or shut down a system is the heart of <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>. Clear legal responsibility and honest disclosure of risks are the core of <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. Shared incident alerts also support <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>.</p>\n<p>Declarations show intent; testing shows results. The useful next step for anyone is to ask makers how they meet these commitments in practice. Our <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a> page is a starting point.</p>"
+}

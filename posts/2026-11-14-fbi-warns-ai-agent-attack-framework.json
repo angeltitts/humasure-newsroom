@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-14-fbi-warns-ai-agent-attack-framework",
+  "type": "news",
+  "slug": "fbi-warns-ai-agent-attack-framework",
+  "title": "FBI warns attackers are using an AI agent framework to automate network break-ins",
+  "excerpt": "An FBI alert of 13 November says criminals are misusing ARTEX, an open-source AI testing tool, to break into networks, in some cases reaching admin access within three hours.",
+  "category": "News",
+  "tags": [
+    "United States",
+    "global",
+    "South Korea",
+    "security",
+    "AI agents",
+    "cyberattacks"
+  ],
+  "directives": [
+    "D6",
+    "D2",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "Cyber Security News: FBI reveals how hackers use ARTEX AI agents to gain privileged access in under three hours",
+      "url": "https://cybersecuritynews.com/fbi-reveals-hackers-artex-ai-usage/"
+    },
+    {
+      "title": "GBHackers: FBI warns hackers are weaponizing ARTEX AI framework to launch autonomous cyberattacks worldwide",
+      "url": "https://gbhackers.com/fbi-warns-artex-ai-framework/"
+    },
+    {
+      "title": "Red Tiger Security: FBI warns of ARTEX, an AI attack engine now aimed at energy and manufacturing",
+      "url": "https://www.redtigersecurity.com/advisory/fbi-flash-artex-ai-attack-framework"
+    }
+  ],
+  "body_html": "<p>The US Federal Bureau of Investigation (FBI) has warned organisations that attackers are misusing an AI agent framework called ARTEX to automate much of a network intrusion. The alert, a FLASH notice numbered FLASH-20261113-001, was published on 13 November 2026, according to security outlets that reported its contents. We could not open the FBI document ourselves, so this report relies on those accounts.</p>\n<h2>What the FBI described</h2>\n<p>ARTEX was released as an open-source \"autonomous penetration testing\" framework. Penetration testing is authorised, simulated hacking used to find weaknesses before criminals do. According to the reports, the tool connects to outside AI models chosen by whoever runs it, and splits a goal written in plain language into commands carried out by software agents with little human input.</p>\n<p>The reports say the FBI described:</p>\n<ul>\n<li>misuse observed since at least August 2026;</li>\n<li>some intrusions that went from first contact to privileged administrator access in under three hours;</li>\n<li>agents that scan targets, look for exposed passwords and access keys, explore cloud permissions and try other routes if a step fails;</li>\n<li>victims in sectors including finance, government, defence, healthcare, energy and telecommunications, among them a campaign that took personal information on about 67,000 people in South Korea;</li>\n<li>more than 1,600 ARTEX control consoles found exposed on the internet in early November.</li>\n</ul>\n<p>The original developer removed the code from the GitHub code-sharing site on 8 October 2026 after reports of abuse, but copies, modified versions and a paid edition still circulate, the reports say.</p>\n<h2>What defenders are told to do</h2>\n<p>The mitigations reported from the alert are familiar security basics, applied faster: keep an inventory of internet-facing systems, restrict access to cloud administration tools, give applications only the permissions they need, search code stores for exposed passwords and keys, and watch for unusual sign-ins, new credentials and bursts of automated activity. Unexpected traffic to AI services from inside a network is now also worth checking.</p>\n<h2>What is still unknown</h2>\n<p>The reports do not give a full list of affected organisations or countries, and counts of targeted systems are not the same as confirmed breaches. We found no statement from the tool's developer. It is not known how many attacks used ARTEX rather than other tools.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>This is not a story about AI going out of control. People chose targets and set goals; the software made their work faster. The lesson is that defenders now have less time, and that tools built to automate testing need limits on who can use them and what they may do.</p>\n<p>That connects to <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>, <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a> and <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. As we put it on our <a href=\"https://humasure.org/security/\">security page</a>, a hacked system is one nobody is in charge of. Independent standards exist so that these protections are tested, not assumed. For questions to put to any provider about security updates and access controls, see <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

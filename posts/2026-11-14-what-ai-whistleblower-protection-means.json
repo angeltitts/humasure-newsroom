@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-14-what-ai-whistleblower-protection-means",
+  "type": "explainer",
+  "slug": "what-ai-whistleblower-protection-means",
+  "title": "What whistleblower protection means for AI, and how reports reach regulators",
+  "excerpt": "People inside AI developers often see risks first. Here is how EU law protects those who report problems, and why safe reporting channels matter for accountability.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "European Union",
+    "EU AI Act",
+    "whistleblowing",
+    "accountability",
+    "AI governance"
+  ],
+  "directives": [
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "AI Act Service Desk (European Commission): Article 87, Reporting of infringements and protection of reporting persons",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-87"
+    },
+    {
+      "title": "European Commission: AI Act whistleblower tool",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-whistleblower-tool"
+    },
+    {
+      "title": "eucrim: Commission launches AI Act whistleblower tool",
+      "url": "https://eucrim.eu/news/commission-launches-ai-act-whistleblower-tool/"
+    },
+    {
+      "title": "French Embassy in the UK: Paris Call for AI safety and security",
+      "url": "https://uk.diplomatie.gouv.fr/en/paris-call-ai-safety-and-security"
+    }
+  ],
+  "body_html": "<p>The people most likely to spot a serious problem with an AI system are often the people who build, test or run it. A whistleblower is someone who reports wrongdoing or a serious risk they learned about through their work. Whistleblower protection is the set of rules that lets them do this safely: confidential channels to report through, and legal protection against being fired, demoted or punished for it.</p>\n<h2>Why it matters for AI</h2>\n<p>Many risks in AI systems are invisible from the outside. Test results, internal incidents and known weaknesses usually stay inside an organisation. If staff fear for their jobs, a problem may only come to light after it has caused harm. Safe reporting gives regulators a way to hear about risks early.</p>\n<h2>What EU law says</h2>\n<p>The EU AI Act deals with this in one short article. Article 87 says that the EU Whistleblower Directive, \"Directive (EU) 2019/1937 shall apply to the reporting of infringements of this Regulation\" and to the protection of people who report them.</p>\n<p>In practice, that brings people who report AI Act breaches under the protections the directive already provides, including:</p>\n<ul>\n<li>keeping the reporter's identity confidential;</li>\n<li>protection against retaliation for reporting in good faith.</li>\n</ul>\n<p>These full protections have applied to AI Act reports since 2 August 2026, <a href=\"https://eucrim.eu/news/commission-launches-ai-act-whistleblower-tool/\">according to a summary of the tool's launch</a>. Before that date, confidentiality was the main safeguard.</p>\n<h2>The EU's reporting tool</h2>\n<p>The European Commission's AI Office, which oversees general-purpose AI models under the AI Act, launched an online whistleblower tool at the end of November 2025. It is meant for people professionally connected to providers of general-purpose AI models, or of AI systems the AI Office is responsible for. The Commission says: \"You can submit your report anonymously in any EU language.\" A secure inbox lets the reporter follow progress and answer questions without revealing who they are.</p>\n<h2>Beyond the EU</h2>\n<p>The issue is international. The Paris Call for AI Safety and Security, a voluntary declaration signed by governments and developers on 9 November 2026, asks governments to provide secure, confidential channels for whistleblowers to raise concerns about systemic risks without fear of retaliation. Many countries have general whistleblower laws, but whether they clearly cover AI safety concerns differs from place to place. If you are thinking of making a report, check the rules where you live or seek independent advice first.</p>\n<h2>What this means for staying in charge</h2>\n<p>Protection for people who speak up is part of what makes AI accountable. It is one way of making sure that when something goes wrong, someone hears about it and someone answers for it. That is the idea behind <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a> in the <a href=\"https://humasure.org/directives/\">Humasure Directives</a>.</p>\n<p>Questions anyone can ask a maker or employer:</p>\n<ul>\n<li>Is there a confidential way to report a safety concern about this system?</li>\n<li>Who receives those reports, and who decides what happens next?</li>\n<li>Does the organisation have a written commitment not to punish people who report in good faith?</li>\n</ul>\n<p>For more questions like these, see <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

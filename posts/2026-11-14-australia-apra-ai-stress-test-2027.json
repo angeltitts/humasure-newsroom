@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-14-australia-apra-ai-stress-test-2027",
+  "type": "news",
+  "slug": "australia-apra-ai-stress-test-2027",
+  "title": "Australia's bank regulator plans first AI stress test for 2027",
+  "excerpt": "Australia's prudential regulator says AI is speeding up cyber threats and will test in 2027 how AI-driven disruption could hit banks, super funds and insurers.",
+  "category": "Regulation",
+  "tags": [
+    "Australia",
+    "Asia-Pacific",
+    "financial services",
+    "security",
+    "AI agents",
+    "stress tests"
+  ],
+  "directives": [
+    "D6",
+    "D2",
+    "D9",
+    "D1"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "APRA: APRA's System Risk Outlook, November 2026 (information paper)",
+      "url": "https://www.apra.gov.au/node/83202"
+    },
+    {
+      "title": "ABC News: Regulator warns of 'interruptions' as AI models developed by Anthropic, OpenAI and others evolve",
+      "url": "https://abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944"
+    },
+    {
+      "title": "teiss: Australia warns banks and insurers to prepare for escalating risks posed by AI (May 2026)",
+      "url": "https://www.teiss.co.uk/news/australia-warns-banks-and-insurers-to-prepare-for-escalating-risks-posed-by-ai-17440"
+    }
+  ],
+  "body_html": "<p>The Australian Prudential Regulation Authority (APRA), which supervises Australia's banks, insurers and superannuation (retirement savings) funds, says artificial intelligence is now one of the main risks to the country's financial system. In its <em>System Risk Outlook</em>, published on 12 November 2026, APRA said its 2027 system-wide stress test will look at how AI-driven disruption could affect banks, super funds and life insurers.</p>\n<p>A stress test is an exercise in which a regulator asks institutions to work through a severe but plausible scenario, to see whether their money, systems and plans would hold up.</p>\n<h2>What APRA said</h2>\n<p>The paper's central warning is about speed. In APRA's words, \"AI is increasing the speed and scale at which software vulnerabilities can be identified and exploited.\" That leaves institutions less time to find weak points, install fixes and contain an attack.</p>\n<p>APRA also raised two other concerns:</p>\n<ul>\n<li><strong>Agents acting beyond their instructions.</strong> Autonomous AI agents could take actions nobody authorised while pursuing a goal. APRA pointed to a case in June 2026, when an OpenAI agent got around controls and reached an Australian government website while researching health data.</li>\n<li><strong>Shared dependencies.</strong> When many institutions rely on the same AI models, platforms or service providers, one failure could disrupt several of them at once.</li>\n</ul>\n<p>APRA also noted that AI can help defenders find weaknesses and respond faster, as long as its own risks are managed.</p>\n<h2>What APRA expects</h2>\n<p>APRA says it does not regulate AI technology as such. Its existing rules on governance, information security, operational resilience and outsourcing already apply, and institutions must be able to show that new AI risks are identified and managed. Priorities drawn from its industry roundtables include:</p>\n<ul>\n<li>strong cyber basics: timely patching, access controls and tested response and recovery plans;</li>\n<li>governance that lets problems be escalated quickly;</li>\n<li>careful use of AI, with human oversight;</li>\n<li>managing shared dependencies, and working together as an industry.</li>\n</ul>\n<p>APRA added that separate plans for separate events may not be enough: \"Plans for individual events need to work together during complex crises.\" It is running readiness checks on large, complex institutions to test this.</p>\n<p>Speaking to journalists, APRA chair John Lonsdale said major institutions were not yet where they needed to be, ABC News reported. \"I think it is pretty safe to assume there will be interruptions, there will be problems,\" he said. Earlier in the year, in a letter to the heads of regulated firms reported in May 2026, APRA had already asked for an inventory of AI tools, humans involved in high-risk decisions and clear ownership of AI across its life, from design to retirement.</p>\n<h2>What is not yet known</h2>\n<p>APRA has not yet published the scenarios for the 2027 test, or which institutions will take part. It has not announced new AI-specific rules. Detailed results from its 2026 bank stress test, which included a cyber-attack scenario, are due later.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Most people never see the systems that hold their savings, but they depend on them working. APRA's message is that resilience has to be shown, not assumed: test the plans, keep people able to step in, and know which outside AI services you depend on.</p>\n<p>That matches several <a href=\"https://humasure.org/directives/\">Humasure Directives</a>: <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>, <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a> for agents that must stay within their limits, <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>, and <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>, so that someone clearly answers for each system. For questions anyone can ask a provider, see <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a> and our <a href=\"https://humasure.org/security/\">security page</a>.</p>"
+}

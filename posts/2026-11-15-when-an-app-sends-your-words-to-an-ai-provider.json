@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-15-when-an-app-sends-your-words-to-an-ai-provider",
+ "type": "guide",
+ "slug": "when-an-app-sends-your-words-to-an-ai-provider",
+ "title": "When an app sends your words to an outside AI provider: what to check",
+ "excerpt": "Many apps pass what you type to other companies that run the AI. Here is what processors, sub-processors and 'zero data retention' mean, and the questions to ask.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "European Union",
+  "United Kingdom",
+  "United States",
+  "privacy",
+  "data protection",
+  "AI supply chain"
+ ],
+ "directives": [
+  "D5",
+  "D6",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "European Commission: What is a data controller or a data processor?",
+   "url": "https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/obligations/controllerprocessor/what-data-controller-or-data-processor_en"
+  },
+  {
+   "title": "ICO: What needs to be included in the contract? (controllers and processors)",
+   "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/contracts-and-liabilities-between-controllers-and-processors-multi/what-needs-to-be-included-in-the-contract/"
+  },
+  {
+   "title": "US Federal Trade Commission: Consumer Facing Applications: A Quote Book from the Tech Summit on AI",
+   "url": "https://www.ftc.gov/node/85179"
+  }
+ ],
+ "body_html": "<p>When you type a question into an AI feature inside an email app, a note-taking tool or a customer service chat, your words often do not stay with the company whose name is on the screen. Many apps send the text to another company that runs the AI model, and that company may use further suppliers for computing power and storage. This guide explains the terms you will meet and what to check. It applies anywhere, with examples from European, UK and US rules.</p>\n<h2>Who is who: controllers and processors</h2>\n<p>European data protection law (the GDPR) uses two roles. The <strong>controller</strong> decides why and how your personal data is used, usually the app you signed up to. A <strong>processor</strong> handles the data only for the controller, for example a cloud or AI provider. As the European Commission puts it: \"The data processor processes personal data only on behalf of the controller.\"</p>\n<p>A processor that hands part of the work to another company is using a <strong>sub-processor</strong>. Under the GDPR it may do so only with the controller's prior written permission. The UK, which keeps a version of the GDPR, has the same rule.</p>\n<h2>What the contract between them must say</h2>\n<p>The UK Information Commissioner's Office (ICO), the UK data protection regulator, lists what a controller-processor contract must include. Among other things, the processor must:</p>\n<ul>\n<li>use the data only on the controller's documented instructions;</li>\n<li>keep it secure and make staff who handle it commit to confidentiality;</li>\n<li>get permission before using sub-processors, and pass the same duties on to them;</li>\n<li>help the controller report breaches and respond when people use their data rights;</li>\n<li>delete or return the data when the contract ends; and</li>\n<li>allow audits and inspections.</li>\n</ul>\n<p>These are legal minimums in Europe and the UK. Other countries have different rules, but the same questions are useful everywhere.</p>\n<h2>What \"zero data retention\" means</h2>\n<p>Some AI providers offer business customers <strong>zero data retention</strong>. In plain terms, the provider promises to process a request and then not store the text you sent or the answer it produced. It is a contract promise between companies, not a technical guarantee, and it is only as good as the provider's systems and the customer's ability to check them. Ask whether it covers logs, backups and any testing or research copies, and how the app confirms it is being kept.</p>\n<h2>Promises about your data should not change quietly</h2>\n<p>In the United States, the Federal Trade Commission (FTC), the consumer protection agency, has warned AI companies that quietly changing terms of service to allow new uses of data, such as sharing it or using it for AI training, may be unfair or deceptive. In the FTC's words, \"any firm that reneges on its user privacy commitments risks running afoul of the law.\"</p>\n<h2>Questions to ask any app with AI features</h2>\n<ol>\n<li><strong>Which outside companies see what I type?</strong> Look for a published list of sub-processors or AI providers.</li>\n<li><strong>How long do they keep it?</strong> Check whether the app has a no-retention agreement and what it covers.</li>\n<li><strong>Is my content used to train AI models?</strong> And can I switch that off?</li>\n<li><strong>Where is it processed?</strong> Some rules restrict sending personal data abroad.</li>\n<li><strong>Who tells me if something goes wrong?</strong> The app you use should notify you, even if the breach happened at a supplier.</li>\n</ol>\n<p>A practical habit helps too: do not paste passwords, API keys (digital access passes) or other secrets into AI chats. If you already have, change them.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>You can only stay in charge of your data if you know where it goes. The <a href=\"https://humasure.org/directives/#d5\">Private by default</a> Directive (D5) asks that data is collected and kept only as needed. <a href=\"https://humasure.org/directives/#d6\">Secure and supported</a> (D6) covers every company in the chain, and <a href=\"https://humasure.org/directives/#d9\">Accountable</a> (D9) asks that the company you deal with answers for its suppliers. More questions are on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page.</p>"
+}

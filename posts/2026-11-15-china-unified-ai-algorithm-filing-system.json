@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-15-china-unified-ai-algorithm-filing-system",
+ "type": "news",
+ "slug": "china-unified-ai-algorithm-filing-system",
+ "title": "China puts AI, algorithm and deepfake service filings into one searchable system",
+ "excerpt": "China's internet regulator launched a single system on 9 November 2026 for filing generative AI, algorithm, deep synthesis and blockchain services. The public can search it.",
+ "category": "Regulation",
+ "tags": [
+  "China",
+  "Asia-Pacific",
+  "AI regulation",
+  "registries",
+  "generative AI",
+  "transparency"
+ ],
+ "directives": [
+  "D9",
+  "D4"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Sina Finance: CAC launches filing system for new internet technologies and applications (Chinese)",
+   "url": "https://finance.sina.cn/tech/2026-11-09/detail-iniycmua3353858.d.html"
+  },
+  {
+   "title": "Jiemian: Internet new technology and new application information service filing system goes live (Chinese)",
+   "url": "https://www.jiemian.com/article/15311170.html"
+  },
+  {
+   "title": "MediaNama: China launches single filing platform for AI, algorithms and blockchain services",
+   "url": "https://world.medianama.com/china-launches-single-filing-platform-for-ai-algorithms-and-blockchain-services/"
+  },
+  {
+   "title": "Inside Privacy (Covington): Key takeaways from China's finalized generative AI measures",
+   "url": "https://www.insideprivacy.com/artificial-intelligence/key-takeaways-from-chinas-finalized-generative-artificial-intelligence-measures/"
+  }
+ ],
+ "body_html": "<p>China's internet regulator, the Cyberspace Administration of China (CAC), has launched a single online system for registering AI and related services. The system went live on <strong>9 November 2026</strong> and replaces two older portals, according to Chinese media reports of the regulator's notice.</p>\n<h2>What changed</h2>\n<p>The new system is called the Internet New Technology and New Application Information Service Filing System. It brings four kinds of filing into one place:</p>\n<ul>\n<li><strong>generative AI services</strong>, such as chatbots and image generators offered to the public;</li>\n<li><strong>algorithms</strong>, for example the recommendation systems that decide what people see in feeds;</li>\n<li><strong>deep synthesis</strong>, the Chinese regulatory term for technology that creates or alters faces, voices, images and video, including deepfakes; and</li>\n<li><strong>blockchain</strong> information services.</li>\n</ul>\n<p>According to Sina Finance and Jiemian, the former algorithm filing system and the blockchain filing system stopped operating on the same day. Companies can file online, and the public can look up filing information by the name of the organisation, the name of the filing or the filing number.</p>\n<p>MediaNama, an Indian technology policy outlet, reports that the change consolidates existing procedures. In its words, it \"does not introduce new filing requirements, eligibility conditions or penalties.\"</p>\n<h2>Why China has AI filings</h2>\n<p>Filing is not new in China. Its interim measures for generative AI services, which took effect on 15 August 2023, require providers of services \"with the attributes of public opinion or the capacity for social mobilization\" to carry out a security assessment and file their algorithms, as summarised by the law firm Covington's Inside Privacy blog. The same measures require generated content to be labelled and providers to set up ways for users to complain.</p>\n<p>The exact scope of who must file has never been fully defined in the measures, and the new system does not change that, according to the reports we reviewed.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Whether the searchable records will show more detail than the older portals did.</li>\n<li>Whether the CAC plans to add other kinds of AI services to the same system in future.</li><li>How many services are currently on the register. The reports we reviewed give no figure.</li>\n</ul>\n<h2>Why it matters for staying in charge</h2>\n<p>A public register is one way of answering a simple question: who stands behind this AI service? The <a href=\"https://humasure.org/directives/#d9\">Accountable</a> Directive (D9) asks that a named organisation answers for an AI product, and <a href=\"https://humasure.org/directives/#d4\">Honest identity</a> (D4) asks that people can tell what they are dealing with. Registers in different countries serve different purposes, and a filing is not a safety certificate. But a single place to look things up makes it easier for people, researchers and journalists to check who is offering what.</p>\n<p>How useful any register is depends on what it records, who checks it and whether ordinary people can find and read it. Those are fair questions to ask of registers in every country.</p>"
+}

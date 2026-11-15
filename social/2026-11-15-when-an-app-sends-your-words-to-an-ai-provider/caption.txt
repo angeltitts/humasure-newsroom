@@ -1,0 +1,10 @@
+When an app sends your words to an outside AI provider: what to check
+
+Many apps pass what you type to other companies that run the AI. Here is what processors, sub-processors and 'zero data retention' mean, and the questions to ask.
+
+Why it matters: D5 Private by default, D6 Secure and supported, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: European Commission; ICO; US Federal Trade Commission.
+
+#HumanInCharge #AISafety #RobotSafety

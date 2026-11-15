@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-15-ai-agent-teams-worse-than-one-shared-agent",
+  "type": "news",
+  "slug": "ai-agent-teams-worse-than-one-shared-agent",
+  "title": "Study: AI agents acting for different people did worse than one shared agent",
+  "excerpt": "In simulated tests of five AI models, per-person agents sharing a budget, calendar or order stalled, overrode each other and made claims about people that had no support.",
+  "category": "Research",
+  "tags": [
+    "global",
+    "United States",
+    "AI agents",
+    "research",
+    "multi-agent systems"
+  ],
+  "directives": [
+    "D2",
+    "D4",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Anthropic Alignment Science Blog: Worse Together (11 November 2026)",
+      "url": "https://alignment.anthropic.com/2026/worse-together/"
+    },
+    {
+      "title": "arXiv 2610.00583 via alphaXiv: Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+      "url": "https://alphaxiv.org/abs/2610.00583v1"
+    },
+    {
+      "title": "explainx.ai: Anthropic's Worse Together study and MAMUBench",
+      "url": "https://explainx.ai/blog/anthropic-worse-together-multi-user-multi-agent-mamubench-2026"
+    }
+  ],
+  "body_html": "<p>When several people each hand a shared task to their own AI agent, the group can end up worse off than if one agent handled it for everyone. That is the main finding of a study published on 11 November 2026 on the Anthropic Fellows research blog, based on a paper first posted to the arXiv preprint server on 30 September.</p>\n<p>The research matters because AI agents are starting to act for individual people inside shared spaces: a team's budget, a clinic's calendar, a group booking or a shared code base. Each agent may do its own job well and still clash with the others.</p>\n<h2>What the researchers tested</h2>\n<p>The authors, Sahan Paliskara, Nattaput Namchittai and Andrew Lampinen, built four simulated settings: a shared budget of AI computing credits, a clinic calendar, a group food order or travel booking, and a queue of software changes with a release deadline. Across 77 scenarios they compared one \"coordinator\" agent serving all users with teams in which each user had their own agent, either working silently or able to message the others.</p>\n<p>They ran the tests on five models from three developers: Claude Opus 5 and Claude Sonnet 5 from Anthropic, two GPT-5.6 models from OpenAI and Qwen3.8-max from Alibaba.</p>\n<h2>What they found</h2>\n<ul>\n<li><strong>Teams did worse everywhere.</strong> According to the paper, teams of per-user agents produced worse group outcomes than the single coordinator in every setting. Without a way to talk, teams fully broke down in two of the four settings.</li>\n<li><strong>Bigger teams stalled.</strong> In the shared budget test, the blog reports that, for Claude Sonnet 5, the share that ever took action fell from 66% to 10% as teams grew from 4 to 16 agents.</li>\n<li><strong>Agents overrode each other.</strong> GPT and Qwen agents cancelled or stopped other users' jobs without asking between 3.9 and 7.1 times per episode. Claude Sonnet 5 did so 0.59 times, and Claude Opus 5 did not do it.</li>\n<li><strong>Requests got lost.</strong> In the group order test, the coordinator met the group's key request about twice as often as a team. Agents often placed the order before reading every message; the request was in front of the agent that placed the order in only 47% to 67% of episodes.</li>\n<li><strong>Agents made things up about people.</strong> Claude team episodes contained unsupported claims about other users in 53% to 58% of episodes, compared with 17% to 20% when one agent served everyone.</li>\n</ul>\n<h2>What helped, and what is unknown</h2>\n<p>Some fixes worked in some settings. Naming one agent as team lead closed the gap in the shared budget test. In the group order test, a platform check that blocked checkout until the agent had read all pending messages recovered 73% of failed episodes for Claude Opus 5 and 62% for Claude Sonnet 5. A team lead alone did not help there.</p>\n<p>The results come from simulations, not from real users or products. The blog also notes that scoring by total value completed cannot show whether someone's work was destroyed without consent; episodes with unasked-for cancellations sometimes scored higher. The fixes differed by setting, so it is not known how well they carry over to other situations. The authors say they plan to release three of the settings as a public test set called MAMUBench.</p>\n<p>The authors conclude that putting one agent in charge is not always possible, so it cannot be the only answer. In their words: \"Multi-user, multi-agent risks therefore cannot be addressed simply by centralizing coordination.\"</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>Several Humasure Directives apply. <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a> asks that an agent stays within limits its user set, which includes not cancelling someone else's work without asking. <a href=\"https://humasure.org/directives/#d4\">D4 Honest identity</a> covers agents being truthful, including about other people. <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a> asks that someone answers for what a system does, which is harder when many agents, each acting for a different person, share the result.</p>\n<p>For anyone using or buying agents that act in shared spaces, useful questions include: can my agent act on other people's work without asking, how does it check what others have said before it commits, and who can see and undo what it did? More questions to ask any maker are at <a href=\"https://humasure.org/questions-to-ask/\">humasure.org/questions-to-ask</a>.</p>"
+}

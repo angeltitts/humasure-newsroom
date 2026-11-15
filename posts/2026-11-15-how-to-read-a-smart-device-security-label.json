@@ -1,0 +1,59 @@
+{
+  "id": "2026-11-15-how-to-read-a-smart-device-security-label",
+  "type": "guide",
+  "slug": "how-to-read-a-smart-device-security-label",
+  "title": "How to read a security label on a smart device or robot",
+  "excerpt": "Security labels on connected devices differ in who checks, how long they last and whether you can look them up. Five things to check, and what no label can promise.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "United States",
+    "Singapore",
+    "Germany",
+    "European Union",
+    "security",
+    "labels",
+    "connected devices"
+  ],
+  "directives": [
+    "D6",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Cyber Security Agency of Singapore: Cybersecurity Labelling Scheme for consumers",
+      "url": "https://www.csa.gov.sg:443/our-programmes/certification-and-labelling-schemes/cybersecurity-labelling-scheme/for-consumers"
+    },
+    {
+      "title": "Cyber Security Agency of Singapore: CLS frequently asked questions",
+      "url": "https://csa.gov.sg/faqs/cls"
+    },
+    {
+      "title": "BSI: IT Security Label for consumers",
+      "url": "https://www.bsi.bund.de/EN/Themen/Verbraucherinnen-und-Verbraucher/IT-SiK-fuer-Verbraucher/IT-SiK-fuer-Verbraucher_node.html"
+    },
+    {
+      "title": "BSI: Prepare for the Cyber Resilience Act with the IT Security Label",
+      "url": "https://www.bsi.bund.de/dok/sik-cra_en"
+    },
+    {
+      "title": "European Commission: Cyber Resilience Act summary",
+      "url": "https://digital-strategy.ec.europa.eu/nl/policies/cra-summary"
+    },
+    {
+      "title": "White House archive: launch of the U.S. Cyber Trust Mark (7 January 2025)",
+      "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/white-house-launches-u-s-cyber-trust-mark-providing-american-consumers-an-easy-label-to-see-if-connected-devices-are-cybersecure"
+    },
+    {
+      "title": "Cooley: FCC advances US Cyber Trust Mark program (10 November 2026)",
+      "url": "https://www.cooley.com/news/insight/2026/2026-11-10-fcc-advances-us-cyber-trust-mark-program"
+    },
+    {
+      "title": "Nextgov: FCC commissioner hopes Cyber Trust Mark products reach shoppers within a year",
+      "url": "https://www.nextgov.com/cybersecurity/2026/10/fcc-commissioner-hopes-cyber-trust-mark-products-reach-shoppers-within-year/416878/"
+    }
+  ],
+  "body_html": "<p>More smart devices, from cameras and door locks to routers and home robots, now come with a security label on the box or the shop page. Labels can help you compare products, but each one promises something different. This guide explains what to look for and what no label can tell you.</p>\n<h2>What a security label is for</h2>\n<p>A security label is a short signal that a product was checked against a published list of security requirements. Typical requirements include no shared default passwords, a way to receive software updates, and a way for the maker to hear about and fix weaknesses. A label does not test whether a product is physically safe or whether it treats your data fairly. It is about resisting attacks.</p>\n<h2>Five things to check on any label</h2>\n<ol>\n<li><strong>Who runs the scheme.</strong> Government-run schemes publish their requirements. Examples include the U.S. Cyber Trust Mark (run by the Federal Communications Commission), Singapore's Cybersecurity Labelling Scheme (Cyber Security Agency of Singapore) and Germany's IT Security Label (the Federal Office for Information Security, BSI).</li>\n<li><strong>Who did the checking.</strong> Some labels rest on the maker's own declaration; others need testing by an independent lab. Germany's label is based on a manufacturer's commitment, assessed by the maker itself or a conformity assessment body. Singapore's scheme has four levels: Level 1 covers basics such as unique default passwords and software updates, while Levels 3 and 4 add assessment and penetration testing by approved third-party labs.</li>\n<li><strong>How long it lasts.</strong> Security changes over time. Singapore says its label is valid only while the maker provides security updates, up to three years. The US Federal Communications Commission has proposed that Cyber Trust Mark certification be renewed every three years.</li>\n<li><strong>Whether you can look it up.</strong> A label is only as good as your ability to check it. Germany's label carries a QR code that leads to a BSI page showing current security information, such as known weaknesses and available updates. Singapore keeps a public list of labelled products and asks people to report a label that is not on it. The US mark is planned to include a QR code linking to the product's support period and setup advice.</li>\n<li><strong>The support end date.</strong> Whatever the label, look for the date until which the maker promises security updates. Humasure News published a guide on checking a device's security support period on 3 November 2026; it is listed at <a href=\"https://humasure.org/news/\">humasure.org/news</a>.</li>\n</ol>\n<h2>Voluntary labels and legal requirements</h2>\n<p>Most of these labels are voluntary: a maker chooses to apply. The US program is not yet running; in October 2026 the FCC asked for comments on label design, renewal and checks after sale, and officials hope labelled products reach shops within a year.</p>\n<p>In the European Union, the Cyber Resilience Act takes a different route. It is a law, not a label. From 11 December 2027, products with digital elements sold in the EU must meet its cybersecurity requirements before they can carry the CE marking, and makers must state the end date of the support period at the time of purchase. Germany's BSI says its own label can help makers prepare, but does not by itself show compliance with the Act.</p>\n<h2>What no label can promise</h2>\n<p>No label means a product cannot be hacked. Germany's BSI says plainly that an absolute security guarantee never exists, because threats change. You still need to change passwords, install updates and use the security settings. A label tells you the maker has made commitments and, in some schemes, that someone tested them.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A hacked robot or device is one nobody is in charge of. Security labels connect to <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a> and <a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a>: a product should be protected against attack and kept updated for as long as people rely on it. For more on security, see <a href=\"https://humasure.org/security/\">humasure.org/security</a>, and for questions to ask any maker, see <a href=\"https://humasure.org/questions-to-ask/\">humasure.org/questions-to-ask</a>.</p>"
+}

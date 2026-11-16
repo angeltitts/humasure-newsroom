@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-16-how-robots-that-work-beside-people-are-kept-safe",
+  "type": "explainer",
+  "slug": "how-robots-that-work-beside-people-are-kept-safe",
+  "title": "How robots that work beside people are kept safe, and what \"collaborative\" means",
+  "excerpt": "A robot is not safe to work beside just because it is sold as collaborative. Here is how shared-space robots are meant to stop, slow and limit force.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "United States",
+    "collaborative robots",
+    "workplace robots",
+    "robot safety",
+    "standards",
+    "AI at work"
+  ],
+  "directives": [
+    "D3",
+    "D1",
+    "D2",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "US Occupational Safety and Health Administration: OSHA Technical Manual, Section IV Chapter 4, Industrial Robot Systems and Industrial Robot System Safety",
+      "url": "https://osha.gov/otm/section-4-safety-hazards/chapter-4"
+    },
+    {
+      "title": "ANSI Blog: ISO 10218-1:2025 Robots and robotic devices, safety requirements",
+      "url": "https://blog.ansi.org/iso-10218-1-2025-robots-and-robotic-devices-safety/"
+    },
+    {
+      "title": "US Occupational Safety and Health Administration: Robotics, standards",
+      "url": "https://www.osha.gov/robotics/standards"
+    }
+  ],
+  "body_html": "<p>For decades, most industrial robots worked behind fences. If a person opened the gate, the robot stopped. Today, more robots work in the same space as people: passing parts on an assembly line, packing boxes, or helping in a warehouse. These are often called \"collaborative robots\" or \"cobots\". This explainer sets out how they are meant to be kept safe, and what the label does and does not tell you.</p>\n<h2>It is the job that is collaborative, not just the robot</h2>\n<p>Safety experts stress one point above all: a robot is not safe to work beside simply because it is sold as collaborative. What matters is the whole application: the robot, the tool on its arm, the object it is holding, the layout of the workspace and the task. A gentle arm holding a sharp blade is not a gentle machine.</p>\n<p>The US Occupational Safety and Health Administration (OSHA), the federal workplace safety regulator, makes this point in its technical manual. It describes collaboration by the robot's direct interaction with workers, and notes that \"Collaborative robot applications operate with workers in shared, safeguarded spaces.\" The international robot safety standard, ISO 10218, was revised in 2025 and now uses the same idea of collaborative applications. Its 2025 edition brought in the requirements that used to sit in a separate technical specification, ISO/TS 15066, and added cybersecurity requirements where they affect robot safety. Standards like this are voluntary unless a law points to them. In the United States, for example, OSHA says there is no workplace rule written specifically for robots: general rules on machine guarding and on locking machines off during maintenance apply, and OSHA points to ISO 10218 as guidance.</p>\n<h2>Four ways a robot shares space safely</h2>\n<p>The OSHA manual describes the main methods. An application may use one or several:</p>\n<ul>\n<li><strong>Safety-rated monitored stop.</strong> The robot holds still, with power on, while a person is in the shared space, and carries on once they have left. It is used together with the methods below.</li>\n<li><strong>Hand guiding.</strong> A worker moves the robot directly, holding a control that must be kept pressed for the robot to move.</li>\n<li><strong>Speed and separation monitoring.</strong> Sensors track how close a person is. The robot slows down as they approach and stops before contact.</li>\n<li><strong>Power and force limiting.</strong> Some contact is allowed, but the robot's force and pressure are kept below limits based on what the human body can tolerate. Contact with sensitive areas such as the face, temples and throat should be prevented.</li>\n</ul>\n<p>Speed monitoring and force limiting are often combined, so the robot can work quickly when nobody is near and slow to a safe speed when someone comes close.</p>\n<h2>The risk assessment does the real work</h2>\n<p>According to OSHA, each collaborative application needs a documented risk assessment before it starts work. The person or company that installs and sets up the system, often called the integrator, is responsible for it, and workers should be involved. The assessment looks at how contact could happen: a brief bump where the body can move away, or a situation where a hand or arm could be pinned against something, which is more dangerous. The safety settings also need to be checked again from time to time, for example after the task or layout changes.</p>\n<p>OSHA also warns that sharing space can increase some risks, such as impact, crushing and trapping, if the setup is not right. A collaborative label is the start of a safety case, not the end of it.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>A robot that shares space with people must be able to stop or slow down when a person needs it to. That is <a href=\"https://humasure.org/directives/#d1\">Directive 1, always stoppable</a>, and <a href=\"https://humasure.org/directives/#d3\">Directive 3, physical safety</a>. Keeping the robot to the task and area it was assessed for reflects <a href=\"https://humasure.org/directives/#d2\">Directive 2, bounded autonomy</a>. Re-checking settings over the robot's working life is part of <a href=\"https://humasure.org/directives/#d10\">Directive 10, safe for its whole life</a>.</p>\n<h2>Questions a worker can ask</h2>\n<ul>\n<li>Was a risk assessment done for this task and this layout, and can I see what it found?</li>\n<li>Which safety method does this robot use, and what happens if I step closer?</li>\n<li>Where is the stop button, and does it work from where I stand?</li>\n<li>When were the safety settings last checked, and who checks them after changes?</li>\n</ul>\n<p>More on robots and AI in the workplace is on our <a href=\"https://humasure.org/ai-at-work/\">AI at work</a> page, and general questions for any maker are on <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a>. Rules differ between countries, so your local workplace safety regulator is the best place to check what applies where you work.</p>"
+}

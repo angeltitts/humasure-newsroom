@@ -1,0 +1,10 @@
+Study: AI agents acting for different people did worse than one shared agent
+
+In simulated tests of five AI models, per-person agents sharing a budget, calendar or order stalled, overrode each other and made claims about people that had no support.
+
+Why it matters: D2 Bounded autonomy, D4 Honest identity, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Anthropic Alignment Science Blog; arXiv 2610.00583 via alphaXiv; explainx.ai.
+
+#HumanInCharge #AISafety #RobotSafety #AIResearch

@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-16-eu-digital-fairness-act-ai-shopping-agents",
+  "type": "news",
+  "slug": "eu-digital-fairness-act-ai-shopping-agents",
+  "title": "EU proposal would let shoppers set limits on AI agents that buy for them",
+  "excerpt": "The European Commission's draft Digital Fairness Act, published 11 November 2026, would give people control over AI agents that make purchases and let them switch off addictive features.",
+  "category": "Regulation",
+  "tags": [
+    "European Union",
+    "AI agents",
+    "consumer protection",
+    "dark patterns",
+    "addictive design",
+    "chatbots"
+  ],
+  "directives": [
+    "D2",
+    "D7",
+    "D1",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "European Commission: Proposal for a Digital Fairness Act (11 November 2026)",
+      "url": "https://commission.europa.eu/document/download/0575d59f-554f-4a9e-b54b-e6b717175809_en?filename=Proposal+for+a+Digital+Fairness+Act.pdf"
+    },
+    {
+      "title": "European Commission: Making your online experience fairer (11 November 2026)",
+      "url": "https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en"
+    },
+    {
+      "title": "Pinsent Masons Out-Law: AI agents and dark patterns targeted by Digital Fairness Act proposal (11 November 2026)",
+      "url": "https://www.pinsentmasons.com/out-law/news/ai-agents-dark-patterns-digital-fairness-act"
+    },
+    {
+      "title": "CASRAI: EU proposes Digital Fairness Act with AI consumer safeguards (14 November 2026)",
+      "url": "https://casrai.org/news/eu-digital-fairness-act-ai-consumer-proposal-2026"
+    }
+  ],
+  "body_html": "<p>The European Commission, the executive arm of the European Union, proposed a new consumer law on 11 November 2026 that includes rules aimed at AI agents that buy things on a person's behalf. The draft Digital Fairness Act would replace the 2005 Unfair Commercial Practices Directive with a regulation that applies directly in all 27 EU countries.</p>\n<p>It is a proposal, not yet law. The European Parliament and the Council, where national governments sit, must agree a final text. Under the draft, the rules would apply 12 months after the law enters into force.</p>\n<h2>You choose how much the agent can do alone</h2>\n<p>The draft does not use the words \"AI agent\". It speaks of \"automated systems\" that conclude and carry out contracts for consumers. Under Article 26, a business offering such a system would have to give people easy tools to set and change its limits at any time.</p>\n<p>On first use, the person would choose one of three settings: confirm every contract the system proposes; confirm only certain types, set by criteria such as a maximum price and a time limit; or confirm none. The business would have to record that choice on a durable medium, such as an email.</p>\n<p>When confirmation is needed, the system would have to show the key information about the deal first. Any payment the business receives for a recommendation, or any conflict of interest, would have to be disclosed. Businesses could not force people to use an automated system to buy something, and the article would not cover financial services.</p>\n<h2>A switch for features built to keep you hooked</h2>\n<p>Article 17 would require businesses to give adults simple tools to turn off features that are designed, or can reasonably be expected, to encourage compulsive or excessive use. The draft lists four kinds: autoplay without pauses, notifications not linked to what the person is doing, rewards or penalties tied to coming back regularly, and features that simulate a personal relationship to keep someone engaged, such as persistent prompts from an automated system.</p>\n<p>That last item matters for companion chatbots. Protections for children in this area are handled separately in the Commission's proposed EU KIDS Act, according to the Commission's documents as summarised by CASRAI.</p>\n<h2>Dark patterns and enforcement</h2>\n<p>The draft would ban interface designs likely to deceive or manipulate people, with a list of specific practices, such as false claims that a product is almost sold out. It would also limit unfair personalised advertising and prices aimed at minors. Law firm Pinsent Masons reports that the Commission could investigate and fine businesses up to 6% of worldwide annual turnover.</p>\n<h2>What is still unknown</h2>\n<p>The final wording may change in negotiations, and no adoption date has been set. Pinsent Masons notes that the criteria businesses would use to judge which of their features count as addictive are not yet clear. The firm also expects the rules to affect businesses outside the EU that sell to people in the EU.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>An AI agent that can spend money is a clear test of <a href=\"https://humasure.org/directives/#d2\">bounded autonomy (D2)</a>: the person, not the system, should decide how far it may go without asking. A confirmation step before a purchase is a practical form of <a href=\"https://humasure.org/directives/#d1\">staying able to stop it (D1)</a>. Disclosing paid recommendations and allowing people to turn off relationship-style prompts link to <a href=\"https://humasure.org/directives/#d7\">no manipulation (D7)</a>, and clear duties for the business behind the agent support <a href=\"https://humasure.org/directives/#d9\">accountability (D9)</a>.</p>\n<p>Whatever the final law says, anyone can ask a maker of an AI agent: what can it buy without asking me, how do I change that, and who answers if it gets it wrong? More questions are at <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

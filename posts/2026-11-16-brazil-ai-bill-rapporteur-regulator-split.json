@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-16-brazil-ai-bill-rapporteur-regulator-split",
+  "type": "news",
+  "slug": "brazil-ai-bill-rapporteur-regulator-split",
+  "title": "Brazil's AI bill: lead lawmaker proposes splitting policy and enforcement",
+  "excerpt": "The rapporteur of Brazil's AI bill in the Chamber of Deputies says choosing the regulator is the main obstacle, and proposes a two-part model with a vote targeted before the end of 2026.",
+  "category": "Regulation",
+  "tags": [
+    "Brazil",
+    "Latin America",
+    "AI regulation",
+    "AI governance",
+    "regulators"
+  ],
+  "directives": [
+    "D9",
+    "D8"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Jornal Brasil em Folhas: Relator de projeto sobre IA propõe reduzir papel da ANPD (11 November 2026, Portuguese)",
+      "url": "https://brasilemfolhas.com.br/2026/11/relator-de-projeto-sobre-ia-propoe-reduzir-papel-da-anpd/"
+    },
+    {
+      "title": "CEA Digital Law: Brazil: AI Bill rapporteur proposes a smaller role for the ANPD (15 November 2026)",
+      "url": "https://ceadigilaw.org/en/blog/brazil-ai-bill-rapporteur-smaller-role-anpd/"
+    },
+    {
+      "title": "Government of Brazil, Ministry of Management and Innovation: PL do governo propõe sistema de governança para a inteligência artificial no país (9 December 2025, Portuguese)",
+      "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2025/dezembro/pl-do-governo-propoe-sistema-de-governanca-para-a-inteligencia-artificial-no-pais"
+    }
+  ],
+  "body_html": "<p>Brazil's main artificial intelligence bill, known as PL 2338/2023, is still waiting for a vote in the Chamber of Deputies, the lower house of Brazil's Congress. On 9 November 2026 its rapporteur, Deputy Aguinaldo Ribeiro, said the question of which body should regulate AI is the main obstacle to moving it forward, according to Jornal Brasil em Folhas and CEA Digital Law.</p>\n<p>A rapporteur is the lawmaker responsible for preparing a bill's final text and recommending it to colleagues.</p>\n<h2>What has been proposed</h2>\n<p>Ribeiro proposes splitting the work in two: one body would set AI policy, and another would carry out regulation and enforcement. He cites Brazil's National Monetary Council, which sets monetary policy while other bodies apply it, as the model. He argues this would keep the rules able to adapt as technology changes.</p>\n<p>The change would reduce the role of the ANPD, Brazil's national data protection authority. In the version passed by the Senate on 10 December 2024, the ANPD coordinated a national AI regulation and governance system.</p>\n<h2>How the government's plan fits in</h2>\n<p>In December 2025 the federal government sent a separate bill to fix a constitutional problem: in Brazil, creating powers for federal bodies is a matter for the executive branch, not Congress. According to the Ministry of Management and Innovation, that bill would create a Brazilian AI Council, modelled on the National Monetary Council and including up to five ministries and the ANPD, to set strategy. The ANPD would set general rules and supervise sectors that have no regulator of their own, such as general-purpose AI, while existing sector regulators would oversee AI in their fields. It would also create a committee including civil society and people affected by AI, and a committee of independent experts.</p>\n<p>The ministry says the rules on banned uses and high-risk AI stay in PL 2338 itself.</p>\n<h2>What is still unknown</h2>\n<p>Ribeiro's new text has not been published in the sources reviewed, so it is not clear how his proposal differs in detail from the government's council model, or whether the risk rules will change. He wants a vote before the end of 2026, but Congress begins its recess on 23 December, which leaves little time.</p>\n<p>At a São Paulo event reported alongside his remarks, business representatives argued that good practice and self-regulation can come before a law, while a legal scholar argued that a legal framework is essential.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Rules only protect people if someone is clearly in charge of applying them. Who regulates AI decides who people can complain to, who can investigate, and who can impose penalties. That is the core of Humasure's <a href=\"https://humasure.org/directives/#d9\">Directive 9 (accountable)</a>. PL 2338 also holds the rules on banned uses and high-risk AI, which link to <a href=\"https://humasure.org/directives/#d8\">Directive 8 (fair treatment)</a>.</p>\n"
+}

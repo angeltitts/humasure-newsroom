@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-17-ai-agent-turned-security-fixes-into-attacks",
+ "type": "news",
+ "slug": "ai-agent-turned-security-fixes-into-attacks",
+ "title": "Google: attackers' AI agent turned published security fixes into attacks unaided",
+ "excerpt": "Google's threat team says it found an AI tool that studied security fixes, built attacks for the flaws and ran them with no human directing each step.",
+ "category": "News",
+ "tags": [
+  "global",
+  "France",
+  "Asia-Pacific",
+  "security",
+  "AI agents",
+  "software updates"
+ ],
+ "directives": [
+  "D6",
+  "D10",
+  "D1"
+ ],
+ "names_companies": true,
+ "incident": true,
+ "sources": [
+  {
+   "title": "Google: The era of autonomous attacks has arrived (GTIG AI Threat Tracker, 16 November 2026)",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/"
+  },
+  {
+   "title": "Help Net Security: Google finds AI agent writing and launching exploits with no human in the loop (17 November 2026)",
+   "url": "https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/"
+  },
+  {
+   "title": "HackRead: Google spots AI agent turning security patches into exploits (16 November 2026)",
+   "url": "https://hackread.com/google-ai-agent-turning-security-patches-exploits/"
+  },
+  {
+   "title": "TechNode Global: Google finds autonomous agentic AI exploitation (17 November 2026)",
+   "url": "https://technode.global/2026/11/17/google-agentic-ai-autonomous-exploitation-threats/"
+  }
+ ],
+ "body_html": "<p>Google's threat intelligence team says it has seen, for the first time in its own investigations, attackers use an AI system that found software flaws, wrote attacks for them and ran those attacks with no person directing each step. Google described the finding in its AI Threat Tracker report, published on 16 November 2026. The report covers attacks seen worldwide, including signs of interest in websites in France and scanning of organisations in Asia.</p>\n<h2>What Google says it found</h2>\n<p>The tool, which Google calls <em>exploit_agent</em>, was found on an exposed \"staging\" server, a machine the attackers used to prepare their operations. According to Google's report as described by <a href=\"https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/\">Help Net Security</a> and <a href=\"https://hackread.com/google-ai-agent-turning-security-patches-exploits/\">HackRead</a>, it worked in three steps. It compared the code of popular web applications before and after a security fix was published. It worked out which weakness the fix closed. It then drafted an attack against that weakness and ran it.</p>\n<p>The same server held stolen data and scripts for breaking into accounts by guessing passwords and for planting hidden access points on websites. Settings in the tool were written in Russian, but the reporting notes that the language alone does not show who ran it. Data on the server pointed to interest in French websites in media, entertainment and education.</p>\n<p>Google's public summary puts its main point in one sentence: \"Defending against machine-speed threats at human speed isn't feasible.\" The same post also promotes Google's own security services.</p>\n<h2>A wider pattern</h2>\n<p>The report says criminal groups and suspected state-backed groups have been trying out open-source \"agentic\" testing tools, which security teams normally use to probe their own systems. <a href=\"https://technode.global/2026/11/17/google-agentic-ai-autonomous-exploitation-threats/\">TechNode Global</a> reports that from late August to early October, Google tracked one actor using a modified version of such a tool to scan organisations across Asia for weaknesses.</p>\n<p>Google also describes \"LLMJacking\": attackers stealing cloud logins or AI service keys and running up the victim's bill. In some cases this cost more than US$100,000 in a single day, and the worst cases reached US$1 million. The report follows a United States FBI alert on 13 November 2026 about malicious actors misusing another open-source AI attack framework.</p>\n<p>Google says these automated tools currently trade stealth for speed, which leaves traces defenders can detect. It says it has added detection rules and published hardening advice.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>How many organisations were attacked with the tool, and in which countries beyond the signs pointing to France.</li>\n<li>How many of the attacks it produced actually worked. The report gives no success rate.</li>\n<li>Who operated it. Attributions in the report are Google's own assessments and have not been confirmed independently.</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>The finding is about the gap between a fix being published and a fix being installed. If a machine can turn a published fix into a working attack quickly, every day a device or website goes unpatched matters more. That applies to connected products in homes and workplaces, including robots, as much as to web servers. A hacked robot is one nobody is in charge of.</p>\n<p>This is the risk covered by <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>: makers should deliver security updates quickly and reliably. <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, asks that this support lasts as long as the product is in use. Reports like this one are why independent standards for updates matter. They are not a reason to fear the technology.</p>\n<p>Anyone buying a connected device or service can ask the maker how quickly security fixes are released and whether they install automatically. See <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> and our <a href=\"https://humasure.org/security/\">security page</a>.</p>"
+}

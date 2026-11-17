@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-17-why-quick-updates-matter-for-smart-devices",
+ "type": "guide",
+ "slug": "why-quick-updates-matter-for-smart-devices",
+ "title": "Why quick updates matter more now, and how to keep your devices current",
+ "excerpt": "AI is shrinking the time between a security fix and an attack. Five steps to keep home robots and smart devices up to date.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "United Kingdom",
+  "United States",
+  "European Union",
+  "security",
+  "software updates",
+  "connected devices"
+ ],
+ "directives": [
+  "D6",
+  "D10",
+  "D1"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "NCSC (UK): Install the latest software and app updates",
+   "url": "https://ncsc.gov.uk/collection/top-tips-for-staying-secure-online/install-the-latest-software-and-app-updates"
+  },
+  {
+   "title": "NCSC (UK): Smart devices: using them safely in your home",
+   "url": "https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home"
+  },
+  {
+   "title": "CISA (US): Secure Our World: Update software",
+   "url": "https://www.cisa.gov/secure-our-world/update-software"
+  },
+  {
+   "title": "ENISA: 2026 Report on the State of Cybersecurity in the Union, condensed edition (PDF copy)",
+   "url": "https://www.dirittobancario.it/wp-content/uploads/2026/11/Report-ENISA-10-novembre-2026.pdf"
+  },
+  {
+   "title": "Cloud Security Alliance: ENISA's 2026 Compass: AI-era NIS2 and CRA compliance",
+   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-enisa-state-of-cybersecurity-union-2026-20/"
+  }
+ ],
+ "body_html": "<p>Software updates are easy to put off. A prompt appears, you tap \"later\", and the device keeps working. But security fixes are a race. Once a fix is published, attackers can study it to find the flaw it closes and target devices that have not installed it yet.</p>\n<p>That race is getting faster. In its <a href=\"https://www.dirittobancario.it/wp-content/uploads/2026/11/Report-ENISA-10-novembre-2026.pdf\">2026 report on the state of cybersecurity</a>, published on 10 November 2026, the European Union's cybersecurity agency, ENISA, says advanced AI could cut the time needed to find software flaws from days to hours. This guide covers simple steps for home robots, smart speakers, cameras and other connected devices.</p>\n<h2>1. Turn on automatic updates</h2>\n<p>The single most useful step is to let devices update themselves. The United Kingdom's National Cyber Security Centre (NCSC) advises switching on automatic updates wherever a device offers them, so you do not have to remember. The United States Cybersecurity and Infrastructure Security Agency (CISA) goes further: \"Every product you use should have auto-updates turned on by default.\"</p>\n<p>For robots and smart home devices, the setting is often in the companion app rather than on the device. CISA suggests looking under \"Software\" or \"Security\", or searching the settings for \"automatic updates\". If a product has no automatic option, CISA suggests asking the maker why.</p>\n<h2>2. Do not keep pressing \"later\"</h2>\n<p>Some updates still need your approval. The NCSC calls applying updates \"one of the most important (and quickest) things you can do to keep yourself safe online\" and advises installing them as soon as they are available. CISA warns that repeatedly delaying updates leaves known weaknesses open. Critical updates matter most.</p>\n<p>Large updates need a stable connection. The NCSC suggests doing them at home on Wi-Fi, with the device charged or plugged in.</p>\n<h2>3. Check every part of the system</h2>\n<p>A connected device is usually more than one piece of software. There is the device itself, the app on your phone and sometimes a hub or base station. Each may update separately, so check that all of them are current. Your phone's own operating system matters too, because the app runs on it.</p>\n<p>Get updates only through the device's own settings, its official app or the maker's official support website. The NCSC points to the maker's support pages as the place to find update information for a specific product.</p>\n<h2>4. Know when updates will stop</h2>\n<p>Every device eventually stops receiving security fixes. The NCSC advises avoiding devices that are no longer supported, or whose support ends soon, and suggests treating the end of support as a \"use by\" date. After that, the device is more exposed to attack and may stop working properly. Check the maker's website for how long your model will be supported.</p>\n<p>In the European Union, the Cyber Resilience Act sets security duties for makers of connected products. Makers already have to report actively exploited flaws, and the law applies in full from 11 December 2027.</p>\n<h2>5. Watch what an update changes</h2>\n<p>Updates can add features as well as fix flaws. After a significant update, it is worth a quick look at the device's privacy and permission settings to make sure they are still set the way you chose.</p>\n<h2>Why this matters for staying in charge</h2>\n<p>A hacked robot is one nobody is in charge of. Updating quickly is something you can do today. Delivering fixes quickly, and for the whole life of the product, is the maker's job. That is what <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, and <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, ask for. For more, see our <a href=\"https://humasure.org/security/\">security page</a> and the <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> before you buy.</p>"
+}

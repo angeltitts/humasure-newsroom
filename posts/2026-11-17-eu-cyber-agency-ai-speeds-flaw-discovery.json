@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-17-eu-cyber-agency-ai-speeds-flaw-discovery",
+ "type": "news",
+ "slug": "eu-cyber-agency-ai-speeds-flaw-discovery",
+ "title": "EU cyber agency: AI is speeding up the search for software flaws",
+ "excerpt": "ENISA's 2026 report keeps the EU cyber threat level at 'substantial' and says frontier AI could cut the time to find software flaws from days to hours.",
+ "category": "Regulation",
+ "tags": [
+  "European Union",
+  "security",
+  "NIS2",
+  "Cyber Resilience Act",
+  "software updates"
+ ],
+ "directives": [
+  "D6",
+  "D10",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "ENISA: 2026 Report on the State of Cybersecurity in the Union, condensed edition (PDF copy)",
+   "url": "https://www.dirittobancario.it/wp-content/uploads/2026/11/Report-ENISA-10-novembre-2026.pdf"
+  },
+  {
+   "title": "EUnewsletter: ENISA reveals the State of Cybersecurity in the Union (10 November 2026)",
+   "url": "https://eunewsletter.eu/enisa-reveals-the-state-of-cybersecurity-in-the-union/"
+  },
+  {
+   "title": "Cloud Security Alliance: ENISA's 2026 Compass: AI-era NIS2 and CRA compliance",
+   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-enisa-state-of-cybersecurity-union-2026-20/"
+  }
+ ],
+ "body_html": "<p>The European Union's cybersecurity agency, ENISA, says advanced AI is speeding up the discovery of software flaws, and that this could shrink the time attackers need from days to hours. The finding is in its <em>2026 Report on the State of Cybersecurity in the Union</em>, published on 10 November 2026.</p>\n<p>The report is produced every two years under Article 18 of NIS2, the EU law that sets cybersecurity duties for important services such as energy, health and transport. ENISA prepared it with the European Commission and the NIS Cooperation Group, where national authorities meet. It covers the period from July 2024 to July 2026.</p>\n<h2>Threat level unchanged, but AI is a new factor</h2>\n<p>ENISA keeps its assessment of the cyber threat to the EU at \"substantial\", the same as in 2024. It says serious disruption of essential services is a realistic possibility, although most activity affecting the EU is low-level denial-of-service attacks, which flood websites with traffic, with relatively low impact.</p>\n<p>On AI, the report describes the technology as a force multiplier for attackers and defenders alike. It says frontier AI is driving an \"increasing industrialisation of the discovery of vulnerabilities\". Campaigns can turn a newly disclosed flaw into a working attack within days, and sometimes within hours or minutes. ENISA says the overall effect of AI on the threat level is still being assessed.</p>\n<p>An independent analysis of the report draws out what follows: finding flaws is getting faster, so fixing them becomes the bottleneck. Among the NIS2 areas organisations found hardest, vulnerability and patch management came first, cited by 50%.</p>\n<h2>Where the rules already reach</h2>\n<p>The report notes that duties to report vulnerabilities are increasingly written into EU law. Under the EU Cyber Resilience Act, which covers products with digital elements such as connected devices, manufacturers have had to report actively exploited vulnerabilities and severe incidents since 11 September 2026. The Act applies in full from 11 December 2027.</p>\n<p>The EU AI Act appears in the report's map of relevant laws, but the report does not analyse it in detail. Rather than calling for new AI-specific cyber rules, the analysis reads the report as asking the EU to use the laws it already has.</p>\n<h2>Scores and recommendations</h2>\n<p>ENISA's EU Cybersecurity Index gives the Union an average of 71.53 out of 100, with most member states rated mature or higher. The weakest area measured was cybersecurity in primary and secondary education, at 55.44.</p>\n<p>The report makes five high-level recommendations:</p>\n<ol>\n<li>Move from rules to effective implementation.</li>\n<li>Build a full operational capacity for crises.</li>\n<li>Strengthen the resilience of critical infrastructure.</li>\n<li>Manage EU-level risks and dependencies across supply chains and borders.</li>\n<li>Build long-term resilience through awareness, skills and education.</li>\n</ol>\n<h2>What is not yet known</h2>\n<p>ENISA has not published a figure for how much AI has changed the threat level, and says that work continues. How quickly national authorities will act on the recommendations is also open.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>If flaws are found faster, makers of robots and connected devices need to ship fixes faster, and keep doing so for as long as their products are in use. That is the point of <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, and <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>. A hacked robot is one nobody is in charge of. More on how security fits with staying in charge is on our <a href=\"https://humasure.org/security/\">security page</a>.</p>"
+}

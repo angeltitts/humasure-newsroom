@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-china-first-humanoid-robot-industry-standards",
+  "type": "news",
+  "slug": "china-first-humanoid-robot-industry-standards",
+  "title": "China publishes five humanoid robot standards, including intelligence levels",
+  "excerpt": "China's industry ministry has published five humanoid robot standards covering intelligence grading, joints, hands, training sites and training data. They apply from publication.",
+  "category": "Regulation",
+  "tags": [
+    "China",
+    "Asia-Pacific",
+    "humanoid robots",
+    "robot safety",
+    "standards",
+    "embodied AI"
+  ],
+  "directives": [
+    "D3",
+    "D2",
+    "D5",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "The Paper (澎湃新闻): MIIT releases five humanoid robot standards covering intelligence grading, dexterous hands and training data",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34492647"
+    },
+    {
+      "title": "MediaNama: China approves 274 industry standards covering humanoid robots, AI, semiconductors and data security",
+      "url": "https://world.medianama.com/china-approves-274-industry-standards-covering-humanoid-robots-ai-semiconductors-and-data-security/"
+    },
+    {
+      "title": "Xinhua (新华网): Draft national humanoid robot industry standards system guide opens for public comment (24 August 2026)",
+      "url": "https://www.news.cn/20260824/a2ef1c28985e4fbda966e51036418060/c.html"
+    }
+  ],
+  "body_html": "<p>China's Ministry of Industry and Information Technology (MIIT) has published five industry standards for humanoid robots, managed by its standards committee for humanoid robots and embodied intelligence. \"Embodied intelligence\" is the Chinese term for AI that acts in the physical world through a body, such as a robot.</p>\n<p>The standards appeared in MIIT Announcement No. 30 of 2026, published on 16 November 2026, and take effect from the date of publication, according to Chinese news reports. The same announcement approved 274 industry standards across many sectors, from electronics to batteries and cars, a technology news site reports.</p>\n<h2>What the five standards cover</h2>\n<ul>\n<li><strong>Intelligence levels.</strong> A grading scheme from L0 to L5 that rates a humanoid robot's intelligence on four dimensions: perception and understanding, decision-making and learning, physical execution, and collaboration and interaction with people. It is meant to support research, testing and matching robots to suitable tasks.</li>\n<li><strong>Joints.</strong> A technical specification for the electrically driven joints in the torso and legs, setting interfaces, performance measures and test methods so products can be compared and checked.</li>\n<li><strong>Dexterous hands.</strong> Requirements for the design, testing, evaluation and delivery of robot hands.</li>\n<li><strong>Training sites.</strong> Rules for building the facilities where robots are trained, including layout, equipment, data collection, networks and safety protection.</li>\n<li><strong>Training data.</strong> Requirements for managing the data used to train humanoid robots across its whole life, from collection and labelling to storage, use and deletion, including data security, privacy protection and traceability.</li>\n</ul>\n<p>Chinese reports say the committee's secretariat plans further work to promote the standards and evaluate how well they work, and links them to testing and certification.</p>\n<h2>Part of a wider plan</h2>\n<p>The new standards follow a draft guideline that MIIT put out for public comment from 25 August to 23 September 2026. It aims for at least 100 key humanoid robot standards by 2028, with safety governance among the five areas covered and standards on ethics among the priorities, according to China's state news agency. Reports on the new announcement note that it also includes a standard on protecting audio and video data collected by smart-home devices, from collection through to deletion.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>The reports we reviewed do not say whether the standards are mandatory or voluntary.</li>\n<li>The full texts were not available to us, so the detailed safety requirements, if any, in the joint, hand and grading standards are not yet clear.</li>\n<li>How the L0 to L5 grades will be tested, and whether they will appear on products for buyers to see, has not been announced.</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>Common, published standards are what make independent testing possible: they give everyone the same yardstick. A grading scheme for how much a robot can decide and do on its own speaks to <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>, since people need to know how far a machine's independence goes before they share a room with it. Requirements for joints, hands and training sites touch <a href=\"https://humasure.org/directives/#d3\">D3 Physical safety</a>. Rules on training data, including privacy and deletion, connect to <a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a> and <a href=\"https://humasure.org/directives/#d10\">D10 Safe for its whole life</a>.</p>\n<p>Whatever standards a robot meets, buyers and workplaces can still ask its maker plain questions about how it stops, what it records and who answers for it. Our list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> is a place to start.</p>"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-uk-ico-ads-in-ai-chatbots-and-agents",
+  "type": "news",
+  "slug": "uk-ico-ads-in-ai-chatbots-and-agents",
+  "title": "UK privacy regulator sets out how data law applies to ads in AI chatbots",
+  "excerpt": "The ICO's AdTech 3.0 report says chatbots and AI agents bring no new data rules for advertising, but warns about sensitive guesses drawn from conversations.",
+  "category": "Regulation",
+  "tags": [
+    "United Kingdom",
+    "privacy",
+    "AI agents",
+    "chatbots",
+    "advertising",
+    "data protection"
+  ],
+  "directives": [
+    "D5",
+    "D4",
+    "D7",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Information Commissioner's Office: AdTech 3.0 – Online advertising in the age of LLMs and agentic AI (November 2026, PDF)",
+      "url": "https://ico.org.uk/media2/nt4jmexg/adtech-3-0-202611.pdf"
+    },
+    {
+      "title": "Hunton Andrews Kurth Privacy and Cybersecurity Law Blog: UK ICO publishes report on data protection expectations for AI-enabled online advertising",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/uk-ico-publishes-report-on-data-protection-expectations-for-ai-enabled-online-advertising"
+    },
+    {
+      "title": "Resultsense: ICO AdTech 3.0 report – agentic AI and online advertising",
+      "url": "https://www.resultsense.com/news/2026-11-16-ico-adtech-report-agentic-ai-advertising/"
+    }
+  ],
+  "body_html": "<p>The United Kingdom's data protection regulator has published its view on what happens to people's personal information when advertising meets AI chatbots and AI agents. The Information Commissioner's Office (ICO) released the report, called <em>AdTech 3.0</em>, on 13 November 2026.</p>\n<p>Its headline message is that existing law already covers these new tools. In the ICO's words: \"LLMs and agentic AI don't create a new set of data protection requirements for online advertising.\" LLMs, or large language models, are the systems behind most chatbots. The report explains how three existing laws apply: the UK GDPR, the Data Protection Act 2018 and the Privacy and Electronic Communications Regulations (PECR), which cover cookies and similar tracking.</p>\n<h2>What the report looks at</h2>\n<p>The ICO examines several ways AI is entering online advertising:</p>\n<ul>\n<li>adverts shown next to a chatbot's answer;</li>\n<li>AI agents that run or coordinate advertising campaigns across several companies;</li>\n<li>conversational shopping and product discovery in online stores;</li>\n<li>advertising on connected TVs;</li>\n<li>personal shopping agents that buy things on a consumer's behalf.</li>\n</ul>\n<p>On that last point, the ICO says such agents mainly act for the consumer, and that at the time of its research they were not yet an established part of UK advertising.</p>\n<h2>Guesses about sensitive traits</h2>\n<p>The report's sharpest warning concerns what a conversation can reveal. People may mention a health condition, religious belief or political view while chatting with an AI system, and a system may infer such traits even when a person never states them. A legal summary of the report notes the ICO's example: a possible health condition guessed from a chat and then used to target adverts.</p>\n<p>The ICO says this kind of inferred information can count as \"special category\" data, the most protected kind under UK law, if an organisation intends to infer it or to treat people differently because of it, however uncertain the guess. Its position is that using such data for advertising needs a person's explicit consent.</p>\n<h2>What organisations are expected to do</h2>\n<ul>\n<li><strong>Stay accountable.</strong> Handing campaign work to an AI agent does not hand over legal responsibility. Oversight should be meaningful, not just watching a dashboard after the fact.</li>\n<li><strong>Keep ads recognisable.</strong> People should be able to tell a paid advert from a generated answer, and understand how their information shaped what they saw. A general line saying \"AI personalises ads\" is not enough.</li>\n<li><strong>Honour consent and its withdrawal.</strong> Where tracking technology is used, consent must meet the UK GDPR standard, and a withdrawal must reach every company in the chain.</li>\n<li><strong>Check suppliers.</strong> Labels such as \"agentic\" or \"privacy-preserving\" are not evidence. Firms should ask for proof about data sources, what an agent is allowed to do and what data passes between systems.</li>\n<li><strong>Collect only what is needed</strong> and revisit risk assessments as systems gain new data sources or connections.</li>\n</ul>\n<h2>What is still unknown</h2>\n<p>The report sets out the ICO's interpretation rather than new rules, so it does not show how the regulator will act if it finds problems. The ICO says the findings will feed into future guidance on agentic AI and automated decision-making, including a planned code of practice, but it gives no dates in the parts of the report we reviewed.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A chatbot can feel like a private conversation. The ICO's report is a reminder that what people say, and what a system guesses about them, can have value to advertisers. That goes to the heart of <a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a>. Keeping ads clearly separate from answers reflects <a href=\"https://humasure.org/directives/#d4\">D4 Honest identity</a> and <a href=\"https://humasure.org/directives/#d7\">D7 No manipulation</a>. And the point that responsibility stays with people, not agents, is <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>.</p>\n<p>Anyone using an AI assistant or shopping agent can ask its maker a few plain questions: Are ads shown, and how are they marked? Is anything I say used for advertising? Can I switch that off? More are on our page of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a>.</p>"
+}

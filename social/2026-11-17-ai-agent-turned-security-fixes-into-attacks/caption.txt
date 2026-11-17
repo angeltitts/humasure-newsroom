@@ -1,0 +1,10 @@
+Google: attackers' AI agent turned published security fixes into attacks unaided
+
+Google's threat team says it found an AI tool that studied security fixes, built attacks for the flaws and ran them with no human directing each step.
+
+Why it matters: D6 Secure and supported, D10 Safe for its whole life, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Google; Help Net Security; HackRead.
+
+#HumanInCharge #AISafety #RobotSafety

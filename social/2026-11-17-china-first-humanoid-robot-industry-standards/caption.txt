@@ -1,0 +1,10 @@
+China publishes five humanoid robot standards, including intelligence levels
+
+China's industry ministry has published five humanoid robot standards covering intelligence grading, joints, hands, training sites and training data. They apply from publication.
+
+Why it matters: D3 Physical safety, D2 Bounded autonomy, D5 Private by default.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: The Paper (澎湃新闻); MediaNama; Xinhua (新华网).
+
+#HumanInCharge #AISafety #RobotSafety #AIRegulation #China

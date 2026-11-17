@@ -1,0 +1,10 @@
+United Airlines restricts outside AI agents from booking, citing security risks
+
+United Airlines said on 11 November 2026 it will block unauthorised personal AI agents from booking, warning that sharing login details with them can expose sensitive data.
+
+Why it matters: D2 Bounded autonomy, D6 Secure and supported, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: CBS News; Skift; AirlineGeeks.
+
+#HumanInCharge #AISafety #RobotSafety #UnitedStates

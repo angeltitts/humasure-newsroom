@@ -1,0 +1,10 @@
+How robots that work beside people are kept safe, and what "collaborative" means
+
+A robot is not safe to work beside just because it is sold as collaborative. Here is how shared-space robots are meant to stop, slow and limit force.
+
+Why it matters: D3 Physical safety, D1 Always stoppable, D2 Bounded autonomy.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: US Occupational Safety and Health Administration; ANSI Blog; US Occupational Safety and Health Administration.
+
+#HumanInCharge #AISafety #RobotSafety

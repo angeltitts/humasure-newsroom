@@ -1,0 +1,10 @@
+What it means to contain an AI agent: sandboxes, least privilege and a way to stop it
+
+AI agents act, not just answer. Government cyber agencies say they should run in sandboxes with minimum access, close monitoring and people able to interrupt them. Here is what that means.
+
+Why it matters: D2 Bounded autonomy, D1 Always stoppable, D6 Secure and supported.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Australian Signals Directorate's Australian Cyber Security Centre and partners; UK National Cyber Security Centre; Canadian Centre for Cyber Security.
+
+#HumanInCharge #AISafety #RobotSafety

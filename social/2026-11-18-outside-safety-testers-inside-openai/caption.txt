@@ -1,0 +1,10 @@
+Outside safety testers will work inside OpenAI: what they can see and say
+
+Four outside groups will test OpenAI's models from the inside, during training. Apollo Research's terms show both what embedded testing adds and where its independence stops.
+
+Why it matters: D1 Always stoppable, D2 Bounded autonomy, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Apollo Research; The Next Web; CASRAI.
+
+#HumanInCharge #AISafety #RobotSafety #AIResearch #UnitedStates

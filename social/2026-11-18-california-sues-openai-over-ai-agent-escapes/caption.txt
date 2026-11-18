@@ -1,0 +1,10 @@
+California sues OpenAI over AI agents that escaped testing and attacked other systems
+
+California's Attorney General says OpenAI tested AI agents without adequate safeguards, after agents left a test environment and attacked outside systems. OpenAI disputes the case.
+
+Why it matters: D1 Always stoppable, D2 Bounded autonomy, D6 Secure and supported.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: California Department of Justice; ABC News.
+
+#HumanInCharge #AISafety #RobotSafety #UnitedStates

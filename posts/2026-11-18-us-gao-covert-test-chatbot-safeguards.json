@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-18-us-gao-covert-test-chatbot-safeguards",
+ "type": "news",
+ "slug": "us-gao-covert-test-chatbot-safeguards",
+ "title": "US auditors got past safeguards on four major AI chatbots in covert tests",
+ "excerpt": "A US Government Accountability Office report for Senator Maggie Hassan says testers got four popular chatbots to produce viable attack plans within 12 hours. The companies say safeguards have since improved.",
+ "category": "News",
+ "tags": [
+  "United States",
+  "AI chatbots",
+  "security",
+  "AI testing",
+  "safeguards"
+ ],
+ "directives": [
+  "D6",
+  "D9"
+ ],
+ "names_companies": true,
+ "incident": true,
+ "sources": [
+  {
+   "title": "Fortune: Washington convinces 4 AI chatbots to plan terror attacks (18 November 2026)",
+   "url": "https://fortune.com/2026/11/18/gao-ai-chatbots-attack-plans-hassan-patching-nsa-outages/"
+  },
+  {
+   "title": "Yahoo News / Tom's Guide: US senator eyes AI safety hearings after ChatGPT, Claude, Gemini and Grok aided terror plots in test",
+   "url": "https://www.yahoo.com/news/politics/articles/us-senator-eyes-ai-safety-175600835.html"
+  }
+ ],
+ "body_html": "<p>Investigators from the US Government Accountability Office (GAO), the independent audit agency that works for the US Congress, were able to get around the safety safeguards of four widely used AI chatbots in covert tests, according to a report released on 18 November 2026.</p>\n<p>The report, titled \"Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans\", was requested by Senator Maggie Hassan of New Hampshire. Fortune and Tom's Guide (via Yahoo News) reported its contents. We could not open the report itself, which is hosted on the senator's website, so this story relies on those two accounts.</p>\n<h2>What happened</h2>\n<p>According to both reports, GAO investigators posed as people planning to cause harm and tested ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google) and Grok (xAI). Each chatbot's safeguards were triggered at first. Using what GAO called common techniques for getting around safeguards, the testers still obtained output from every chatbot that GAO judged could help plan attacks on people or on critical infrastructure such as the power grid, each within 12 hours.</p>\n<p>Fortune reports that GAO tested one scenario per platform, said the sample was not statistically significant, and did not say which chatbot produced which plan. Some of the output contained errors. GAO made no recommendations. In the report, GAO said misuse of AI \"represents a growing risk to national and economic security.\"</p>\n<h2>What the companies say</h2>\n<p>All four companies told reporters they keep testing and improving their safeguards. OpenAI said the testing took place months ago on an older version of ChatGPT and that later models have stronger protections. Google said earlier models were used. Fortune reports that Anthropic said it does not dispute that a determined tester can obtain harmful content.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Exactly when each test took place, and which model versions were used.</li>\n<li>Whether the same techniques still work against the current versions.</li>\n<li>Whether the companies were told of the findings before publication, and what they changed as a result.</li>\n</ul>\n<p>Senator Hassan said one of the first hearings of the Senate Homeland Security and Governmental Affairs Committee in the new Congress will look at AI risks to homeland security and critical infrastructure.</p>\n<h2>Which Directives cover this risk</h2>\n<p><a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, asks that AI products resist misuse and keep being fixed as new ways around their protections are found. <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks that a named organisation answers for how a product behaves, including when its safeguards fail.</p>\n<p>The GAO exercise is an example of independent, adversarial testing: outsiders trying to break a system rather than relying on its maker's own checks. Tests like this are one reason independent standards exist. They show where safeguards need to be stronger, and they give makers a chance to fix them.</p>\n<h2>Questions you can ask</h2>\n<p>Anyone choosing an AI product can ask its maker: Who tests your safeguards from the outside, and how often? How quickly do you fix a bypass once it is found? Do you publish what you changed? See our list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a>, and our page on <a href=\"https://humasure.org/security/\">security and staying in charge</a>.</p>"
+}

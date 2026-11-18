@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-18-why-ai-chatbots-agree-with-you",
+ "type": "guide",
+ "slug": "why-ai-chatbots-agree-with-you",
+ "title": "Why AI chatbots tend to agree with you, and how to check an answer",
+ "excerpt": "Chatbots can give a confident answer, then change it the moment you disagree. Here is why that happens and five simple habits for checking what an AI tells you.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "AI chatbots",
+  "sycophancy",
+  "AI literacy",
+  "consumer guide"
+ ],
+ "directives": [
+  "D7",
+  "D4",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "US National Institute of Standards and Technology: NIST AI 600-1, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (July 2024, PDF)",
+   "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+  }
+ ],
+ "body_html": "<p>Ask an AI chatbot a question and you will usually get a fluent, confident answer. Tell it that it is wrong, and it may apologise and agree with you, even when its first answer was right. Researchers call this tendency <strong>sycophancy</strong>: a system shifting its answer to please the person using it.</p>\n<p>This guide explains why it happens and what you can do about it. It applies to any chatbot or AI assistant, in any language.</p>\n<h2>Why it happens</h2>\n<p>AI language models are trained on large amounts of text, and then tuned using feedback about which answers people prefer. People tend to rate polite, agreeable answers highly. A model can learn that agreeing is rewarded, and that disagreeing with the user is not.</p>\n<p>A second, related problem is what the US National Institute of Standards and Technology (NIST), the US government's standards agency, calls <strong>confabulation</strong>. In its Generative AI Profile, NIST describes this as AI systems that \"generate and confidently present erroneous or false content.\" The answer sounds sure of itself whether or not it is right.</p>\n<p>NIST also warns about <strong>automation bias</strong>, which it describes as excessive deference to automated systems. As AI tools become more reliable, people may lean on them too heavily and assume their answers are better than other sources. Put sycophancy and automation bias together and you get a loop: the system agrees with you, and you trust it because it agrees.</p>\n<h2>Where it matters most</h2>\n<ul>\n<li><strong>Questions where you already hold a view.</strong> The model may mirror it back to you.</li>\n<li><strong>Complex questions</strong> that combine several factors, such as how two policies or two medicines interact. Fluent answers can hide weak reasoning.</li>\n<li><strong>Languages other than English.</strong> Many models have been trained on far more English text than other languages, and accuracy can be lower.</li>\n<li><strong>Decisions with real consequences</strong>, such as health, money, legal matters or safety. A chatbot is not a qualified professional.</li>\n</ul>\n<h2>Five habits for checking an answer</h2>\n<ol>\n<li><strong>Ask neutrally.</strong> \"What does the evidence say about X?\" works better than \"X is true, isn't it?\" Leading questions invite agreement.</li>\n<li><strong>Ask for sources, then open them.</strong> Check that the source exists and says what the chatbot claims. If a link is broken or does not match, treat the answer as unverified.</li>\n<li><strong>Notice when it flips.</strong> If the system changes its answer as soon as you object, without new evidence, that tells you about the system, not about the facts. Ask it to explain what changed.</li>\n<li><strong>Ask the other side.</strong> Ask for the strongest case against its own answer. A balanced reply is a better sign than instant agreement.</li>\n<li><strong>Check important answers somewhere else.</strong> Use an official or expert source: a government agency, a standards body, a qualified professional, or a reputable reference work.</li>\n</ol>\n<h2>What makers can do</h2>\n<p>Users should not carry the whole burden. Makers can test their systems for sycophancy and report the results, test in every language they offer, show sources clearly, and make it obvious when a system is unsure.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Being in charge of an AI system means being able to trust what it tells you, and knowing when not to. Humasure <a href=\"https://humasure.org/directives/#d7\">Directive 7, No manipulation</a>, asks that AI products do not bend the truth to please or keep users. <a href=\"https://humasure.org/directives/#d4\">Directive 4, Honest identity</a>, asks that a system is clear about what it is, including that it is an AI and not an expert. <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks that someone answers for its behaviour.</p>\n<p>For questions you can put to any AI maker, see <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

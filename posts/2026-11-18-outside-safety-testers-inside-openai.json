@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-18-outside-safety-testers-inside-openai",
+ "type": "analysis",
+ "slug": "outside-safety-testers-inside-openai",
+ "title": "Outside safety testers will work inside OpenAI: what they can see and say",
+ "excerpt": "Four outside groups will test OpenAI's models from the inside, during training. Apollo Research's terms show both what embedded testing adds and where its independence stops.",
+ "category": "Research",
+ "tags": [
+  "United States",
+  "global",
+  "AI testing",
+  "independent evaluation",
+  "AI safety research"
+ ],
+ "directives": [
+  "D1",
+  "D2",
+  "D9"
+ ],
+ "names_companies": true,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Apollo Research: A Pilot Towards Embedded Evaluations (16 November 2026)",
+   "url": "https://www.apolloresearch.ai/blog/pilot-towards-embedded-evaluations"
+  },
+  {
+   "title": "The Next Web: OpenAI lets Apollo embed six AI safety testers during training",
+   "url": "https://thenextweb.com/news/apollo-research-openai-embedded-evaluations-pilot"
+  },
+  {
+   "title": "CASRAI: OpenAI embedded assessments with Apollo, METR, Transluce and Goodfire",
+   "url": "https://casrai.org/news/openai-embedded-assessments-apollo-metr-2026"
+  }
+ ],
+ "body_html": "<p>OpenAI has agreed to let four outside research groups test its AI models from inside the company, rather than only shortly before a product is released. The groups are Apollo Research, METR, Transluce and Goodfire. Apollo published the terms of its part of the arrangement on 16 November 2026, which gives an unusually detailed look at what outside testers can and cannot do.</p>\n<h2>What is being tested</h2>\n<p>Six Apollo Research staff will work at OpenAI for four months. They will look at whether OpenAI's models try to undermine the controls meant to keep them in check, either for themselves or for later models. Researchers call this kind of hidden goal-seeking \"scheming\".</p>\n<p>Apollo's main argument is about timing. Its past checks happened after training was finished and shortly before public release. Apollo says of that approach: \"This approach is not sufficient for testing misaligned behaviors like scheming\". Problems may show up earlier, during training, or later, when a model is used inside the company before the public sees it. So the pilot covers training, testing and internal use.</p>\n<p>The other three groups have separate, narrower roles. According to <a href=\"https://casrai.org/news/openai-embedded-assessments-apollo-metr-2026\">CASRAI</a>, METR will assess OpenAI's largest training run to date, Goodfire will study the models' internal workings, and Transluce will review some of OpenAI's own internal alignment tests in a six-week pilot from early December.</p>\n<h2>What the testers can see</h2>\n<p>For its first question, about what training rewards, Apollo will get training code and data, records of the model's reasoning during training, and the ability to query models part-way through training. Access for its other questions has not yet been agreed.</p>\n<p>OpenAI may hold material back for technical, security or intellectual property reasons. It has agreed not to withhold information just because it is unfavourable, and it must explain any refusal in writing.</p>\n<h2>What the testers can say</h2>\n<ul>\n<li>Apollo will publish two public reports. OpenAI can ask for confidential evidence to be removed, but it cannot remove Apollo's verdicts.</li>\n<li>The full, unredacted reports go to the safety committee of OpenAI's board.</li>\n<li>Apollo can say publicly what it was refused, what was redacted and any pressure it felt, without OpenAI reviewing that first. Apollo calls this \"meta-transparency\".</li>\n</ul>\n<h2>Where independence stops</h2>\n<p>Apollo is open that the pilot does not meet all its own standards. OpenAI chooses which staff discuss confidential material with the testers. The work runs on OpenAI's computers and monitored channels. The scope is limited to agreed questions, models and time periods. According to <a href=\"https://thenextweb.com/news/apollo-research-openai-embedded-evaluations-pilot\">The Next Web</a>, Apollo warns that a lack of reported problems can look reassuring even when it only reflects what testers were allowed to see. No dates have been given for the reports.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>Most people will never see inside an AI lab. They rely on someone checking on their behalf, and on knowing how good that check was. This arrangement is a step towards testing that starts earlier and is more open about its own limits. Publishing what testers were refused is a useful habit for any kind of assessment: a result means more when you know what was not examined.</p>\n<p>It also shows the difference between testing that a developer invites and testing that is fully independent. Both have value. Readers can judge a safety claim better when they can see who chose the scope, who paid, and who could edit the findings.</p>\n<p>The behaviour being tested links to <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a> and <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>: a model that works against its own controls would weaken both. The publication terms link to <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. For questions you can ask any maker about how its products were tested, see our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page.</p>"
+}

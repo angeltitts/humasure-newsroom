@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-18-what-it-means-to-contain-an-ai-agent",
+ "type": "explainer",
+ "slug": "what-it-means-to-contain-an-ai-agent",
+ "title": "What it means to contain an AI agent: sandboxes, least privilege and a way to stop it",
+ "excerpt": "AI agents act, not just answer. Government cyber agencies say they should run in sandboxes with minimum access, close monitoring and people able to interrupt them. Here is what that means.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "United Kingdom",
+  "Australia",
+  "Canada",
+  "United States",
+  "New Zealand",
+  "AI agents",
+  "security"
+ ],
+ "directives": [
+  "D2",
+  "D1",
+  "D6",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Australian Signals Directorate's Australian Cyber Security Centre and partners: Careful adoption of agentic AI services (PDF, May 2026)",
+   "url": "https://www.cyber.gov.au/sites/default/files/2026-05/careful_adoption_of_agentic_ai_services.pdf"
+  },
+  {
+   "title": "UK National Cyber Security Centre: Thinking carefully before adopting agentic AI (PDF, May 2026)",
+   "url": "https://www.ncsc.gov.uk/sites/default/files/2026-06/Thinking-carefully-before-adopting-agentic-AI.pdf"
+  },
+  {
+   "title": "Canadian Centre for Cyber Security: Joint guidance on the careful adoption of agentic artificial intelligence services",
+   "url": "https://cyber.gc.ca/en/news-events/joint-guidance-careful-adoption-agentic-artificial-intelligence-services"
+  }
+ ],
+ "body_html": "<p>An AI agent is software that does things, not only says things. It can run code, use websites, send messages or move money. That makes it useful. It also means that when an agent goes wrong, it can do something, not just give a wrong answer. \"Containing\" an agent means setting up its surroundings so that a mistake stays small and people can step in.</p>\n<p>In 2026, six cyber security agencies from five countries published joint guidance on this. The authors are agencies from Australia, Canada, New Zealand, the United Kingdom and the United States, including the US Cybersecurity and Infrastructure Security Agency (CISA) and the UK National Cyber Security Centre (NCSC). This explainer draws on that guidance.</p>\n<h2>1. A sandbox: a closed space to work in</h2>\n<p>A sandbox is a separate, walled-off computing environment. What happens inside it should not reach real systems outside. The joint guidance recommends building agent systems \"in a secure, sandboxed environment\" and using sandboxes \"to test agent behaviour before production deployment\", meaning before the agent is used for real work.</p>\n<p>This is different from a <em>regulatory</em> sandbox, which is a supervised legal space for testing new products. A technical sandbox is about walls in the computer system itself.</p>\n<h2>2. Least privilege: only the access it needs</h2>\n<p>Least privilege means giving an agent the minimum access needed for its task, and nothing more. The UK NCSC puts it simply: \"give agents only the minimum access they need, for the shortest time required.\" In practice that can mean temporary passwords or keys that expire, a short list of approved tools, and never giving an agent open access to sensitive data or critical systems.</p>\n<h2>3. Limiting the \"blast radius\"</h2>\n<p>Security teams talk about the blast radius of a failure: how far the damage can spread. The joint guidance recommends \"isolation and segmentation to limit blast radius\". This means dividing systems so that an agent working in one part cannot reach the others. The guidance also says agents should not be able to change the logs that record what they did.</p>\n<h2>4. Watching what it does</h2>\n<p>Containment needs monitoring. The guidance calls for comprehensive logs and real-time monitoring of what agents do and decide, including their internal steps, not only what goes in and comes out. It also suggests rules that automatically cut an agent's permissions when it starts behaving unexpectedly.</p>\n<h2>5. A person who can stop it</h2>\n<p>The last layer is human. The guidance says agents should not carry out high-impact actions without prior human approval, should stop and escalate to a person when uncertain, and should allow live monitoring and interruption while a task is running. The NCSC adds that organisations should decide in advance who can stop an agent, and that response plans should cover loss of control.</p>\n<p>The NCSC's summary test is a good one for anyone: \"If you cannot understand, monitor or contain an agent's actions, it is not ready for deployment.\"</p>\n<h2>Why this matters for people staying in charge</h2>\n<p>None of these steps is new on its own. Together, they turn \"the agent should behave\" into \"if it does not, the damage stays small and someone can stop it\". Containment matters during testing as much as in daily use, because new and unproven systems are the ones most likely to surprise their makers.</p>\n<p>These ideas map onto the Humasure Directives. Staying within set limits is <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>. Being able to halt the system is <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>. Sandboxes, least privilege and monitoring are part of <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>, and logs that show what happened support <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. For questions to ask before you let any agent act for you, see our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page and our <a href=\"https://humasure.org/security/\">security page</a>.</p>"
+}

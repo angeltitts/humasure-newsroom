@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-19-how-to-check-a-call-is-not-a-voice-clone",
+ "type": "guide",
+ "slug": "how-to-check-a-call-is-not-a-voice-clone",
+ "title": "How to check that an urgent call is really from someone you know",
+ "excerpt": "AI tools can copy a voice from a short recording. Five habits, drawn from police and government advice, help you check a caller before you act.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "United Kingdom",
+  "United States",
+  "Switzerland",
+  "voice cloning",
+  "scams",
+  "deepfakes",
+  "AI literacy"
+ ],
+ "directives": [
+  "D4",
+  "D7",
+  "D5"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Police Scotland: Voice cloning scams",
+   "url": "https://www.scotland.police.uk/advice/scams-and-frauds/voice-cloning-scams/"
+  },
+  {
+   "title": "US Federal Trade Commission, Consumer Advice: Scammers use AI to enhance their family emergency schemes",
+   "url": "https://consumer.ftc.gov/node/80688"
+  },
+  {
+   "title": "Swiss National Cyber Security Centre: Week 31, What the future holds: interaction in the age of AI",
+   "url": "https://www.bacs.admin.ch/en/26w31-en"
+  }
+ ],
+ "body_html": "<p>A phone call from someone who sounds exactly like a relative, a friend or your manager used to be good evidence that it really was them. That is less true now. AI voice tools can produce a convincing copy of a person's voice from a short recording. Switzerland's National Cyber Security Centre says about ten seconds of audio is currently enough.</p>\n<p>Most people will never receive a call like this. The Swiss centre says reported cases are still few and targeted, because the method takes effort. But it expects them to grow as tools get cheaper. A few simple habits mean you do not have to rely on a voice alone.</p>\n<h2>How these calls usually work</h2>\n<p>Government and police advice describes two common patterns:</p>\n<ul>\n<li><strong>The family emergency.</strong> A caller sounding like a relative says they are in trouble and need money fast. The US Federal Trade Commission (FTC), the country's consumer protection agency, warns that the voice can be cloned from clips posted online.</li>\n<li><strong>The urgent instruction at work.</strong> A caller sounding like a senior manager tells an employee to make an urgent payment. The Swiss centre says recordings of executives found online can be used, and that in rare cases a fake video has appeared in a video meeting.</li>\n</ul>\n<p>What these calls share is pressure: urgency, secrecy and a request that is hard to undo.</p>\n<h2>Five habits that keep you in charge</h2>\n<ol>\n<li><strong>Hang up and call back on a number you already know.</strong> This is the single step every source agrees on. Police Scotland, the FTC and the Swiss centre all advise ending the call and ringing the person on their usual number. If you cannot reach them, the FTC suggests checking with another family member or a friend.</li>\n<li><strong>Agree a code word in advance.</strong> Police Scotland recommends choosing a word or phrase with close family to use in a real emergency. Pick something that is not posted anywhere online, and do not say it first: ask the caller for it.</li>\n<li><strong>Treat hard-to-reverse payments as a warning sign.</strong> The FTC says requests to wire money, send cryptocurrency or buy gift cards and read out the numbers are common signs of a scam.</li>\n<li><strong>Never share passwords, PINs or remote access by phone.</strong> The Swiss centre advises never giving these out on a call, and never letting a caller onto your computer.</li>\n<li><strong>Think about what your voice is doing online.</strong> Police Scotland suggests keeping social media accounts private and being careful about posting video and audio clips of your voice publicly.</li>\n</ol>\n<p>The Swiss centre also suggests checking whether a caller's behaviour fits the person you know, not just their voice or face. It adds that it knows of no case where a voice was cloned from a short \"hello\" on a silent call, so there is no need to stop answering the phone.</p>\n<h2>If you think you have had one of these calls</h2>\n<p>Do not send money. Block the number, and report it where you live. In the United States, the FTC takes reports at <a href=\"https://consumer.ftc.gov/node/80688\">ReportFraud.ftc.gov</a>. In Scotland, Police Scotland takes reports online, by phone or in person, and suggests forwarding the call to 7726, following guidance from Ofcom, the UK communications regulator. Elsewhere, your national police, consumer protection agency or cyber security centre is the place to start. If you shared personal details, Police Scotland points to the advice of the national cyber security centre; most countries have one.</p>\n<h2>Why this matters for people staying in charge</h2>\n<p>A cloned voice misleads people about who they are dealing with. That is the risk behind <a href=\"https://humasure.org/directives/#d4\">Directive 4, Honest identity</a>: people should know when they are hearing a machine rather than a person. False urgency is a form of pressure, which <a href=\"https://humasure.org/directives/#d7\">Directive 7, No manipulation</a> addresses. Responsible voice tools should make misuse harder, for example by checking consent before copying a voice. You can ask any maker how their product does this, using Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a>.</p>\n<p>The habits above work whatever the technology. A short call-back puts the decision back with you.</p>"
+}

@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-19-new-york-attorney-general-ai-safety-unit",
+ "type": "news",
+ "slug": "new-york-attorney-general-ai-safety-unit",
+ "title": "New York's attorney general sets up a unit to enforce the state's AI safety laws",
+ "excerpt": "The new ASSET Unit will lead enforcement of New York's RAISE Act for frontier AI developers, which takes effect on 1 January 2027, and of the state's chatbot safety rules.",
+ "category": "Regulation",
+ "tags": [
+  "United States",
+  "New York",
+  "AI regulation",
+  "enforcement",
+  "AI chatbots",
+  "frontier AI"
+ ],
+ "directives": [
+  "D9",
+  "D6",
+  "D5"
+ ],
+ "names_companies": true,
+ "incident": false,
+ "sources": [
+  {
+   "title": "New York State Office of the Attorney General: Attorney General James announces creation of AI Safety, Standards, Enforcement, and Transparency Unit",
+   "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-announces-creation-ai-safety-standards-enforcement-and"
+  },
+  {
+   "title": "StateScoop: New York attorney general creates unit to oversee AI safety and enforcement",
+   "url": "https://statescoop.com/new-york-attorney-general-creates-unit-to-oversee-ai-safety-and-enforcement/"
+  }
+ ],
+ "body_html": "<p>New York State now has a dedicated team to enforce its AI safety laws. On 17 November 2026, Attorney General Letitia James announced the AI Safety, Standards, Enforcement, and Transparency Unit, called the ASSET Unit, inside her office. In the United States, a state attorney general is the state's chief legal officer and can take companies to court for breaking state law.</p>\n<p>The unit arrives about six weeks before New York's main AI safety law, the RAISE Act, takes effect on 1 January 2027.</p>\n<h2>What the unit will do</h2>\n<p>According to the attorney general's announcement, the ASSET Unit will:</p>\n<ul>\n<li>lead the office's enforcement of the RAISE Act and other AI safety laws;</li>\n<li>develop new policy proposals;</li>\n<li>give technical expertise to investigations across the office;</li>\n<li>focus on data privacy, digital scams, cybersecurity and online safety.</li>\n</ul>\n<p>It sits in the office's Economic Justice Division and will work with its Bureau of Internet and Technology. The office says it is still building the team. Cristy Phillips, previously special counsel for the Economic Justice Division, will lead it. Neither the announcement nor StateScoop's report gives the unit's size or budget.</p>\n<p>\"Promising new technologies like artificial intelligence should never come at the expense of New Yorkers' safety and privacy,\" James said in the announcement.</p>\n<h2>Which laws it will enforce</h2>\n<p>The announcement lists several New York laws that bear on AI:</p>\n<ul>\n<li><strong>The RAISE Act</strong> (Responsible AI Safety and Education Act), from 1 January 2027. It requires large AI developers to disclose their safety measures publicly and to report safety and security incidents.</li>\n<li><strong>A new chatbot law for children</strong> (bills S.9051B/A.10379C), which the office says will ban unsafe chatbot features for children from June 2027.</li>\n<li><strong>Article 47 of the General Business Law</strong>, which requires AI chatbots to make reasonable efforts to detect and respond to users expressing suicidal thoughts, and to tell users they are not talking to a human.</li>\n<li><strong>The SHIELD Act</strong>, which requires companies to keep reasonable data security.</li>\n<li>Laws on harmful sharing of intimate images, including AI-generated or altered ones, and on disclosing when AI-generated performers appear in adverts.</li>\n</ul>\n<p>The office also points to its general powers over privacy and unfair or deceptive business practices.</p>\n<h2>What is still unknown</h2>\n<p>The announcement does not say how the unit will prioritise cases, how incident reports under the RAISE Act will be reviewed, or how it will coordinate with other states. StateScoop notes a wider backdrop: a November survey of US state governments found many AI offices lack staff, funding or authority, and there is continuing debate in Washington over federal proposals that would limit states' own AI rules. How that debate ends could affect what state units like this one can enforce.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>Rules only protect people if someone checks they are followed. A named team with technical staff gives the RAISE Act's incident-reporting and transparency duties a clear owner. That links to <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>: someone answers for an AI system when things go wrong. The unit's focus on cybersecurity and data protection also connects to <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, and <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>.</p>\n<p>For anyone using a chatbot or AI service, the same basic questions apply wherever you live: who is responsible for this system, how do they report problems, and who can you contact? Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> are a starting point.</p>"
+}

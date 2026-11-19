@@ -1,0 +1,10 @@
+What a self-driving car's "operating domain" is, and who answers when it drives
+
+Every self-driving system is designed for set roads, speeds and conditions. Here is what that means, what happens at the edge, and who is responsible.
+
+Why it matters: D2 Bounded autonomy, D1 Always stoppable, D3 Physical safety.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: NHTSA; legislation.gov.uk; California DMV.
+
+#HumanInCharge #AISafety #RobotSafety

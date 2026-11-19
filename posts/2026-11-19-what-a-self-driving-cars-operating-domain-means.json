@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-19-what-a-self-driving-cars-operating-domain-means",
+  "type": "explainer",
+  "slug": "what-a-self-driving-cars-operating-domain-means",
+  "title": "What a self-driving car's \"operating domain\" is, and who answers when it drives",
+  "excerpt": "Every self-driving system is designed for set roads, speeds and conditions. Here is what that means, what happens at the edge, and who is responsible.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "United States",
+    "United Kingdom",
+    "autonomous vehicles",
+    "robotaxis",
+    "road safety",
+    "bounded autonomy"
+  ],
+  "directives": [
+    "D2",
+    "D1",
+    "D3",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "NHTSA: A Framework for Automated Driving System Testable Cases and Scenarios (DOT HS 812 623)",
+      "url": "https://www.nhtsa.gov/document/framework-automated-driving-system-testable-cases-and-scenarios"
+    },
+    {
+      "title": "legislation.gov.uk: Automated Vehicles Act 2024, Explanatory Notes, policy background",
+      "url": "https://www.legislation.gov.uk/ukpga/2024/10/notes/division/3/index.htm"
+    },
+    {
+      "title": "California DMV: New Autonomous Vehicle Regulations Strengthen Oversight and Enforcement, Authorize Trucks and Transit",
+      "url": "https://www.dmv.ca.gov/portal/?p=321530"
+    }
+  ],
+  "body_html": "<p>No self-driving system is designed to drive everywhere, in every condition. Each one is built and tested for a defined set of places and circumstances. Engineers and regulators call this the \"operational design domain\", often shortened to ODD. Understanding it helps explain how driverless vehicles are kept safe, and what should happen when they meet something unexpected.</p>\n<h2>What the operating domain covers</h2>\n<p>The US National Highway Traffic Safety Administration (NHTSA), the federal road safety agency, describes the ODD as the specific operating domains in which an automated driving system \"is designed to function.\" In its 2018 framework for testing these systems, it lists the kinds of limits an ODD can set:</p>\n<ul>\n<li><strong>Roads:</strong> which road types the system can use, such as city streets or motorways, and in which geographic area.</li>\n<li><strong>Speed:</strong> the range of speeds it is designed for.</li>\n<li><strong>Environment:</strong> weather, lighting, and day or night driving.</li>\n<li><strong>Zones and other constraints:</strong> for example school zones, construction areas, or places where traffic is being directed by people.</li>\n</ul>\n<p>A vehicle might be approved for city streets in one region in daylight and dry weather, but not for motorways, snow or nights. Widening the domain, for example adding motorways, is a separate step that needs its own testing.</p>\n<h2>Seeing and responding inside the domain</h2>\n<p>Inside its domain, the system must do what a careful driver does: watch the road and respond correctly. NHTSA calls this \"object and event detection and response\". That includes ordinary things such as pedestrians and cyclists, and less common ones: temporary cones, a road worker waving traffic through, or police cars with flashing lights slowing traffic. These unusual but foreseeable situations are where a system's limits often show.</p>\n<h2>What happens at the edge</h2>\n<p>When conditions move outside the domain, or the system detects a fault, it needs a fallback plan. NHTSA's framework stresses that every system needs a fallback strategy. The aim is a \"minimal risk condition\": a state that puts the vehicle and its occupants out of harm's way, such as pulling over and stopping safely. In some vehicles the fallback is handing control back to a person who is ready to drive; in fully driverless vehicles the system must reach that safe state by itself.</p>\n<p>Outside help matters too. California's autonomous vehicle rules, approved on 28 April 2026, require companies to answer police and emergency services through a two-way link within 30 seconds, give emergency officials a way to order driverless vehicles out of an area within two minutes, and let the regulator restrict operations by location, speed, weather or fleet size when public safety requires it.</p>\n<h2>Who answers when the car drives itself</h2>\n<p>When no human is driving, someone else has to be responsible. The United Kingdom's Automated Vehicles Act 2024 sets out one model. Each authorised self-driving vehicle must have an \"authorised self-driving entity\", usually the maker or developer, that is responsible for the way the vehicle drives. A person sitting in the driver's seat while the self-driving feature is engaged, called the \"user-in-charge\", is not responsible for how the car drives during that time, though they must be ready to take back control when asked. For vehicles with no one able to drive at all, a licensed operator also carries duties, a role the Act's explanatory notes compare in some respects to a bus operator.</p>\n<p>The UK also requires the government to publish a statement of safety principles. The policy aim is a level of safety equivalent to, or higher than, that of careful and competent human drivers. Other countries and US states use different approaches, but the questions are similar: who holds the permit, who reports incidents, and who can be told to stop.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>An operating domain is a practical form of <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>: a machine acts on its own only within limits that have been set and tested. A reliable fallback to a safe stop reflects <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>, and recognising people on and around the road is central to <a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>. Clear legal responsibility for how the vehicle drives is <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>.</p>\n<h2>Questions you can ask</h2>\n<ul>\n<li>Where, and in what conditions, is this vehicle approved to drive without a person driving?</li>\n<li>What does it do when it meets road works, police directions or bad weather it was not designed for?</li>\n<li>Who is legally responsible for how it drives, and how do I report a problem?</li>\n</ul>\n<p>Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> cover these and more.</p>"
+}

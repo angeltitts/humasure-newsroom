@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-19-california-dmv-bars-waymo-from-freeways",
+  "type": "news",
+  "slug": "california-dmv-bars-waymo-from-freeways",
+  "title": "California bars Waymo's driverless cars from freeways after work-zone incursions",
+  "excerpt": "California's motor vehicle regulator says Waymo's driverless cars posed an imminent hazard on freeways. Waymo has paused freeway rides in all its markets.",
+  "category": "News",
+  "tags": [
+    "United States",
+    "California",
+    "robotaxis",
+    "autonomous vehicles",
+    "road safety",
+    "regulators"
+  ],
+  "directives": [
+    "D2",
+    "D3",
+    "D9",
+    "D1"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "KQED: 'Hazard to public safety': California DMV restricts Waymo freeway operations",
+      "url": "https://www.kqed.org/news/12110123/hazard-to-public-safety-california-dmv-restricts-waymo-freeway-operations"
+    },
+    {
+      "title": "KPBS (Associated Press): California bans Waymo autonomous vehicles from state freeways, saying they pose an imminent hazard",
+      "url": "https://www.kpbs.org/news/quality-of-life/2026/11/17/california-bans-waymo-autonomous-vehicles-from-state-freeways-saying-they-pose-an-imminent-hazard"
+    },
+    {
+      "title": "The San Francisco Standard: DMV kicks Waymo off California freeways",
+      "url": "https://sfstandard.com/2026/11/17/california-dmv-bans-waymo-from-freeways/"
+    },
+    {
+      "title": "California DMV: New Autonomous Vehicle Regulations Strengthen Oversight and Enforcement, Authorize Trucks and Transit",
+      "url": "https://www.dmv.ca.gov/portal/?p=321530"
+    }
+  ],
+  "body_html": "<p>California's Department of Motor Vehicles (DMV), the state agency that licenses drivers and issues permits for self-driving vehicles, has barred Waymo from operating or testing its driverless cars on the state's freeways. The restriction became public on 17 November 2026. KQED reports that it took effect on 11 November; other reports describe the order as issued on 17 November, and the exact date has not been confirmed in a published order.</p>\n<p>Waymo, which runs paid driverless taxi services in several US cities, says it has also paused commercial freeway rides in every market where it offered them. Service on ordinary city streets continues.</p>\n<h2>What happened</h2>\n<p>In a statement reported by the Associated Press and KQED, DMV spokesperson Jonathan Groveman said Waymo's vehicles \"pose an imminent hazard to public safety due to recurring incursions by its vehicles into active construction zones.\" The DMV says the order follows earlier restrictions and corrective actions after similar incidents on 18 May 2026.</p>\n<p>According to the Associated Press, two recent events led to the decision:</p>\n<ul>\n<li>On 5 November 2026, three Waymo driverless cars entered an active construction closure on US Route 101 near Burlingame, south of San Francisco.</li>\n<li>On 6 November 2026, a Waymo car appeared to pass a California Highway Patrol \"traffic break\" on Interstate 280 in San Francisco, where police cars with flashing lights were slowing traffic. Video of the event circulated on social media.</li>\n</ul>\n<p>Waymo told reporters the Route 101 encounters did not involve any injuries or collisions. The DMV has not published its own account of injuries.</p>\n<p>The DMV says the restriction stays in place until Waymo shows the department that it has taken effective corrective actions. The San Francisco Standard reports that Waymo must show its cars can safely detect and respond to construction zones, emergency vehicles and similar situations before freeway service resumes.</p>\n<h2>What Waymo says</h2>\n<p>In an emailed statement to KQED, Waymo spokesperson Dana Gallagher said the company had \"temporarily restricted freeway operations across our other operating markets to evaluate our performance.\" The Associated Press reports that freeway rides had been offered in the San Francisco Bay Area, Los Angeles, Phoenix, Miami and Austin, and that Waymo is continuing freeway testing with trained staff behind the wheel. Waymo says it is working with the DMV and state officials to resume freeway operations.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>The text of the DMV order and its exact legal form have not been published in the sources we read.</li>\n<li>Why the measures taken after the May incidents did not prevent the November ones.</li>\n<li>How long the pause will last, and what evidence the DMV will accept before lifting it.</li>\n<li>Whether the order affects Waymo's recently approved expansion areas in California.</li>\n</ul>\n<h2>Why it matters for people staying in charge</h2>\n<p>Road work zones and police traffic stops are places where people direct traffic by hand, with cones and with flashing lights. A driverless car has to recognise those signals and obey them, just as a human driver must. Keeping a vehicle within the conditions it can handle safely is the idea behind <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>, and protecting road workers and police officers is part of <a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>.</p>\n<p>The case also shows the regulator's tools at work. California's autonomous vehicle rules, approved on 28 April 2026, let the DMV restrict a company's operations by location, speed, weather or fleet size when public safety requires it, and give police and emergency officials ways to direct driverless fleets out of an area. A named regulator that can limit a service, and a company that must show what it fixed, are what <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, looks like in practice. Being able to halt a whole category of driving quickly also connects to <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>.</p>\n<p>Incidents like these are why independent standards and clear oversight exist. They are not a reason to fear the technology, but they are a reason to ask good questions. Anyone using a robotaxi or other automated service can ask the maker how it handles unusual road situations and who to contact when something goes wrong; Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> are a starting point.</p>"
+}

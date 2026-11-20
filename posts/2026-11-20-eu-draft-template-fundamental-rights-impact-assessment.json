@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-20-eu-draft-template-fundamental-rights-impact-assessment",
+  "type": "news",
+  "slug": "eu-draft-template-fundamental-rights-impact-assessment",
+  "title": "EU asks for comments on a template for checking how high-risk AI affects people's rights",
+  "excerpt": "The European Commission has published a draft form for the fundamental rights impact assessment required by the EU AI Act. Comments are open until 15 January 2027.",
+  "category": "Regulation",
+  "tags": [
+    "European Union",
+    "EU AI Act",
+    "fundamental rights",
+    "impact assessment",
+    "public services",
+    "consultation"
+  ],
+  "directives": [
+    "D8",
+    "D9",
+    "D1"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "AI Act Service Desk (European Commission): Article 27, Fundamental rights impact assessment for high-risk AI systems",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-27"
+    },
+    {
+      "title": "European Commission EUSurvey: Stakeholder consultation on the draft fundamental rights impact assessment under the AI Act (Article 27)",
+      "url": "https://ec.europa.eu/eusurvey/runner/FRIAconsultation"
+    },
+    {
+      "title": "Digital Policy Alert: European Commission opened consultation on draft template for fundamental rights impact assessment under Article 27 of EU AI Act",
+      "url": "https://digitalpolicyalert.org/event/45806-european-commission-opened-consultation-on-draft-template-for-fundamental-rights-impact-assessment-under-article-27-of-eu-ai-act"
+    },
+    {
+      "title": "BornCity: KI-Gesetz: EU-Kommission konsultiert Vorlage zur Grundrechte-Prüfung",
+      "url": "https://borncity.com/news/ki-gesetz-eu-kommission-konsultiert-vorlage-zur-grundrechte-pruefung/"
+    },
+    {
+      "title": "CASRAI: EU opens AI Act fundamental rights template consultation",
+      "url": "https://casrai.org/news/eu-opens-ai-act-fundamental-rights-template-consultation-2026"
+    }
+  ],
+  "body_html": "<p>The European Commission has published a draft form that organisations will use to check how a high-risk AI system could affect the rights of the people it makes decisions about. The consultation opened on 16 November 2026 and is open for comments until 15 January 2027.</p>\n<p>The form supports the fundamental rights impact assessment, often shortened to FRIA, in Article 27 of the EU AI Act. The template was drafted by the European AI Office, the Commission unit that oversees the Act, with input from the EU Agency for Fundamental Rights. It comes with a draft explanatory notice on who has to carry out the assessment and when.</p>\n<h2>Who has to do the assessment</h2>\n<p>Article 27 applies to \"deployers\", the organisations that put an AI system to use, rather than the companies that build it. According to the Article text on the Commission's <a href=\"https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-27\">AI Act Service Desk</a>, the assessment is required before first use of a high-risk system by:</p>\n<ul>\n<li>public bodies, and private organisations that provide public services, using high-risk systems listed in Annex III of the Act (for example in education, employment or access to essential services), except systems used for critical infrastructure;</li>\n<li>any organisation using AI to assess a person's creditworthiness or credit score (fraud detection is excluded);</li>\n<li>any organisation using AI for risk assessment and pricing in life and health insurance.</li>\n</ul>\n<p>BornCity's report on the draft notes that private employers using AI in recruitment are not covered by this duty, although other parts of the Act still apply to them. Reports on the consultation say the duty applies from 2 December 2027.</p>\n<h2>What the assessment must cover</h2>\n<p>Article 27 lists six things the assessment must describe:</p>\n<ol>\n<li>the organisation's processes in which the system will be used;</li>\n<li>how long and how often it will be used;</li>\n<li>which people and groups are likely to be affected;</li>\n<li>the specific risks of harm to them, using the information the maker must provide;</li>\n<li>the human oversight measures in place;</li>\n<li>what will happen if the risks materialise, including internal governance and complaint routes.</li>\n</ol>\n<p>The organisation must then notify the national market surveillance authority of the results, using the template, and update the assessment if anything changes. Where a data protection impact assessment under the GDPR already covers some of the same ground, the organisation can cross-reference it rather than repeat it.</p>\n<p>According to BornCity, the draft template runs to about 12 pages in seven sections, and asks deployers to rate each rights risk as low, medium or high, including the risk that remains after safeguards. CASRAI's summary says it prompts deployers to consider groups such as children, people with disabilities and people in vulnerable economic situations, and to say who carries out human oversight and whether they can override or reverse the system's output.</p>\n<h2>How to take part</h2>\n<p>Anyone can respond through the Commission's <a href=\"https://ec.europa.eu/eusurvey/runner/FRIAconsultation\">online consultation</a> until 15 January 2027. Separately, organisations that would like to test the draft on one of their own systems can express interest to the AI Office by 4 December 2026, according to reports on the call. The Commission plans to turn the final template into an automated tool. The draft is not yet adopted and may change.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>An AI system that helps decide who gets a benefit, a loan or a school place can treat people unfairly without anyone intending it. A written assessment, done before use and shared with a regulator, makes an organisation say in advance who could be affected, how a person can step in, and how someone can complain. That links to the Humasure Directives on <a href=\"https://humasure.org/directives/#d8\">fair treatment (D8)</a>, <a href=\"https://humasure.org/directives/#d9\">accountability (D9)</a> and <a href=\"https://humasure.org/directives/#d1\">keeping a human able to stop or overrule the system (D1)</a>.</p>\n<p>A common template could also make these assessments easier to compare across the EU's 27 member states. What is not yet known is how detailed regulators will expect assessments to be, and how much of each one will be made public.</p>"
+}

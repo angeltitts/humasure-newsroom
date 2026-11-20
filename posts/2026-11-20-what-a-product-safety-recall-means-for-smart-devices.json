@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-20-what-a-product-safety-recall-means-for-smart-devices",
+  "type": "guide",
+  "slug": "what-a-product-safety-recall-means-for-smart-devices",
+  "title": "What a safety recall means for a robot or smart device, and what you can ask for",
+  "excerpt": "Recalls now cover products run by software. Using EU rules as an example, here is what a recall notice must tell you, what remedies you can expect and how to report a problem.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "European Union",
+    "product safety",
+    "recalls",
+    "consumer rights",
+    "connected devices"
+  ],
+  "directives": [
+    "D10",
+    "D6",
+    "D9",
+    "D3"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "European Commission: Guidelines on the application of the EU general product safety legislative framework by businesses (Official Journal C/2025/6233, 21 November 2025)",
+      "url": "https://eur-lex.europa.eu/eli/C/2025/6233/oj/eng"
+    },
+    {
+      "title": "Austrian Business Service Portal (USP): Obligation to notify corrective measures and recalls of dangerous consumer products",
+      "url": "https://www.usp.gv.at/en/themen/brancheninformationen/handel/meldepflicht-bei-rueckrufen.html"
+    },
+    {
+      "title": "Cooley Productwise: The EU's General Product Safety Regulation, new rules for product recalls (7 November 2025)",
+      "url": "https://products.cooley.com/2025/11/07/the-eus-general-product-safety-regulation-new-rules-for-product-recalls/"
+    }
+  ],
+  "body_html": "<p>A recall is what happens when a product already in people's homes turns out to be unsafe. The maker asks owners to stop using it and offers a fix. For a home robot, a smart speaker or a connected appliance, the problem may sit in software as much as in hardware, so it helps to know what a recall should look like and what you can ask for.</p>\n<p>This guide uses the European Union's rules as a worked example, because they spell out recall duties in detail. Other countries have their own rules, but the questions below are useful anywhere.</p>\n<h2>Software is part of the product</h2>\n<p>The EU's main consumer safety law, the General Product Safety Regulation (EU) 2023/988, applies to everyday consumer products. The European Commission's guidance for businesses, published in November 2025, says the definition of a product covers apps and software. It also says makers must think about how software, or a software update, could create a safety risk, and must consider cybersecurity features where they are relevant to safety.</p>\n<p>That matters for connected devices. A faulty update that makes a battery overheat, or a robot behave in a way it should not, is a safety question, not only a technical one.</p>\n<h2>What a recall notice should tell you</h2>\n<p>Under the EU rules, a written recall notice should be headed \"Product safety recall\" and should say, in plain language:</p>\n<ul>\n<li>which product is affected, so you can identify it;</li>\n<li>what the hazard is;</li>\n<li>what you should do, which usually starts with stopping use;</li>\n<li>what remedy you are offered and how to get it.</li>\n</ul>\n<p>Notices must not play the risk down. Words such as \"voluntary\" or \"precautionary\", or saying that no accidents have been reported, are not allowed in an EU recall notice. The EU has a standard template for these notices in Implementing Regulation (EU) 2024/1435.</p>\n<p>If the seller or maker can identify you, for example because you registered the device or bought it online, they should contact you directly and without undue delay. If they cannot, they should use other channels, such as their website and social media.</p>\n<h2>What remedies you can expect</h2>\n<p>The Commission's guidance says that, in an EU recall, people should normally be offered a choice of at least two of these: repair, replacement with a safe product of the same type and at least equal value, or a refund of at least the price paid. Only one may be offered when the others are impossible or disproportionate.</p>\n<ul>\n<li>The remedy should be free and should not cause significant inconvenience. You should not pay shipping or return costs.</li>\n<li>Large products that are hard to move should be collected.</li>\n<li>A maker may ask you to carry out a simple fix yourself, such as installing a software update, only if it is easy and safe, with clear instructions and free parts or software.</li>\n</ul>\n<h2>Five questions to ask about a recall</h2>\n<ol>\n<li><strong>Is my exact model affected?</strong> Check the model and serial or batch number against the notice.</li>\n<li><strong>What should I do right now?</strong> If the notice says stop using it, unplug it or switch it off until it is fixed.</li>\n<li><strong>Is the fix an update?</strong> If so, ask whether it installs automatically, how you can confirm it worked, and what happens if your device is offline.</li>\n<li><strong>Which remedies can I choose?</strong> In the EU you should normally have at least two options.</li>\n<li><strong>How long will the device be supported?</strong> A device that no longer gets security or safety updates may not be fixable later.</li>\n</ol>\n<h2>How to report a problem</h2>\n<p>If you think a product is unsafe, report it to the seller and the maker, and to your national product safety or consumer authority. In the EU, businesses must notify recalls and serious accidents to authorities through an online system called the Safety Business Gateway, and authorities may then publish the alerts on Safety Gate, the EU's public list of dangerous products. Austria's business portal, for example, says businesses must notify as soon as they have identified a risk and decided to recall, and that there are no fees for doing so.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A recall is a test of whether someone answers for a product after it is sold. That is the heart of <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>. It also connects to <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, and <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>: a device can only be fixed if its maker still supports it. For robots that move around people, <a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>, applies too.</p>\n<p>Before you buy, it is worth asking how a maker would tell you about a safety problem and fix it. Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> and its <a href=\"https://humasure.org/security/\">security page</a> can help.</p>\n<p><em>This guide gives general information, not legal advice. Rules differ between countries.</em></p>"
+}

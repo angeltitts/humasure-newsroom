@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-20-zimbabwe-cabinet-approves-national-ai-charter",
+  "type": "news",
+  "slug": "zimbabwe-cabinet-approves-national-ai-charter",
+  "title": "Zimbabwe approves a national AI charter built on transparency and accountability",
+  "excerpt": "Zimbabwe's Cabinet approved a National Artificial Intelligence Charter on 17 November 2026. It sets ethical principles and a complaints route, but its full text is not yet public.",
+  "category": "Regulation",
+  "tags": [
+    "Zimbabwe",
+    "Africa",
+    "AI governance",
+    "AI regulation",
+    "ethics"
+  ],
+  "directives": [
+    "D9",
+    "D8",
+    "D5",
+    "D4"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Ecofin Agency: Zimbabwe approves national AI charter setting ethical standards and frameworks (18 November 2026)",
+      "url": "https://www.ecofinagency.com/news-digital/1811-60927-zimbabwe-approves-national-ai-charter-setting-ethical-standards-and-frameworks"
+    },
+    {
+      "title": "iAfrica: Zimbabwe's Cabinet approves National AI Charter (20 November 2026)",
+      "url": "https://iafrica.com/zimbabwes-cabinet-approves-national-ai-charter/"
+    },
+    {
+      "title": "United Nations in Zimbabwe: Zimbabwe unveils 2026–2030 AI strategy to advance inclusive digital transformation (14 March 2026)",
+      "url": "https://zimbabwe.un.org/en/node/311859"
+    }
+  ],
+  "body_html": "<p>Zimbabwe's Cabinet has approved a National Artificial Intelligence Charter, a set of ethical principles for how AI is researched, built and used in the country. According to reports of the decision, the Cabinet approved it on 17 November 2026. The Cabinet is the group of senior ministers who agree government policy.</p>\n<p>The charter applies to government agencies, private companies, universities, civil society and individual citizens. Its four stated priorities are transparency, accountability, inclusion and AI that is centred on people. Reports say it also calls for AI to respect the Constitution and national values, drawing in part on the Southern African idea of Ubuntu (Unhu in Shona): that a person's wellbeing is tied to the wellbeing of others.</p>\n<h2>What the charter is reported to include</h2>\n<ul>\n<li><strong>Principles.</strong> Transparency and accountability from the people and organisations that build and use AI systems, inclusion, and a focus on people.</li>\n<li><strong>Oversight and coordination.</strong> Mechanisms for strategic oversight of AI and for coordination between public institutions.</li>\n<li><strong>Complaints.</strong> Procedures for handling complaints about how AI is used.</li>\n<li><strong>Personal data.</strong> Existing law continues to apply when AI systems process personal data, namely the Cyber and Data Protection Act of 2021.</li>\n</ul>\n<h2>How it fits with the national AI strategy</h2>\n<p>The charter sits alongside Zimbabwe's National Artificial Intelligence Strategy for 2026 to 2030, which was formally launched in Harare in March 2026. The strategy sets goals for skills, digital infrastructure and the use of AI in areas such as farming, health, mining and public services. Reports describe the charter as turning the strategy's priorities into principles and commitments that will guide how those goals are pursued.</p>\n<p>At the strategy's launch, the United Nations in Zimbabwe urged a legal and ethical framework covering data protection, algorithmic accountability, AI safety, impact assessments for high-risk systems, ways for people to seek redress, and independent oversight. Those were the UN's recommendations; it is not yet known how many of them the charter adopts.</p>\n<h2>What is still unknown</h2>\n<p>The full text of the charter has not been published. Based on the reports available so far, it is not clear:</p>\n<ul>\n<li>whether the charter is legally binding or a policy statement that will guide future laws;</li>\n<li>which body will carry out oversight, and with what powers;</li>\n<li>how a person would make a complaint about an AI system, and what remedy they could get;</li>\n<li>whether there are specific rules for high-risk uses, testing before use, or reporting of problems.</li>\n</ul>\n<p>Humasure will update this story when the text is released.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>Charters like this set the direction before detailed rules arrive. Zimbabwe's emphasis on accountability and a complaints route matches <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>: when an AI system affects someone, a named organisation should answer for it and there should be a way to raise a problem. Its focus on inclusion connects to <a href=\"https://humasure.org/directives/#d8\">Directive 8, Fair treatment</a>, and its link to data protection law connects to <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>. Its emphasis on transparency also relates to <a href=\"https://humasure.org/directives/#d4\">Directive 4, Honest identity</a>.</p>\n<p>Principles matter most when they can be checked. The detail still to come, on oversight, complaints and legal force, will show how far the charter helps people in Zimbabwe stay in charge of the AI systems they meet. Anyone can use Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> in the meantime.</p>"
+}

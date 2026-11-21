@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-21-california-report-ai-emergency-shutdown-auditors",
+  "type": "news",
+  "slug": "california-report-ai-emergency-shutdown-auditors",
+  "title": "California report proposes AI emergency shutdown power and licensed auditors",
+  "excerpt": "A state report released on 18 November 2026 asks California lawmakers to let officials order the shutdown of dangerous frontier AI systems and to require licensed independent audits.",
+  "category": "Regulation",
+  "tags": [
+    "United States",
+    "California",
+    "frontier AI",
+    "AI regulation",
+    "emergency shutdown",
+    "independent audits",
+    "incident reporting"
+  ],
+  "directives": [
+    "D1",
+    "D9",
+    "D6"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "CalMatters: Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+      "url": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/"
+    },
+    {
+      "title": "CASRAI: California Report Urges Mandatory Frontier AI Standards, Independent Verification and Shutdown Powers",
+      "url": "https://casrai.org/news/california-ai-safety-report-ivos-shutdown-calcompute-2026"
+    },
+    {
+      "title": "Baker McKenzie: United States: Emerging Frontier AI Safety Requirements",
+      "url": "https://www.bakermckenzie.com/en/insight/publications/2026/11/united-states-emerging-frontier-ai-safety-requirements"
+    }
+  ],
+  "body_html": "<p>The US state of California has published a set of recommendations that would give state officials the power to order an immediate emergency shutdown of the most powerful AI systems when there is credible evidence of an imminent catastrophic risk. The report, titled <em>AI Safety in 2026 and Beyond</em>, was released on 18 November 2026 by Governor Gavin Newsom's office. It is not law. It is a blueprint for bills that state legislators can introduce when they return to Sacramento on 7 December 2026, <a href=\"https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/\">CalMatters reports</a>.</p>\n<p>The report was prepared by the California Government Operations Agency with the state's Office of Emergency Services and an outside expert panel, in response to an executive order the governor signed in September, according to <a href=\"https://casrai.org/news/california-ai-safety-report-ivos-shutdown-calcompute-2026\">CASRAI's summary</a>. It covers only catastrophic risk, which state law defines as an event that kills more than 50 people or causes more than US$1 billion in theft or damage. It does not deal with issues such as automated discrimination, job losses or children's mental health.</p>\n<h2>What the report recommends</h2>\n<ul>\n<li><strong>Proof of a working off switch.</strong> Each developer of a large frontier AI model would keep a \"risk containment protocol\" and show it can shut its models down in an emergency.</li>\n<li><strong>State shutdown orders.</strong> Officials could order an immediate shutdown on credible evidence of an imminent catastrophic risk or a major loss-of-control event. CASRAI reports that the order would stay in force while a court reviews it, although a developer could ask a court for a temporary restraining order.</li>\n<li><strong>Licensed independent auditors.</strong> The state would license \"independent verification organisations\" to test frontier models against state safety, security and transparency standards, and could revoke those licences. The report also asks lawmakers to consider having the state, rather than the companies, assign auditors to each evaluation.</li>\n<li><strong>Faster incident reports.</strong> The deadline for reporting most critical safety incidents would drop from 15 days to 48 hours, with a separate channel for near misses. The current 15-day window comes from California's Transparency in Frontier Artificial Intelligence Act (SB 53), in force since 1 January 2026, as <a href=\"https://www.bakermckenzie.com/en/insight/publications/2026/11/united-states-emerging-frontier-ai-safety-requirements\">Baker McKenzie notes</a>.</li>\n<li><strong>Wider whistleblower protection.</strong> Protection would extend to contractors and former employees.</li>\n<li><strong>AI that builds AI.</strong> Developers would report how much of their research and development is automated, and the state would gain standby powers to limit that work if it found a risk of catastrophic harm.</li>\n</ul>\n<p>The report also suggests funding CalCompute, a planned public computing resource, through a surcharge on audit fees, with capacity reserved for independent safety research.</p>\n<h2>Reactions and what is still unknown</h2>\n<p>Anthropic, one of the companies the plan would cover, told CalMatters it was \"encouraged\" by the report. Governor-elect Xavier Becerra said he would move quickly to put incident reporting and shutdown authority into law.</p>\n<p>Much remains open. There is no bill text yet. Lawmakers would have to decide the thresholds for an emergency order, the licensing rules for auditors and the size of any surcharge. How a shutdown order would work in practice for a model already used by millions of people is not described in the sources we reviewed. We were unable to open the governor's press release or the full report directly, so this summary relies on the reporting cited below.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>The plan puts two ideas into proposed law that sit at the heart of the <a href=\"https://humasure.org/directives/\">Humasure Directives</a>. The first is that a powerful system must be stoppable, and that a maker should be able to prove it (<a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>). The second is that someone outside the company checks the safety claims and answers for the result (<a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>). Faster incident reporting supports <a href=\"https://humasure.org/directives/#d6\">D6 Secure and supported</a>, because problems that are reported quickly can be fixed quickly.</p>\n<p>The report concerns the largest AI developers, not the chatbots, robots or smart devices people buy. But the questions are the same at every scale: can it be stopped, was it tested by someone independent, and who answers if it goes wrong? Those are the <a href=\"https://humasure.org/questions-to-ask/\">questions anyone can ask a maker</a>.</p>"
+}

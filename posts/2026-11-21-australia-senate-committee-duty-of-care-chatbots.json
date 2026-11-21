@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-21-australia-senate-committee-duty-of-care-chatbots",
+  "type": "news",
+  "slug": "australia-senate-committee-duty-of-care-chatbots",
+  "title": "Australian Senate committee backs online duty of care bill that covers AI chatbots",
+  "excerpt": "A Senate committee has recommended passing Australia's Digital Duty of Care Bill, which would require chatbots and other services to protect children from emotional dependence on AI.",
+  "category": "Regulation",
+  "tags": [
+    "Australia",
+    "Asia-Pacific",
+    "AI chatbots",
+    "AI companions",
+    "children",
+    "online safety",
+    "duty of care"
+  ],
+  "directives": [
+    "D7",
+    "D9",
+    "D5"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Yahoo News Australia (NCA NewsWire): Ultimatum over Labor's social media crackdown",
+      "url": "https://au.news.yahoo.com/ultimatum-over-labor-social-media-055411501.html"
+    },
+    {
+      "title": "The Next Web: Australia moves to ban AI chatbots from 'emotional intimacy' with children",
+      "url": "https://thenextweb.com/news/australia-duty-of-care-bill-ai-chatbots-emotional-intimacy-children"
+    },
+    {
+      "title": "ForkLog: Australian lawmakers back bill to protect children from emotional attachment to chatbots",
+      "url": "https://forklog.com/en/news/australian-lawmakers-back-bill-to-protect-children-from-emotional-attachment-to-chatbots"
+    },
+    {
+      "title": "eSafety Commissioner: AI chatbots and companions, risks to children and young people",
+      "url": "https://www.esafety.gov.au/newsroom/blogs/ai-chatbots-and-companions-risks-to-children-and-young-people"
+    }
+  ],
+  "body_html": "<p>A committee of Australia's Senate, the upper house of the federal parliament, has recommended that the Online Safety Amendment (Digital Duty of Care) Bill 2026 be passed. The Environment and Communications Legislation Committee tabled its report on Friday 20 November 2026, <a href=\"https://au.news.yahoo.com/ultimatum-over-labor-social-media-055411501.html\">NCA NewsWire reports</a>. The bill would put a single legal duty of care on online services, and it now includes rules aimed at AI chatbots that encourage children to become emotionally dependent on them.</p>\n<h2>What the bill would do</h2>\n<p>The bill sets common safety standards for social media, games, apps and chatbots. Services would have to assess the risks they create and take effective steps to reduce them, according to <a href=\"https://forklog.com/en/news/australian-lawmakers-back-bill-to-protect-children-from-emotional-attachment-to-chatbots\">ForkLog</a>. Fines for breaching the general safety duty could reach 109.2 million Australian dollars, and the main requirements would start 12 months after the law receives royal assent, the step that makes a passed bill law.</p>\n<p>The chatbot provisions were added in the House of Representatives on 28 October 2026 through amendments from independent MP Kate Chaney, which the government accepted. As reported by <a href=\"https://thenextweb.com/news/australia-duty-of-care-bill-ai-chatbots-emotional-intimacy-children\">The Next Web</a>, platforms would have to stop material or conduct that \"simulates emotional intimacy and encourages or fosters a child's dependence on it\". The rule applies to users under 18, not to adults who use AI companions. ForkLog notes that the bill does not ban emotional attachment to AI as such, and that the technical methods for spotting and preventing it have not yet been defined.</p>\n<h2>What the committee recommended</h2>\n<p>The committee backed passage \"subject to consideration\" of its recommendations. According to NCA NewsWire, these include amending the bill so that it does not target low-risk websites, such as those of small businesses; creating a civil right of action so individuals can take legal action over breaches of the duty; and a later review of the scheme's effect on online hate and vilification. Opposition Coalition senators dissented. The Greens want stronger measures, including higher fines, and say the bill is listed for Senate debate next week.</p>\n<h2>What is still unknown</h2>\n<p>The bill's final wording is not settled, and it is not yet clear whether the Senate will adopt the committee's amendments. The sources we reviewed do not describe how compliance with the chatbot rule would be measured. We could not open the committee report, the bill text or the government's own pages, so this summary relies on the reporting cited below.</p>\n<p>Australia's online safety regulator, the eSafety Commissioner, has already warned that AI companions can foster dependency and social withdrawal in children, and has urged companies to build in protections from the start using its <a href=\"https://www.esafety.gov.au/newsroom/blogs/ai-chatbots-and-companions-risks-to-children-and-young-people\">Safety by Design principles</a>.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A chatbot designed to make a child feel they need it is working against the user's own judgement. That is the risk covered by <a href=\"https://humasure.org/directives/#d7\">D7 No manipulation</a>: an AI product should not exploit emotions or build dependence to keep someone engaged. A duty of care also makes clear who answers when a service causes harm, which is the idea behind <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>. And because companion chatbots often hold very personal conversations, <a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a> matters too.</p>\n<p>Wherever you live, it is reasonable to ask the maker of any chatbot or AI companion how it protects younger users and who to contact if something goes wrong. Our list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> is a place to start.</p>"
+}

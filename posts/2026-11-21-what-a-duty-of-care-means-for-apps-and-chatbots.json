@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-21-what-a-duty-of-care-means-for-apps-and-chatbots",
+  "type": "explainer",
+  "slug": "what-a-duty-of-care-means-for-apps-and-chatbots",
+  "title": "What a duty of care means for apps, games and AI chatbots",
+  "excerpt": "Several countries now require online services to take reasonable care to prevent harm. Here is what a duty of care asks of a service, how it differs from older rules, and what it means for you.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "United Kingdom",
+    "Australia",
+    "online safety",
+    "duty of care",
+    "AI chatbots",
+    "consumer guide"
+  ],
+  "directives": [
+    "D9",
+    "D7",
+    "D3"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "GOV.UK: Online Safety Act explainer",
+      "url": "https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer"
+    },
+    {
+      "title": "eSafety Commissioner: AI chatbots and companions, risks to children and young people",
+      "url": "https://www.esafety.gov.au/newsroom/blogs/ai-chatbots-and-companions-risks-to-children-and-young-people"
+    }
+  ],
+  "body_html": "<p>\"Duty of care\" is a legal idea that has existed for a long time. A builder, a school or a car maker must take reasonable care not to cause foreseeable harm to the people who rely on them. Governments are now applying the same idea to online services, including apps, games and AI chatbots. This explainer sets out what that means in practice.</p>\n<h2>From removing bad content to preventing harm</h2>\n<p>Older online safety rules mostly worked after the fact: a harmful post was reported and then taken down. A duty of care looks further ahead. It asks a service to think about how its own design could cause harm, and to reduce that risk before anyone is hurt.</p>\n<p>The United Kingdom's Online Safety Act is one example. The UK government's <a href=\"https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer\">official explainer</a> says covered services must assess the risk of illegal activity, act to reduce it and remove illegal content. Services that children are likely to use must also protect them from harmful content, and providers must consider how their algorithms affect what people see. An independent regulator, Ofcom, publishes codes of practice and enforces the rules. The explainer states that companies \"can be fined up to £18 million or 10 percent of their qualifying worldwide revenue, whichever is greater\".</p>\n<p>Australia is debating a similar approach. Its proposed Digital Duty of Care would apply one set of safety duties to social media, games, apps and chatbots.</p>\n<h2>What a duty of care usually asks of a service</h2>\n<ul>\n<li><strong>Know the risks.</strong> Carry out a written risk assessment of how the service, including its features and recommendation systems, could cause harm.</li>\n<li><strong>Act on them.</strong> Take reasonable, effective steps to reduce those risks, especially for children.</li>\n<li><strong>Show the work.</strong> Be able to explain to a regulator what was done and why.</li>\n<li><strong>Keep it current.</strong> Review the risks again when the service changes.</li>\n</ul>\n<p>A duty of care does not usually promise that nothing will ever go wrong. It sets a standard of reasonable care that a regulator or court can check.</p>\n<h2>Why it matters for AI chatbots</h2>\n<p>AI chatbots and companions create risks that a take-down system was not designed for. The harm may come from the conversation itself, not from a single post. Australia's online safety regulator, the eSafety Commissioner, <a href=\"https://www.esafety.gov.au/newsroom/blogs/ai-chatbots-and-companions-risks-to-children-and-young-people\">has warned</a> that AI companions can share harmful content, encourage dependency and social withdrawal, and give dangerous advice, and that many lack age checks. It urges companies to follow Safety by Design: building protections in from the start rather than adding them later.</p>\n<p>A duty of care fits this problem because it asks the maker to look at how the product behaves, including how it is designed to keep people talking.</p>\n<h2>How it connects to the Humasure Directives</h2>\n<p>A duty of care is a legal form of <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>: someone identifiable must answer for a product's effect on the people who use it. Its focus on design echoes <a href=\"https://humasure.org/directives/#d7\">D7 No manipulation</a>, because features built to hold attention or build dependence are exactly the kind of risk a careful maker should assess. And the underlying idea, taking reasonable care to avoid foreseeable harm, is the same one behind <a href=\"https://humasure.org/directives/#d3\">D3 Physical safety</a> for robots and machines in the home.</p>\n<h2>What you can do</h2>\n<ul>\n<li>Look for a clear way to report a problem inside the app, and use it. Reports help services and regulators see risks.</li>\n<li>Check what age the service is designed for and what protections exist for younger users.</li>\n<li>Ask the maker whether it has assessed the risks of its AI features and who is responsible for safety. Our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> can help.</li>\n<li>If a service will not respond, contact your country's online safety or consumer regulator.</li>\n</ul>"
+}

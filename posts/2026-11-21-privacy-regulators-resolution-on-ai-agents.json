@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-21-privacy-regulators-resolution-on-ai-agents",
+  "type": "news",
+  "slug": "privacy-regulators-resolution-on-ai-agents",
+  "title": "Privacy regulators worldwide back safeguards for AI agents, including a way to stop them",
+  "excerpt": "The Global Privacy Assembly, led by Canada's privacy commissioner, adopted a resolution asking for pause and undo functions, logging and human review for AI agents.",
+  "category": "Regulation",
+  "tags": [
+    "global",
+    "Canada",
+    "European Union",
+    "AI agents",
+    "privacy",
+    "human oversight"
+  ],
+  "directives": [
+    "D1",
+    "D2",
+    "D5",
+    "D9",
+    "D4"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Global Privacy Assembly: Resolution on Privacy-protective Agentic AI (PDF)",
+      "url": "https://globalprivacyassembly.com/wp-content/uploads/2026/11/Resolution-on-Privacy-protective-Agentic-AI.pdf"
+    },
+    {
+      "title": "Office of the Privacy Commissioner of Canada: Privacy Commissioner of Canada advances privacy and data protection priorities at the 48th Global Privacy Assembly",
+      "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119/"
+    },
+    {
+      "title": "Juriguide: IA agentique et données des élèves : cinq résolutions",
+      "url": "https://www.juriguide.com/2026/11/20/gpa-2026-cnil-ia-agentique-donnees-eleves-cinq-resolutions/"
+    }
+  ],
+  "body_html": "<p>Data protection and privacy regulators from around the world have adopted a joint resolution on AI agents: AI systems that can plan and carry out tasks, such as using other software tools, on a person's or organisation's behalf. The resolution was adopted at the closed session of the 48th Global Privacy Assembly, held in Brussels from 16 to 18 November 2026, and announced by the Office of the Privacy Commissioner of Canada on 19 November.</p>\n<p>The Global Privacy Assembly is an international forum of data protection and privacy authorities. Its resolutions are not law. They set out shared expectations that its members may draw on in guidance and enforcement in their own countries.</p>\n<h2>Who backed it</h2>\n<p>The resolution was led by Canada's Privacy Commissioner, Philippe Dufresne, who chairs the Assembly. Its sponsors were regulators from Canada, Catalonia, Hong Kong, South Korea, Spain, Switzerland and the United Kingdom. Co-sponsors included regulators from Argentina, France, Germany, Israel, the Isle of Man, two Canadian provinces, the German state of Rhineland-Palatinate and the European Data Protection Supervisor. The US Federal Trade Commission abstained.</p>\n<h2>What it asks of organisations using AI agents</h2>\n<p>The <a href=\"https://globalprivacyassembly.com/wp-content/uploads/2026/11/Resolution-on-Privacy-protective-Agentic-AI.pdf\">resolution</a> recommends that organisations:</p>\n<ul>\n<li>assess privacy impacts before deploying an agent, and audit agents before deployment or purchase;</li>\n<li>limit what an agent may do according to the risk involved, and prefer actions that can be reversed;</li>\n<li>build in points where a human can step in, functions to pause or stop an agent, and ways to undo its actions;</li>\n<li>log an agent's tool use, inputs and outputs from start to finish, and keep its memory separated;</li>\n<li>test agents against attacks and monitor them while they run;</li>\n<li>keep an inventory of approved agents, tools and permissions;</li>\n<li>have a qualified person review decisions that significantly affect people;</li>\n<li>tell people clearly when they are dealing with an agent.</li>\n</ul>\n<p>The resolution states that \"organizations remain accountable for personal data processed through agentic AI systems\". In other words, handing a task to an agent does not hand over responsibility.</p>\n<h2>What happens next</h2>\n<p>The Assembly asked its AI working group to share ways of reducing these risks and to consider future guidance and public awareness material. The Assembly also adopted a separate resolution on AI in education, according to the Canadian regulator and the French legal news site Juriguide. No timetable for further guidance has been published, and it is not known how individual regulators will apply the resolution in their own countries.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>The resolution closely tracks several <a href=\"https://humasure.org/directives/\">Humasure Directives</a>. Pause and stop functions match <a href=\"https://humasure.org/directives/#d1\">D1 Always stoppable</a>. Limiting agents' permissions by risk and preferring reversible actions match <a href=\"https://humasure.org/directives/#d2\">D2 Bounded autonomy</a>. Privacy assessments and separated memory relate to <a href=\"https://humasure.org/directives/#d5\">D5 Private by default</a>. Logging and clear responsibility relate to <a href=\"https://humasure.org/directives/#d9\">D9 Accountable</a>, and telling people they are dealing with an agent is <a href=\"https://humasure.org/directives/#d4\">D4 Honest identity</a>.</p>\n<p>When regulators in many countries ask for the same basic safeguards, people get a clearer idea of what to expect from any AI agent they use. For questions to put to the maker of an AI product, see <a href=\"https://humasure.org/questions-to-ask/\">Humasure's questions to ask</a>.</p>"
+}

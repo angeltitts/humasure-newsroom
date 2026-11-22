@@ -1,0 +1,10 @@
+Privacy regulators worldwide back safeguards for AI agents, including a way to stop them
+
+The Global Privacy Assembly, led by Canada's privacy commissioner, adopted a resolution asking for pause and undo functions, logging and human review for AI agents.
+
+Why it matters: D1 Always stoppable, D2 Bounded autonomy, D5 Private by default.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Global Privacy Assembly; Office of the Privacy Commissioner of Canada; Juriguide.
+
+#HumanInCharge #AISafety #RobotSafety #AIRegulation

@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-22-ai-inference-providers-prompts-exposed-canary-test",
+  "type": "news",
+  "slug": "ai-inference-providers-prompts-exposed-canary-test",
+  "title": "Researcher's decoy test finds AI prompts copied and kept by inference providers",
+  "excerpt": "A two-million-prompt decoy test reported data exposed at three AI providers, even for some 'zero data retention' requests. One routing service has removed three providers.",
+  "category": "News",
+  "tags": [
+    "global",
+    "United States",
+    "security",
+    "privacy",
+    "AI supply chain",
+    "AI agents"
+  ],
+  "directives": [
+    "D5",
+    "D6",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "Dragos: Three breaches, endless leaks: Your AI supply chain needs canaries",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+    },
+    {
+      "title": "Unite.AI: OpenRouter cuts three providers after AI prompt exposure findings",
+      "url": "https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/"
+    }
+  ],
+  "body_html": "<p>A security researcher has reported that customer prompts sent to several AI inference providers, the companies that run AI models for other businesses, were copied, kept or passed on in ways customers did not expect. In some cases this happened even when requests were marked for zero data retention. The findings were published on 19 November 2026 by the industrial cybersecurity company Dragos. A widely used AI routing service, OpenRouter, has since removed three providers from its platform.</p>\n\n<h2>What happened</h2>\n<p>According to <a href=\"https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens\">Dragos</a>, its team sent about two million test prompts to widely used AI services between July and November 2026. Each prompt carried a unique web address or a decoy credential, known as a canary, that does nothing except raise an alarm if someone uses it. The team then watched for any use of those canaries after the model had answered.</p>\n<p>Dragos reports that data from at least three AI providers was exposed and that its seeded prompts were later used in attempts to reach its test systems and decoy cloud accounts. \"The most serious finding was also the most direct,\" the company wrote. In the largest case, the stolen material included a couple of hundred decoy cloud keys, each sent once to one provider during a few short windows in late October. Some came from requests the provider had rejected before any model ran. In the other two cases, some of the stolen requests had been marked for zero data retention.</p>\n<p>Dragos says the earliest incident began in mid-July and that none of the three providers knew about its breach until Dragos told them. It also reports that resellers on one AI inference marketplace could see and keep customer prompts through ordinary logging, with no hacking needed, and that some prompts sent to US-based providers reached AI organisations in China.</p>\n<h2>The response so far</h2>\n<p>According to <a href=\"https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/\">Unite.AI</a>, OpenRouter, which passes customer requests on to many model providers, removed three inference providers and took 125 endpoints off its list of zero data retention options. The company said the findings did not show a breach of OpenRouter itself. Unite.AI also reports that several providers have published their own notices describing what went wrong on their side.</p>\n\n<h2>What is still unknown</h2>\n<ul>\n<li>Who was behind the breaches, and how far each one reached.</li>\n<li>How many real customer prompts, as opposed to test prompts, were exposed, and what they contained.</li>\n<li>Whether the providers' own investigations will confirm every finding.</li>\n<li>Whether stolen credentials or links are still being used.</li>\n</ul>\n<p>Humasure has not been able to open the providers' own notices directly, so this story relies on the researcher's report and on news coverage of the company statements.</p>\n\n<h2>Why it matters for people staying in charge</h2>\n<p>More and more apps, chat assistants and AI agents pass what people type to an AI model run by someone else, sometimes through several companies in a row. The person typing rarely sees that chain. When a promise like \"we do not keep your data\" is not kept somewhere along it, the person who trusted it has no way to know.</p>\n<p>This is covered by <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>: data should be kept only as long as needed and used only as promised. <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, asks makers to protect systems against attack and to find problems quickly. <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks that someone clearly answers when things go wrong, including for suppliers further down the chain.</p>\n<p>Testing like this is one reason independent checks matter. The finding came from an outside researcher planting decoys, not from the providers' own monitoring.</p>\n\n<h2>Questions to ask any maker</h2>\n<ul>\n<li>Which outside companies run the AI behind this product, and in which countries?</li>\n<li>Do your suppliers keep what I type? For how long, and how do you check that they keep their promises?</li>\n<li>Can I choose not to have my data sent to further providers?</li>\n<li>How will you tell me if a supplier mishandles my data?</li>\n<li>Should I avoid sharing passwords, keys or other secrets with this assistant or agent?</li>\n</ul>\n<p>More questions are on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page, and our <a href=\"https://humasure.org/security/\">security</a> page explains why security is part of staying in charge.</p>"
+}

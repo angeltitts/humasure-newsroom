@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-22-human-in-the-loop-or-on-the-loop",
+  "type": "explainer",
+  "slug": "human-in-the-loop-or-on-the-loop",
+  "title": "Human in the loop or on the loop: what AI oversight terms really mean",
+  "excerpt": "'Human in the loop' is everywhere, but it can mean very different things. Here is how the common oversight terms differ and what to ask about them.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "European Union",
+    "Australia",
+    "human oversight",
+    "AI agents",
+    "EU AI Act",
+    "explainer"
+  ],
+  "directives": [
+    "D1",
+    "D2",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "European Commission AI Act Service Desk: Article 14, Human oversight",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14"
+    },
+    {
+      "title": "Australian Government, digital.gov.au: AI agentic addendum, key terms",
+      "url": "https://www.digital.gov.au/policy/ai/ai-agentic-addendum-key-terms"
+    }
+  ],
+  "body_html": "<p>Makers of AI products and robots often say there is \"a human in the loop\". Governments and regulators use the phrase too. But it can describe very different arrangements, from a person approving every single action to a person who could, in theory, step in after the fact. Knowing the difference helps you judge how much control you really keep.</p>\n<h2>Three common terms</h2>\n<p>The Australian Government's key terms for AI agents, published on digital.gov.au, give clear short definitions:</p>\n<ul>\n<li><strong>Human in the loop:</strong> a person takes an active part in each decision. In the government's words, \"a human will review inputs and outputs and make the final decision.\"</li>\n<li><strong>Human on the loop:</strong> the system runs on its own, while a person supervises it overall and steps in when needed.</li>\n<li><strong>Human out of the loop:</strong> the system works fully on its own and makes decisions without any human involvement.</li>\n</ul>\n<p>The same page describes human oversight more broadly as the ways people are kept involved in supervising, approving or auditing what AI does, so that someone stays accountable and the system stays safe.</p>\n<h2>What the EU AI Act asks for</h2>\n<p>The European Union's AI Act does not use these labels, but its Article 14 sets out what human oversight must make possible for AI systems classed as high-risk. The people assigned to oversee such a system must be able, as appropriate, to:</p>\n<ul>\n<li>understand what the system can and cannot do, and notice when it behaves unexpectedly;</li>\n<li>stay alert to \"automation bias\", the habit of trusting a machine's output too readily;</li>\n<li>interpret its output correctly;</li>\n<li>decide not to use it, or ignore, override or reverse what it produces;</li>\n<li>interrupt it with a stop button or similar procedure that brings it to a halt in a safe state.</li>\n</ul>\n<p>Article 14 also says the level of oversight should match the system's risks, how independently it acts and where it is used. For remote identification of people by their faces or other body features, it generally requires two trained people to check a match separately before anyone acts on it.</p>\n<h2>Why the label is not enough</h2>\n<p>A person \"in the loop\" who has seconds to approve hundreds of requests, cannot see why the AI made a suggestion, or has no power to say no, is not really in charge. A person \"on the loop\" can only help if they are alerted in time and the system can actually be stopped. Oversight works when the human has information, time, authority and a working way to intervene.</p>\n<p>This is the idea behind Humasure's first two Directives: an AI product or robot should be <a href=\"https://humasure.org/directives/#d1\">always stoppable</a> and should act only within <a href=\"https://humasure.org/directives/#d2\">clear, bounded limits</a>. And whatever the arrangement, someone must <a href=\"https://humasure.org/directives/#d9\">answer for it</a>.</p>\n<h2>Questions to ask</h2>\n<ul>\n<li>Which actions does this product take on its own, and which need my approval first?</li>\n<li>If I am supervising rather than approving, how will I find out that something has gone wrong, and how quickly?</li>\n<li>How do I stop it, and what state does it stop in?</li>\n<li>Can I undo or reverse what it did?</li>\n<li>Who is responsible if it acts without my approval?</li>\n</ul>\n<p>More questions are on our page of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a>.</p>"
+}

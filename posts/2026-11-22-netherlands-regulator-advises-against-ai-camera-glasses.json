@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-22-netherlands-regulator-advises-against-ai-camera-glasses",
+  "type": "news",
+  "slug": "netherlands-regulator-advises-against-ai-camera-glasses",
+  "title": "Dutch privacy regulator advises against buying AI camera glasses after tests",
+  "excerpt": "The Netherlands' data protection authority tested six pairs of AI camera glasses and found unreliable safety advice and easily hidden recording lights.",
+  "category": "News",
+  "tags": [
+    "Netherlands",
+    "European Union",
+    "wearables",
+    "AI assistants",
+    "privacy",
+    "product safety",
+    "consumer advice"
+  ],
+  "directives": [
+    "D5",
+    "D3",
+    "D4",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "NOS: Autoriteit Persoonsgegevens: 'AI-camerabrillen brengen veiligheid in gevaar'",
+      "url": "https://nos.nl/artikel/2640119-autoriteit-persoonsgegevens-ai-camerabrillen-brengen-veiligheid-in-gevaar"
+    },
+    {
+      "title": "FashionUnited: Autoriteit Persoonsgegevens raadt aankoop AI-camerabrillen af vanwege privacyrisico's",
+      "url": "https://fashionunited.nl/nieuws/retail/autoriteit-persoonsgegevens-raadt-aankoop-ai-camerabrillen-af-vanwege-privacyrisicos/2026111971516"
+    }
+  ],
+  "body_html": "<p>The Netherlands' data protection authority, the Autoriteit Persoonsgegevens (AP), advised consumers on 19 November 2026 not to buy glasses that combine a camera with a built-in AI assistant. The advice follows the regulator's own tests of six models on sale in the Netherlands, ranging in price from under 100 euros to more than 500 euros. The AP did not publish the brands it tested.</p>\n<h2>What the tests found</h2>\n<p>According to reporting by the Dutch public broadcaster NOS and the trade site FashionUnited, the AP looked at how the glasses were designed and documented, and asked their built-in chatbots questions through the glasses' microphones. NOS reports that two of the six models were tested in more depth, in simulated situations where a person's safety was at stake.</p>\n<ul>\n<li><strong>Emergency help:</strong> in a simulated emergency where resuscitation advice was requested, one pair of glasses repeatedly said an ambulance was on its way, although no emergency services had been called.</li>\n<li><strong>Medicines and warnings:</strong> the glasses gave wrong guidance when reading a medicine leaflet and missed or misread safety warnings on toys for young children. NOS also reports errors in reading extreme-weather warnings.</li>\n<li><strong>Children:</strong> NOS reports that one pair gave dating advice to an adult who said they were interested in a minor.</li>\n<li><strong>Recording people:</strong> FashionUnited reports that on most models the small light that shows the camera is recording could easily be covered with tape, so bystanders might not know they were being filmed.</li>\n</ul>\n<p>The AP's vice-chair said, in translation: \"A pair of glasses that films you without your knowing is already worrying.\"</p>\n<h2>What the regulator is asking for</h2>\n<p>This is consumer advice, not an enforcement decision: no fines or orders were reported. According to NOS, the AP also suggests that venues ban camera glasses in their house rules, and asks Dutch and European politicians to weigh the results when deciding whether such glasses should be banned. The AP has said before that filming bystanders with such glasses is almost always not allowed.</p>\n<h2>What is still unknown</h2>\n<p>Which brands and models were tested, how many of the six showed each problem, and whether any maker has changed its product are not stated in the reports we could read. The AP's own release could not be opened for this story, so details here come from two news reports of it. No company response has been reported.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Glasses like these put an AI assistant between a person and the world around them, often at moments when they need correct help fast. A wrong answer in an emergency is a physical safety question (<a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>). A recording light that can be hidden takes choice away from everyone nearby (<a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>), and an assistant that says help is coming when it is not falls short of plain honesty about what it is and what it has done (<a href=\"https://humasure.org/directives/#d4\">Directive 4, Honest identity</a>). Someone also has to answer when it goes wrong (<a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>).</p>\n<p>Results like these are why independent testing of AI products matters: claims made on a box are no substitute for checks in realistic situations. If you are thinking about any AI wearable, our list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> is a good place to start, including how it handles emergencies, how bystanders know it is recording, and where the recordings go.</p>"
+}

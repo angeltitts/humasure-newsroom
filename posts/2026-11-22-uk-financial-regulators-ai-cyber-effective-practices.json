@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-22-uk-financial-regulators-ai-cyber-effective-practices",
+  "type": "news",
+  "slug": "uk-financial-regulators-ai-cyber-effective-practices",
+  "title": "UK financial regulators set out how firms should keep AI systems secure",
+  "excerpt": "The Bank of England, PRA and FCA published non-binding 'effective practices' on AI cyber risk, covering AI agents, human oversight and containment.",
+  "category": "Regulation",
+  "tags": [
+    "United Kingdom",
+    "finance",
+    "security",
+    "AI agents",
+    "human oversight",
+    "cyber resilience"
+  ],
+  "directives": [
+    "D6",
+    "D1",
+    "D2",
+    "D9"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Bank of England: Effective practices: Cyber risk and resilience management relating to artificial intelligence",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence"
+    },
+    {
+      "title": "Bank of England: Cyber resilience guidance consultation and AI and quantum effective practices",
+      "url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices"
+    },
+    {
+      "title": "ITV News: Financial regulators clarify cyber resilience expectations as threats grow",
+      "url": "https://www.itv.com/news/2026-11-18/financial-regulators-clarify-cyber-resilience-expectations-as-threats-grow"
+    }
+  ],
+  "body_html": "<p>The United Kingdom's three main financial regulators published guidance on 19 November 2026 on how banks, insurers and other financial firms should manage the cyber risks that come with artificial intelligence. The Bank of England, the Prudential Regulation Authority (PRA, which supervises the safety of banks and insurers) and the Financial Conduct Authority (FCA, which oversees how firms treat customers and markets) issued the paper together.</p>\n<h2>What was published</h2>\n<p>There are two parts. The first is proposed guidance on cyber risk and resilience for financial firms in general, open for comment until 26 February 2027. The regulators describe it as bringing existing requirements together rather than adding new rules. The second is a set of \"effective practices\" on AI, plus a similar paper on quantum computing. The AI paper says plainly that these practices are not part of the regulators' formal expectations: they describe good practice, they are not binding rules.</p>\n<p>The regulators gave a reason for acting now: October 2026 saw the second-highest monthly number of cyber incidents reported to the FCA in five years.</p>\n<h2>What the AI practices cover</h2>\n<ul>\n<li><strong>AI agents are identities too.</strong> Firms are encouraged to watch their exposure continuously rather than in periodic checks, including AI-specific weak points such as the memory and tool connections that agents use, and to treat AI agents as identities whose access must be managed.</li>\n<li><strong>People stay responsible.</strong> AI outputs need checking, and automation should support human judgement on key decisions rather than replace it. Where AI finds security problems, people should review and retest the findings.</li>\n<li><strong>Know your AI supply chain.</strong> Firms should record which AI tools they depend on, including openly published models and AI built into suppliers' services, and consider contract terms that require suppliers to disclose embedded AI and give prompt notice of changes.</li>\n<li><strong>Build securely.</strong> Threat modelling should include attempts to trick AI with crafted instructions, known as prompt injection and jailbreaking, and code written by AI should be checked.</li>\n<li><strong>Be ready to contain.</strong> Firms should limit each system to the access it needs and plan in advance how to quickly isolate a part that has been compromised.</li>\n</ul>\n<h2>Why it matters for staying in charge</h2>\n<p>Banks are among the first organisations to let AI agents take actions on real accounts and systems. The paper's emphasis on human judgement, limited access and a prepared way to isolate a system matches what people need from any AI that acts for them: it should stay within set limits (<a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>), be possible to stop (<a href=\"https://humasure.org/directives/#d1\">Directive 1</a>), be kept secure and supported (<a href=\"https://humasure.org/directives/#d6\">Directive 6</a>), and have someone who answers for it (<a href=\"https://humasure.org/directives/#d9\">Directive 9</a>). A hacked robot, or a hacked AI agent, is one nobody is in charge of.</p>\n<p>Because the AI practices are voluntary, it is not yet known how widely firms will adopt them, or whether any will later become formal expectations. Feedback on the wider guidance will shape a final version expected in 2027. More on why security is part of staying in charge is on our <a href=\"https://humasure.org/security/\">security page</a>.</p>"
+}

@@ -1,0 +1,10 @@
+UK financial regulators set out how firms should keep AI systems secure
+
+The Bank of England, PRA and FCA published non-binding 'effective practices' on AI cyber risk, covering AI agents, human oversight and containment.
+
+Why it matters: D6 Secure and supported, D1 Always stoppable, D2 Bounded autonomy.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Bank of England; Bank of England; ITV News.
+
+#HumanInCharge #AISafety #RobotSafety #AIRegulation #UnitedKingdom

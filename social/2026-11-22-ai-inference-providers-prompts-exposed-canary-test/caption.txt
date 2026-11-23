@@ -1,0 +1,10 @@
+Researcher's decoy test finds AI prompts copied and kept by inference providers
+
+A two-million-prompt decoy test reported data exposed at three AI providers, even for some 'zero data retention' requests. One routing service has removed three providers.
+
+Why it matters: D5 Private by default, D6 Secure and supported, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Dragos; Unite.AI.
+
+#HumanInCharge #AISafety #RobotSafety

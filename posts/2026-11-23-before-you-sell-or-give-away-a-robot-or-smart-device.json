@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-23-before-you-sell-or-give-away-a-robot-or-smart-device",
+ "type": "guide",
+ "slug": "before-you-sell-or-give-away-a-robot-or-smart-device",
+ "title": "Before you sell, give away or recycle a robot or smart device: a checklist",
+ "excerpt": "A home robot or smart speaker can hold your Wi-Fi password, maps of your home and access to your accounts. Here is how to hand one on safely, and what to do if you buy one used.",
+ "category": "Explainers",
+ "tags": [
+  "global",
+  "United Kingdom",
+  "United States",
+  "privacy",
+  "security",
+  "connected devices",
+  "home robots",
+  "guide"
+ ],
+ "directives": [
+  "D5",
+  "D10",
+  "D6",
+  "D1"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "UK National Cyber Security Centre: Buying, selling and donating second-hand devices",
+   "url": "https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices"
+  },
+  {
+   "title": "UK National Cyber Security Centre: Smart devices: using them safely in your home",
+   "url": "https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home"
+  },
+  {
+   "title": "US Federal Trade Commission, Consumer Advice: Buying or selling a “smart” home? Read this.",
+   "url": "https://consumer.ftc.gov/consumer-alerts/2018/01/buying-or-selling-smart-home-read"
+  }
+ ],
+ "body_html": "<p>Robots and smart devices can hold a lot of information about the homes they live in: Wi-Fi passwords, links to your accounts and other devices, and, depending on the product, recordings or maps of your rooms. When you sell one, give it away or send it for recycling, that information can go with it unless you remove it first.</p>\n<p>This guide brings together advice from two government bodies: the UK's National Cyber Security Centre (NCSC), the country's lead agency for cyber security, and the US Federal Trade Commission (FTC), which protects consumers. The steps apply wherever you live, though the exact menu names will differ from one device to another.</p>\n<h2>Before you hand it on</h2>\n<ol>\n<li><strong>Make a list.</strong> Write down every connected device you are passing on, and the accounts and apps each one uses. The FTC notes that some smart devices, such as light bulbs or security systems, are easy to overlook. Leave the manuals with the device if you have them.</li>\n<li><strong>Back up what you want to keep.</strong> A reset deletes everything, so save any photos, recordings or settings you need first.</li>\n<li><strong>Check you can still control your other devices.</strong> If a phone or tablet you are selling is the one you use to run your cameras, thermostat or robot, make sure you can manage them from another device before you erase it. The NCSC gives the same advice for phones that receive security codes by text message.</li>\n<li><strong>Remove your access.</strong> Sign out of your accounts on the device, and remove the device from the maker's app or your online account. The FTC advises sellers to remove administrative access and personal information, and to cancel or change account settings and logins.</li>\n<li><strong>Do a full factory reset.</strong> Look for \"factory reset\" or \"erase all content and settings\" in the device's settings, or follow the maker's instructions. The NCSC's smart devices guidance says a factory reset returns a device to its original settings and should remove your personal data. If you are offered an option to keep your personal files, do not choose it when the device is leaving your home.</li>\n</ol>\n<p>In the NCSC's words, \"you should erase all of this personal data so it doesn't fall into the wrong hands.\"</p>\n<h2>If the data must never be recovered</h2>\n<p>The NCSC points out that a determined expert with specialist tools may still be able to recover some data after a reset. If a device held something that must never be recovered, the NCSC's separate guidance on secure sanitisation of storage media covers stronger options.</p>\n<h2>If you buy or receive a used device</h2>\n<ul>\n<li><strong>Check it is still supported.</strong> The NCSC advises avoiding devices that no longer get security updates, or will stop soon. Its smart devices guidance suggests treating the support end date as a \"use by\" date. In the UK, makers of most consumer smart devices must now state how long they will provide security updates.</li>\n<li><strong>Reset it yourself.</strong> Both the NCSC and the FTC advise a fresh factory reset when you receive a used device, so the previous owner's data and access are removed.</li>\n<li><strong>Set it up as your own.</strong> Create your own account, set a strong password, turn on two-step verification if it is offered, and change any default password.</li>\n<li><strong>Update it straight away</strong> and turn on automatic updates if you can. The FTC notes that critical security updates may be waiting.</li>\n<li><strong>Review the privacy settings</strong> on the device and on the phone app that controls it. Switch off remote access if you do not need it.</li>\n</ul>\n<h2>Why this matters for staying in charge</h2>\n<p>Handing a device on is part of its life, and it is when old access can linger without anyone noticing. Humasure's <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, covers the full journey of a product, including resale and disposal. <a href=\"https://humasure.org/directives/#d5\">Directive 5, Private by default</a>, asks that personal data be easy to find and remove. <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, is about devices getting updates for a clearly stated period.</p>\n<p>It also connects to <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>: if a former owner's account can still reach a camera or a robot, the new owner is not fully in charge of it. A clean reset puts control back with the person who now lives with the device.</p>\n<p>Good products make these steps simple: a clear reset option, a way to remove a device from your account, and a stated support period. These are fair questions to ask before you buy. Our <a href=\"https://humasure.org/security/\">security page</a> has more on keeping connected devices in your control.</p>"
+}

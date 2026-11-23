@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-23-us-niosh-asks-how-to-keep-workers-safe-around-humanoids",
+  "type": "news",
+  "slug": "us-niosh-asks-how-to-keep-workers-safe-around-humanoids",
+  "title": "US worker safety institute asks how to keep people safe around humanoid robots",
+  "excerpt": "NIOSH, the US federal worker safety research institute, is asking the public which research on humanoid robots at work should come first. Comments are open until late February 2027.",
+  "category": "News",
+  "tags": [
+    "United States",
+    "humanoid robots",
+    "workplace robots",
+    "AI at work",
+    "robot safety",
+    "consultation"
+  ],
+  "directives": [
+    "D3",
+    "D1",
+    "D2",
+    "D10"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Occupational Health & Safety: NIOSH asks for input on keeping workers safe around humanoid robots",
+      "url": "https://ohsonline.com/articles/2026/11/23/niosh-asks-for-input-on-keeping-workers-safe-around-humanoid-robots.aspx"
+    },
+    {
+      "title": "CASRAI: NIOSH RFI on occupational robotics research",
+      "url": "https://casrai.org/news/niosh-rfi-center-for-occupational-robotics-research-2026"
+    },
+    {
+      "title": "US CDC / NIOSH: Center for Occupational Robotics Research",
+      "url": "https://cdc.gov/niosh/centers/robotics.html"
+    }
+  ],
+  "body_html": "<p>The United States' federal research institute for worker safety wants to hear which questions about humanoid robots at work it should study first. The National Institute for Occupational Safety and Health (NIOSH), part of the Centers for Disease Control and Prevention, published a request for information in the US Federal Register on 23 November 2026.</p>\n<p>The notice is for information only. It does not propose new rules or policies. NIOSH, unlike the workplace regulator OSHA, does research and makes recommendations rather than enforcing the law.</p>\n<h2>Why humanoids, and why now</h2>\n<p>As reported by Occupational Health &amp; Safety, NIOSH describes humanoid robots as machines that may walk on two legs or move in other human-like ways, handle objects, sense their surroundings, and work either remotely or on their own, with software that can be updated or can adapt. The agency says these features raise questions that experience with fixed industrial robots does not fully answer.</p>\n<p>That gap is familiar. Traditional factory robots are often kept apart from people by fences or marked zones. A humanoid is designed to work in spaces built for people, beside them.</p>\n<h2>What NIOSH is asking</h2>\n<p>The two reports we read summarise the questions in slightly different words. Together they cover:</p>\n<ul>\n<li>which tasks humanoids could do, and how their safety benefits and risks compare with other kinds of robot;</li>\n<li>how working beside them could affect people, including trust, workload, stress and awareness of what is happening around them;</li>\n<li>which hazards deserve most attention, such as failures, pinch points, impacts and near misses;</li>\n<li>how to test safety under realistic working conditions, for example balance, sensor reliability and avoiding collisions;</li>\n<li>which design features and controls to prioritise, including emergency stops and fail-safe behaviour;</li>\n<li>training and safety culture, sensors and wearable monitors, and the role of voluntary standards.</li>\n</ul>\n<h2>How to respond</h2>\n<p>Comments are open for 90 days, until late February 2027 (the reports give 21 and 22 February). They go through the US government's regulations.gov portal under docket CDC-2026-1882, or by post to the NIOSH Docket Office. Email is not accepted, and comments are published as received, including any personal details, so leave those out.</p>\n<p>The request comes from the NIOSH Center for Occupational Robotics Research, which the agency set up in September 2017.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>A robot that balances on two legs may fall if its power is simply cut. That makes the questions NIOSH is asking about stopping and fail-safe design central to <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>, and <a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>. Clear limits on which tasks a humanoid takes on support <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>, and software that keeps changing after delivery is why <a href=\"https://humasure.org/directives/#d10\">Directive 10, Safe for its whole life</a>, matters.</p>\n<p>Research agendas shape the standards and guidance that follow. If you work with robots, or expect to, this is a chance to say what you think should be studied. Our page on <a href=\"https://humasure.org/ai-at-work/\">AI and robots at work</a> lists questions workers can ask today.</p>"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-23-singapore-cyber-exercise-ai-agent-swarm",
+  "type": "news",
+  "slug": "singapore-cyber-exercise-ai-agent-swarm",
+  "title": "Singapore cyber exercise tests defences against a swarm of AI agents for the first time",
+  "excerpt": "Singapore's national critical infrastructure exercise simulated a coordinated AI agent attack and trialled a fully AI-run defence team. No results have been published yet.",
+  "category": "News",
+  "tags": [
+    "Singapore",
+    "Asia-Pacific",
+    "security",
+    "AI agents",
+    "critical infrastructure",
+    "cyber exercises"
+  ],
+  "directives": [
+    "D6",
+    "D2",
+    "D1",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Singapore Ministry of Defence: National cyber defence exercise strengthens cyber defenders' understanding of large-scale AI-enabled threats",
+      "url": "https://www.mindef.gov.sg/news-and-events/latest-releases/19nov26-nr/"
+    },
+    {
+      "title": "Little Big Red Dot: Singapore's CIDeX 2026 cyber exercise tests an AI agent swarm attack for the first time",
+      "url": "https://littlebigreddot.com/cidex-2026-ai-agent-swarm-cyber-defence-exercise/"
+    }
+  ],
+  "body_html": "<p>Singapore has run its national cyber defence exercise with a new kind of attacker: a coordinated group of AI agents. The Critical Infrastructure Defence Exercise (CIDeX) ran from 17 to 20 November 2026 at the Singapore Institute of Technology, according to the Ministry of Defence.</p>\n<p>The exercise, now in its fifth year, is co-organised by the Digital and Intelligence Service (the Singapore Armed Forces' digital and cyber service) and the Cyber Security Agency of Singapore. The ministry said it involved more than 250 participants from those two bodies and 44 other organisations.</p>\n<h2>What was tested</h2>\n<p>Defenders protect practice networks, called testbeds, that mirror systems in Singapore's 11 critical information infrastructure sectors: government, infocomm, energy, aviation, maritime, land transport, healthcare, banking and finance, water, security and emergency, and media. Both office IT and operational technology, the systems that run physical equipment, are included. This year added aviation and healthcare testbeds.</p>\n<p>For the first time, the ministry said, a \"swarm\" of AI agents tried to disrupt the testbeds at the same time and at speed, to simulate a large-scale AI-enabled attack. Participants were also given AI-enabled tools to become familiar with them.</p>\n<p>The Digital and Intelligence Service also trialled what it calls a fully agentic AI Blue Team, meant to respond at machine speed and scale. It was developed in-house by the Singapore Armed Forces' Cyber Defence Test and Experimentation Centre. Brigadier-General Clarence Cai, the Defence Cyber Chief, was quoted as saying: <em>\"we trialled a fully agentic Blue Team for the first time\"</em>. Minister of State for Defence Desmond Choo visited the exercise.</p>\n<h2>What is not yet known</h2>\n<ul>\n<li>No results have been published, so it is not known how the AI defenders performed against the AI attackers, or against human teams.</li>\n<li>The ministry's release does not describe how people supervised the AI Blue Team, what it was allowed to do on its own, or how it could be stopped.</li>\n<li>It is not known whether lessons from the trial will be shared with the operators of the 11 sectors, or turned into guidance.</li>\n</ul>\n<h2>Why it matters for staying in charge</h2>\n<p>Exercises like this are how defenders learn before a real attack. Testing defences against attacks run by AI agents, before they happen at scale, is a practical step. It supports <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>: a hacked system is one nobody is in charge of.</p>\n<p>AI defenders that act at machine speed raise their own questions. What may they change without asking a person? Who reviews their actions afterwards, and can they be paused at once? Those are the questions behind <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>, <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>, and <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>. They apply to AI tools that defend networks as much as to the AI agents people use at home and at work. More on this on our <a href=\"https://humasure.org/security/\">security page</a>.</p>"
+}

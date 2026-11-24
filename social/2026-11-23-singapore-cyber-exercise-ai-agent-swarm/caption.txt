@@ -1,0 +1,10 @@
+Singapore cyber exercise tests defences against a swarm of AI agents for the first time
+
+Singapore's national critical infrastructure exercise simulated a coordinated AI agent attack and trialled a fully AI-run defence team. No results have been published yet.
+
+Why it matters: D6 Secure and supported, D2 Bounded autonomy, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Singapore Ministry of Defence; Little Big Red Dot.
+
+#HumanInCharge #AISafety #RobotSafety #Singapore

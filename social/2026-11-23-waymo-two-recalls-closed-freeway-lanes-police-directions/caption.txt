@@ -1,0 +1,10 @@
+Waymo files two recalls over closed freeway lanes and police hand directions
+
+Waymo has told US safety regulators about two software recalls: one for cars that may drive into closed freeway lanes, one for responding to officers directing traffic.
+
+Why it matters: D2 Bounded autonomy, D3 Physical safety, D10 Safe for its whole life.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Claims Journal (Reuters); Fox Business via Yahoo News.
+
+#HumanInCharge #AISafety #RobotSafety #UnitedStates

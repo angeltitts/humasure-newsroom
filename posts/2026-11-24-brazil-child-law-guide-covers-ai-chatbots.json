@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-24-brazil-child-law-guide-covers-ai-chatbots",
+ "type": "news",
+ "slug": "brazil-child-law-guide-covers-ai-chatbots",
+ "title": "Brazil's child online safety guide treats AI chatbots as likely used by children",
+ "excerpt": "Guidance from Brazil's data protection authority on the country's Digital Statute of Children and Adolescents presumes that generative AI chatbots and games are likely to be used by under-18s.",
+ "category": "Regulation",
+ "tags": [
+  "Brazil",
+  "Latin America",
+  "children",
+  "AI chatbots",
+  "age assurance",
+  "online safety"
+ ],
+ "directives": [
+  "D5",
+  "D7",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": false,
+ "sources": [
+  {
+   "title": "Infobae: Brasil incluyó a chatbots de IA, juegos y tiendas de apps entre los servicios sujetos a su ley infantil",
+   "url": "https://www.infobae.com/tecno/2026/11/21/brasil-incluyo-a-chatbots-de-ia-juegos-y-tiendas-de-apps-entre-los-servicios-sujetos-a-su-ley-infantil/"
+  },
+  {
+   "title": "ANPD (Brazil): Eca Digital (English)",
+   "url": "https://www.gov.br/anpd/pt-br/assuntos/eca-digital/eca-digital-english"
+  },
+  {
+   "title": "Trench Rossi Watanabe: Public consultation by ANPD regarding the guidance on the Digital ECA",
+   "url": "https://www.trenchrossi.com/en/legal-alerts/public-consultation-tomada-de-subsidios-by-anpd-regarding-the-guidance-on-the-digital-eca/"
+  }
+ ],
+ "body_html": "<p>Brazil's National Data Protection Authority (ANPD) has published guidance saying that generative AI chatbots, along with games, app stores and social networks, should generally be treated as services likely to be used by children and teenagers under the country's new child online safety law.</p>\n<p>The guidance explains who must follow the Digital Statute of Children and Adolescents, known in Brazil as the \"ECA Digital\" (Law 15.211 of 17 September 2025). The law came into force on 17 March 2026 and is regulated by Decree 12.880 of 18 March 2026, according to the ANPD's English-language information page. The ANPD, which was made a regulatory agency by a law of 25 February 2026, oversees how the statute is applied.</p>\n<h2>What the guidance says</h2>\n<p>Brazil's law protects under-18s on services they are \"likely to access\", not only on services designed for them. The ANPD's guidance sets out how to decide that. According to Infobae, which reported on the final guide on 21 November 2026, the ANPD presumes likely access by minors for eight kinds of service, so these providers generally do not need to run a separate test. The list includes:</p>\n<ul>\n<li>systems that generate content and respond to instructions in everyday language (generative AI chatbots and assistants);</li>\n<li>electronic games;</li>\n<li>social networks, app stores and operating systems;</li>\n<li>services with editorial control, such as streaming;</li>\n<li>adult-content providers, and online shops that sell products banned for minors.</li>\n</ul>\n<p>Infobae reports that a provider can only overturn this presumption with a justification specific to its case. Calling a service \"adults only\" is not enough, and having an age check in place cannot be used to argue that children are unlikely to use it. Free services paid for by advertising are covered too. A law firm's summary of the earlier draft put the principle plainly: \"Classification does not depend on the provider's self-designation, business model, or location.\"</p>\n<p>The guide was adopted in Portuguese in late October, and an English edition was reported on 20 November, according to Infobae. A draft went through public consultation between 30 April and 15 June 2026. Infobae also notes a debate among Brazilian lawyers: for social networks, app stores and operating systems the duties come directly from the law, while for games and generative AI the presumption is the ANPD's interpretation.</p>\n<h2>What it asks of providers</h2>\n<p>Under the guidance, as reported, app stores and operating systems must find out users' age or age range and pass an \"age signal\" to apps through a secure interface. The ANPD's own page says the law also covers parental supervision, age assurance, games and advertising, and that app stores and operating systems are its first monitoring priority. The same page says enforcement of its age-assurance guidance is expected from January 2027.</p>\n<h2>What is still unclear</h2>\n<p>It is not yet clear how the presumption will be applied to general-purpose AI assistants used mainly by adults, what evidence would be enough to rebut it, or how the ANPD will enforce it in practice. According to Infobae, the Portuguese text prevails over the English edition.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Children talk to AI chatbots, whether or not the chatbots were built for them. Brazil's approach starts from that reality: if young people are likely to use a service, the protections apply. This links to Humasure Directive <a href=\"https://humasure.org/directives/#d7\">D7, No manipulation</a>, which matters most for young users, and to <a href=\"https://humasure.org/directives/#d5\">D5, Private by default</a>, since age checks themselves collect personal data and should use as little as possible. It also reflects <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>: a provider cannot avoid responsibility simply by saying its product is not for children.</p>\n<p>Brazil joins a growing number of countries setting child-safety duties for online services, including AI chatbots. For families anywhere, a useful starting point is to ask any chatbot maker how it knows a user's age and what changes for younger users. More questions are on our page <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask before you trust an AI product</a>.</p>"
+}

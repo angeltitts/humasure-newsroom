@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-24-belgium-regulator-orders-chatbot-app-sensitive-data-consent",
+ "type": "news",
+ "slug": "belgium-regulator-orders-chatbot-app-sensitive-data-consent",
+ "title": "Belgian regulator: chatbot app needs explicit consent to learn from sensitive chats",
+ "excerpt": "Belgium's data protection authority has reprimanded an unnamed chatbot app and given it four months to stop using health, religion and similar details from conversations to improve its AI without explicit consent.",
+ "category": "Regulation",
+ "tags": [
+  "Belgium",
+  "European Union",
+  "AI chatbots",
+  "privacy",
+  "GDPR",
+  "sensitive data"
+ ],
+ "directives": [
+  "D5",
+  "D9"
+ ],
+ "names_companies": false,
+ "incident": true,
+ "sources": [
+  {
+   "title": "Forum for the Future (Belgian DPA announcement): L'APD ordonne à une application chatbot de se conformer au RGPD",
+   "url": "https://blog.forumforthefuture.be/fr/article/lapd-ordonnne-a-une-application-chatbot-de-se-conformer-au-rgpd/33002"
+  },
+  {
+   "title": "GRC Report: Belgian privacy regulator orders AI chatbot company to comply with GDPR over sensitive user data",
+   "url": "https://www.grcreport.com/post/belgian-privacy-regulator-orders-ai-chatbot-company-to-comply-with-gdpr-over-sensitive-user-data"
+  }
+ ],
+ "body_html": "<p>Belgium's Data Protection Authority (known in French as the APD and in Dutch as the GBA), the national regulator that enforces the EU's General Data Protection Regulation (GDPR), has ordered a chatbot app to stop using sensitive details from users' conversations to improve its AI model unless people have given explicit consent.</p>\n<p>The decision, number 320/2026, was adopted by the authority's Litigation Chamber on 16 November 2026 and announced on 17 November. The authority did not name the company. It described the service only as an app that lets users create their own personalised chatbots.</p>\n<h2>What the regulator decided</h2>\n<p>The case turned on a question many chatbot users never think about: what happens to the things they type after the conversation ends. According to the authority's announcement, the company used conversation data both to run its chatbots and to optimise the AI model behind them.</p>\n<p>The regulator split that data into two kinds:</p>\n<ul>\n<li><strong>Ordinary conversation data.</strong> The authority accepted that the company could use this to improve its model on the basis of \"legitimate interest\", a GDPR legal basis that allows processing people can reasonably expect, as long as safeguards are in place.</li>\n<li><strong>Sensitive data.</strong> Under the GDPR, information that reveals things such as a person's health, sexual orientation or religious beliefs gets extra protection. Here the authority found that the company needed explicit consent to use such data for training, and did not have it.</li>\n</ul>\n<p>The authority also found that the company had not told users clearly enough how their conversations were used. During the proceedings, the company updated its privacy policy, but only for ordinary data.</p>\n<h2>What the company must do</h2>\n<p>The authority issued a reprimand and an order to comply rather than a fine. The company must bring two things into line with the law: how it uses sensitive conversation data to optimise its AI model, and what it tells users about that use. In the authority's words (our translation): \"The company must comply within 4 months, under penalty of periodic penalty payments.\"</p>\n<p>Those payments are 1,000 euros per day for each obligation not met, or 2,000 euros per day if both are outstanding, according to the announcement and GRC Report. The parties can appeal within 30 days.</p>\n<h2>What is still unknown</h2>\n<p>The company and app are not named in the announcement, so it is not known how many people use the service or in which countries. The announcement does not say how much sensitive data was used for training, whether it can be removed from a model that has already been trained, or whether the company will appeal.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Chatbots invite personal conversation. People tell them about their health, their relationships and their beliefs, often without thinking of those words as data. This decision is a reminder that, under EU law, using the most personal parts of those conversations to train an AI needs a clear, separate \"yes\" from the person.</p>\n<p>That is the idea behind Humasure Directive <a href=\"https://humasure.org/directives/#d5\">D5, Private by default</a>: personal information should not be used for more than people expect unless they choose to allow it. It also connects to <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>: a company that uses people's words to build its product has to be able to explain and justify that use to a regulator.</p>\n<h2>Questions you can ask any chatbot maker</h2>\n<ul>\n<li>Are my conversations used to train or improve your AI, and can I switch that off?</li>\n<li>Do you treat health, religion and similar details differently, and do you ask for my explicit consent before using them?</li>\n<li>Can I delete my conversations, and does deleting them also remove them from future training?</li>\n<li>Who can I contact, and which regulator oversees you, if I have a complaint?</li>\n</ul>\n<p>More questions are on our page <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask before you trust an AI product</a>. Cases like this one are part of why independent standards matter: they turn a privacy promise into something that can be checked.</p>"
+}

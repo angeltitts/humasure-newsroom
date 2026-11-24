@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-24-china-proposes-international-standard-generative-ai-risks",
+  "type": "news",
+  "slug": "china-proposes-international-standard-generative-ai-risks",
+  "title": "China proposes an international standard on handling generative AI risks",
+  "excerpt": "China's market regulator says it is leading a proposal for an international standard on responding to generative AI risks such as deepfakes and model poisoning. Its formal status is not yet clear.",
+  "category": "Regulation",
+  "tags": [
+    "China",
+    "global",
+    "standards",
+    "generative AI",
+    "ISO/IEC",
+    "security"
+  ],
+  "directives": [
+    "D6",
+    "D4",
+    "D10"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "China News Service: China leads push for first international standard proposal on generative AI governance",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737165.shtml"
+    },
+    {
+      "title": "The Paper: China leads push for first international standard proposal on generative AI governance",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34547826"
+    },
+    {
+      "title": "21st Century Business Herald (CCTV News): China leads international standard proposal on generative AI governance",
+      "url": "https://m.21jingji.com/article/20261124/herald/962838af2ba07a0f8ebebc616c059a71.html"
+    },
+    {
+      "title": "AnewZ: China leads global push for AI safety standards to tackle deepfakes and security threats",
+      "url": "https://anewz.tv/ai-next/artificial-intelligence/27179/china-leads-global-push-for-generative-ai-safety-standards/news"
+    }
+  ],
+  "body_html": "<p>China's State Administration for Market Regulation (SAMR), the national body that also oversees standards, said on 24 November 2026 that China is leading a proposal for an international standard on how to respond to the risks of generative AI. Generative AI is the kind of AI that produces text, images, audio or video.</p>\n<p>The announcement came at a press conference in Beijing. Sun Wei, a deputy director-general in SAMR's standards innovation department, set out the plans, according to China News Service and Chinese state broadcaster CCTV.</p>\n<h2>What is proposed</h2>\n<p>The proposal's Chinese title translates roughly as \"Information technology — Artificial intelligence — Guidance on risk response for generative AI systems\". Chinese reports describe it as the world's first international standard proposal focused on governing generative AI risk, and say it was drafted jointly with several other countries. It is aimed at risks the reports call common worldwide, including deepfakes (realistic fake images, audio or video) and \"model poisoning\", where an attacker corrupts the data or process used to build an AI model so that it behaves wrongly.</p>\n<p>China News Service said the proposal would help fill gaps in standards for managing risk across the whole life of an AI system, and that it \"can provide important support for building a global consensus on risk management\" (our translation).</p>\n<h2>What is not yet known</h2>\n<p>The reports we read do not say which international committee is handling the proposal or how far it has progressed. International AI standards are usually developed in a joint committee of the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC), where a proposal must be accepted by member countries before work formally starts and usually takes years to finish. None of the Chinese reports says whether that acceptance has happened. The full draft text has not been published.</p>\n<p>Like other ISO and IEC standards, the result would be voluntary unless a government or contract makes it a requirement. AnewZ, an international outlet, reported that SAMR plans to extend its work to large models, AI agents and embodied AI (AI in physical machines such as robots). The Chinese reports we read did not mention this, so we treat it as unconfirmed.</p>\n<h2>China's wider standards work</h2>\n<p>SAMR also gave figures on China's role in international AI standards. It said China leads work on 29 basic international AI standards, covering topics such as data governance, human-computer interaction and safety and trustworthiness, and 49 standards for specific industries such as smart cities and manufacturing. It said nearly 400 Chinese experts are registered for ISO and IEC work on AI. These figures come from the regulator and have not been independently checked.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Shared technical standards are one of the ways the world agrees what \"safe enough\" means, so that products can be tested against the same yardstick in different countries. Deepfakes go to the heart of <a href=\"https://humasure.org/directives/#d4\">Directive 4 (Honest identity)</a>: people should be able to tell what is real and who, or what, they are dealing with. Model poisoning is a security problem covered by <a href=\"https://humasure.org/directives/#d6\">Directive 6 (Secure and supported)</a>, and guidance that covers a system's whole life connects to <a href=\"https://humasure.org/directives/#d10\">Directive 10 (Safe for its whole life)</a>.</p>\n<p>Whatever happens to this particular proposal, the questions for anyone using a generative AI product stay the same: how does the maker protect the model from tampering, how does it mark AI-generated content, and who answers if it goes wrong? Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> and <a href=\"https://humasure.org/security/\">security page</a> explain more.</p>"
+}

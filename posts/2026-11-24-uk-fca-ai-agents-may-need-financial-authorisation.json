@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-24-uk-fca-ai-agents-may-need-financial-authorisation",
+  "type": "news",
+  "slug": "uk-fca-ai-agents-may-need-financial-authorisation",
+  "title": "UK regulator: AI agents that handle money may need financial authorisation",
+  "excerpt": "The UK Financial Conduct Authority says technology firms whose AI agents give advice, make payments or broker credit may be offering regulated services, and firms stay responsible for what agents do.",
+  "category": "Regulation",
+  "tags": [
+    "United Kingdom",
+    "AI agents",
+    "finance",
+    "consumer protection",
+    "accountability"
+  ],
+  "directives": [
+    "D9",
+    "D2",
+    "D1"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "The Star (Reuters): AI financial services trigger regulation warning from UK watchdog",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/24/ai-financial-services-trigger-regulation-warning-from-uk-watchdog"
+    },
+    {
+      "title": "Resultsense: FCA: firms remain accountable for the AI agents they use",
+      "url": "https://www.resultsense.com/news/2026-11-24-fca-agentic-ai-firms-stay-responsible/"
+    },
+    {
+      "title": "PYMNTS: FCA warns companies against unregulated agentic activity",
+      "url": "https://pymnts.com/news/artificial-intelligence/2026/fca-warns-companies-against-unregulated-agentic-activity"
+    }
+  ],
+  "body_html": "<p>The United Kingdom's Financial Conduct Authority (FCA), the regulator that oversees how financial firms treat their customers, said on 24 November 2026 that AI agents which act for people in financial matters can fall under financial regulation, even when the business behind them calls itself a technology company.</p>\n<p>An AI agent is software that does not just answer questions but takes actions on a person's behalf, such as comparing products, filling in forms or moving money. The FCA's message was aimed at businesses thinking about launching such products in the UK. According to Reuters, the regulator did not name any company.</p>\n<h2>What the FCA said</h2>\n<p>The FCA's central point is about the \"perimeter\": the line between activities that need FCA authorisation and those that do not. Reports of the guidance say that payment services, financial promotions, credit broking and financial advice can all require authorisation, whether a person or an AI agent carries them out. Technology providers, the FCA said, should look carefully at what their agents actually do, and talk to the regulator if those activities may be regulated. It added that it will assess the services offered through agentic products and is prepared to act where regulated services are offered without permission.</p>\n<p>For firms that are already regulated, the FCA said its Consumer Duty applies in full when they use AI agents. The Consumer Duty is a UK rule that requires firms to deliver good outcomes for retail customers, avoid foreseeable harm and put things right when they go wrong. The FCA also made clear that responsibility does not move to the software or to an outside AI supplier. In its words, as reported by Resultsense, \"responsibility for complying with its regulatory obligations remains with the regulated firm\".</p>\n<p>The FCA also expects AI providers to explain the limits of AI-generated financial information through clear disclaimers, backed up by practical safeguards rather than warnings alone.</p>\n<h2>Advice for people using AI agents</h2>\n<p>Reuters reported that the FCA wants consumers who use AI agents to understand what protections they have, if any, if something goes wrong, what information they are sharing and whether sharing it is safe. Reports also say the FCA suggests people decide whether an agent must ask for approval before each transaction, or set spending limits.</p>\n<h2>What happens next</h2>\n<p>The FCA is pointing developers to its AI Lab, a programme where firms can test ideas with the regulator, and plans further work with firms, policymakers and technology providers. Reports say this includes work on how agents are identified, how people delegate authority to them and who is accountable when an agent carries out a transaction. No dates or new binding rules were announced, and it is not yet known how the FCA will treat specific products.</p>\n<p>The guidance follows a separate paper from the UK's financial regulators on 19 November 2026 about the cyber security of AI in financial firms.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>When software can spend money for you, two questions matter most: who answers if it gets something wrong, and can you set and enforce limits on what it does? The FCA's position addresses both. It places accountability on the firm, not the tool, which is the idea behind <a href=\"https://humasure.org/directives/#d9\">Directive 9 (Accountable)</a>. Its suggestion that people require approval for each payment or set spending limits reflects <a href=\"https://humasure.org/directives/#d2\">Directive 2 (Bounded autonomy)</a> and <a href=\"https://humasure.org/directives/#d1\">Directive 1 (Always stoppable)</a>: an agent should only act within limits its user chose, and the user should be able to stop it.</p>\n<p>For anyone trying an AI agent with their finances, the questions are practical: what can it do without asking you, how do you switch it off, and who do you contact if it makes a mistake? Humasure's <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> are a good starting point.</p>"
+}

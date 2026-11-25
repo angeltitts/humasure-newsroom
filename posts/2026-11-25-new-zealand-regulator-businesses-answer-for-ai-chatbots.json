@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-25-new-zealand-regulator-businesses-answer-for-ai-chatbots",
+  "type": "news",
+  "slug": "new-zealand-regulator-businesses-answer-for-ai-chatbots",
+  "title": "New Zealand regulator: businesses answer for what their AI chatbots tell customers",
+  "excerpt": "New Zealand's Commerce Commission says existing consumer and competition law applies to AI, from chatbot answers and AI claims to pricing algorithms.",
+  "category": "Regulation",
+  "tags": [
+    "New Zealand",
+    "Asia-Pacific",
+    "AI chatbots",
+    "consumer protection",
+    "competition",
+    "accountability"
+  ],
+  "directives": [
+    "D9",
+    "D4",
+    "D7",
+    "D8"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Bell Gully: Commerce Commission issues AI guidance: what it means for New Zealand businesses",
+      "url": "https://www.bellgully.com/insights/commerce-commission-issues-ai-guidance-what-it-means-for-new-zealand-businesses/"
+    },
+    {
+      "title": "ChannelLife: New Zealand warns businesses AI won't shift legal risk",
+      "url": "https://channellife.co.nz/story/new-zealand-warns-businesses-ai-won-t-shift-legal-risk"
+    }
+  ],
+  "body_html": "<p>New Zealand's competition and consumer regulator, the Commerce Commission, has told businesses that using artificial intelligence does not change their legal duties. A business stays responsible for what its AI systems say and do, including what a customer-service chatbot tells people.</p>\n<p>The guidance was released around 18 November 2026, according to the law firm Bell Gully, and was reported by the technology outlet ChannelLife on 24 November. It explains how two existing laws apply: the Fair Trading Act, which bans misleading and deceptive conduct towards consumers, and the Commerce Act, which covers cartels, misuse of market power and mergers. Neither source says the guidance creates new rules; the obligations come from the existing laws.</p>\n<h2>Chatbots and claims about AI</h2>\n<p>According to Bell Gully's summary, the same conduct standards apply to text and images made by AI, and to chatbots used to give consumers information. If a business relies on disclaimers, the limits must be clearly explained. Businesses are advised to test chatbots against the questions customers are likely to ask, for example about refunds, guarantees and what a product can do.</p>\n<p>The guidance also covers \"AI-washing\": overstating what a product's AI can do. Claims about AI features should be backed up at the time they are made. Personalised prices must be clear and not misleading, and design tricks such as false scarcity or false urgency are flagged as a risk.</p>\n<h2>Pricing algorithms</h2>\n<p>On competition, the guidance describes ways algorithms can break the Commerce Act. Examples include using a shared pricing tool or platform to coordinate prices, feeding competitors' sensitive information into a pricing system, and autonomous pricing systems that end up producing coordinated outcomes. It also notes that buying a rival's AI capabilities can fall under merger rules.</p>\n<h2>Responsibility cannot be handed to the vendor</h2>\n<p>Both sources stress governance. Boards and senior managers are expected to treat AI as a governance matter, and a business cannot pass its responsibility to the software vendor or developer who built a tool. ChannelLife reports that businesses are advised to keep a record of how they deploy AI. \"Whether a decision is made by a person, an algorithm, or an AI system, the business remains accountable for the outcome,\" the Commission's deputy chair, Anne Callinan, said, as quoted by ChannelLife.</p>\n<h2>What we could not check</h2>\n<p>We could not open the Commission's own guidance page, so its exact title, date and wording are taken from the two reports above. Neither source says whether the Commission plans enforcement action or how it will monitor AI use.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>The message is simple and applies well beyond New Zealand: putting an AI between a business and its customers does not move the responsibility. That is the idea behind <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>: someone answers for what the system does. Honest claims about what an AI can do reflect <a href=\"https://humasure.org/directives/#d4\">D4, Honest identity</a>, and the warnings on pressure tactics and personalised pricing touch <a href=\"https://humasure.org/directives/#d7\">D7, No manipulation</a> and <a href=\"https://humasure.org/directives/#d8\">D8, Fair treatment</a>.</p>\n<p>For people using a business's chatbot, it means an answer from the bot about a refund or a product is the business's answer. Our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> include who is responsible when an AI system gets it wrong.</p>"
+}

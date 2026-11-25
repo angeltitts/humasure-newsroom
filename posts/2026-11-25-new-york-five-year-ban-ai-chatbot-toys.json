@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-25-new-york-five-year-ban-ai-chatbot-toys",
+  "type": "news",
+  "slug": "new-york-five-year-ban-ai-chatbot-toys",
+  "title": "New York signs a five-year ban on children's toys with built-in AI chatbots",
+  "excerpt": "New York will bar making and selling AI chatbot toys for children 12 and under for five years, starting 90 days after the 24 November 2026 signing.",
+  "category": "Regulation",
+  "tags": [
+    "United States",
+    "New York",
+    "AI toys",
+    "children",
+    "AI companions",
+    "consumer protection"
+  ],
+  "directives": [
+    "D7",
+    "D5",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Governor of New York: As Consumers Begin Their Holiday Shopping Season, Governor Hochul Signs Five-Year Ban on AI Chatbot Toys",
+      "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
+    },
+    {
+      "title": "New York State Senate: Senate Bill S9408A (2025-2026), prohibition on chatbot toys",
+      "url": "https://www.nysenate.gov/legislation/bills/2025/S9408"
+    },
+    {
+      "title": "New York State Senate: S9408A bill text (PDF)",
+      "url": "https://legislation.nysenate.gov/pdf/bills/2025/S9408A"
+    },
+    {
+      "title": "NEWS10: Hochul signs AI chatbot and baby monitor regulations",
+      "url": "https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/amp/"
+    }
+  ],
+  "body_html": "<p>New York has banned the making and sale of children's toys with built-in AI chatbots for five years. Governor Kathy Hochul signed the bill, S.9408A/A.11144B, on 24 November 2026, according to her office and the New York State Senate's bill record, which lists it as Chapter 416 of the laws of 2026.</p>\n<p>The ban does not start straight away. The law takes effect on the 90th day after it became law, so the governor's office says it will not apply during this year's holiday shopping season. It is then repealed automatically five years after it takes effect.</p>\n<h2>What the law covers</h2>\n<p>The law adds a new article to New York's General Business Law. It defines a \"chatbot toy\" as an AI companion built into or connected to a children's toy. An AI companion, under an earlier New York law, is a system designed to simulate a sustained, human-like relationship with its user. A \"children's toy\" follows the US federal consumer product safety definition, which the bill's sponsor and local reporting describe as a product meant for children aged 12 or younger.</p>\n<p>The governor's office gives talking stuffed animals, dolls and robots that use the internet to hold conversations with children as examples. Under the bill text, no person or business may manufacture, hold for sale, exchange, distribute or sell a chatbot toy in New York State.</p>\n<h2>Enforcement</h2>\n<p>New York's Attorney General, Letitia James, can go to court to stop sales and seek civil penalties of up to US$15,000 per day for each violation. The bill says no proof that anyone was harmed is needed. \"We won't allow our children's health to become the collateral damage of big tech,\" the Attorney General said in the governor's announcement.</p>\n<p>The bill passed the State Senate 57 to 3 on 1 June 2026 and the Assembly the next day, according to the Senate record. It was sponsored by Senator Andrew Gounardes and Assemblymember Rebecca Kassay, who described the pause as time to study the toys' impact on children and to develop regulations.</p>\n<h2>What is not yet clear</h2>\n<ul>\n<li>The bill text names no exemptions, and it does not say how it applies to online sellers based outside New York.</li>\n<li>An earlier version required state agencies to study the risks and report back. That requirement was removed from the version that passed, so the law itself sets no study or deadline for new rules.</li>\n<li>The governor's office refers to tests by a consumer watchdog that found explicit conversations, few parental controls and possible voice recording or face scanning. It does not name the watchdog or the products tested.</li>\n</ul>\n<p>The toy ban sits alongside a separate law Governor Hochul signed on 28 October 2026 on AI companion chatbots and minors, which takes effect on 1 June 2027.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>A toy that talks back is a connected device in a child's room. The concerns raised in New York map onto several Humasure Directives: a product built to form a relationship should not exploit a child's trust (<a href=\"https://humasure.org/directives/#d7\">D7, No manipulation</a>); it should not record voices or faces by default (<a href=\"https://humasure.org/directives/#d5\">D5, Private by default</a>); and someone should clearly answer for what it says (<a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>).</p>\n<p>New York has chosen a pause rather than product rules. Whatever happens after the five years, the questions stay the same for any maker of a connected toy: who can hear what the child says, where the recordings go, and how a parent can switch it off. Our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> are a starting point.</p>"
+}

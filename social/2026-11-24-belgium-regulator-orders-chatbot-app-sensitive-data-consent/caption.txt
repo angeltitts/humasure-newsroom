@@ -1,0 +1,10 @@
+Belgian regulator: chatbot app needs explicit consent to learn from sensitive chats
+
+Belgium's data protection authority has reprimanded an unnamed chatbot app and given it four months to stop using health, religion and similar details from conversations to improve its AI without explicit consent.
+
+Why it matters: D5 Private by default, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: Forum for the Future (Belgian DPA announcement); GRC Report.
+
+#HumanInCharge #AISafety #RobotSafety #AIRegulation #EuropeanUnion

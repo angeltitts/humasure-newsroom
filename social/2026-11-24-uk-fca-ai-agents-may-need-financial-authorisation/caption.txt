@@ -1,0 +1,10 @@
+UK regulator: AI agents that handle money may need financial authorisation
+
+The UK Financial Conduct Authority says technology firms whose AI agents give advice, make payments or broker credit may be offering regulated services, and firms stay responsible for what agents do.
+
+Why it matters: D9 Accountable, D2 Bounded autonomy, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: The Star (Reuters); Resultsense; PYMNTS.
+
+#HumanInCharge #AISafety #RobotSafety #AIRegulation #UnitedKingdom

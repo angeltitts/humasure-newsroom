@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-25-pakistan-central-bank-drafts-ai-rules-for-banks",
+  "type": "news",
+  "slug": "pakistan-central-bank-drafts-ai-rules-for-banks",
+  "title": "Pakistan's central bank has drafted rules for how banks use AI",
+  "excerpt": "The State Bank of Pakistan says guidelines for AI in banking are awaiting internal approval, with transparency, accountability and customer rights at the centre of automated decisions.",
+  "category": "Regulation",
+  "tags": [
+    "Pakistan",
+    "South Asia",
+    "banking",
+    "finance",
+    "automated decisions",
+    "accountability"
+  ],
+  "directives": [
+    "D9",
+    "D8",
+    "D4"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Business Recorder: SBP's AI banking guidelines await internal approval",
+      "url": "https://www.brecorder.com/news/40450565/sbps-ai-banking-guidelines-await-internal-approval"
+    },
+    {
+      "title": "ARY News: SBP prepares comprehensive guidelines for AI use in banking sector",
+      "url": "https://arynews.tv/sbp-prepares-comprehensive-guidelines-for-ai-use-in-banking-sector"
+    }
+  ],
+  "body_html": "<p>The State Bank of Pakistan (SBP), the country's central bank and banking regulator, has prepared guidelines on how banks may use artificial intelligence. The guidelines have not yet been published. They are awaiting the bank's internal approval and will apply across the banking sector once cleared, according to reports of 24 and 25 November 2026.</p>\n<p>The news came from SBP Deputy Governor Saleem Ullah, speaking at a banking industry forum organised by a Pakistani technology company, as reported by <a href=\"https://www.brecorder.com/news/40450565/sbps-ai-banking-guidelines-await-internal-approval\">Business Recorder</a> and <a href=\"https://arynews.tv/sbp-prepares-comprehensive-guidelines-for-ai-use-in-banking-sector\">ARY News</a>. No SBP press release or draft text was available to check.</p>\n<h2>What has been said so far</h2>\n<p>According to Business Recorder, the deputy governor said the SBP has also developed regulatory principles to reduce the risks that come with AI. He said transparency, accountability and the protection of customer rights must stay central to automated decision-making, and that banks should adopt AI responsibly and with due caution. The report mentions banks' use of AI for loan approvals, fraud prevention and monitoring.</p>\n<p>ARY News describes the guidelines as comprehensive and says they will be put into effect across the sector after final approval.</p>\n<h2>What is still unknown</h2>\n<p>Neither report gives the guidelines' name, a date for approval or publication, or any specific requirements. It is not yet known whether they will require human review of automated decisions such as loan refusals, tell customers when they are dealing with AI, set rules for bias testing, or cover AI services that banks buy from outside suppliers. These are the questions to watch when the text appears.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>When AI helps decide who gets a loan or which payments are blocked as suspected fraud, mistakes land on real people. Clear lines of responsibility reflect <a href=\"https://humasure.org/directives/#d9\">D9, Accountable</a>: someone must answer for each decision, whether a person or a system made it. Checks for unfair outcomes reflect <a href=\"https://humasure.org/directives/#d8\">D8, Fair treatment</a>, and being told honestly when AI is involved reflects <a href=\"https://humasure.org/directives/#d4\">D4, Honest identity</a>.</p>\n<p>Pakistan joins a growing number of financial regulators setting expectations for AI. Humasure News will report on the guidelines once the SBP publishes them. For general questions people can ask about any automated system, see <a href=\"https://humasure.org/questions-to-ask/\">Questions to ask</a>.</p>"
+}

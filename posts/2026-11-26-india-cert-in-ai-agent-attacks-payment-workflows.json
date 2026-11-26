@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-26-india-cert-in-ai-agent-attacks-payment-workflows",
+  "type": "news",
+  "slug": "india-cert-in-ai-agent-attacks-payment-workflows",
+  "title": "India warns AI agent attack tools are being used against payment systems beyond banks",
+  "excerpt": "India's national cyber agency said on 20 November 2026 that attackers are using AI agent frameworks across sectors and altering payment records through trusted systems. It set out nine defensive steps.",
+  "category": "News",
+  "tags": [
+    "India",
+    "South Asia",
+    "AI agents",
+    "cybersecurity",
+    "payments",
+    "incident reporting"
+  ],
+  "directives": [
+    "D6",
+    "D2",
+    "D9",
+    "D1"
+  ],
+  "names_companies": false,
+  "incident": true,
+  "sources": [
+    {
+      "title": "CERT-In: Advisory CIAD-2026-0062, Abuse of Business Payment Workflows and Use of AI-Driven Agentic Offensive Frameworks across Sectors",
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2026-0062"
+    },
+    {
+      "title": "Telangana Today (IANS): CERT-In warns of AI-driven cyber-attacks on business payment systems",
+      "url": "https://telanganatoday.com/cert-in-warns-of-ai-driven-cyber-attacks-on-business-payment-systems"
+    },
+    {
+      "title": "MediaNama: CERT-In finds use of agentic AI for cyberattacks beyond BFSI",
+      "url": "https://www.medianama.com/2026/11/223-cert-in-agentic-ai-financial-cyberattacks-bfsi/"
+    }
+  ],
+  "body_html": "<p>India's national cyber security agency, the Indian Computer Emergency Response Team (CERT-In), has warned that attackers are using automated AI agent tools against organisations well beyond banks and insurers. Its advisory, rated critical and issued on 20 November 2026, says the attacks reach technology service providers that run government-linked payment processes, platforms that handle payouts to vendors and other businesses, government bodies, and universities and research institutes.</p>\n<p>CERT-In sits within India's Ministry of Electronics and Information Technology. Its advisories tell organisations what threats it is seeing and what to do about them.</p>\n<h2>What the advisory says happened</h2>\n<p>The <a href=\"https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&amp;VLCODE=CIAD-2026-0062\">advisory (CIAD-2026-0062)</a> describes two linked patterns.</p>\n<ul>\n<li><strong>Abuse of payment workflows.</strong> Instead of breaking into a payment system directly, attackers changed business records or approval relationships inside the business software and service-provider systems that feed payments. The payments themselves then went through normal, legitimate channels. CERT-In says the incidents exposed gaps in independent checking, reconciliation and review of changed records. In its words, \"The concern is not limited to the security of payment APIs.\"</li>\n<li><strong>AI-driven \"agentic offensive frameworks\".</strong> These are toolkits in which several automated AI agents work in parallel: scanning for exposed systems, mapping routes in, preparing or adapting exploits for known software flaws, and changing approach when they hit an error or a block. The advisory says they often use valid passwords, legitimate administrator functions and trusted connections, which makes the activity look normal.</li>\n</ul>\n<p>Indian news agency IANS, in a report <a href=\"https://telanganatoday.com/cert-in-warns-of-ai-driven-cyber-attacks-on-business-payment-systems\">carried by Telangana Today</a> on 21 November, described the same shift from banks to technology providers and payout platforms. <a href=\"https://www.medianama.com/2026/11/223-cert-in-agentic-ai-financial-cyberattacks-bfsi/\">MediaNama</a> notes this follows earlier CERT-In advisories in October and early November on AI-assisted attacks against financial firms.</p>\n<h2>What CERT-In asks organisations to do</h2>\n<p>The advisory gives nine recommendations, grouped by audience. In summary:</p>\n<ul>\n<li><strong>Organisations that use outside technology providers</strong> should find which provider accounts can change payment records or approve transactions, and remove access that is not needed; check records held by providers against independent sources the provider cannot alter; require independent verification for risky changes such as new payees; and agree in advance how a shared compromise will be detected, contained and reported.</li>\n<li><strong>Technology and payout providers</strong> should keep each client's environment separate, limit administrator privileges, and watch changes to payment records alongside approvals and the payments that follow, even when the actions come from authorised accounts.</li>\n<li><strong>Everyone exposed to these tools</strong> should review internet-facing systems, identities and service credentials, and search their logs for unusual scanning, credential use and data transfers.</li>\n</ul>\n<p>Under existing Indian rules from 2022, covered cyber incidents must be reported to CERT-In within six hours. Unauthorised financial transactions should also be reported to the National Cyber Crime Reporting Portal or the 1930 helpline.</p>\n<h2>What is still unknown</h2>\n<p>The advisory does not say how many organisations were affected, which ones, how much money was moved, or who is behind the attacks. It does not name the AI tools involved. IANS also linked the attacks to widely used programming languages, a point that does not appear in the advisory itself.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>The striking detail is that the attacks worked through approved systems and real credentials. That is why CERT-In stresses separation of duties and independent checks rather than a single new security product. The same thinking applies to anyone deploying their own AI agents: an agent that can change records or approve payments should have only the permissions it needs, and important changes should be confirmed through a separate route. That is the idea behind <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>.</p>\n<p><a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, covers the basics the advisory repeats: strong access control, monitoring and prompt fixes for known flaws. <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, and <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>, matter when something goes wrong: someone must be able to suspend an affected integration quickly and take responsibility for putting things right.</p>\n<p>A hacked system is one nobody is in charge of. If you run or buy services that use AI agents, Humasure's <a href=\"https://humasure.org/security/\">security page</a> and <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> are a starting point: what can the agent change on its own, how are its credentials protected, and how quickly can it be stopped?</p>"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-26-dockworkers-set-six-standards-for-port-automation-and-ai",
+  "type": "news",
+  "slug": "dockworkers-set-six-standards-for-port-automation-and-ai",
+  "title": "Dockworkers' council sets six minimum standards for port automation and AI",
+  "excerpt": "At its assembly in Rio de Janeiro, Brazil, an international dockworkers' body adopted six minimum standards for bargaining over port automation and AI, including health and safety with real accountability.",
+  "category": "News",
+  "tags": [
+    "Brazil",
+    "global",
+    "AI at work",
+    "workplace robots",
+    "automation",
+    "ports"
+  ],
+  "directives": [
+    "D9",
+    "D3",
+    "D2",
+    "D1"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "El Estrecho Digital: The IDC sets six labor standards for automation and artificial intelligence in ports",
+      "url": "https://www.elestrechodigital.com/en/2026/11/25/the-idc-sets-six-labor-standards-for-automation-and-artificial-intelligence-in-ports"
+    },
+    {
+      "title": "Naucher: El IDC clausura en Río su 10ª Asamblea General, reelige a Dennis A Daggett y fija seis estándares mínimos frente a la automatización y la IA",
+      "url": "https://www.naucher.com/el-idc-clausura-en-rio-su-10a-asamblea-general-reelige-a-dennis-a-daggett-y-fija-seis-estandares-minimos-frente-a-la-automatizacion-y-la-ia/"
+    },
+    {
+      "title": "Cadena de Suministro: El IDC reúne en Río de Janeiro a los representantes de más de 220.000 estibadores",
+      "url": "https://www.cadenadesuministro.es/transporte-maritimo/idc-reune-en-rio-janeiro-representantes-mas-220000-estibadores_1519663_102.html"
+    }
+  ],
+  "body_html": "<p>The International Dockworkers Council (IDC), a global union body for port workers, has adopted six minimum standards that its members will seek in collective bargaining over automation and artificial intelligence in ports from 2026 to 2030. The standards were agreed at the IDC's tenth General Assembly, held from 16 to 20 November 2026 in Rio de Janeiro, Brazil.</p>\n<p>According to <a href=\"https://www.cadenadesuministro.es/transporte-maritimo/idc-reune-en-rio-janeiro-representantes-mas-220000-estibadores_1519663_102.html\">Cadena de Suministro</a>, the council represents more than 220,000 port workers in 108 union organisations across 39 countries, and more than 600 delegates were accredited for the meeting.</p>\n<h2>The six standards</h2>\n<p>As reported by <a href=\"https://www.elestrechodigital.com/en/2026/11/25/the-idc-sets-six-labor-standards-for-automation-and-artificial-intelligence-in-ports\">El Estrecho Digital</a> and <a href=\"https://www.naucher.com/el-idc-clausura-en-rio-su-10a-asamblea-general-reelige-a-dennis-a-daggett-y-fija-seis-estandares-minimos-frente-a-la-automatizacion-y-la-ia/\">Naucher</a>, the standards cover:</p>\n<ol>\n<li>Effective protection of employment.</li>\n<li>Collective bargaining before any new technology is introduced.</li>\n<li>Union participation in decisions about technology.</li>\n<li>Training and retraining for workers.</li>\n<li>Occupational health and safety guarantees, with effective accountability mechanisms.</li>\n<li>Union oversight of the process of technological change.</li>\n</ol>\n<p>The full text of the standards has not been published in the reports, so the detailed obligations behind each heading are not yet known. El Estrecho Digital says the standards will be put into practice in three phases: sharing information between member unions, coordinating their responses, and joint action where port companies drive technological change.</p>\n<h2>Not just cranes: software that plans the work</h2>\n<p>Much of the discussion in Rio was about software rather than machines. Ahead of the assembly, Cadena de Suministro reported that delegates would look at terminal operating systems (the software that plans and directs cargo handling in a port), AI and 5G networks, and at what it called the quiet use of algorithms and digital platforms to take over planning and administrative tasks.</p>\n<p>The IDC's re-elected general coordinator, Dennis A. Daggett, made the same point. \"The first generation of automation tried to replace our hands; the next is trying to replace our minds,\" he said, as quoted by El Estrecho Digital.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Ports are among the busiest workplaces for heavy automated equipment, and increasingly for software that decides who works where and when. Of the six standards, the one on health and safety with accountability links most directly to product safety. Automated cranes and vehicles that share space with people need proven physical safety measures (<a href=\"https://humasure.org/directives/#d3\">Directive 3, Physical safety</a>) and a reliable way for people on the ground to stop them (<a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>).</p>\n<p>The emphasis on planning software matters too. When an algorithm assigns work, there should be clear limits on what it decides alone (<a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>), and a named party who answers for its decisions and can correct them (<a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>).</p>\n<p>The standards are bargaining goals, not law, and how far employers agree to them will be settled port by port. Humasure's page on <a href=\"https://humasure.org/ai-at-work/\">AI at work</a> sets out questions workers and employers can ask about any AI system or robot introduced into a workplace, and our list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> applies to port equipment as much as to home devices.</p>"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-26-south-africa-to-draft-ai-action-plan-with-safeguards",
+  "type": "news",
+  "slug": "south-africa-to-draft-ai-action-plan-with-safeguards",
+  "title": "South Africa to draft an AI action plan, saying AI needs safeguards and testing",
+  "excerpt": "President Cyril Ramaphosa says South Africa will develop an AI Action Plan and that advanced AI must come with safeguards, independent evaluation and governance. No timeline or text has been published.",
+  "category": "Regulation",
+  "tags": [
+    "South Africa",
+    "Africa",
+    "AI governance",
+    "AI regulation",
+    "independent evaluation"
+  ],
+  "directives": [
+    "D9",
+    "D6",
+    "D1"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "TechFinancials (SAnews): SA Government To Develop AI Action Plan – President Ramaphosa",
+      "url": "https://techfinancials.co.za/2026/11/23/sa-government-to-develop-ai-action-plan-president-ramaphosa/?amp=1"
+    },
+    {
+      "title": "TechFinancials: SA government will align existing AI initiatives for tangible outcomes",
+      "url": "https://techfinancials.co.za/2026/11/19/sa-government-will-align-existing-ai-initiatives-for-tangible-outcomes/?amp=1"
+    },
+    {
+      "title": "CASRAI: Ramaphosa proposes ninety-day AI initiatives after Silicon Valley visit",
+      "url": "https://casrai.org/news/ramaphosa-ninety-day-ai-initiatives-silicon-valley-2026"
+    },
+    {
+      "title": "Bizcommunity: South Africa targets January 2027 for revised AI policy after earlier withdrawal",
+      "url": "https://www.bizcommunity.com/article/south-africa-targets-january-2027-for-revised-ai-policy-after-earlier-withdrawal-845743a"
+    }
+  ],
+  "body_html": "<p>South Africa's government will develop an AI Action Plan, President Cyril Ramaphosa said in his weekly newsletter published on 23 November 2026. He wrote that advanced AI \"must be accompanied by effective safeguards, independent evaluation and appropriate governance\", according to the text carried by the government news agency SAnews and reprinted by <a href=\"https://techfinancials.co.za/2026/11/23/sa-government-to-develop-ai-action-plan-president-ramaphosa/?amp=1\">TechFinancials</a>.</p>\n<p>The announcement follows a week-long working visit by the President and a government delegation to Silicon Valley in the United States, from 15 to 21 November 2026.</p>\n<h2>What has been said</h2>\n<p>In the newsletter, the President said the plan would set immediate priorities. He also said South Africa must strengthen its own cybersecurity, protect its critical national infrastructure and develop legal and regulatory frameworks for AI.</p>\n<p>During the visit, on 15 November, he proposed that the delegation identify practical AI initiatives, such as joint research and skills programmes, within 90 days of returning home, <a href=\"https://casrai.org/news/ramaphosa-ninety-day-ai-initiatives-silicon-valley-2026\">CASRAI reports</a>. CASRAI describes this as a proposal for follow-up work, not an approved programme.</p>\n<p>On 18 November, Khumbudzo Ntshavheni, the Minister in the Presidency, told reporters that the government is discussing what framework should guide its approach to AI, including whether guidelines or a policy framework are needed, <a href=\"https://techfinancials.co.za/2026/11/19/sa-government-will-align-existing-ai-initiatives-for-tangible-outcomes/?amp=1\">TechFinancials reported</a>. She said guidelines would not make compliance optional but would set parameters for the safe development and use of AI, and that safeguards are needed to protect users. The work is to feed into the government's Inter-Ministerial Committee on Digital Transformation.</p>\n<h2>The national AI policy</h2>\n<p>The action plan sits alongside a separate, delayed effort. South Africa's draft National AI Policy was released for public comment in April 2026 and then withdrawn after it was found to contain fictitious references. In May, the Department of Communications and Digital Technologies said an expert panel would review the draft and that it aimed to publish a revised version for comment in January 2027, <a href=\"https://www.bizcommunity.com/article/south-africa-targets-january-2027-for-revised-ai-policy-after-earlier-withdrawal-845743a\">Bizcommunity reported</a>, citing Reuters. No later update on that timetable was found.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>When the AI Action Plan will be published, and which department will lead it.</li>\n<li>What \"independent evaluation\" would mean in practice: who would test AI systems, against what standards, and whether it would be required.</li>\n<li>How the action plan relates to the revised National AI Policy, and whether either will lead to new law.</li>\n</ul>\n<p>No official Presidency or SAnews page could be opened for this story; the newsletter text was read in a reprint.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>Independent evaluation means that someone other than the maker checks whether an AI system does what is claimed and fails safely. It is one of the clearest ways to give people confidence that a system was tested, and it supports <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>: a party that answers for the system and evidence others can check.</p>\n<p>The President's link between AI and cybersecurity also matters. A system that can be taken over is one that nobody is in charge of, which is why <a href=\"https://humasure.org/directives/#d6\">Directive 6, Secure and supported</a>, sits alongside <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>. More on how security fits in is at <a href=\"https://humasure.org/security/\">humasure.org/security</a>.</p>\n<p>Whether the plan includes concrete testing and accountability requirements will become clear only when its text is published.</p>"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-26-japan-panel-who-answers-when-ai-agents-err",
+  "type": "news",
+  "slug": "japan-panel-who-answers-when-ai-agents-err",
+  "title": "Japan sets up expert panel to decide who answers when an AI agent gets it wrong",
+  "excerpt": "A Japanese government panel met for the first time on 24 November 2026 to study legal liability for AI agents that shop, book or sign up on people's behalf. It aims to report by around June 2027.",
+  "category": "Regulation",
+  "tags": [
+    "Japan",
+    "Asia-Pacific",
+    "AI agents",
+    "liability",
+    "accountability",
+    "AI regulation"
+  ],
+  "directives": [
+    "D9",
+    "D2",
+    "D1"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Nippon.com (Jiji Press): Japan Govt Panel Kicks Off Talks on AI Liability",
+      "url": "https://www.nippon.com/en/articles/-/57912"
+    },
+    {
+      "title": "KSB / ANN News: AIが意図しない契約…責任はどこに？ 政府が調査会を立ち上げ検討へ",
+      "url": "https://news.ksb.co.jp/ann/article/17074855"
+    },
+    {
+      "title": "ISVD: Japan's AI and Digital Reform Promotion Council and the question of agent authority and liability",
+      "url": "https://isvd.or.jp/en/columns/ai-digital-council-agent-authority-liability-2026"
+    }
+  ],
+  "body_html": "<p>Japan's government has started work on a question that matters more as AI agents spread: when an agent acting for a person makes a purchase, a booking or a contract the person did not intend, who is legally responsible? A new expert panel held its first meeting on Tuesday 24 November 2026 and aims to set out its conclusions by around June 2027, according to <a href=\"https://www.nippon.com/en/articles/-/57912\">Jiji Press</a> and <a href=\"https://news.ksb.co.jp/ann/article/17074855\">ANN News</a>.</p>\n<h2>What was set up</h2>\n<p>The panel is an expert study group on AI and digital reform (in Japanese, AI・デジタル改革推進専門調査会). Jiji reports that it met at the Digital Agency, the government body that leads Japan's digital policy, and sits under the government's council for promoting AI and digital reform. Jiji says it has 12 members and is chaired by Joji Shishido, a professor at the University of Tokyo. ANN says the members include AI businesses, legal scholars and lawyers.</p>\n<p>AI agents are systems that can carry out several steps of a task on their own, such as comparing hotels and then booking one. Both reports give the same kind of example: an agent that buys something, or fails to cancel a reservation, in a way its user never wanted. Under current Japanese law, the reports say, it is unclear whether the user, the company offering the service or the developer of the AI should answer for that.</p>\n<p>Digital Vice Minister Akihisa Shiozaki said the aim was a social framework \"that does not create a vacuum of responsibility\", as quoted by Jiji.</p>\n<h2>How it fits with earlier work</h2>\n<p>The question is not new to the Japanese government. The council the panel sits under met on 22 October 2026 and published draft issues covering where responsibility lies, remedies for people who suffer losses, and acts carried out by agents on someone's behalf, according to an analysis by the <a href=\"https://isvd.or.jp/en/columns/ai-digital-council-agent-authority-liability-2026\">ISVD institute</a>. It also listed governance tools such as authentication, guardrails, permissions, evaluation and audit logs. ISVD stresses that publishing these issues does not create any new legal regime.</p>\n<p>The new panel is a study group. Neither news report says it will draft a bill; its report is a set of conclusions for the government to consider.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>Which options the panel will consider, for example whether liability should follow the user, the service provider or the developer, or be shared between them.</li>\n<li>Whether its report will lead to changes in Japan's Civil Code, consumer law or contract rules, or remain guidance.</li>\n<li>How damage relief would work in practice, for example through insurance or compensation schemes. Neither news report gives details.</li>\n</ul>\n<p>No official Digital Agency page on the meeting could be opened for this story.</p>\n<h2>Why it matters for staying in charge</h2>\n<p>An agent that can spend money or sign contracts for you raises two questions. First, how far is it allowed to go without asking? That is the idea behind <a href=\"https://humasure.org/directives/#d2\">Directive 2, Bounded autonomy</a>: an agent should act only within limits its user has set, and check back before going further. Second, when something goes wrong anyway, someone must answer for it. <a href=\"https://humasure.org/directives/#d9\">Directive 9, Accountable</a>, asks that there is always a named party who takes responsibility and a way for people to get a mistake put right.</p>\n<p>Clear liability rules support both. When makers know they will answer for an agent's errors, they have a strong reason to build in spending limits, confirmations before payment and an easy way to stop or undo an action, which is what <a href=\"https://humasure.org/directives/#d1\">Directive 1, Always stoppable</a>, is about.</p>\n<p>Anyone using an AI agent today can ask the provider simple questions: what can the agent do without my approval, how do I cancel something it did, and who do I contact if it makes a mistake? Humasure's list of <a href=\"https://humasure.org/questions-to-ask/\">questions to ask any maker</a> covers these and more.</p>"
+}

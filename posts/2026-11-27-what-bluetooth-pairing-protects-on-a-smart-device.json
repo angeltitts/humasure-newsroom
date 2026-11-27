@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-27-what-bluetooth-pairing-protects-on-a-smart-device",
+  "type": "explainer",
+  "slug": "what-bluetooth-pairing-protects-on-a-smart-device",
+  "title": "What Bluetooth pairing protects on a smart device or robot, and what it doesn't",
+  "excerpt": "Many robots, wearables and smart devices take commands over Bluetooth. Here is what pairing does, why some kinds give weaker protection, and simple steps to stay in control.",
+  "category": "Explainers",
+  "tags": [
+    "global",
+    "security",
+    "connected devices",
+    "Bluetooth",
+    "home robots",
+    "consumer guide"
+  ],
+  "directives": [
+    "D6",
+    "D1",
+    "D5"
+  ],
+  "names_companies": false,
+  "incident": false,
+  "sources": [
+    {
+      "title": "US National Institute of Standards and Technology: SP 800-121 Rev. 2, Guide to Bluetooth Security",
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-121r2.pdf"
+    }
+  ],
+  "body_html": "<p>Bluetooth is the short-range radio link that lets your phone talk to headphones, fitness bands, smart locks, robot vacuums, toys and even some vehicle equipment. Many devices use it not just to share data but to receive commands. That makes one question important: how does the device know a command comes from you?</p>\n<p>The usual answer is pairing. This explainer covers what pairing does, why not all pairing is equal, and what you can do. It draws on the US National Institute of Standards and Technology (NIST) <em>Guide to Bluetooth Security</em> (Special Publication 800-121, Revision 2), a widely used government reference. NIST has since issued an updated version of the same publication; the core points below are unchanged.</p>\n<h2>What pairing is</h2>\n<p>Pairing is the step where two devices introduce themselves and agree on a secret key. When the key is stored for later, so the devices reconnect without asking again, this is called bonding. Once paired, the devices can encrypt what they send and recognise each other.</p>\n<p>The key point: pairing only protects a function if the device actually requires it. A device can be built so that some features respond to any nearby device, paired or not. From the outside, you usually cannot tell.</p>\n<h2>Not all pairing is equal</h2>\n<p>Bluetooth offers several ways to pair. Some ask you to compare or type a number, which helps confirm that the device you are pairing with is really the one in front of you. Others, often used by devices with no screen or keypad, skip that check. NIST notes that some security modes \"allow unauthenticated pairing\", which means they give no protection against someone in the middle intercepting the exchange of keys.</p>\n<p>Bluetooth also has security modes and levels. NIST advises organisations to \"use the strongest Bluetooth security mode that is available for their Bluetooth devices\", and says the weakest mode, in which a device never starts any security at all, should never be used.</p>\n<h2>Why this matters more for devices that act</h2>\n<p>For headphones, weak pairing might mean someone could listen in. For a device that moves, unlocks or brakes, it can mean someone nearby could send it commands. That is why security is part of staying in charge: if anyone in range can tell a device what to do, its owner is no longer the only one in control.</p>\n<h2>Simple steps you can take</h2>\n<ul>\n<li><strong>Turn Bluetooth off when you do not need it.</strong> NIST suggests turning Bluetooth devices off when they are not needed, to reduce exposure.</li>\n<li><strong>Pair somewhere private.</strong> NIST recommends pairing as rarely as possible and ideally where no one can watch you enter a code.</li>\n<li><strong>Change default settings.</strong> Look for options to require a PIN or confirmation, and switch off features you do not use. NIST also advises disabling unneeded Bluetooth services.</li>\n<li><strong>Remove old pairings.</strong> If you lose a phone or sell a device, delete it from the list of paired devices.</li>\n<li><strong>Install updates.</strong> Security fixes for Bluetooth problems usually arrive as firmware or app updates. Some must be started by hand in the companion app.</li>\n</ul>\n<h2>Questions you can ask any maker</h2>\n<ul>\n<li>Does every command, especially safety functions, need a paired and authenticated device?</li>\n<li>Which pairing method does the product use, and does it confirm I am pairing with the right device?</li>\n<li>How will I be told about security updates, and how long will you provide them?</li>\n</ul>\n<p>More questions are on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page.</p>\n<h2>How the Directives apply</h2>\n<p><a href=\"https://humasure.org/directives/#d6\">Directive 6: Secure and supported</a> asks that connected products protect their controls and receive timely fixes. <a href=\"https://humasure.org/directives/#d1\">Directive 1: Always stoppable</a> is about people staying in control, which includes deciding who else can send commands. <a href=\"https://humasure.org/directives/#d5\">Directive 5: Private by default</a> covers the data that travels over the link. Our <a href=\"https://humasure.org/security/\">security page</a> explains more.</p>"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-27-ai-agents-found-and-used-flaw-in-medical-imaging-tool",
+  "type": "news",
+  "slug": "ai-agents-found-and-used-flaw-in-medical-imaging-tool",
+  "title": "AI agents found and used an unknown flaw in a medical imaging tool, Amazon says",
+  "excerpt": "Amazon says attackers' AI agents found an unknown flaw in open-source medical imaging software and used it to take over a university server. US agencies were told to patch.",
+  "category": "News",
+  "tags": [
+    "global",
+    "United States",
+    "Asia-Pacific",
+    "security",
+    "AI agents",
+    "vulnerability",
+    "incident"
+  ],
+  "directives": [
+    "D6",
+    "D2",
+    "D1",
+    "D9"
+  ],
+  "names_companies": true,
+  "incident": true,
+  "sources": [
+    {
+      "title": "The Register: China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
+    },
+    {
+      "title": "SecurityWeek: Amazon: China-Linked Hackers' AI Agents Exploited Medical Software Zero-Day",
+      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/"
+    },
+    {
+      "title": "TNW: US tells agencies to patch a flaw hackers' AI agents found on their own",
+      "url": "https://thenextweb.com/news/cairn-ai-agents-zero-day-monai-label-cisa-amazon"
+    },
+    {
+      "title": "Amazon Web Services Security Blog: Chinese-nexus actors' Cairn AI agents found a zero-day on their own",
+      "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/"
+    },
+    {
+      "title": "US Cybersecurity and Infrastructure Security Agency: Known Exploited Vulnerabilities Catalog",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    }
+  ],
+  "body_html": "<p>Amazon's threat intelligence team says attackers used a set of AI agents to find a previously unknown security flaw in open-source medical imaging software, and then used it to take control of a university server. Amazon published its findings on 20 November 2026. According to TNW, the US Cybersecurity and Infrastructure Security Agency (CISA), the federal government's cyber defence agency, then added the flaw to its list of vulnerabilities known to be exploited, with a 26 November deadline for federal agencies to fix it.</p>\n<p>This account is based on reporting by The Register, SecurityWeek and TNW, which all describe Amazon's report. We could not open Amazon's own post or the official advisory directly, so figures here are as those outlets report them.</p>\n<h2>What happened</h2>\n<p>The software is MONAI Label, an open-source tool that helps researchers label medical images for AI training. SecurityWeek reports that the flaw affects version 0.8.5 and earlier, that it lets an attacker write files to places they should not reach through the tool's upload function, and that the tool's login protection is switched off by default.</p>\n<p>Amazon says it found an exposed copy of Cairn, an open-source framework for running AI agents in security testing, on 10 September. Its records showed a campaign of about 48 hours, starting on 8 September, against universities in East Asia outside mainland China. Amazon says the agents went from mapping the software's interface to writing files on the server in about 11 minutes, then planted code that gave the attackers full control. SecurityWeek quotes Amazon: \"In about 11 minutes, the agents went from mapping the application's API to arbitrarily writing files on the server.\"</p>\n<p>The Register reports that the agents also tried, and failed, to break into other systems, including one attempt that ran for about 16 hours over 148 steps. Amazon says a human operator later supplied access to a second university, where the same software was running.</p>\n<p>Amazon attributes the activity, with moderate confidence, to an unidentified actor linked to China, citing prompts written in Simplified Chinese and timestamps in China Standard Time. It says it has high confidence the flaw was unknown before the attack, because no fix, advisory or public mention existed.</p>\n<h2>The response</h2>\n<p>Amazon says it notified the MONAI Label maintainers, and the project published a security advisory. Reports differ on whether the fix has shipped: SecurityWeek says a fix has been created and will be in the next release, while The Register and TNW say a fix was released. TNW reports that the affected universities were not Amazon customers and that Amazon worked with a government agency to alert them.</p>\n<h2>What is still unknown</h2>\n<ul>\n<li>The identity of the attackers beyond Amazon's \"China-linked\" assessment.</li>\n<li>Whether any data, including medical images, was taken. None of the reports say.</li>\n<li>Whether other copies of the software were attacked in the same way.</li>\n<li>The official vulnerability number. None of the reports we opened gave one.</li>\n</ul>\n<h2>Which Directives cover this risk</h2>\n<p>This case shows two sides of the same technology. On the defending side, it is a reminder of <a href=\"https://humasure.org/directives/#d6\">Directive 6: Secure and supported</a>: software that ships with protection switched off, or without quick fixes, leaves people exposed, and AI agents can now find such gaps faster. On the agent side, <a href=\"https://humasure.org/directives/#d2\">Directive 2: Bounded autonomy</a> and <a href=\"https://humasure.org/directives/#d1\">Directive 1: Always stoppable</a> ask that any agent, including testing tools, works only within clear limits and can be stopped by a person. The attackers here left their own agent framework exposed, which is how Amazon saw what happened. <a href=\"https://humasure.org/directives/#d9\">Directive 9: Accountable</a> asks that someone answers for a product, including how it handles security reports.</p>\n<h2>Questions you can ask any maker</h2>\n<ul>\n<li>Is login and access protection switched on by default, or do I have to turn it on?</li>\n<li>How do you receive security reports, and how quickly do you ship fixes?</li>\n<li>If your product uses AI agents, what can they reach, and how do I stop them?</li>\n<li>Will you tell me if a flaw in your product is being used in attacks?</li>\n</ul>\n<p>More questions are on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page, and our <a href=\"https://humasure.org/security/\">security page</a> explains why security is part of staying in charge. Incidents like this are a reason for clear, independent security standards, not a reason to fear the technology itself.</p>"
+}

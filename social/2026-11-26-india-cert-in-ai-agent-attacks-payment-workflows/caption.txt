@@ -1,0 +1,10 @@
+India warns AI agent attack tools are being used against payment systems beyond banks
+
+India's national cyber agency said on 20 November 2026 that attackers are using AI agent frameworks across sectors and altering payment records through trusted systems. It set out nine defensive steps.
+
+Why it matters: D6 Secure and supported, D2 Bounded autonomy, D9 Accountable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: CERT-In; Telangana Today (IANS); MediaNama.
+
+#HumanInCharge #AISafety #RobotSafety #India

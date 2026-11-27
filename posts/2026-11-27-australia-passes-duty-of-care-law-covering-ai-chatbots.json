@@ -1,0 +1,51 @@
+{
+  "id": "2026-11-27-australia-passes-duty-of-care-law-covering-ai-chatbots",
+  "type": "news",
+  "slug": "australia-passes-duty-of-care-law-covering-ai-chatbots",
+  "title": "Australia passes online duty of care law that covers AI chatbots",
+  "excerpt": "Australia's Parliament passed the Digital Duty of Care bill on 25 November 2026. Platforms and AI chatbots must assess and reduce foreseeable harms, with fines of up to 5% of global turnover.",
+  "category": "Regulation",
+  "tags": [
+    "Australia",
+    "Asia-Pacific",
+    "AI chatbots",
+    "AI companions",
+    "children",
+    "online safety",
+    "duty of care"
+  ],
+  "directives": [
+    "D7",
+    "D9",
+    "D5"
+  ],
+  "names_companies": true,
+  "incident": false,
+  "sources": [
+    {
+      "title": "Minister for Communications: Digital Duty of Care next step in Australia's world-leading reforms",
+      "url": "https://minister.infrastructure.gov.au/wells/media-release/digital-duty-care-next-step-australias-world-leading-reforms"
+    },
+    {
+      "title": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts: Digital Duty of Care",
+      "url": "https://www.infrastructure.gov.au/media-communications/internet/online-safety/digital-duty-care"
+    },
+    {
+      "title": "CyberShack: Digital Duty of Care passes, giving Australians the power to sue social media brands",
+      "url": "https://cybershack.com.au/consumer-advice/digital-duty-of-care-passes/"
+    },
+    {
+      "title": "CryptoNews Australia: Australia passes digital safety law with fines of up to 5% of global revenue",
+      "url": "https://cryptonews.com.au/news/australia-passes-digital-safety-law-with-fines-of-up-to-5-of-global-revenue-135644/"
+    },
+    {
+      "title": "MadRobot: Australia passes law forcing tech firms to protect children from AI chatbots that get them emotionally hooked",
+      "url": "https://madrobot.blog/2026/11/27/australia-digital-duty-of-care-ai-chatbots-children/"
+    },
+    {
+      "title": "Newzino: Australia passes digital duty of care, making platforms liable for foreseeable harm",
+      "url": "https://newzino.com/story/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-cont-ed094c"
+    }
+  ],
+  "body_html": "<p>Australia's federal Parliament has passed a law that puts a legal duty of care on online services, including AI chatbots. The Senate passed the Online Safety Amendment (Digital Duty of Care) Bill 2026 with amendments on 25 November 2026, and the House of Representatives agreed to those amendments the same afternoon, according to <a href=\"https://cryptonews.com.au/news/australia-passes-digital-safety-law-with-fines-of-up-to-5-of-global-revenue-135644/\">CryptoNews Australia</a> and <a href=\"https://newzino.com/story/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-cont-ed094c\">Newzino</a>. The law still needs Royal Assent, the formal final step, which had not been reported by 27 November.</p>\n<p>The bill amends Australia's Online Safety Act 2021. It was introduced in October. Humasure News reported on a Senate committee review of it on 21 November.</p>\n<h2>What the law asks of online services</h2>\n<p>When the bill was introduced, the government said it would make tech companies take steps to \"proactively reduce harms before they occur\" and set minimum safety standards for games, apps and AI chatbots (<a href=\"https://minister.infrastructure.gov.au/wells/media-release/digital-duty-care-next-step-australias-world-leading-reforms\">Minister for Communications</a>). The <a href=\"https://www.infrastructure.gov.au/media-communications/internet/online-safety/digital-duty-care\">communications department</a> describes the core duty as taking reasonable steps to keep Australian users safe.</p>\n<p>Reports on the final version say covered services include social media, messaging, games, search, app stores and services that generate material using AI. Providers must assess risks, at least once a year according to <a href=\"https://cybershack.com.au/consumer-advice/digital-duty-of-care-passes/\">CyberShack</a>, including risks from addictive design, and then act to reduce them.</p>\n<h2>AI chatbots and children</h2>\n<p>An amendment added in the House in October lists a specific harm for children: material or conduct that simulates emotional intimacy and fosters a child's dependence in place of human relationships, as reported by <a href=\"https://madrobot.blog/2026/11/27/australia-digital-duty-of-care-ai-chatbots-children/\">MadRobot</a>. The law does not ban AI companion apps. Instead, providers must assess this risk and take effective measures against it. MadRobot reports that the cost of those measures may not be used as a reason to skip them.</p>\n<p>Other parts of the package, as announced by the government, include faster action on abuse: platforms must answer cyberbullying and abuse complaints within 24 hours rather than 48, and the eSafety Commissioner, Australia's online safety regulator, can have \"nudify\" apps and websites removed. Users aged 16 and over will be able to choose whether to see algorithm-driven feeds.</p>\n<h2>Penalties, lawsuits and timing</h2>\n<ul>\n<li><strong>Fines:</strong> up to A$109.2 million or 5% of global turnover, whichever is higher. The higher turnover-based figure came from a deal with the Australian Greens during the Senate debate, according to CyberShack and CryptoNews.</li>\n<li><strong>Right to sue:</strong> people who suffer loss or damage because a provider breaches the duty will be able to take the provider to court. Reports also mention an external dispute or ombudsman scheme for complaints.</li>\n<li><strong>Start dates:</strong> the duty of care and the new fines start 12 months after Royal Assent, so likely in late 2027. Some other parts start the day after assent.</li>\n</ul>\n<h2>What is not yet known</h2>\n<p>The final text as passed has not yet been published in consolidated form, and the official Parliament page could not be opened for this story, so details above come from the government's own announcements and from news reports of the final vote. Guidance on what counts as \"effective measures\" for AI chatbots, and how the eSafety Commissioner will check risk assessments, is still to come.</p>\n<h2>Why it matters for people staying in charge</h2>\n<p>A chatbot that encourages a child to depend on it emotionally is a clear case of what Humasure calls <a href=\"https://humasure.org/directives/#d7\">Directive 7: No manipulation</a>. The duty to assess risks and the right to sue both speak to <a href=\"https://humasure.org/directives/#d9\">Directive 9: Accountable</a>: someone has to answer when a product causes foreseeable harm. Choice over algorithmic feeds touches on <a href=\"https://humasure.org/directives/#d5\">Directive 5: Private by default</a>, since many feeds are built on personal data.</p>\n<p>For families, the practical point is that, once the duty starts, a maker of an AI chatbot used in Australia will need to show it has thought about how its product affects children. Until then, parents can ask any maker the questions on our <a href=\"https://humasure.org/questions-to-ask/\">questions to ask</a> page.</p>"
+}

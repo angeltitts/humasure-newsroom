@@ -1,0 +1,10 @@
+Australian researchers find Bluetooth trailer brakes could be applied by anyone nearby
+
+Researchers in Tasmania found that some Bluetooth trailer brake controllers accepted brake commands without pairing. The maker has released fixes for two models; one older model is still waiting.
+
+Why it matters: D6 Secure and supported, D3 Physical safety, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: iTnews; Cybernews; The420.in.
+
+#HumanInCharge #AISafety #RobotSafety #Australia

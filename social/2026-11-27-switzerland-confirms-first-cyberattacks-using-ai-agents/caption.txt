@@ -1,0 +1,10 @@
+Switzerland confirms first cyberattacks using AI agents, including on infrastructure
+
+Switzerland's cyber security office says AI agents were used in five confirmed attacks, three on critical infrastructure operators. No major outages were reported. Italy issued a similar alert.
+
+Why it matters: D6 Secure and supported, D2 Bounded autonomy, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: SRF; SWI swissinfo.ch (Keystone-SDA); watson.
+
+#HumanInCharge #AISafety #RobotSafety

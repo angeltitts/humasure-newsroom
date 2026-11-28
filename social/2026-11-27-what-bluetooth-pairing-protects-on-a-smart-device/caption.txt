@@ -1,0 +1,10 @@
+What Bluetooth pairing protects on a smart device or robot, and what it doesn't
+
+Many robots, wearables and smart devices take commands over Bluetooth. Here is what pairing does, why some kinds give weaker protection, and simple steps to stay in control.
+
+Why it matters: D6 Secure and supported, D1 Always stoppable, D5 Private by default.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: US National Institute of Standards and Technology.
+
+#HumanInCharge #AISafety #RobotSafety

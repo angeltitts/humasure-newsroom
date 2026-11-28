@@ -1,0 +1,10 @@
+AI agents found and used an unknown flaw in a medical imaging tool, Amazon says
+
+Amazon says attackers' AI agents found an unknown flaw in open-source medical imaging software and used it to take over a university server. US agencies were told to patch.
+
+Why it matters: D6 Secure and supported, D2 Bounded autonomy, D1 Always stoppable.
+
+Full story and sources at humasure.org/news (link in bio).
+Sources: The Register; SecurityWeek; TNW.
+
+#HumanInCharge #AISafety #RobotSafety
